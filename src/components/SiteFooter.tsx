@@ -1,6 +1,6 @@
 export function SiteFooter() {
   return (
-    <footer className="mt-auto border-t border-amber-900/10 bg-[var(--surface-muted)] px-4 py-8 text-sm text-stone-600">
+    <footer className="mt-auto border-t border-[var(--border-subtle)] bg-[var(--surface-muted)]/50 px-4 py-8 text-sm text-stone-600">
       <div className="mx-auto max-w-6xl space-y-3">
         <p className="font-medium text-stone-800">免責・データについて</p>
         <p>

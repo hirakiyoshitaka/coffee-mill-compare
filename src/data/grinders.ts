@@ -14,6 +14,9 @@ export type GrinderModel = {
   brandSlug: string;
   name: string;
   shortLabel: string;
+  /** イメージ用（実機と一致しない場合があります） */
+  imageUrl: string;
+  imageAlt: string;
   type: GrinderType;
   burrMaterial: string;
   burrDiameterMm?: number;
@@ -40,6 +43,9 @@ export const grinderModels: Record<string, GrinderModel> = {
     brandSlug: "comandante",
     name: "Comandante C40 MK4",
     shortLabel: "C40 MK4",
+    imageUrl:
+      "https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd?auto=format&fit=crop&w=800&q=80",
+    imageAlt: "手挽きコーヒーミルと抽出器具のイメージ（Comandante C40 の雰囲気）",
     type: "manual",
     burrMaterial: "窒化鋼（Nitro Blade）",
     burrDiameterMm: 39,
@@ -61,6 +67,9 @@ export const grinderModels: Record<string, GrinderModel> = {
     brandSlug: "timemore",
     name: "Timemore Chestnut X",
     shortLabel: "Chestnut X",
+    imageUrl:
+      "https://images.unsplash.com/photo-1447933601403-0c6688de566e?auto=format&fit=crop&w=800&q=80",
+    imageAlt: "コーヒー豆とミルのイメージ（Timemore Chestnut X の雰囲気）",
     type: "manual",
     burrMaterial: "S2C 880 ステンレス（特許形状）",
     burrDiameterMm: undefined,
@@ -81,6 +90,9 @@ export const grinderModels: Record<string, GrinderModel> = {
     brandSlug: "1zpresso",
     name: "1Zpresso K-Ultra",
     shortLabel: "K-Ultra",
+    imageUrl:
+      "https://images.unsplash.com/photo-1559827260-dc66d52bef19?auto=format&fit=crop&w=800&q=80",
+    imageAlt: "手挽きコーヒーミルと豆のイメージ（1Zpresso K-Ultra の雰囲気）",
     type: "manual",
     burrMaterial: "ステンレス コニカル",
     burrDiameterMm: 48,
@@ -102,6 +114,9 @@ export const grinderModels: Record<string, GrinderModel> = {
     brandSlug: "epeios",
     name: "EPEIOS Essence Go",
     shortLabel: "Essence Go",
+    imageUrl:
+      "https://images.unsplash.com/photo-1509042239860-f550ce710b93?auto=format&fit=crop&w=800&q=80",
+    imageAlt: "コーヒー抽出シーンのイメージ（EPEIOS Essence Go の雰囲気）",
     type: "manual",
     burrMaterial: "ステンレス コニカル（10枚刃・38mm）",
     burrDiameterMm: 38,
@@ -115,6 +130,29 @@ export const grinderModels: Record<string, GrinderModel> = {
     caveats: [
       "ロングセラーブランドとの比較検証は個人の抽出環境に依存",
       "スペア・サポート体制は購入前に公式情報で要確認",
+    ],
+  },
+  "kinu-m47-classic": {
+    id: "kinu-m47-classic",
+    brandSlug: "kinu",
+    name: "Kinu M47 Classic",
+    shortLabel: "M47 Classic",
+    imageUrl:
+      "https://images.unsplash.com/photo-1461023058943-07fcbe16d735?auto=format&fit=crop&w=800&q=80",
+    imageAlt: "コーヒー豆と抽出のイメージ（Kinu M47 の雰囲気）",
+    type: "manual",
+    burrMaterial: "硬化鋼 コニカル（ブラックコーティング）",
+    burrDiameterMm: 47,
+    adjustment: "マイクロメトリック ステンレスダイヤル（無段階）",
+    weightGrams: 715,
+    priceJpyHint: "約55,000〜75,000円台（輸入ルート・在庫により変動）",
+    cuppingNotes: [
+      "47mm コニカルと無段階調整の操作感が高評価になりやすい",
+      "挽き心地の滑らかさを挙げるレビューが多い",
+    ],
+    caveats: [
+      "重量・サイズは携帯より据え置き寄り",
+      "価格帯はフラッグシップ級で予算との相談になりやすい",
     ],
   },
 };
@@ -148,6 +186,38 @@ export const brands: Brand[] = [
         theme: "エスプレッソ",
         summary:
           "可能だが専用ミルと比べると時間と腕前が要る、という声と、十分楽しめるという声が併存します。",
+        tendency: "watch",
+      },
+    ],
+  },
+  {
+    slug: "kinu",
+    nameJa: "キヌ",
+    nameEn: "Kinu",
+    country: "ドイツ",
+    blurb:
+      "ベルリン発のハンドミル。M47 シリーズは大径コニカルと無段階微調整で知られ、コマンダンテと並ぶ高級手挽きとしてレビューやフォーラムで頻繁に比較されます。",
+    flagshipIds: ["kinu-m47-classic"],
+    communityReviews: [
+      {
+        id: "kn-1",
+        theme: "挽き心地・トルク",
+        summary:
+          "浅煎りではやや重め、深煎りでは滑らか、といった豆依存のコメントと、一貫して滑らかだという評価が混在します。",
+        tendency: "mixed",
+      },
+      {
+        id: "kn-2",
+        theme: "無段階調整の再現性",
+        summary:
+          "ダイヤルで微調整できる点は好評一方、日々の記録やマーキングがないと再現に迷うという実用面の指摘も見られます。",
+        tendency: "mixed",
+      },
+      {
+        id: "kn-3",
+        theme: "携帯性と価格",
+        summary:
+          "据え置きメインのユーザーには納得感が高い一方、旅行用の第一候補としては重量・価格が壁になる声もあります。",
         tendency: "watch",
       },
     ],

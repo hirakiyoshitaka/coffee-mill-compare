@@ -16,7 +16,7 @@ export const metadata: Metadata = {
     template: "%s | コーヒーミル比較",
   },
   description:
-    "Comandante・Timemore・1Zpresso・EPEIOS の代表的フラッグシップをスペックとコミュニティの声の観点から比較します。",
+    "Comandante・Kinu・Timemore・1Zpresso・EPEIOS の代表的フラッグシップをスペックとコミュニティの声の観点から比較します。",
 };
 
 export default function RootLayout({
