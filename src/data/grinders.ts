@@ -217,11 +217,11 @@ export const brands: Brand[] = [
   },
   {
     slug: "epeios",
-    nameJa: "EPEIOS（エペイオス／エネペイオス などの表記）",
+    nameJa: "EPEIOS",
     nameEn: "EPEIOS",
     country: "日本（ブランド運営）",
     blurb:
-      "調理・生活家電ブランドとして知られる EPEIOS。コーヒーでは Essence シリーズ（電動・手挽き・2WAY）を展開し、監修・デザインを強みに訴求しています。",
+      "調理・生活家電ブランドとして知られる EPEIOS（エペイオス／エネペイオス などの聞き取り表記）。コーヒーでは Essence シリーズ（電動・手挽き・2WAY）を展開し、監修・デザインを強みに訴求しています。",
     flagshipIds: ["epeios-essence-go"],
     communityReviews: [
       {
