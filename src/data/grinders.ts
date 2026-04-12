@@ -217,7 +217,7 @@ export const brands: Brand[] = [
   },
   {
     slug: "epeios",
-    nameJa: "エペイオス",
+    nameJa: "EPEIOS（エペイオス／エネペイオス などの表記）",
     nameEn: "EPEIOS",
     country: "日本（ブランド運営）",
     blurb:

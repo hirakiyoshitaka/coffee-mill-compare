@@ -12,7 +12,7 @@ export default function Home() {
           世界で名前の挙がりやすいコーヒーミルを、一台ずつ丁寧に比較
         </h1>
         <p className="text-lg leading-relaxed text-stone-600">
-          コマンダンテ・タイムモア・1Zpresso・EPEIOS（エペイオス）のフラッグシップ級モデルをスペック表で横並びし、各ブランドページではコミュニティで繰り返し語られる論点を整理しました。
+          コマンダンテ・タイムモア・1Zpresso・EPEIOS（エペイオス／エネペイオス 等の表記）のフラッグシップ級モデルをスペック表で横並びし、各ブランドページではコミュニティで繰り返し語られる論点を整理しました。
         </p>
         <div className="mt-8 flex flex-wrap gap-3">
           <Link
