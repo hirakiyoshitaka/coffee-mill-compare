@@ -96,17 +96,18 @@ export const grinderModels: Record<string, GrinderModel> = {
       "外観はやや工業的と感じるユーザーも",
     ],
   },
+  /** EPEIOS: 比較対象は Essence Go のみ固定。価格・スペックは静的（公式 URL の定期同期なし・要更新時は手動で編集）。 */
   "epeios-essence-go": {
     id: "epeios-essence-go",
     brandSlug: "epeios",
     name: "EPEIOS Essence Go",
     shortLabel: "Essence Go",
     type: "manual",
-    burrMaterial: "コニカル（10枚刃・38mm）",
+    burrMaterial: "ステンレス コニカル（10枚刃・38mm）",
     burrDiameterMm: 38,
-    adjustment: "0〜80 段階",
-    weightGrams: undefined,
-    priceJpyHint: "公式・小売の表示価格帯を参照（発売時は約2万円台の案内あり）",
+    adjustment: "0〜80 段階（公式表記に合わせたサイト内固定値）",
+    weightGrams: 870,
+    priceJpyHint: "¥23,100（税込・公式掲載を基準としたサイト内固定値／改定は手動更新）",
     cuppingNotes: [
       "バリスタ監修を前面に出した手挽きとして注目を集めたモデル",
       "携帯性とケース付属などライフスタイル訴求",
@@ -221,7 +222,7 @@ export const brands: Brand[] = [
     nameEn: "EPEIOS",
     country: "日本（ブランド運営）",
     blurb:
-      "調理・生活家電ブランドとして知られる EPEIOS（エペイオス／エネペイオス などの聞き取り表記）。コーヒーでは Essence シリーズ（電動・手挽き・2WAY）を展開し、監修・デザインを強みに訴求しています。",
+      "調理・生活家電ブランドとして知られる EPEIOS（エペイオス／エネペイオス などの聞き取り表記）。Essence シリーズは電動・手挽きなど複数 SKU がありますが、本サイトのスペック比較では手挽きの **Essence Go** のみを固定で掲載します（価格・数値は静的データ）。",
     flagshipIds: ["epeios-essence-go"],
     communityReviews: [
       {
