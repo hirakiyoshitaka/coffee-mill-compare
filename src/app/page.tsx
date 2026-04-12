@@ -1,65 +1,74 @@
-import Image from "next/image";
+import Link from "next/link";
+import { brands, grinderModels } from "@/data/grinders";
 
 export default function Home() {
   return (
-    <div className="flex flex-col flex-1 items-center justify-center bg-zinc-50 font-sans dark:bg-black">
-      <main className="flex flex-1 w-full max-w-3xl flex-col items-center justify-between py-32 px-16 bg-white dark:bg-black sm:items-start">
-        <Image
-          className="dark:invert"
-          src="/next.svg"
-          alt="Next.js logo"
-          width={100}
-          height={20}
-          priority
-        />
-        <div className="flex flex-col items-center gap-6 text-center sm:items-start sm:text-left">
-          <h1 className="max-w-xs text-3xl font-semibold leading-10 tracking-tight text-black dark:text-zinc-50">
-            To get started, edit the page.tsx file.
-          </h1>
-          <p className="max-w-md text-lg leading-8 text-zinc-600 dark:text-zinc-400">
-            Looking for a starting point or more instructions? Head over to{" "}
-            <a
-              href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              className="font-medium text-zinc-950 dark:text-zinc-50"
-            >
-              Templates
-            </a>{" "}
-            or the{" "}
-            <a
-              href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              className="font-medium text-zinc-950 dark:text-zinc-50"
-            >
-              Learning
-            </a>{" "}
-            center.
-          </p>
-        </div>
-        <div className="flex flex-col gap-4 text-base font-medium sm:flex-row">
-          <a
-            className="flex h-12 w-full items-center justify-center gap-2 rounded-full bg-foreground px-5 text-background transition-colors hover:bg-[#383838] dark:hover:bg-[#ccc] md:w-[158px]"
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
+    <main className="mx-auto max-w-6xl px-4 py-12 sm:py-16">
+      <section className="mb-14 max-w-3xl">
+        <p className="mb-2 text-sm font-medium uppercase tracking-widest text-amber-800">
+          Flagship manual grinders
+        </p>
+        <h1 className="mb-4 text-3xl font-bold tracking-tight text-stone-900 sm:text-4xl">
+          世界で名前の挙がりやすいコーヒーミルを、一台ずつ丁寧に比較
+        </h1>
+        <p className="text-lg leading-relaxed text-stone-600">
+          コマンダンテ・タイムモア・1Zpresso・EPEIOS（エペイオス）のフラッグシップ級モデルをスペック表で横並びし、各ブランドページではコミュニティで繰り返し語られる論点を整理しました。
+        </p>
+        <div className="mt-8 flex flex-wrap gap-3">
+          <Link
+            href="/compare"
+            className="inline-flex items-center justify-center rounded-full bg-amber-900 px-5 py-2.5 text-sm font-semibold text-amber-50 shadow-sm transition hover:bg-amber-800"
           >
-            <Image
-              className="dark:invert"
-              src="/vercel.svg"
-              alt="Vercel logomark"
-              width={16}
-              height={16}
-            />
-            Deploy Now
-          </a>
+            スペック比較表を見る
+          </Link>
           <a
-            className="flex h-12 w-full items-center justify-center rounded-full border border-solid border-black/[.08] px-5 transition-colors hover:border-transparent hover:bg-black/[.04] dark:border-white/[.145] dark:hover:bg-[#1a1a1a] md:w-[158px]"
-            href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
+            href="#brands"
+            className="inline-flex items-center justify-center rounded-full border border-stone-300 bg-white px-5 py-2.5 text-sm font-semibold text-stone-800 hover:border-amber-400"
           >
-            Documentation
+            ブランド一覧
           </a>
         </div>
-      </main>
-    </div>
+      </section>
+
+      <section id="brands" className="scroll-mt-24">
+        <h2 className="mb-6 text-xl font-bold text-stone-900">比較対象ブランド</h2>
+        <div className="grid gap-6 sm:grid-cols-2">
+          {brands.map((brand) => {
+            const flagship = brand.flagshipIds.map((id) => grinderModels[id]).filter(Boolean);
+            return (
+              <Link
+                key={brand.slug}
+                href={`/brands/${brand.slug}`}
+                className="group flex flex-col rounded-2xl border border-stone-200/90 bg-[var(--surface)] p-6 shadow-sm shadow-amber-950/5 transition hover:border-amber-300 hover:shadow-md"
+              >
+                <div className="mb-3 flex items-baseline justify-between gap-2">
+                  <div>
+                    <p className="text-xs text-stone-500">{brand.country}</p>
+                    <p className="text-lg font-semibold text-stone-900 group-hover:text-amber-950">
+                      {brand.nameJa}
+                    </p>
+                    <p className="text-sm text-stone-500">{brand.nameEn}</p>
+                  </div>
+                  <span className="rounded-full bg-amber-100 px-2.5 py-1 text-xs font-medium text-amber-950">
+                    詳細へ
+                  </span>
+                </div>
+                <p className="mb-4 flex-1 text-sm leading-relaxed text-stone-600">{brand.blurb}</p>
+                <div className="border-t border-stone-200/80 pt-4">
+                  <p className="text-xs font-medium uppercase tracking-wide text-stone-500">
+                    本サイトでの主なモデル
+                  </p>
+                  <ul className="mt-1 text-sm font-medium text-stone-800">
+                    {flagship.map((m) => (
+                      <li key={m.id}>{m.name}</li>
+                    ))}
+                  </ul>
+                </div>
+              </Link>
+            );
+          })}
+        </div>
+      </section>
+    </main>
   );
 }
