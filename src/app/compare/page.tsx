@@ -1,14 +1,16 @@
 import Image from "next/image";
-import type { Metadata } from "next";
 import type { ReactNode } from "react";
 import Link from "next/link";
-import { brands, comparisonRows, grinderModels, type GrinderModel } from "@/data/grinders";
+import { Breadcrumb } from "@/components/Breadcrumb";
+import { BuyButtons } from "@/components/BuyButtons";
+import { brands, comparisonRows, getFlagshipModels, type GrinderModel } from "@/data/grinders";
+import { pageMeta } from "@/lib/seo";
 
-export const metadata: Metadata = {
-  title: "スペック比較",
-  description:
-    "主要5機種を写真付きで横並びにし、スペック・価格・口コミの傾向をマークダウン風に整理してまとめます。",
-};
+export const metadata = pageMeta({
+  title: "手挽きミルのスペック比較",
+  description: "掲載中の手挽きミルを写真付きで横並びにし、仕様・価格の目安・口コミの傾向を整理します。",
+  path: "/compare",
+});
 
 function MdSection({ title, children }: { title: string; children: ReactNode }) {
   return (
@@ -29,21 +31,22 @@ function brandLine(m: GrinderModel) {
 }
 
 export default function ComparePage() {
-  const models = brands.flatMap((b) =>
-    b.flagshipIds.map((id) => grinderModels[id]).filter(Boolean),
-  ) as GrinderModel[];
+  const models = getFlagshipModels();
 
   return (
     <main className="mx-auto max-w-6xl px-4 py-10 sm:py-14 lg:max-w-[90rem]">
+      <Breadcrumb
+        items={[
+          { href: "/", label: "ホーム" },
+          { href: "/categories/mill", label: "ミル" },
+          { label: "スペック比較" },
+        ]}
+      />
       <header className="mb-10 max-w-2xl">
-        <p className="mb-2 text-[10px] font-medium uppercase tracking-[0.2em] text-[var(--accent-soft)]">
-          Compare
-        </p>
-        <h1 className="text-3xl font-medium tracking-tight text-stone-900 sm:text-[2rem]">
-          5機種スペック比較
-        </h1>
+        <p className="mb-2 text-sm font-medium text-[var(--accent-soft)]">コーヒーミル（手挽き）</p>
+        <h1 className="font-serif text-3xl tracking-tight text-stone-900 sm:text-[2rem]">{models.length}機種スペック比較</h1>
         <p className="mt-3 text-[15px] leading-relaxed text-stone-600">
-          写真はイメージです。数値・価格は参考情報のため、購入前に各公式の最新表記をご確認ください。
+          写真はイメージです。数値と価格は目安です。購入前に、販売ページの最新表示を確認してください。購入リンクを置いた場合は広告です。
         </p>
       </header>
 
@@ -84,6 +87,7 @@ export default function ComparePage() {
                   >
                     ブランド詳細
                   </Link>
+                  <BuyButtons model={m} />
                 </div>
               </div>
             </article>
@@ -113,8 +117,8 @@ export default function ComparePage() {
 
         <MdSection title="駆動方式">
           <p>
-            本比較の5機種はいずれも<strong>手動（ハンドル駆動）</strong>
-            です。電動ミルとの比較は別軸のため、本ページでは扱いません。
+            本比較の{models.length}機種はいずれも<strong>手挽き（ハンドル駆動）</strong>
+            です。電動ミルの機種データはまだないため、本ページでは扱いません。
           </p>
         </MdSection>
 

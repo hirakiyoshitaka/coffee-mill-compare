@@ -1,22 +1,54 @@
 import type { Metadata } from "next";
-import { Noto_Sans_JP } from "next/font/google";
+import { Noto_Sans_JP, Noto_Serif_JP } from "next/font/google";
 import "./globals.css";
 import { SiteFooter } from "@/components/SiteFooter";
 import { SiteHeader } from "@/components/SiteHeader";
+import { getSiteUrl, siteConfig } from "@/data/site";
 
 const notoSansJp = Noto_Sans_JP({
-  variable: "--font-noto-sans-jp",
+  variable: "--font-sans-jp",
   subsets: ["latin"],
-  weight: ["400", "500", "600", "700"],
+  weight: ["400", "500", "700"],
+  display: "swap",
 });
 
+const notoSerifJp = Noto_Serif_JP({
+  variable: "--font-serif-jp",
+  subsets: ["latin"],
+  weight: ["500", "600", "700"],
+  display: "swap",
+});
+
+const homeTitle = "おうちカフェ道具帳｜家のコーヒー道具を用途で比べる";
+
 export const metadata: Metadata = {
+  metadataBase: new URL(getSiteUrl()),
   title: {
-    default: "コーヒーミル比較 | フラッグシップ手挽きを横並びで",
-    template: "%s | コーヒーミル比較",
+    default: homeTitle,
+    template: `%s｜${siteConfig.name}`,
   },
-  description:
-    "Comandante・Kinu・Timemore・1Zpresso・EPEIOS の代表的フラッグシップをスペックとコミュニティの声の観点から比較します。",
+  description: siteConfig.description,
+  applicationName: siteConfig.name,
+  openGraph: {
+    type: "website",
+    locale: siteConfig.locale,
+    siteName: siteConfig.name,
+    title: homeTitle,
+    description: siteConfig.description,
+    url: "/",
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: homeTitle,
+    description: siteConfig.description,
+  },
+  alternates: {
+    canonical: "/",
+  },
+  robots: {
+    index: true,
+    follow: true,
+  },
 };
 
 export default function RootLayout({
@@ -25,10 +57,18 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="ja" className={`${notoSansJp.variable} h-full antialiased`}>
-      <body className="min-h-full flex flex-col font-sans">
+    <html lang="ja" className={`${notoSansJp.variable} ${notoSerifJp.variable} h-full antialiased`}>
+      <body className="flex min-h-full flex-col font-sans">
+        <a
+          href="#main"
+          className="sr-only focus:not-sr-only focus:absolute focus:left-4 focus:top-4 focus:z-50 focus:rounded-full focus:bg-white focus:px-4 focus:py-2"
+        >
+          本文へスキップ
+        </a>
         <SiteHeader />
-        <div className="flex-1">{children}</div>
+        <div id="main" className="flex-1">
+          {children}
+        </div>
         <SiteFooter />
       </body>
     </html>

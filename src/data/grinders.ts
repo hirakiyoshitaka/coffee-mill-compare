@@ -22,7 +22,17 @@ export type GrinderModel = {
   burrDiameterMm?: number;
   adjustment: string;
   weightGrams?: number;
+  /** 価格の目安。店・為替・改定で変わることがある */
   priceJpyHint: string;
+  /**
+   * アフィリエイト用の購入リンク。すべて任意。
+   * 空文字または未設定のものはボタンを出さない。
+   * URL 系は https のアドレス、moshimoHtml はもしもアフィリエイト等の HTML。
+   */
+  rakutenUrl?: string;
+  amazonUrl?: string;
+  yahooUrl?: string;
+  moshimoHtml?: string;
   cuppingNotes: string[];
   caveats: string[];
 };
@@ -52,6 +62,10 @@ export const grinderModels: Record<string, GrinderModel> = {
     adjustment: "ダイヤル式ステップ（クリック）",
     weightGrams: 600,
     priceJpyHint: "約45,000〜55,000円台（リテーラー・為替により変動）",
+    rakutenUrl: "",
+    amazonUrl: "",
+    yahooUrl: "",
+    moshimoHtml: "",
     cuppingNotes: [
       "粒子の均一さと甘みの出方で定評",
       "ハンドドリップ〜カップ向けのバランス型",
@@ -76,6 +90,10 @@ export const grinderModels: Record<string, GrinderModel> = {
     adjustment: "24段階＋微調整リング",
     weightGrams: 765,
     priceJpyHint: "約35,000〜45,000円台（セール・店舗により変動）",
+    rakutenUrl: "",
+    amazonUrl: "",
+    yahooUrl: "",
+    moshimoHtml: "",
     cuppingNotes: [
       "切れ味とスルー速度のバランス",
       "デザイン性とコストパフォーマンスの両立を狙う層に人気",
@@ -99,6 +117,10 @@ export const grinderModels: Record<string, GrinderModel> = {
     adjustment: "外ダイヤル式 100 クリック/回（8.8µm/click 目安）",
     weightGrams: 700,
     priceJpyHint: "約28,000〜38,000円台（直販・代理店により変動）",
+    rakutenUrl: "",
+    amazonUrl: "",
+    yahooUrl: "",
+    moshimoHtml: "",
     cuppingNotes: [
       "大径バーと外調整の使い勝手が支持されることが多い",
       "エスプレッソ寄りの細挽きにも挑戦しやすい設計",
@@ -123,6 +145,10 @@ export const grinderModels: Record<string, GrinderModel> = {
     adjustment: "0〜80 段階（公式表記に合わせたサイト内固定値）",
     weightGrams: 870,
     priceJpyHint: "¥23,100（税込・公式掲載を基準としたサイト内固定値／改定は手動更新）",
+    rakutenUrl: "",
+    amazonUrl: "",
+    yahooUrl: "",
+    moshimoHtml: "",
     cuppingNotes: [
       "バリスタ監修を前面に出した手挽きとして注目を集めたモデル",
       "携帯性とケース付属などライフスタイル訴求",
@@ -146,6 +172,10 @@ export const grinderModels: Record<string, GrinderModel> = {
     adjustment: "マイクロメトリック ステンレスダイヤル（無段階）",
     weightGrams: 715,
     priceJpyHint: "約55,000〜75,000円台（輸入ルート・在庫により変動）",
+    rakutenUrl: "",
+    amazonUrl: "",
+    yahooUrl: "",
+    moshimoHtml: "",
     cuppingNotes: [
       "47mm コニカルと無段階調整の操作感が高評価になりやすい",
       "挽き心地の滑らかさを挙げるレビューが多い",
@@ -328,8 +358,22 @@ export function getModel(id: string): GrinderModel | undefined {
   return grinderModels[id];
 }
 
+export function grinderTypeLabel(type: GrinderType): string {
+  if (type === "manual") return "手挽き";
+  if (type === "electric") return "電動";
+  return "ハイブリッド";
+}
+
+export function getFlagshipModels(): GrinderModel[] {
+  return brands.flatMap((brand) =>
+    brand.flagshipIds
+      .map((id) => grinderModels[id])
+      .filter((model): model is GrinderModel => Boolean(model)),
+  );
+}
+
 export const comparisonRows = [
-  { key: "type", label: "駆動", get: (m: GrinderModel) => (m.type === "manual" ? "手動" : m.type === "electric" ? "電動" : "ハイブリッド") },
+  { key: "type", label: "駆動", get: (m: GrinderModel) => grinderTypeLabel(m.type) },
   { key: "burr", label: "バー", get: (m: GrinderModel) => m.burrMaterial },
   { key: "dia", label: "バー径（参考）", get: (m: GrinderModel) => (m.burrDiameterMm ? `${m.burrDiameterMm} mm` : "公表値要確認") },
   { key: "adj", label: "粒度調整", get: (m: GrinderModel) => m.adjustment },
