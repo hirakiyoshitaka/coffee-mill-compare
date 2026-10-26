@@ -36,6 +36,9 @@ export function SiteFooter() {
           ))}
       </div>
       <p className="fine">
+        広告・アフィリエイトリンクを含みます。Amazonのアソシエイトとして、当サイトは適格販売により収入を得ています。
+      </p>
+      <p className="fine">
         スペックと価格は目安です。豆の店は、確認できた事実の紹介で、店主の言葉の引用ではありません。購入リンクを置いた場合は広告です。購入前に販売ページの表示を確認してください。
       </p>
       <p className="fine">連絡先 {siteConfig.contactEmail}</p>

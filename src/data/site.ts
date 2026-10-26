@@ -6,7 +6,7 @@ export const siteConfig = {
   operatorName: "おうちカフェ道具帳 編集部",
   contactEmail: "hiraki19680812@gmail.com",
   contactEmailIsPlaceholder: false,
-  legalUpdated: "2026-10-25",
+  legalUpdated: "2026-10-26",
 };
 
 export function getSiteUrl(): string {

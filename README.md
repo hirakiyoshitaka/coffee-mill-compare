@@ -59,7 +59,7 @@ moshimoHtml: "",
 
 ```ts
 rakutenUrl: "https://hb.afl.rakuten.co.jp/...",
-amazonUrl: "https://www.amazon.co.jp/...",
+amazonUrl: "https://www.amazon.co.jp/dp/ASIN?tag=stocknotelife-22",
 yahooUrl: "",
 moshimoHtml: "",
 ```
