@@ -36,7 +36,7 @@ export const beanShops: BeanShop[] = [
     name: "珈琲きゃろっと",
     area: "北海道・恵庭",
     officialUrl: "https://coffeecarrot.jp/",
-    a8Url: "https://px.a8.net/svt/ejp?a8mat=4BEQHR+383JQQ+2CG0+5YJRM",
+    a8Url: "https://px.a8.net/svt/ejp?a8mat=4BEQHR+383KII+2CG0+5YJRM",
     rakutenUrl: "",
     summary: "注文を受けてから、国際的な資格を持つロースターが焙煎する店です。",
     ownerExperience: [
