@@ -14,31 +14,13 @@
 
 価格はすべて**目安**です。購入リンクは、アドレスを入れた商品だけに出ます。空のままならボタンは出ません。
 
-## 公開する（Cloudflare Pages）
+## 公開する（Vercel）
 
-Cloudflare Pages は、できた HTML をインターネットに置く無料の置き場です。このサイトは、サーバーを常時動かす種類ではなく、**完成したファイル一式**を置きます。
+本番は Vercel です。アドレスは https://coffee-mill-compare.vercel.app です。GitHub の `main` へマージすると、自動でデプロイされます。設定の詳細は `DEPLOY.md` にあります。
 
-1. [Cloudflare](https://dash.cloudflare.com/) にアカウントを作り、ログインします。
-2. 左のメニューから **Workers & Pages**（表記が **Compute** のこともあります）を開きます。
-3. **Create** → **Pages** → **Connect to Git** を選びます。
-4. GitHub のアカウントを接続し、このサイトのリポジトリを選びます。
-5. ビルドの設定を、次のとおりにします。ここを間違えると公開に失敗します。
-   - フレームワーク：**None**（なし）。または **Next.js (Static HTML Export)** があればそれ。
-   - 「Next.js」とだけ書いてあり、静的書き出しと分からない選択肢は選ばないでください。サーバー用の設定になり、このサイトとは合いません。
-   - ビルドコマンド：`npm run build`
-   - ビルドの出力ディレクトリ：`out`
-   - 本番ブランチ：普段使うブランチ（多くは `main`）
-6. **Environment variables（環境変数）** を追加します。環境変数は、公開時だけ差し込む設定です。
-   - 名前：`NEXT_PUBLIC_SITE_URL`
-   - 値：公開されるアドレス。未設定のときは `https://coffee-mill-compare.vercel.app` を使います。別のアドレスにするときだけ、この変数を置きます。
-   - `https://` から書き、最後に `/` は付けません。
-   - 名前：`NODE_VERSION`
-   - 値：`22`
-7. 保存してデプロイ（公開作業）を開始します。数分待つと、`https://（プロジェクト名）.pages.dev` で見られます。
-8. 表示されたアドレスが、手順6で入れた値と違うときは、`NEXT_PUBLIC_SITE_URL` をそのアドレスに直して、もう一度デプロイします。この値はビルドのときにページへ焼き付くので、あとから画面だけ変えても反映されません。
-9. 自分のドメイン（`example.jp` のような住所）を使うときは、Pages の **Custom domains** から追加し、そのアドレスでもう一度 `NEXT_PUBLIC_SITE_URL` を更新して再デプロイします。
+このサイトは、サーバーを常時動かす種類ではなく、**完成したファイル一式**（`out/`）を置きます。ビルドコマンドは `npm run build`、出力ディレクトリは `out`、Node.js は 22 です。
 
-成功すると、`out` フォルダの中身がサイトになります。`.next` というフォルダは公開先ではありません。
+`NEXT_PUBLIC_SITE_URL` は任意です。未設定のときは `https://coffee-mill-compare.vercel.app` を使います。別のアドレスにするときだけ、この変数を `https://` から、末尾の `/` なしで入れます。この値はビルドのときにページへ焼き付くので、変えたあとはもう一度デプロイします。
 
 ## 購入リンクの入れ方
 
@@ -73,7 +55,7 @@ moshimoHtml: `
 ```
 
 6. 空の `""` のままの項目は、ボタンも HTML も出ません。入れたリンクには、自動で `rel="sponsored nofollow"` が付きます。
-7. 下の **Commit changes** を押します。Git と連携していれば、Cloudflare が自動でもう一度公開します。
+7. 下の **Commit changes** を押します。`main` へ入ると、Vercel が自動でもう一度公開します。
 
 楽天・Amazon・もしもの会員登録や、商品リンクの発行は各サービスの画面で行います。この README では、発行済みの URL や HTML をサイトへ貼るところまでを扱います。
 
@@ -146,7 +128,7 @@ npm run dev
 
 ## 仕組みのメモ（読まなくても公開できます）
 
-- Next.js の静的書き出し（`output: 'export'`）です。画像の最適化サーバーは使わず、`images.unoptimized` にしています。Cloudflare Pages は HTML を置くだけで動きます。
-- 各ページの URL は、末尾に `/` が付く形で書き出します（例：`/articles/coffee-mill-ranking/index.html`）。Pages はこの形を問題なく配信できます。
+- Next.js の静的書き出し（`output: 'export'`）です。画像の最適化サーバーは使わず、`images.unoptimized` にしています。Vercel はビルドでできた `out/` を公開します。
+- 各ページの URL は、末尾に `/` が付く形で書き出します（例：`/articles/coffee-mill-ranking/index.html`）。
 - 準備中のカテゴリは、人が開けるページとしては存在しますが、検索結果には出さない設定（noindex）です。中身ができてから検索対象にします。
 - サイトマップに載るのは、ホーム、道具一覧、ミル、豆の店と各店、比較、ブランド、記事、運営者情報、プライバシーポリシー、広告表記です。豆のカテゴリ枠（`/categories/beans/`）は、豆の店（`/beans/`）へ案内するページで、検索結果には出しません。

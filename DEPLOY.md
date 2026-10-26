@@ -1,20 +1,21 @@
-# Cloudflare Pages への公開
+# 公開
 
-※現在の本番は Vercel です（GitHub の main へマージすると自動でデプロイされます）。本番URLは https://coffee-mill-compare.vercel.app です。このドキュメントの Pages 手順は、移行する場合の予備として残しています。
+本番は Vercel です。アドレスは https://coffee-mill-compare.vercel.app です。GitHub の `main` へマージすると、自動でデプロイされます。
 
-このサイトは `output: 'export'` の静的サイトです。Pages には、ビルドでできた `out/` を置きます。
+このサイトは `output: 'export'` の静的サイトです。Vercel はビルドでできた `out/` を公開します。
 
 ## 設定
 
 | 項目 | 値 |
 | --- | --- |
-| フレームワーク | None。または Next.js (Static HTML Export)。サーバー用の Next.js は選ばない |
+| 本番 | Vercel。`main` へのマージで自動デプロイ |
+| 本番URL | `https://coffee-mill-compare.vercel.app` |
 | ビルドコマンド | `npm run build` |
 | 出力ディレクトリ | `out` |
-| Node.js | 22（環境変数 `NODE_VERSION` = `22`） |
+| Node.js | 22 |
 | ルート | リポジトリの直下 |
 
-環境変数 `NEXT_PUBLIC_SITE_URL` に、公開するアドレスを `https://` から、末尾の `/` なしで入れます。未設定のビルドは `https://coffee-mill-compare.vercel.app` をサイトのアドレスとして使います。別のドメインで公開するときは、この環境変数をそのアドレスにしてからビルドし直します。sitemap、robots、canonical はビルド時のアドレスで焼き付きます。
+環境変数 `NEXT_PUBLIC_SITE_URL` は任意です。未設定のビルドは `https://coffee-mill-compare.vercel.app` をサイトのアドレスとして使います。別のドメインで公開するときは、この環境変数を `https://` から、末尾の `/` なしで入れてからビルドし直します。sitemap、robots、canonical はビルド時のアドレスで焼き付きます。
 
 ## ビルドが置くもの
 
