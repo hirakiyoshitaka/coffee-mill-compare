@@ -10,21 +10,23 @@ type Props = {
   name: string;
   links: BuyLink[];
   html?: string;
+  note?: string;
 };
 
-export function grinderBuyProps(model: Pick<GrinderModel, "name" | "rakutenUrl" | "amazonUrl" | "yahooUrl" | "moshimoHtml">): Props {
+export function grinderBuyProps(model: Pick<GrinderModel, "name" | "rakutenUrl" | "amazonUrl" | "yahooUrl" | "moshimoHtml" | "purchaseNote">): Props {
   return {
     name: model.name,
     html: model.moshimoHtml,
+    note: model.purchaseNote,
     links: [
-      { href: model.rakutenUrl, label: "楽天市場で価格を見る" },
+      { href: model.rakutenUrl, label: "楽天で見る" },
       { href: model.amazonUrl, label: "Amazonで価格を見る" },
       { href: model.yahooUrl, label: "Yahoo!ショッピングで価格を見る" },
     ],
   };
 }
 
-export function BuyButtons({ name, links, html }: Props) {
+export function BuyButtons({ name, links, html, note }: Props) {
   const visible = links.flatMap((link) => {
     const href = link.href?.trim();
     if (!isHttpUrl(href)) return [];
@@ -36,6 +38,7 @@ export function BuyButtons({ name, links, html }: Props) {
   return (
     <div className="buy-stack">
       <p className="buy-note">購入リンク（広告）</p>
+      {note ? <p className="fine buy-choice">{note}</p> : null}
       {visible.map((link) => (
         <a key={link.label} className="buy-link" href={link.href} target="_blank" rel={affiliateRel}>
           {link.label}

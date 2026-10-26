@@ -31,6 +31,8 @@ export type GrinderModel = {
   priceJpyHint: string;
   /** カードに出す、運営者の一言。味の断定は書かない */
   highlight?: string;
+  /** 購入ボタンの直前に出す注意。リンク先の選び方など */
+  purchaseNote?: string;
   /** 専用レビュー記事のスラッグ */
   reviewSlug?: string;
   /**
@@ -62,7 +64,9 @@ export const grinderModels: Record<string, GrinderModel> = {
     brandSlug: "timemore",
     name: "TIMEMORE 栗子 S5 Pro",
     shortLabel: "栗子 S5 Pro",
-    placeholderNote: "掲載予定の色：Olive Green",
+    imageUrl:
+      "https://hbb.afl.rakuten.co.jp/hgb/58d84d03.7b0724e9.58d84d04.7cac0326/?me_id=1440579&item_id=10000033&pc=https%3A%2F%2Fthumbnail.image.rakuten.co.jp%2F%400_mall%2Ftimemore%2Fcabinet%2F13690744%2Fimgrc0132385656.jpg&s=800x800&t=picttext",
+    imageAlt: "TIMEMORE CHESTNUT S5/S5 Pro の楽天市場商品画像",
     type: "manual",
     burrMaterial: "420ステンレス TriB-048-I（5軸CNC、硬度58HRC）",
     burrDiameterMm: 48,
@@ -70,8 +74,10 @@ export const grinderModels: Record<string, GrinderModel> = {
     weightGrams: 910,
     priceJpyHint: "公式サイト表示 ¥25,800（2026年10月26日閲覧。プレセール価格の記載。税の扱いと在庫は購入ページで確認）",
     highlight: "運営者のおすすめはグリーンです。公式の色名は Olive Green。もう一色は Matt Black です。",
+    purchaseNote: "このリンク先では「S5 Pro」と「グリーン」を選んでください。",
     reviewSlug: "timemore-chestnut-s5-pro",
-    rakutenUrl: "",
+    rakutenUrl:
+      "https://hb.afl.rakuten.co.jp/ichiba/58d84d03.7b0724e9.58d84d04.7cac0326/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftimemore%2Fs5series%2F&link_type=hybrid_url&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJoeWJyaWRfdXJsIiwic2l6ZSI6IjI0MHgyNDAiLCJuYW0iOjEsIm5hbXAiOiJyaWdodCIsImNvbSI6MSwiY29tcCI6ImRvd24iLCJwcmljZSI6MSwiYm9yIjoxLCJjb2wiOjEsImJidG4iOjEsInByb2QiOjAsImFtcCI6ZmFsc2V9",
     amazonUrl: "",
     yahooUrl: "",
     moshimoHtml: "",
@@ -165,13 +171,17 @@ export const grinderModels: Record<string, GrinderModel> = {
     shortLabel: "Essence Go",
     highlight: "公式は、38mm・10枚刃で挽きはじめの軽さを狙った、と説明しています。専用ケース付きです。",
     reviewSlug: "epeios-essence-go",
+    imageUrl:
+      "https://hbb.afl.rakuten.co.jp/hgb/58d84e37.d92dccda.58d84e38.b6bc4022/?me_id=1408256&item_id=10000052&pc=https%3A%2F%2Fthumbnail.image.rakuten.co.jp%2F%400_mall%2Fepeios-official%2Fcabinet%2F10681556%2Fbg003-01.jpg&s=800x800&t=picttext",
+    imageAlt: "エペイオス Essence Go の楽天市場商品画像",
     type: "manual",
     burrMaterial: "ステンレス コニカル（10枚刃・38mm）",
     burrDiameterMm: 38,
     adjustment: "0〜80 段階（公式表記に合わせたサイト内固定値）",
     weightGrams: 870,
     priceJpyHint: "¥23,100（税込・公式掲載を基準としたサイト内固定値／改定は手動更新）",
-    rakutenUrl: "",
+    rakutenUrl:
+      "https://hb.afl.rakuten.co.jp/ichiba/58d84e37.d92dccda.58d84e38.b6bc4022/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fepeios-official%2Fbg003abjp1%2F&link_type=hybrid_url&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJoeWJyaWRfdXJsIiwic2l6ZSI6IjI0MHgyNDAiLCJuYW0iOjEsIm5hbXAiOiJyaWdodCIsImNvbSI6MSwiY29tcCI6ImRvd24iLCJwcmljZSI6MSwiYm9yIjoxLCJjb2wiOjEsImJidG4iOjEsInByb2QiOjAsImFtcCI6ZmFsc2V9",
     amazonUrl: "",
     yahooUrl: "",
     moshimoHtml: "",
