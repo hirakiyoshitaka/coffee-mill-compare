@@ -16,6 +16,11 @@ const nextConfig: NextConfig = {
         hostname: "hbb.afl.rakuten.co.jp",
         pathname: "/**",
       },
+      {
+        protocol: "https",
+        hostname: "image.rakuten.co.jp",
+        pathname: "/**",
+      },
     ],
   },
 };

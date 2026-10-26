@@ -64,9 +64,8 @@ export const grinderModels: Record<string, GrinderModel> = {
     brandSlug: "timemore",
     name: "TIMEMORE 栗子 S5 Pro",
     shortLabel: "栗子 S5 Pro",
-    imageUrl:
-      "https://hbb.afl.rakuten.co.jp/hgb/58d84d03.7b0724e9.58d84d04.7cac0326/?me_id=1440579&item_id=10000033&pc=https%3A%2F%2Fthumbnail.image.rakuten.co.jp%2F%400_mall%2Ftimemore%2Fcabinet%2F13690744%2Fimgrc0132385656.jpg&s=800x800&t=picttext",
-    imageAlt: "TIMEMORE CHESTNUT S5/S5 Pro の楽天市場商品画像",
+    imageUrl: "https://image.rakuten.co.jp/timemore/cabinet/13690744/imgrc0132385734.jpg",
+    imageAlt: "TIMEMORE 栗子 S5 Pro グリーンの楽天市場商品画像",
     type: "manual",
     burrMaterial: "420ステンレス TriB-048-I（5軸CNC、硬度58HRC）",
     burrDiameterMm: 48,
