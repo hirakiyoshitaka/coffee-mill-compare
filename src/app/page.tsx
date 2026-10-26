@@ -81,7 +81,7 @@ export default function HomePage() {
           </Link>
         </div>
         <p className="section-lead">
-          No.1 は栗子 S5 Pro、No.2 はエペイオス Essence Go です。点数競技ではなく、このサイトが家に置くならこの2台、という選択です。2台の写真は楽天市場の商品画像です。栗子のページでは、型番「S5 Pro」と色「グリーン」を選んでください。
+          No.1 は栗子 S5 Pro、No.2 はエペイオス Essence Go です。点数競技ではなく、このサイトが家に置くならこの2台、という選択です。Essence Go の写真は楽天市場の商品画像です。栗子 S5 Pro は、白い背景の緑の単体写真が公式店のギャラリーになかったので載せていません。楽天のページでは、型番「S5 Pro」と色「グリーン」を選んでください。
         </p>
         <ul className="picks-grid">
           {models.map((model) => (
