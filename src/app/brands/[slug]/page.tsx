@@ -1,9 +1,9 @@
 import type { Metadata } from "next";
-import Image from "next/image";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { Breadcrumb } from "@/components/Breadcrumb";
 import { BuyButtons, grinderBuyProps } from "@/components/BuyButtons";
+import { ProductVisual } from "@/components/ProductVisual";
 import { ReviewChips } from "@/components/ReviewChips";
 import { RichText } from "@/components/RichText";
 import { brands, getBrand, getModel, grinderTypeLabel } from "@/data/grinders";
@@ -59,11 +59,9 @@ export default async function BrandPage({ params }: Props) {
         <ul className="mt-4 space-y-6">
           {flagships.map((model) => (
             <li key={model.id} className="product-card">
-              <div className="relative h-56 bg-stone-200">
-                <Image src={model.imageUrl} alt={model.imageAlt} fill sizes="(min-width: 768px) 48rem, 100vw" className="object-cover" />
-              </div>
+              <ProductVisual model={model} />
               <div className="p-5">
-                <p className="text-xs text-stone-500">写真はイメージです。{grinderTypeLabel(model.type)}</p>
+                <p className="text-xs text-stone-500">{grinderTypeLabel(model.type)}</p>
                 <h3 className="mt-1 font-serif text-2xl text-stone-950">{model.name}</h3>
                 <dl className="mt-4 grid gap-3 text-sm sm:grid-cols-2">
                   <div>

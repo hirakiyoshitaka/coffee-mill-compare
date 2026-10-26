@@ -81,7 +81,7 @@ export default function HomePage() {
           </Link>
         </div>
         <p className="section-lead">
-          No.1 は栗子 S5 Pro、No.2 はエペイオス Essence Go です。点数競技ではなく、このサイトが家に置くならこの2台、という選択です。写真はイメージです。
+          No.1 は栗子 S5 Pro、No.2 はエペイオス Essence Go です。点数競技ではなく、このサイトが家に置くならこの2台、という選択です。実機の写真は、利用できる公式画像が揃うまで載せていません。
         </p>
         <ul className="picks-grid">
           {models.map((model) => (

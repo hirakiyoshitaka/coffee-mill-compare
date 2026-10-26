@@ -98,7 +98,7 @@ export default async function CategoryPage({ params }: Props) {
           <section>
             <h2 className="font-serif text-2xl text-stone-950">おすすめ</h2>
             <p className="section-lead">
-              掲載は{manual.length}機種、いずれも{grinderTypeLabel("manual")}です。先に見るのは2台です。写真はイメージで、価格は目安です。
+              掲載は{manual.length}機種、いずれも{grinderTypeLabel("manual")}です。先に見るのは2台です。実機の写真は、利用できる公式画像が揃うまで載せていません。価格は目安です。
             </p>
             <ul className="picks-grid">
               {manual

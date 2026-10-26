@@ -1,14 +1,14 @@
-import Image from "next/image";
 import type { ReactNode } from "react";
 import Link from "next/link";
 import { Breadcrumb } from "@/components/Breadcrumb";
 import { BuyButtons, grinderBuyProps } from "@/components/BuyButtons";
+import { ProductVisual } from "@/components/ProductVisual";
 import { brands, comparisonRows, getFlagshipModels, type GrinderModel } from "@/data/grinders";
 import { pageMeta } from "@/lib/seo";
 
 export const metadata = pageMeta({
   title: "手挽きミルのスペック比較",
-  description: "掲載中の手挽きミルを写真付きで横並びにし、仕様・価格の目安・口コミの傾向を整理します。",
+  description: "掲載中の手挽きミルを横並びにし、仕様・価格の目安・口コミの傾向を整理します。",
   path: "/compare",
 });
 
@@ -46,29 +46,20 @@ export default function ComparePage() {
         <p className="mb-2 text-sm font-medium text-[var(--accent-soft)]">コーヒーミル（手挽き）</p>
         <h1 className="page-title">{models.length}機種スペック比較</h1>
         <p className="lede">
-          このサイトが先に勧めるのは、栗子 S5 Pro とエペイオス Essence Go です。ほかの機種は、条件を並べるために残しています。写真はイメージです。数値と価格は目安です。
+          このサイトが先に勧めるのは、栗子 S5 Pro とエペイオス Essence Go です。ほかの機種は、条件を並べるために残しています。実機の写真は、利用できる公式画像が揃うまで載せていません。数値と価格は目安です。
         </p>
       </header>
 
-      {/* 横並び 5 機種 + 写真 */}
+      {/* 掲載機種の横並び */}
       <div className="-mx-4 mb-14 px-4 lg:mx-0 lg:px-0">
         <div className="flex snap-x snap-mandatory gap-3 overflow-x-auto pb-3 scrollbar-thin sm:gap-4 lg:grid lg:snap-none lg:grid-cols-5 lg:overflow-visible lg:pb-0">
-          {models.map((m, i) => (
+          {models.map((m) => (
             <article
               key={m.id}
               className="w-[min(46vw,12.5rem)] shrink-0 snap-center sm:w-48 lg:w-auto"
             >
               <div className="flex h-full flex-col overflow-hidden rounded-lg border border-[var(--border-subtle)] bg-[var(--surface-elevated)] shadow-[0_12px_40px_-24px_rgba(0,0,0,0.25)]">
-                <div className="relative aspect-[4/5] bg-stone-200">
-                  <Image
-                    src={m.imageUrl}
-                    alt={m.imageAlt}
-                    fill
-                    sizes="(min-width: 1024px) 18vw, 46vw"
-                    className="object-cover"
-                    priority={i < 2}
-                  />
-                </div>
+                <ProductVisual model={m} variant="compact" />
                 <div className="flex flex-1 flex-col gap-2 p-3 sm:p-3.5">
                   <div>
                     <p className="text-[10px] uppercase tracking-wider text-stone-400">

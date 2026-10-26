@@ -1,6 +1,6 @@
-import Image from "next/image";
 import Link from "next/link";
 import { BuyButtons, grinderBuyProps } from "@/components/BuyButtons";
+import { ProductVisual } from "@/components/ProductVisual";
 import { featuredLabel, getBrand, grinderTypeLabel, type GrinderModel } from "@/data/grinders";
 
 function diameterLabel(model: GrinderModel): string {
@@ -29,7 +29,6 @@ export function GrinderCard({ model, variant = "tile" }: { model: GrinderModel; 
       ) : null}
       <h3>{model.name}</h3>
       {model.highlight ? <p>{model.highlight}</p> : null}
-      <p className="fine">写真はイメージです。実機と一致しない場合があります。</p>
       {variant === "embed" ? (
         <dl className="mt-2 grid gap-3 sm:grid-cols-2">
           {specs.map(([label, value]) => (
@@ -64,9 +63,7 @@ export function GrinderCard({ model, variant = "tile" }: { model: GrinderModel; 
     return (
       <aside className="product-card my-8">
         <div className="grid sm:grid-cols-[14rem_minmax(0,1fr)]">
-          <div className="card-visual relative min-h-52">
-            <Image src={model.imageUrl} alt={model.imageAlt} fill sizes="(min-width: 640px) 14rem, 100vw" className="object-cover" />
-          </div>
+          <ProductVisual model={model} variant="embed" />
           {body}
         </div>
       </aside>
@@ -75,9 +72,7 @@ export function GrinderCard({ model, variant = "tile" }: { model: GrinderModel; 
 
   return (
     <article className="product-card flex h-full flex-col">
-      <div className="card-visual relative">
-        <Image src={model.imageUrl} alt={model.imageAlt} fill sizes="(min-width: 1100px) 30vw, (min-width: 720px) 45vw, 100vw" className="object-cover" />
-      </div>
+      <ProductVisual model={model} />
       {body}
     </article>
   );

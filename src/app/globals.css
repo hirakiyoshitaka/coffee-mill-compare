@@ -295,6 +295,67 @@ summary:focus-visible {
   border-bottom: 1px solid var(--line);
 }
 
+.card-visual.is-compact { aspect-ratio: 4 / 5; }
+.card-visual.is-embed { height: 100%; min-height: 220px; }
+
+.product-placeholder {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  gap: 6px;
+  width: 100%;
+  min-height: 220px;
+  aspect-ratio: 4 / 3;
+  padding: 22px;
+  background: var(--soft);
+  border-bottom: 1px solid var(--line);
+}
+
+.product-placeholder.is-compact {
+  aspect-ratio: 4 / 5;
+  min-height: 0;
+  padding: 14px;
+}
+
+.product-placeholder.is-embed {
+  height: 100%;
+  min-height: 220px;
+}
+
+.product-placeholder-kicker {
+  margin: 0;
+  color: var(--olive);
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+}
+
+.product-placeholder-name {
+  margin: 0;
+  font-family: var(--font-serif-jp), "Yu Mincho", serif;
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 1.45;
+  color: var(--ink);
+}
+
+.product-placeholder.is-compact .product-placeholder-name { font-size: 15px; }
+
+.product-placeholder-note {
+  margin: 0;
+  color: var(--muted);
+  font-size: 13px;
+  line-height: 1.6;
+}
+
+@media (min-width: 640px) {
+  .product-card .grid > .product-placeholder.is-embed,
+  .product-card .grid > .card-visual.is-embed {
+    border-bottom: none;
+    border-right: 1px solid var(--line);
+  }
+}
+
 .product-body,
 .offer-card,
 .shop-card { padding: 22px; }

@@ -14,9 +14,14 @@ export type GrinderModel = {
   brandSlug: string;
   name: string;
   shortLabel: string;
-  /** イメージ用（実機と一致しない場合があります） */
-  imageUrl: string;
-  imageAlt: string;
+  /**
+   * 実機と確認でき、このサイトの利用条件に合う写真だけを入れる。
+   * 未設定のときは名前だけのプレースホルダを出す。
+   */
+  imageUrl?: string;
+  imageAlt?: string;
+  /** 写真がないときの注記。色名など、公式で確認した事実だけ */
+  placeholderNote?: string;
   type: GrinderType;
   burrMaterial: string;
   burrDiameterMm?: number;
@@ -57,9 +62,7 @@ export const grinderModels: Record<string, GrinderModel> = {
     brandSlug: "timemore",
     name: "TIMEMORE 栗子 S5 Pro",
     shortLabel: "栗子 S5 Pro",
-    imageUrl:
-      "https://images.unsplash.com/photo-1511920170033-f8396924c348?auto=format&fit=crop&w=800&q=80",
-    imageAlt: "コーヒーのイメージ。TIMEMORE 栗子 S5 Pro の実機写真ではありません",
+    placeholderNote: "掲載予定の色：Olive Green",
     type: "manual",
     burrMaterial: "420ステンレス TriB-048-I（5軸CNC、硬度58HRC）",
     burrDiameterMm: 48,
@@ -86,9 +89,6 @@ export const grinderModels: Record<string, GrinderModel> = {
     brandSlug: "comandante",
     name: "Comandante C40 MK4",
     shortLabel: "C40 MK4",
-    imageUrl:
-      "https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd?auto=format&fit=crop&w=800&q=80",
-    imageAlt: "手挽きコーヒーミルと抽出器具のイメージ（Comandante C40 の雰囲気）",
     type: "manual",
     burrMaterial: "窒化鋼（Nitro Blade）",
     burrDiameterMm: 39,
@@ -114,9 +114,6 @@ export const grinderModels: Record<string, GrinderModel> = {
     brandSlug: "timemore",
     name: "Timemore Chestnut X",
     shortLabel: "Chestnut X",
-    imageUrl:
-      "https://images.unsplash.com/photo-1447933601403-0c6688de566e?auto=format&fit=crop&w=800&q=80",
-    imageAlt: "コーヒー豆とミルのイメージ（Timemore Chestnut X の雰囲気）",
     type: "manual",
     burrMaterial: "S2C 880 ステンレス（特許形状）",
     burrDiameterMm: undefined,
@@ -141,9 +138,6 @@ export const grinderModels: Record<string, GrinderModel> = {
     brandSlug: "1zpresso",
     name: "1Zpresso K-Ultra",
     shortLabel: "K-Ultra",
-    imageUrl:
-      "https://images.unsplash.com/photo-1559827260-dc66d52bef19?auto=format&fit=crop&w=800&q=80",
-    imageAlt: "手挽きコーヒーミルと豆のイメージ（1Zpresso K-Ultra の雰囲気）",
     type: "manual",
     burrMaterial: "ステンレス コニカル",
     burrDiameterMm: 48,
@@ -171,9 +165,6 @@ export const grinderModels: Record<string, GrinderModel> = {
     shortLabel: "Essence Go",
     highlight: "公式は、38mm・10枚刃で挽きはじめの軽さを狙った、と説明しています。専用ケース付きです。",
     reviewSlug: "epeios-essence-go",
-    imageUrl:
-      "https://images.unsplash.com/photo-1509042239860-f550ce710b93?auto=format&fit=crop&w=800&q=80",
-    imageAlt: "コーヒー抽出シーンのイメージ（EPEIOS Essence Go の雰囲気）",
     type: "manual",
     burrMaterial: "ステンレス コニカル（10枚刃・38mm）",
     burrDiameterMm: 38,
@@ -198,9 +189,6 @@ export const grinderModels: Record<string, GrinderModel> = {
     brandSlug: "kinu",
     name: "Kinu M47 Classic",
     shortLabel: "M47 Classic",
-    imageUrl:
-      "https://images.unsplash.com/photo-1461023058943-07fcbe16d735?auto=format&fit=crop&w=800&q=80",
-    imageAlt: "コーヒー豆と抽出のイメージ（Kinu M47 の雰囲気）",
     type: "manual",
     burrMaterial: "硬化鋼 コニカル（ブラックコーティング）",
     burrDiameterMm: 47,
