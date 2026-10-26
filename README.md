@@ -30,7 +30,7 @@ Cloudflare Pages は、できた HTML をインターネットに置く無料の
    - 本番ブランチ：普段使うブランチ（多くは `main`）
 6. **Environment variables（環境変数）** を追加します。環境変数は、公開時だけ差し込む設定です。
    - 名前：`NEXT_PUBLIC_SITE_URL`
-   - 値：公開されるアドレス。未設定のときは `https://ouchi-cafe-dougucho.pages.dev` を使います。別のアドレスにするときだけ、この変数を置きます。
+   - 値：公開されるアドレス。未設定のときは `https://coffee-mill-compare.vercel.app` を使います。別のアドレスにするときだけ、この変数を置きます。
    - `https://` から書き、最後に `/` は付けません。
    - 名前：`NODE_VERSION`
    - 値：`22`
