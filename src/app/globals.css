@@ -402,6 +402,19 @@ summary:focus-visible {
 .footer-links { display: flex; flex-wrap: wrap; gap: 12px 22px; margin: 22px 0; }
 .footer-links a { color: var(--ink); text-underline-offset: 4px; }
 
+.picks-grid {
+  display: grid;
+  gap: 20px;
+}
+
+.owner-note {
+  margin-top: 8px;
+  padding: 8px 22px 10px;
+  background: var(--white);
+  border: 1px solid var(--line);
+  border-radius: 3px;
+}
+
 .story-block { margin: 36px 0; }
 .story-block h2 {
   margin: 0 0 12px;
@@ -476,6 +489,7 @@ summary:focus-visible {
   .path-links a:nth-child(2n) { border-right: 1px solid var(--line); }
   .path-links a:last-child { border-right: 0; }
   .card-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .picks-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
   .shop-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
   .category-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
   .category-card { padding-right: 28px; }

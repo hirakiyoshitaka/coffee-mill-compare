@@ -26,6 +26,8 @@ export type BeanShop = {
   selection: string[];
   offers: BeanOffer[];
   position: string;
+  /** 運営者本人の購入体験。確認できた事実とは分けて書く */
+  ownerExperience?: string[];
 };
 
 export const beanShops: BeanShop[] = [
@@ -37,9 +39,13 @@ export const beanShops: BeanShop[] = [
     a8Url: "",
     rakutenUrl: "",
     summary: "注文を受けてから、国際的な資格を持つロースターが焙煎する店です。",
+    ownerExperience: [
+      "私は、珈琲きゃろっとの定期便を自分で買っています。そして、この店を信頼しています。",
+      "届いた銘柄の感想や、店主との会話は、ここには書きません。確認できた事実と、この体験だけを分けて置いています。",
+    ],
     story: [
       "北海道・恵庭の珈琲きゃろっとです。確認できた範囲では、注文のあとで焙煎し、昨年販売した豆の平均は85点以上でした。",
-      "このページは、その事実の紹介です。店主の発言の引用や、訪れた感想は載せていません。",
+      "上の体験は、運営者の購入の事実です。店主の発言の引用ではありません。",
     ],
     roasting: ["国際的な資格を持つロースターが、注文を受けてから焙煎します。"],
     selection: ["昨年販売した豆は、平均で85点以上でした。これからのロットが同じ点数だとは書いていません。"],
@@ -61,7 +67,7 @@ export const beanShops: BeanShop[] = [
         note: "配送は最低3回です。",
       },
     ],
-    position: "点数の平均が公開されている、注文後焙煎の店として先に開けます。",
+    position: "このサイトで最初に開く店です。運営者自身が、定期便で購入しています。",
   },
   {
     slug: "doi-coffee",

@@ -6,32 +6,38 @@ import { GrinderCard } from "@/components/GrinderCard";
 import { StatusBadge } from "@/components/StatusBadge";
 import { beanShops } from "@/data/beans";
 import { categories, categoryHref } from "@/data/categories";
-import { getFlagshipModels } from "@/data/grinders";
-import { getAllArticles } from "@/lib/articles";
+import { getFeaturedModels } from "@/data/grinders";
+import { getArticle } from "@/lib/articles";
 
 const heroImage =
   "https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd?auto=format&fit=crop&w=1400&q=80";
 
+const reviewSlugs = ["timemore-chestnut-s5-pro", "epeios-essence-go"] as const;
+
 export default function HomePage() {
-  const articles = getAllArticles().slice(0, 3);
-  const models = getFlagshipModels();
+  const models = getFeaturedModels();
+  const featuredShop = beanShops.find((shop) => shop.ownerExperience?.length) ?? beanShops[0];
+  const otherShops = beanShops.filter((shop) => shop.slug !== featuredShop.slug);
+  const articles = reviewSlugs
+    .map((slug) => getArticle(slug))
+    .filter((article) => article !== undefined)
+    .map(({ slug, title, description, category, date }) => ({ slug, title, description, category, date }));
 
   return (
     <main className="page-wrap">
       <section className="hero">
         <div>
-          <p className="hero-kicker">手挽きミルと、届く豆</p>
+          <p className="hero-kicker">先に置くのは、2台と1店</p>
           <h1>家のコーヒーを、条件から選ぶ。</h1>
           <p className="hero-description">
-            おうちカフェ道具帳は、手挽きミルの仕様と、焙煎店の紹介を置くノートです。いま比べられるミルは{models.length}
-            機種。豆は{beanShops.length}店。価格は目安です。
+            おうちカフェ道具帳が勧める手挽きは、タイムモア栗子 S5 Pro と、エペイオス Essence Go です。豆は、運営者が定期便で買っている珈琲きゃろっとから開きます。価格は目安です。
           </p>
           <div className="hero-actions">
-            <Link href="/compare" className="hero-cta">
-              手挽きミルを比較する
+            <Link href="#picks" className="hero-cta">
+              おすすめの2台を見る
             </Link>
-            <Link href="/beans" className="text-link">
-              豆の店を見る
+            <Link href="/beans/coffee-carrot" className="text-link">
+              きゃろっとの豆を見る
             </Link>
           </div>
           <p className="ad-note">購入リンクを置いた場合は広告です。空のリンクはボタンを出しません。</p>
@@ -51,11 +57,11 @@ export default function HomePage() {
       <nav className="path-links" aria-label="入口">
         <Link href="/categories/mill">
           ミル
-          <small>手挽き{models.length}機種</small>
+          <small>おすすめ2台</small>
         </Link>
-        <Link href="/beans">
+        <Link href="/beans/coffee-carrot">
           豆
-          <small>{beanShops.length}店の紹介</small>
+          <small>きゃろっとの定期便</small>
         </Link>
         <Link href="/articles">
           読みもの
@@ -67,15 +73,17 @@ export default function HomePage() {
         </Link>
       </nav>
 
-      <section className="section-block">
+      <section className="section-block" id="picks">
         <div className="section-heading">
-          <h2>掲載中の手挽きミル</h2>
+          <h2>おすすめの手挽き</h2>
           <Link href="/compare" className="text-link">
-            横並びで比べる
+            比較表を見る
           </Link>
         </div>
-        <p className="section-lead">写真はイメージです。価格は目安で、購入リンクは設定したものだけ表示します。</p>
-        <ul className="card-grid">
+        <p className="section-lead">
+          No.1 は栗子 S5 Pro、No.2 はエペイオス Essence Go です。点数競技ではなく、このサイトが家に置くならこの2台、という選択です。写真はイメージです。
+        </p>
+        <ul className="picks-grid">
           {models.map((model) => (
             <li key={model.id}>
               <GrinderCard model={model} />
@@ -86,18 +94,24 @@ export default function HomePage() {
 
       <section className="section-block">
         <div className="section-heading">
-          <h2>豆の店</h2>
+          <h2>最初に頼む豆</h2>
           <Link href="/beans" className="text-link">
-            5店を見る
+            ほかの店
           </Link>
         </div>
-        <p className="section-lead">
-          焙煎と豆の選び方を、確認できた事実だけ書いています。金額は目安です。5店を同じ等級としては扱っていません。
-        </p>
-        <ul className="shop-grid">
-          {beanShops.map((shop) => (
+        <p className="section-lead">珈琲きゃろっとは、運営者が定期便で買っている店です。金額は目安です。</p>
+        <BeanDirectoryCard shop={featuredShop} />
+        <ul className="article-index">
+          {otherShops.map((shop, index) => (
             <li key={shop.slug}>
-              <BeanDirectoryCard shop={shop} />
+              <Link href={`/beans/${shop.slug}`} className="article-card">
+                <span className="article-number">{String(index + 1).padStart(2, "0")}</span>
+                <span>
+                  <span className="category">{[shop.area, shop.company].filter(Boolean).join("・") || "焙煎豆の店"}</span>
+                  <h3>{shop.name}</h3>
+                  <p>{shop.summary}</p>
+                </span>
+              </Link>
             </li>
           ))}
         </ul>

@@ -46,7 +46,7 @@ export default function ComparePage() {
         <p className="mb-2 text-sm font-medium text-[var(--accent-soft)]">コーヒーミル（手挽き）</p>
         <h1 className="page-title">{models.length}機種スペック比較</h1>
         <p className="lede">
-          写真はイメージです。数値と価格は目安です。購入前に、販売ページの最新表示を確認してください。購入リンクを置いた場合は広告です。
+          このサイトが先に勧めるのは、栗子 S5 Pro とエペイオス Essence Go です。ほかの機種は、条件を並べるために残しています。写真はイメージです。数値と価格は目安です。
         </p>
       </header>
 
@@ -105,7 +105,7 @@ export default function ComparePage() {
           <blockquote>口コミ・レビュー欄は特定投稿の転載ではなく、コミュニティで繰り返し見られる論点の要約です。</blockquote>
         </MdSection>
 
-        <MdSection title="5機種の位置づけ（一言）">
+        <MdSection title="各機種の位置づけ（一言）">
           <ul>
             {models.map((m) => (
               <li key={m.id}>

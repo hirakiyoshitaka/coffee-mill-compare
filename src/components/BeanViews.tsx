@@ -58,7 +58,8 @@ export function ShopLinks({ shop }: { shop: BeanShop }) {
 export function BeanDirectoryCard({ shop }: { shop: BeanShop }) {
   return (
     <article className="shop-card">
-      <p className="pick-label">{placeLabel(shop)}</p>
+      <p className="pick-label">{shop.ownerExperience ? "最初に開く店" : placeLabel(shop)}</p>
+      {shop.ownerExperience ? <p className="fine">{placeLabel(shop)}</p> : null}
       <h3>{shop.name}</h3>
       <p>{shop.summary}</p>
       <p>{shop.position}</p>
@@ -113,6 +114,15 @@ export function BeanShopDetail({ shop }: { shop: BeanShop }) {
       <h1 className="page-title">{shop.name}</h1>
       <p className="lede">{shop.summary}</p>
       <p className="fine">{shop.position}</p>
+
+      {shop.ownerExperience?.length ? (
+        <section className="story-block owner-note">
+          <h2>運営者の体験</h2>
+          {shop.ownerExperience.map((paragraph) => (
+            <p key={paragraph}>{paragraph}</p>
+          ))}
+        </section>
+      ) : null}
 
       <section className="story-block">
         <h2>こだわり</h2>

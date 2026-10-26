@@ -1,7 +1,7 @@
 import Image from "next/image";
 import Link from "next/link";
 import { BuyButtons, grinderBuyProps } from "@/components/BuyButtons";
-import { getBrand, grinderTypeLabel, type GrinderModel } from "@/data/grinders";
+import { featuredLabel, getBrand, grinderTypeLabel, type GrinderModel } from "@/data/grinders";
 
 function diameterLabel(model: GrinderModel): string {
   return model.burrDiameterMm ? `${model.burrDiameterMm} mm` : "公表値要確認";
@@ -17,13 +17,18 @@ export function GrinderCard({ model, variant = "tile" }: { model: GrinderModel; 
     ["重量", model.weightGrams ? `${model.weightGrams} g` : "—"],
   ] as const;
 
+  const rank = featuredLabel(model.id);
   const body = (
     <div className="product-body flex flex-1 flex-col">
-      <p className="pick-label">
-        {brand ? `${brand.nameJa}（${brand.nameEn}）` : model.brandSlug}
-        {brand?.country ? `・${brand.country}` : ""}・{grinderTypeLabel(model.type)}
-      </p>
+      <p className="pick-label">{rank ?? `${brand?.nameJa ?? model.brandSlug}・${grinderTypeLabel(model.type)}`}</p>
+      {rank ? (
+        <p className="fine">
+          {brand ? `${brand.nameJa}（${brand.nameEn}）` : model.brandSlug}
+          {brand?.country ? `・${brand.country}` : ""}
+        </p>
+      ) : null}
       <h3>{model.name}</h3>
+      {model.highlight ? <p>{model.highlight}</p> : null}
       <p className="fine">写真はイメージです。実機と一致しない場合があります。</p>
       {variant === "embed" ? (
         <dl className="mt-2 grid gap-3 sm:grid-cols-2">
@@ -42,7 +47,12 @@ export function GrinderCard({ model, variant = "tile" }: { model: GrinderModel; 
         <strong>{model.priceJpyHint}</strong>
       </p>
       <BuyButtons {...grinderBuyProps(model)} />
-      <p className="mt-auto pt-2">
+      <p className="hero-actions mt-auto pt-2">
+        {model.reviewSlug ? (
+          <Link href={`/articles/${model.reviewSlug}`} className="text-link">
+            レビューを読む
+          </Link>
+        ) : null}
         <Link href={`/brands/${model.brandSlug}`} className="text-link">
           {brand?.nameJa ?? "ブランド"}のページへ
         </Link>

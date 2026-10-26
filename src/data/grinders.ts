@@ -24,6 +24,10 @@ export type GrinderModel = {
   weightGrams?: number;
   /** 価格の目安。店・為替・改定で変わることがある */
   priceJpyHint: string;
+  /** カードに出す、運営者の一言。味の断定は書かない */
+  highlight?: string;
+  /** 専用レビュー記事のスラッグ */
+  reviewSlug?: string;
   /**
    * アフィリエイト用の購入リンク。すべて任意。
    * 空文字または未設定のものはボタンを出さない。
@@ -48,6 +52,35 @@ export type Brand = {
 };
 
 export const grinderModels: Record<string, GrinderModel> = {
+  "timemore-chestnut-s5-pro": {
+    id: "timemore-chestnut-s5-pro",
+    brandSlug: "timemore",
+    name: "TIMEMORE 栗子 S5 Pro",
+    shortLabel: "栗子 S5 Pro",
+    imageUrl:
+      "https://images.unsplash.com/photo-1511920170033-f8396924c348?auto=format&fit=crop&w=800&q=80",
+    imageAlt: "コーヒーのイメージ。TIMEMORE 栗子 S5 Pro の実機写真ではありません",
+    type: "manual",
+    burrMaterial: "420ステンレス TriB-048-I（5軸CNC、硬度58HRC）",
+    burrDiameterMm: 48,
+    adjustment: "外ダイヤル 1回転90クリック、1クリック15ミクロン",
+    weightGrams: 910,
+    priceJpyHint: "公式サイト表示 ¥25,800（2026年10月26日閲覧。プレセール価格の記載。税の扱いと在庫は購入ページで確認）",
+    highlight: "運営者のおすすめはグリーンです。公式の色名は Olive Green。もう一色は Matt Black です。",
+    reviewSlug: "timemore-chestnut-s5-pro",
+    rakutenUrl: "",
+    amazonUrl: "",
+    yahooUrl: "",
+    moshimoHtml: "",
+    cuppingNotes: [
+      "48mmの刃を、幅56mmのボディに積んだ手挽き",
+      "家に置く一台として、このサイトの No.1 に置いています",
+    ],
+    caveats: [
+      "公式重量は約910g。折りたたみハンドルはあっても、旅行の第一候補にはしていません",
+      "ゼロ点でも刃のすき間は約0.075mm。偏った力では摩擦音が出ることがある、と公式が注意しています",
+    ],
+  },
   "comandante-c40": {
     id: "comandante-c40",
     brandSlug: "comandante",
@@ -134,8 +167,10 @@ export const grinderModels: Record<string, GrinderModel> = {
   "epeios-essence-go": {
     id: "epeios-essence-go",
     brandSlug: "epeios",
-    name: "EPEIOS Essence Go",
+    name: "エペイオス Essence Go",
     shortLabel: "Essence Go",
+    highlight: "公式は、38mm・10枚刃で挽きはじめの軽さを狙った、と説明しています。専用ケース付きです。",
+    reviewSlug: "epeios-essence-go",
     imageUrl:
       "https://images.unsplash.com/photo-1509042239860-f550ce710b93?auto=format&fit=crop&w=800&q=80",
     imageAlt: "コーヒー抽出シーンのイメージ（EPEIOS Essence Go の雰囲気）",
@@ -150,8 +185,8 @@ export const grinderModels: Record<string, GrinderModel> = {
     yahooUrl: "",
     moshimoHtml: "",
     cuppingNotes: [
-      "バリスタ監修を前面に出した手挽きとして注目を集めたモデル",
-      "携帯性とケース付属などライフスタイル訴求",
+      "井崎英典氏監修。38mm・10枚刃の手挽き",
+      "分解して専用ケースに入れられる、と公式が説明しています",
     ],
     caveats: [
       "ロングセラーブランドとの比較検証は個人の抽出環境に依存",
@@ -258,8 +293,8 @@ export const brands: Brand[] = [
     nameEn: "Timemore",
     country: "中国",
     blurb:
-      "デザイン性とスペックのバランスでグローバルに展開。Chestnut シリーズから X クラスまで幅があり、本サイトでは代表的フラッグシップとして Chestnut X を取り上げます。",
-    flagshipIds: ["timemore-chestnut-x"],
+      "デザインと調整機構で知られる手挽きのブランドです。このサイトが先に勧めるのは栗子 S5 Pro（Chestnut S5 Pro）です。Chestnut X は、比較表に残している別モデルです。",
+    flagshipIds: ["timemore-chestnut-s5-pro", "timemore-chestnut-x"],
     communityReviews: [
       {
         id: "tm-1",
@@ -318,11 +353,11 @@ export const brands: Brand[] = [
   },
   {
     slug: "epeios",
-    nameJa: "EPEIOS",
+    nameJa: "エペイオス",
     nameEn: "EPEIOS",
     country: "日本（ブランド運営）",
     blurb:
-      "調理・生活家電ブランドとして知られる EPEIOS（エペイオス／エネペイオス などの聞き取り表記）。Essence シリーズは電動・手挽きなど複数 SKU がありますが、本サイトのスペック比較では手挽きの **Essence Go** のみを固定で掲載します（価格・数値は静的データ）。",
+      "調理家電の EPEIOS（エペイオス）です。このサイトの手挽きは Essence Go だけを載せています。井崎英典氏が監修した、という説明は公式のものです。価格と数値は、公式ページを見た時点の固定値です。",
     flagshipIds: ["epeios-essence-go"],
     communityReviews: [
       {
@@ -364,12 +399,31 @@ export function grinderTypeLabel(type: GrinderType): string {
   return "ハイブリッド";
 }
 
+const featuredOrder = ["timemore-chestnut-s5-pro", "epeios-essence-go"] as const;
+
+export function featuredLabel(id: string): string | undefined {
+  const index = featuredOrder.indexOf(id as (typeof featuredOrder)[number]);
+  if (index < 0) return undefined;
+  return `おすすめ No.${index + 1}`;
+}
+
+export function getFeaturedModels(): GrinderModel[] {
+  return featuredOrder.map((id) => grinderModels[id]);
+}
+
 export function getFlagshipModels(): GrinderModel[] {
-  return brands.flatMap((brand) =>
+  const models = brands.flatMap((brand) =>
     brand.flagshipIds
       .map((id) => grinderModels[id])
       .filter((model): model is GrinderModel => Boolean(model)),
   );
+  return [...models].sort((a, b) => {
+    const aRank = featuredOrder.indexOf(a.id as (typeof featuredOrder)[number]);
+    const bRank = featuredOrder.indexOf(b.id as (typeof featuredOrder)[number]);
+    const aScore = aRank < 0 ? 99 : aRank;
+    const bScore = bRank < 0 ? 99 : bRank;
+    return aScore - bScore;
+  });
 }
 
 export const comparisonRows = [

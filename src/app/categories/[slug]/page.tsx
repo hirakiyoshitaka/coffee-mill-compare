@@ -7,7 +7,7 @@ import { GrinderCard } from "@/components/GrinderCard";
 import { StatusBadge } from "@/components/StatusBadge";
 import { beanShops } from "@/data/beans";
 import { categories, getCategory } from "@/data/categories";
-import { getFlagshipModels, grinderTypeLabel } from "@/data/grinders";
+import { featuredLabel, getFlagshipModels, grinderTypeLabel } from "@/data/grinders";
 import { getArticlesByCategory } from "@/lib/articles";
 import { pageMeta } from "@/lib/seo";
 
@@ -96,16 +96,29 @@ export default async function CategoryPage({ params }: Props) {
       {category.slug === "mill" ? (
         <>
           <section>
-            <h2 className="font-serif text-2xl text-stone-950">手挽き</h2>
+            <h2 className="font-serif text-2xl text-stone-950">おすすめ</h2>
             <p className="section-lead">
-              掲載は{manual.length}機種、いずれも{grinderTypeLabel("manual")}です。写真はイメージで、価格は目安です。
+              掲載は{manual.length}機種、いずれも{grinderTypeLabel("manual")}です。先に見るのは2台です。写真はイメージで、価格は目安です。
             </p>
+            <ul className="picks-grid">
+              {manual
+                .filter((model) => featuredLabel(model.id))
+                .map((model) => (
+                  <li key={model.id}>
+                    <GrinderCard model={model} />
+                  </li>
+                ))}
+            </ul>
+            <h2 className="mt-14 font-serif text-2xl text-stone-950">比較用に残している機種</h2>
+            <p className="section-lead">このサイトの一番手ではありません。仕様を横並びで見るための掲載です。</p>
             <ul className="card-grid">
-              {manual.map((model) => (
-                <li key={model.id}>
-                  <GrinderCard model={model} />
-                </li>
-              ))}
+              {manual
+                .filter((model) => !featuredLabel(model.id))
+                .map((model) => (
+                  <li key={model.id}>
+                    <GrinderCard model={model} />
+                  </li>
+                ))}
             </ul>
             <p className="hero-actions mt-6">
               <Link href="/compare" className="text-link">

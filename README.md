@@ -7,7 +7,7 @@
 ## このサイトに入っているもの
 
 - トップページ、道具カテゴリ、読みもの（記事）
-- 手挽きミル5機種の比較と、ブランドごとのページ
+- 手挽きミルの比較と、ブランドごとのページ。先に勧めるのは栗子 S5 Pro とエペイオス Essence Go です
 - 運営者情報、プライバシーポリシー、広告表記
 - 記事の冒頭にある「広告（PR）」の表示
 - 検索向けのタイトルと説明、シェアされたときに出る情報、`sitemap.xml`、`robots.txt`
@@ -100,7 +100,7 @@ date: "2026-10-25"
 {{grinder:comandante-c40}}
 ```
 
-使える ID は `comandante-c40`、`timemore-chestnut-x`、`1zpresso-k-ultra`、`epeios-essence-go`、`kinu-m47-classic` です。データにない数字や価格は、本文にも書かないでください。価格に触れるときは「目安」と分かる書き方にします。
+使える ID は `timemore-chestnut-s5-pro`、`epeios-essence-go`、`comandante-c40`、`timemore-chestnut-x`、`1zpresso-k-ultra`、`kinu-m47-classic` です。データにない数字や価格は、本文にも書かないでください。価格に触れるときは「目安」と分かる書き方にします。
 
 豆の店カードは、次の1行です。
 

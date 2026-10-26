@@ -20,7 +20,7 @@ export const categories: Category[] = [
     slug: "mill",
     shortName: "ミル",
     name: "コーヒーミル（手挽き・電動）",
-    summary: "手挽きは5機種を公開中。電動の機種データはまだありません。",
+    summary: "おすすめは栗子 S5 Pro とエペイオス Essence Go。ほかの手挽きは比較用です。電動はまだありません。",
     lead: "豆を挽く道具です。手挽きはコマンダンテ、キヌ、タイムモア、1Zpresso、EPEIOS のフラッグシップを掲載しています。電動は枠だけ先にあり、機種は準備中です。",
     planned: ["駆動（手挽き / 電動）", "バーの素材と径", "粒度調整", "重量", "価格の目安"],
     status: "live",
