@@ -72,12 +72,12 @@ export const grinderModels: Record<string, GrinderModel> = {
     adjustment: "外ダイヤル 1回転90クリック、1クリック15ミクロン",
     weightGrams: 910,
     priceJpyHint: "公式サイト表示 ¥25,800（2026年10月26日閲覧。プレセール価格の記載。税の扱いと在庫は購入ページで確認）",
-    highlight: "運営者のおすすめはグリーンです。公式の色名は Olive Green。もう一色は Matt Black です。",
+    highlight: "運営者本人が毎日使っている一台です。色はグリーン（公式名 Olive Green）。ドリップ中心で、約910gの重さは毎日使っても気にならない、というのが本人の感想です。",
     purchaseNote: "このリンク先では「S5 Pro」と「グリーン」を選んでください。",
     reviewSlug: "timemore-chestnut-s5-pro",
     rakutenUrl:
       "https://hb.afl.rakuten.co.jp/ichiba/58d84d03.7b0724e9.58d84d04.7cac0326/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftimemore%2Fs5series%2F&link_type=hybrid_url&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJoeWJyaWRfdXJsIiwic2l6ZSI6IjI0MHgyNDAiLCJuYW0iOjEsIm5hbXAiOiJyaWdodCIsImNvbSI6MSwiY29tcCI6ImRvd24iLCJwcmljZSI6MSwiYm9yIjoxLCJjb2wiOjEsImJidG4iOjEsInByb2QiOjAsImFtcCI6ZmFsc2V9",
-    amazonUrl: "",
+    amazonUrl: "https://www.amazon.co.jp/dp/B0HF4LXCCY?tag=stocknotelife-22",
     yahooUrl: "",
     moshimoHtml: "",
     cuppingNotes: [
@@ -168,8 +168,11 @@ export const grinderModels: Record<string, GrinderModel> = {
     brandSlug: "epeios",
     name: "エペイオス Essence Go",
     shortLabel: "Essence Go",
-    highlight: "公式は、38mm・10枚刃で挽きはじめの軽さを狙った、と説明しています。専用ケース付きです。",
+    highlight: "公式は、38mm・10枚刃で挽きはじめの軽さを狙った、と説明しています。専用ケース付きです。運営者の一言は「とにかく軽く回る」。",
     reviewSlug: "epeios-essence-go",
+    imageUrl:
+      "https://epeios.jp/cdn/shop/files/20250121_epeios_3177.jpg?v=1744272927&width=1200",
+    imageAlt: "エペイオス Essence Go（EPEIOS公式サイトの製品写真）",
     type: "manual",
     burrMaterial: "ステンレス コニカル（10枚刃・38mm）",
     burrDiameterMm: 38,
@@ -178,7 +181,7 @@ export const grinderModels: Record<string, GrinderModel> = {
     priceJpyHint: "¥23,100（税込・公式掲載を基準としたサイト内固定値／改定は手動更新）",
     rakutenUrl:
       "https://hb.afl.rakuten.co.jp/ichiba/58d84e37.d92dccda.58d84e38.b6bc4022/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fepeios-official%2Fbg003abjp1%2F&link_type=hybrid_url&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJoeWJyaWRfdXJsIiwic2l6ZSI6IjI0MHgyNDAiLCJuYW0iOjEsIm5hbXAiOiJyaWdodCIsImNvbSI6MSwiY29tcCI6ImRvd24iLCJwcmljZSI6MSwiYm9yIjoxLCJjb2wiOjEsImJidG4iOjEsInByb2QiOjAsImFtcCI6ZmFsc2V9",
-    amazonUrl: "",
+    amazonUrl: "https://www.amazon.co.jp/dp/B0D3PZHGBX?tag=stocknotelife-22",
     yahooUrl: "",
     moshimoHtml: "",
     cuppingNotes: [

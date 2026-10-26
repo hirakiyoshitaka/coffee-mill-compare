@@ -1,4 +1,4 @@
-export const priceAsOfLabel = "2026年10月26日時点の紹介に基づく目安";
+export const priceAsOfLabel = "2026年10月27日時点の紹介に基づく目安";
 
 export type BeanOffer = {
   id: string;
@@ -36,11 +36,12 @@ export const beanShops: BeanShop[] = [
     name: "珈琲きゃろっと",
     area: "北海道・恵庭",
     officialUrl: "https://coffeecarrot.jp/",
-    a8Url: "",
+    a8Url: "https://px.a8.net/svt/ejp?a8mat=4BEQHR+383JQQ+2CG0+5YJRM",
     rakutenUrl: "",
     summary: "注文を受けてから、国際的な資格を持つロースターが焙煎する店です。",
     ownerExperience: [
-      "私は、珈琲きゃろっとの定期便を自分で買っています。そして、この店を信頼しています。",
+      "私は、珈琲きゃろっとの定期便「くるべさ」を1年ほど続けていました。",
+      "続いた理由はシンプルで、本当に美味しかったからです。派手な感想より、この「1年続いた」という事実が一番正直な推薦だと思います。",
       "届いた銘柄の感想や、店主との会話は、ここには書きません。確認できた事実と、この体験だけを分けて置いています。",
     ],
     story: [
@@ -67,7 +68,7 @@ export const beanShops: BeanShop[] = [
         note: "配送は最低3回です。",
       },
     ],
-    position: "このサイトで最初に開く店です。運営者自身が、定期便で購入しています。",
+    position: "このサイトで最初に開く店です。運営者自身が、定期便を1年ほど続けていた店です。",
   },
   {
     slug: "doi-coffee",

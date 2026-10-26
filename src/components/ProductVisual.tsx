@@ -26,8 +26,14 @@ export function ProductVisual({ model, variant = "card" }: { model: GrinderModel
       : variant === "embed"
         ? "(min-width: 640px) 14rem, 100vw"
         : "(min-width: 1100px) 30vw, (min-width: 720px) 45vw, 100vw";
-  const linked = isHttpUrl(model.rakutenUrl);
-  const rakutenHosted = /^https:\/\/(?:[\w.-]+\.)?(?:rakuten\.co\.jp|r10s\.jp)\//i.test(model.imageUrl);
+  const rakutenHosted = /^https:\/\/(?:[\w.-]+\.)?(?:rakuten\.co\.jp|r10s\.jp)\//i.test(model.imageUrl ?? "");
+  // 楽天の商品画像は楽天の購入リンクへ。それ以外の写真は、Amazon の購入リンクがあればそちらを優先する。
+  const imageLinkUrl = rakutenHosted
+    ? model.rakutenUrl
+    : isHttpUrl(model.amazonUrl)
+      ? model.amazonUrl
+      : model.rakutenUrl;
+  const linked = isHttpUrl(imageLinkUrl);
   const inner = (
     <>
       <Image src={model.imageUrl} alt={model.imageAlt ?? model.name} fill sizes={sizes} className="object-contain" />
@@ -38,7 +44,7 @@ export function ProductVisual({ model, variant = "card" }: { model: GrinderModel
   if (!linked) return <div className={frameClass}>{inner}</div>;
 
   return (
-    <a className={frameClass} href={model.rakutenUrl} target="_blank" rel={affiliateRel}>
+    <a className={frameClass} href={imageLinkUrl} target="_blank" rel={affiliateRel}>
       {inner}
     </a>
   );
