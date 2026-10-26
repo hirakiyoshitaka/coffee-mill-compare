@@ -102,9 +102,9 @@ date: "2026-10-25"
 
 使える ID は `comandante-c40`、`timemore-chestnut-x`、`1zpresso-k-ultra`、`epeios-essence-go`、`kinu-m47-classic` です。データにない数字や価格は、本文にも書かないでください。価格に触れるときは「目安」と分かる書き方にします。
 
-## メールアドレスを自分のものにする
+## 連絡先
 
-`src/data/site.ts` の `contactEmail` を、受け取れるアドレスに変えます。変えたら `contactEmailIsPlaceholder` を `false` にしてください。運営者情報とプライバシーポリシーの「見本です」という注記が消えます。
+運営者情報とプライバシーポリシーに出るメールアドレスは `hiraki19680812@gmail.com` です。変えるときは `src/data/site.ts` の `contactEmail` を書き換えます。見本のアドレスに戻す場合だけ、`contactEmailIsPlaceholder` を `true` にしてください。
 
 個人の氏名や住所は、最初から載せていません。載せる場合は運営者情報のページ（`src/app/about/page.tsx`）を編集します。
 

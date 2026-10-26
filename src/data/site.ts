@@ -4,9 +4,8 @@ export const siteConfig = {
     "家でコーヒーを淹れる道具を、用途別に比べるノート。手挽きミルの仕様、価格の目安、口コミの傾向を整理しています。ドリッパーやケトルなどは順次追加します。",
   locale: "ja_JP" as const,
   operatorName: "おうちカフェ道具帳 編集部",
-  /** 公開前に自分の連絡先へ差し替える見本アドレスです */
-  contactEmail: "contact@example.com",
-  contactEmailIsPlaceholder: true,
+  contactEmail: "hiraki19680812@gmail.com",
+  contactEmailIsPlaceholder: false,
   legalUpdated: "2026-10-25",
 };
 
