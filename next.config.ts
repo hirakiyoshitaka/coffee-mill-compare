@@ -21,6 +21,11 @@ const nextConfig: NextConfig = {
         hostname: "image.rakuten.co.jp",
         pathname: "/**",
       },
+      {
+        protocol: "https",
+        hostname: "epeios.jp",
+        pathname: "/**",
+      },
     ],
   },
 };
