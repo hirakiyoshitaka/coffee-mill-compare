@@ -12,7 +12,7 @@
 | Node.js | 22（環境変数 `NODE_VERSION` = `22`） |
 | ルート | リポジトリの直下 |
 
-環境変数 `NEXT_PUBLIC_SITE_URL` に、公開するアドレスを `https://` から、末尾の `/` なしで入れます。未設定のビルドは `https://example.com` をサイトのアドレスとして焼き付けます。sitemap、robots、canonical が本番の URL になりません。
+環境変数 `NEXT_PUBLIC_SITE_URL` に、公開するアドレスを `https://` から、末尾の `/` なしで入れます。未設定のビルドは `https://ouchi-cafe-dougucho.pages.dev` をサイトのアドレスとして使います。別のドメインで公開するときは、この環境変数をそのアドレスにしてからビルドし直します。sitemap、robots、canonical はビルド時のアドレスで焼き付きます。
 
 ## ビルドが置くもの
 

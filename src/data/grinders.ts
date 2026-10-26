@@ -170,9 +170,6 @@ export const grinderModels: Record<string, GrinderModel> = {
     shortLabel: "Essence Go",
     highlight: "公式は、38mm・10枚刃で挽きはじめの軽さを狙った、と説明しています。専用ケース付きです。",
     reviewSlug: "epeios-essence-go",
-    imageUrl:
-      "https://hbb.afl.rakuten.co.jp/hgb/58d84e37.d92dccda.58d84e38.b6bc4022/?me_id=1408256&item_id=10000052&pc=https%3A%2F%2Fthumbnail.image.rakuten.co.jp%2F%400_mall%2Fepeios-official%2Fcabinet%2F10681556%2Fbg003-01.jpg&s=800x800&t=picttext",
-    imageAlt: "エペイオス Essence Go の楽天市場商品画像",
     type: "manual",
     burrMaterial: "ステンレス コニカル（10枚刃・38mm）",
     burrDiameterMm: 38,
