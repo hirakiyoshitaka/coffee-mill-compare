@@ -1,103 +1,134 @@
+import Image from "next/image";
 import Link from "next/link";
 import { ArticleList } from "@/components/ArticleList";
+import { BeanDirectoryCard } from "@/components/BeanViews";
 import { GrinderCard } from "@/components/GrinderCard";
 import { StatusBadge } from "@/components/StatusBadge";
-import { categories } from "@/data/categories";
+import { beanShops } from "@/data/beans";
+import { categories, categoryHref } from "@/data/categories";
 import { getFlagshipModels } from "@/data/grinders";
 import { getAllArticles } from "@/lib/articles";
+
+const heroImage =
+  "https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd?auto=format&fit=crop&w=1400&q=80";
 
 export default function HomePage() {
   const articles = getAllArticles().slice(0, 3);
   const models = getFlagshipModels();
-  const newest = articles[0];
 
   return (
-    <main className="mx-auto max-w-6xl px-4 py-10 sm:py-14 lg:max-w-[90rem]">
-      <section className="grid items-end gap-8 border-b border-[var(--border-subtle)] pb-12 lg:grid-cols-[minmax(0,1.4fr)_minmax(18rem,0.8fr)]">
+    <main className="page-wrap">
+      <section className="hero">
         <div>
-          <p className="mb-3 text-sm font-medium text-[var(--seal)]">手挽きミルを公開中</p>
-          <h1 className="font-serif text-4xl leading-tight tracking-tight text-stone-950 sm:text-5xl">おうちカフェ道具帳</h1>
-          <p className="mt-4 max-w-xl text-lg leading-relaxed text-stone-600">
-            ミル、ドリッパー、ケトル。家でコーヒーを淹れる道具を、用途別に比べるためのノートです。いま読めるのは手挽きミルの{models.length}機種。価格は目安です。
+          <p className="hero-kicker">手挽きミルと、届く豆</p>
+          <h1>家のコーヒーを、条件から選ぶ。</h1>
+          <p className="hero-description">
+            おうちカフェ道具帳は、手挽きミルの仕様と、焙煎店の紹介を置くノートです。いま比べられるミルは{models.length}
+            機種。豆は{beanShops.length}店。価格は目安です。
           </p>
-          <div className="mt-8 flex flex-wrap gap-3">
-            <Link
-              href="/compare"
-              className="inline-flex items-center justify-center rounded-full bg-[var(--accent)] px-5 py-2.5 text-sm font-medium text-white transition hover:opacity-90"
-            >
+          <div className="hero-actions">
+            <Link href="/compare" className="hero-cta">
               手挽きミルを比較する
             </Link>
-            <Link
-              href="/articles"
-              className="inline-flex items-center justify-center rounded-full border border-[var(--border-subtle)] bg-[var(--surface-elevated)] px-5 py-2.5 text-sm font-medium text-stone-800 hover:border-stone-300"
-            >
-              読みものを見る
+            <Link href="/beans" className="text-link">
+              豆の店を見る
             </Link>
           </div>
+          <p className="ad-note">購入リンクを置いた場合は広告です。空のリンクはボタンを出しません。</p>
         </div>
-        {newest ? (
-          <Link
-            href={`/articles/${newest.slug}`}
-            className="block rounded-3xl border border-[var(--border-subtle)] bg-[var(--surface-elevated)] p-6 shadow-[0_20px_50px_-36px_rgba(60,32,18,0.55)] transition hover:border-stone-300"
-          >
-            <p className="text-xs font-medium tracking-wide text-[var(--accent-soft)]">最新のノート</p>
-            <p className="mt-4 font-serif text-2xl leading-snug text-stone-900">{newest.title}</p>
-            <p className="mt-3 text-sm leading-relaxed text-stone-600">{newest.description}</p>
-            <p className="mt-5 text-sm font-medium text-[var(--accent)]">記事を読む</p>
-          </Link>
-        ) : null}
+        <figure className="hero-art">
+          <Image
+            src={heroImage}
+            alt="カップに注がれたコーヒーのイメージ"
+            width={1400}
+            height={1200}
+            priority
+          />
+          <figcaption>写真はイメージです。特定の店や機種の実物ではありません。</figcaption>
+        </figure>
       </section>
 
-      <section id="categories" className="scroll-mt-24 py-12">
-        <div className="mb-6 flex flex-wrap items-end justify-between gap-3">
-          <div>
-            <h2 className="font-serif text-2xl text-stone-950">道具カテゴリ</h2>
-            <p className="mt-2 text-sm leading-relaxed text-stone-600">公開中はミルだけです。ほかは、比べるページの枠だけ先に置いています。</p>
-          </div>
-          <Link href="/categories" className="text-sm font-medium text-[var(--accent)] underline-offset-4 hover:underline">
-            カテゴリ一覧
+      <nav className="path-links" aria-label="入口">
+        <Link href="/categories/mill">
+          ミル
+          <small>手挽き{models.length}機種</small>
+        </Link>
+        <Link href="/beans">
+          豆
+          <small>{beanShops.length}店の紹介</small>
+        </Link>
+        <Link href="/articles">
+          読みもの
+          <small>比べ方のノート</small>
+        </Link>
+        <Link href="/categories">
+          道具
+          <small>カテゴリの目次</small>
+        </Link>
+      </nav>
+
+      <section className="section-block">
+        <div className="section-heading">
+          <h2>掲載中の手挽きミル</h2>
+          <Link href="/compare" className="text-link">
+            横並びで比べる
           </Link>
         </div>
-        <ul className="grid gap-3 sm:grid-cols-2 xl:grid-cols-4">
-          {categories.map((category, index) => (
-            <li key={category.slug}>
-              <Link
-                href={`/categories/${category.slug}`}
-                className="flex h-full flex-col rounded-2xl border border-[var(--border-subtle)] bg-[var(--surface-elevated)] p-4 transition hover:border-stone-300"
-              >
-                <span className="flex items-center justify-between gap-2">
-                  <span className="font-serif text-sm text-[var(--accent-soft)]">{String(index + 1).padStart(2, "0")}</span>
-                  <StatusBadge status={category.status} />
-                </span>
-                <span className="mt-4 font-serif text-xl text-stone-900">{category.shortName}</span>
-                <span className="mt-2 text-sm leading-relaxed text-stone-600">{category.summary}</span>
-              </Link>
+        <p className="section-lead">写真はイメージです。価格は目安で、購入リンクは設定したものだけ表示します。</p>
+        <ul className="card-grid">
+          {models.map((model) => (
+            <li key={model.id}>
+              <GrinderCard model={model} />
             </li>
           ))}
         </ul>
       </section>
 
-      <section className="border-t border-[var(--border-subtle)] py-12">
-        <div className="mb-6 flex items-end justify-between gap-3">
-          <h2 className="font-serif text-2xl text-stone-950">読みもの</h2>
-          <Link href="/articles" className="text-sm font-medium text-[var(--accent)] underline-offset-4 hover:underline">
+      <section className="section-block">
+        <div className="section-heading">
+          <h2>豆の店</h2>
+          <Link href="/beans" className="text-link">
+            5店を見る
+          </Link>
+        </div>
+        <p className="section-lead">
+          焙煎と豆の選び方を、確認できた事実だけ書いています。金額は目安です。5店を同じ等級としては扱っていません。
+        </p>
+        <ul className="shop-grid">
+          {beanShops.map((shop) => (
+            <li key={shop.slug}>
+              <BeanDirectoryCard shop={shop} />
+            </li>
+          ))}
+        </ul>
+      </section>
+
+      <section className="section-block">
+        <div className="section-heading">
+          <h2>読みもの</h2>
+          <Link href="/articles" className="text-link">
             すべて
           </Link>
         </div>
         <ArticleList articles={articles} />
       </section>
 
-      <section className="border-t border-[var(--border-subtle)] py-12">
-        <div className="mb-6 max-w-2xl">
-          <h2 className="font-serif text-2xl text-stone-950">掲載中の手挽きミル</h2>
-          <p className="mt-2 text-sm leading-relaxed text-stone-600">
-            写真はイメージです。価格は目安で、購入リンクは設定したものだけ表示します。
-          </p>
+      <section className="section-block" id="categories">
+        <div className="section-heading">
+          <h2>道具カテゴリ</h2>
+          <Link href="/categories" className="text-link">
+            一覧
+          </Link>
         </div>
-        <ul className="grid gap-4 sm:grid-cols-2 xl:grid-cols-3">
-          {models.map((model) => (
-            <li key={model.id}>
-              <GrinderCard model={model} />
+        <p className="section-lead">公開中はミルと豆です。ほかは、比べるページの枠だけ先に置いています。</p>
+        <ul className="category-grid">
+          {categories.map((category) => (
+            <li key={category.slug}>
+              <Link href={categoryHref(category.slug)} className="category-card">
+                <StatusBadge status={category.status} />
+                <strong>{category.shortName}</strong>
+                <span>{category.summary}</span>
+              </Link>
             </li>
           ))}
         </ul>

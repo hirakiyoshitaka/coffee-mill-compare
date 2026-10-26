@@ -11,9 +11,9 @@ export const metadata = pageMeta({
 
 export default function DisclosurePage() {
   return (
-    <main className="mx-auto max-w-3xl px-4 py-10 sm:py-14">
+    <main className="page-wrap page-narrow">
       <Breadcrumb items={[{ href: "/", label: "ホーム" }, { label: "広告表記" }]} />
-      <h1 className="font-serif text-3xl text-stone-950 sm:text-4xl">広告表記</h1>
+      <h1 className="page-title">広告表記</h1>
       <p className="mt-3 text-sm text-stone-500">最終更新：{formatJaDate(siteConfig.legalUpdated)}</p>
       <div className="article-body mt-8">
         <h2>広告であることを、先に示します</h2>
@@ -22,10 +22,11 @@ export default function DisclosurePage() {
         </p>
         <h2>どのリンクが広告か</h2>
         <p>
-          楽天市場、Amazon、Yahoo!ショッピングへのリンクと、もしもアフィリエイト等の HTML は、アフィリエイト広告です。リンクには <code>rel=&quot;sponsored nofollow&quot;</code> を付けます。URL も HTML も空の商品には、購入ボタンを出しません。
+          楽天市場、Amazon、Yahoo!ショッピング、A8.net への購入リンクと、もしもアフィリエイト等の HTML は、アフィリエイト広告です。リンクには <code>rel=&quot;sponsored nofollow&quot;</code> を付けます。URL も HTML も空の商品には、購入ボタンを出しません。豆の店にある公式サイトや、紹介用の楽天店舗ページは、アフィリエイト用の URL を入れていない限り広告リンクではありません。
         </p>
         <p>参加している、または参加する予定のプログラムは次のとおりです。未設定のプログラムは、ボタンも出ません。</p>
         <ul>
+          <li>A8.net</li>
           <li>楽天アフィリエイト</li>
           <li>Amazonアソシエイト</li>
           <li>Yahoo!ショッピング（バリューコマース等を含む場合があります）</li>
@@ -37,7 +38,7 @@ export default function DisclosurePage() {
         </p>
         <h2>価格は目安です</h2>
         <p>
-          金額は「価格の目安」です。店舗、セール、為替、メーカー改定で変わります。EPEIOS Essence Go の金額だけは、公式掲載を基準にしたサイト内の固定値で、変わるときはデータを手で更新します。
+          金額は「価格の目安」です。店舗、セール、為替、メーカー改定で変わります。EPEIOS Essence Go の金額だけは、公式掲載を基準にしたサイト内の固定値で、変わるときはデータを手で更新します。豆の金額は、2026年10月26日時点の紹介に基づく目安です。店のページの表示が優先します。
         </p>
         <h2>口コミの扱い</h2>
         <p>口コミ欄は、特定の投稿や星の転載ではありません。フォーラムやレビューで繰り返される論点を、編集部があらかじめ要約したものです。</p>

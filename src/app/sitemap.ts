@@ -1,4 +1,5 @@
 import type { MetadataRoute } from "next";
+import { beanShops } from "@/data/beans";
 import { categories } from "@/data/categories";
 import { brands } from "@/data/grinders";
 import { getSiteUrl, siteConfig } from "@/data/site";
@@ -15,8 +16,11 @@ function abs(path: string): string {
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const updated = new Date(`${siteConfig.legalUpdated}T00:00:00.000Z`);
-  const staticPaths = ["/", "/categories", "/compare", "/articles", "/about", "/privacy", "/disclosure"];
-  const categoryPaths = categories.filter((category) => category.status === "live").map((category) => `/categories/${category.slug}`);
+  const staticPaths = ["/", "/categories", "/compare", "/articles", "/beans", "/about", "/privacy", "/disclosure"];
+  const categoryPaths = categories
+    .filter((category) => category.status === "live" && category.slug !== "beans")
+    .map((category) => `/categories/${category.slug}`);
+  const beanPaths = beanShops.map((shop) => `/beans/${shop.slug}`);
   const brandPaths = brands.map((brand) => `/brands/${brand.slug}`);
   const articles = getAllArticles();
 
@@ -32,6 +36,12 @@ export default function sitemap(): MetadataRoute.Sitemap {
       lastModified: updated,
       changeFrequency: "weekly" as const,
       priority: 0.8,
+    })),
+    ...beanPaths.map((path) => ({
+      url: abs(path),
+      lastModified: updated,
+      changeFrequency: "monthly" as const,
+      priority: 0.7,
     })),
     ...brandPaths.map((path) => ({
       url: abs(path),

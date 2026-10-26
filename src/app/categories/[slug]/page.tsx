@@ -5,6 +5,7 @@ import { ArticleList } from "@/components/ArticleList";
 import { Breadcrumb } from "@/components/Breadcrumb";
 import { GrinderCard } from "@/components/GrinderCard";
 import { StatusBadge } from "@/components/StatusBadge";
+import { beanShops } from "@/data/beans";
 import { categories, getCategory } from "@/data/categories";
 import { getFlagshipModels, grinderTypeLabel } from "@/data/grinders";
 import { getArticlesByCategory } from "@/lib/articles";
@@ -22,11 +23,12 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { slug } = await params;
   const category = getCategory(slug);
   if (!category) return {};
+  const beansAlias = category.slug === "beans";
   return pageMeta({
     title: category.name,
     description: category.lead,
-    path: `/categories/${category.slug}`,
-    noindex: category.status === "soon",
+    path: beansAlias ? "/beans" : `/categories/${category.slug}`,
+    noindex: category.status === "soon" || beansAlias,
   });
 }
 
@@ -40,8 +42,44 @@ export default async function CategoryPage({ params }: Props) {
   const manual = models.filter((model) => model.type === "manual");
   const electric = models.filter((model) => model.type === "electric");
 
+  if (category.slug === "beans") {
+    return (
+      <main className="page-wrap">
+        <Breadcrumb
+          items={[
+            { href: "/", label: "ホーム" },
+            { href: "/categories", label: "道具" },
+            { label: category.shortName },
+          ]}
+        />
+        <p className="hero-kicker">豆</p>
+        <h1 className="page-title">{category.name}</h1>
+        <p className="lede">{category.lead}</p>
+        <p>
+          <Link href="/beans" className="text-link">
+            豆の店のページを開く
+          </Link>
+        </p>
+        <ul className="article-index mt-8">
+          {beanShops.map((shop, index) => (
+            <li key={shop.slug}>
+              <Link href={`/beans/${shop.slug}`} className="article-card">
+                <span className="article-number">{String(index + 1).padStart(2, "0")}</span>
+                <span>
+                  <span className="category">{[shop.area, shop.company].filter(Boolean).join("・") || "焙煎豆の店"}</span>
+                  <h3>{shop.name}</h3>
+                  <p>{shop.summary}</p>
+                </span>
+              </Link>
+            </li>
+          ))}
+        </ul>
+      </main>
+    );
+  }
+
   return (
-    <main className="mx-auto max-w-6xl px-4 py-10 sm:py-14">
+    <main className="page-wrap">
       <Breadcrumb
         items={[
           { href: "/", label: "ホーム" },
@@ -51,35 +89,38 @@ export default async function CategoryPage({ params }: Props) {
       />
       <header className="mb-10 max-w-3xl">
         <StatusBadge status={category.status} />
-        <h1 className="mt-3 font-serif text-3xl text-stone-950 sm:text-4xl">{category.name}</h1>
-        <p className="mt-4 text-base leading-relaxed text-stone-600">{category.lead}</p>
+        <h1 className="page-title">{category.name}</h1>
+        <p className="lede">{category.lead}</p>
       </header>
 
       {category.slug === "mill" ? (
         <>
           <section>
             <h2 className="font-serif text-2xl text-stone-950">手挽き</h2>
-            <p className="mt-2 max-w-2xl text-sm leading-relaxed text-stone-600">
+            <p className="section-lead">
               掲載は{manual.length}機種、いずれも{grinderTypeLabel("manual")}です。写真はイメージで、価格は目安です。
             </p>
-            <ul className="mt-6 grid gap-4 sm:grid-cols-2 xl:grid-cols-3">
+            <ul className="card-grid">
               {manual.map((model) => (
                 <li key={model.id}>
                   <GrinderCard model={model} />
                 </li>
               ))}
             </ul>
-            <p className="mt-6">
-              <Link href="/compare" className="text-sm font-medium text-[var(--accent)] underline-offset-4 hover:underline">
+            <p className="hero-actions mt-6">
+              <Link href="/compare" className="text-link">
                 スペックを横並びで見る
+              </Link>
+              <Link href="/beans" className="text-link">
+                挽いたあとの豆の店
               </Link>
             </p>
           </section>
 
-          <section className="mt-14 rounded-2xl border border-dashed border-[var(--border-subtle)] bg-[var(--surface-elevated)] p-6">
+          <section className="section-block border border-[var(--line)] bg-[var(--white)] p-6">
             <h2 className="font-serif text-2xl text-stone-950">電動</h2>
             {electric.length === 0 ? (
-              <p className="mt-3 max-w-2xl text-sm leading-relaxed text-stone-600">
+              <p className="section-lead">
                 電動ミルの機種データは、まだありません。名前を出して勧める材料がないので、この欄は準備中です。手挽きとの違いは時短や音、置き場所ですが、具体的な機種はデータが揃ってから書きます。
               </p>
             ) : (
@@ -94,7 +135,7 @@ export default async function CategoryPage({ params }: Props) {
           </section>
         </>
       ) : (
-        <section className="rounded-2xl border border-dashed border-[var(--border-subtle)] bg-[var(--surface-elevated)] p-6">
+        <section className="border border-[var(--line)] bg-[var(--white)] p-6">
           <h2 className="font-serif text-2xl text-stone-950">準備している比べ方</h2>
           <ul className="mt-4 list-disc space-y-1 pl-5 text-sm leading-relaxed text-stone-700">
             {category.planned.map((item) => (
@@ -103,8 +144,12 @@ export default async function CategoryPage({ params }: Props) {
           </ul>
           <p className="mt-4 text-sm leading-relaxed text-stone-600">
             商品名、価格、購入リンクはまだ入れていません。いま中身があるのは
-            <Link href="/categories/mill" className="mx-1 font-medium text-[var(--accent)] underline-offset-4 hover:underline">
+            <Link href="/categories/mill" className="mx-1 font-bold text-[var(--accent-dark)] underline underline-offset-4">
               ミル
+            </Link>
+            と
+            <Link href="/beans" className="mx-1 font-bold text-[var(--accent-dark)] underline underline-offset-4">
+              豆
             </Link>
             です。
           </p>

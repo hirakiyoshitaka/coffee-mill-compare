@@ -85,3 +85,7 @@ K-Ultra は、大径バーと外調整の使い勝手が支持されやすく、
 電動は準備中です。機種名は出していません。
 
 用途ごとの全体は[ミルのランキング記事](/articles/coffee-mill-ranking/)に、C40 と Chestnut X の二択は[別の記事](/articles/comandante-c40-vs-chestnut-x/)に分けています。
+
+## 挽いたあとに頼む豆
+
+店の焙煎と選び方は[豆の店](/beans/)です。コマンダンテとタイムモアのページから豆へ進む記事は[手挽きミルを買ったら最初に頼みたい豆](/articles/first-beans-after-hand-mill/)です。この3機種のどれと、どの店の豆が合うかは、掲載データにはありません。

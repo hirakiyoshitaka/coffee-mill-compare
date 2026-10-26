@@ -4,7 +4,7 @@ import { notFound } from "next/navigation";
 import { ArticleBody } from "@/components/ArticleBody";
 import { Breadcrumb } from "@/components/Breadcrumb";
 import { PrNotice } from "@/components/PrNotice";
-import { getCategory } from "@/data/categories";
+import { categoryHref, getCategory } from "@/data/categories";
 import { formatJaDate, siteConfig } from "@/data/site";
 import { getAllArticles, getArticle } from "@/lib/articles";
 import { pageMeta } from "@/lib/seo";
@@ -49,7 +49,7 @@ export default async function ArticlePage({ params }: Props) {
   };
 
   return (
-    <main className="mx-auto max-w-3xl px-4 py-10 sm:py-14">
+    <main className="page-wrap page-narrow">
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
       <Breadcrumb
         items={[
@@ -60,13 +60,13 @@ export default async function ArticlePage({ params }: Props) {
       />
       <header className="mb-8">
         <p className="text-xs font-medium tracking-wide text-[var(--seal)]">PR</p>
-        <h1 className="mt-2 font-serif text-3xl leading-snug text-stone-950 sm:text-4xl">{article.title}</h1>
+        <h1 className="mt-3 font-serif text-[1.75rem] leading-snug tracking-wide text-[var(--ink)] sm:text-[2.15rem]">{article.title}</h1>
         <p className="mt-4 text-sm text-stone-500">
           <time dateTime={article.date}>{formatJaDate(article.date)}</time>
           {category ? (
             <>
               <span className="mx-2">/</span>
-              <Link href={`/categories/${category.slug}`} className="text-[var(--accent)] underline-offset-4 hover:underline">
+              <Link href={categoryHref(category.slug)} className="font-bold text-[var(--accent-dark)] underline underline-offset-4">
                 {category.shortName}
               </Link>
             </>

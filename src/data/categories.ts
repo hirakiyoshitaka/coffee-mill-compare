@@ -81,15 +81,20 @@ export const categories: Category[] = [
   },
   {
     slug: "beans",
-    shortName: "豆通販",
-    name: "豆通販",
-    summary: "定期便や単品を、焙煎日の分かりやすさと配送で比べる予定です。",
-    lead: "生豆ではなく、家に届く焙煎豆の買い方を整理する欄です。店の名前はまだ出していません。",
-    planned: ["焙煎日の表示", "配送", "定期便の有無", "価格の目安"],
-    status: "soon",
+    shortName: "豆",
+    name: "豆の店",
+    summary: "5店の焙煎と、お試し・定期便の目安を紹介しています。",
+    lead: "家に届く焙煎豆を、店の焙煎と豆の選び方から紹介します。金額があるものは目安です。",
+    planned: ["注文後の焙煎", "豆の選び方", "お試しと定期便", "価格の目安"],
+    status: "live",
   },
 ];
 
 export function getCategory(slug: string): Category | undefined {
   return categories.find((category) => category.slug === slug);
+}
+
+export function categoryHref(slug: string): string {
+  if (slug === "beans") return "/beans";
+  return `/categories/${slug}`;
 }

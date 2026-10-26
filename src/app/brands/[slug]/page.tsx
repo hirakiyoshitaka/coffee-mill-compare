@@ -3,7 +3,7 @@ import Image from "next/image";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { Breadcrumb } from "@/components/Breadcrumb";
-import { BuyButtons } from "@/components/BuyButtons";
+import { BuyButtons, grinderBuyProps } from "@/components/BuyButtons";
 import { ReviewChips } from "@/components/ReviewChips";
 import { RichText } from "@/components/RichText";
 import { brands, getBrand, getModel, grinderTypeLabel } from "@/data/grinders";
@@ -36,7 +36,7 @@ export default async function BrandPage({ params }: Props) {
   const flagships = brand.flagshipIds.map((id) => getModel(id)).filter((model) => model !== undefined);
 
   return (
-    <main className="mx-auto max-w-3xl px-4 py-10 sm:py-14">
+    <main className="page-wrap page-narrow">
       <Breadcrumb
         items={[
           { href: "/", label: "ホーム" },
@@ -46,7 +46,7 @@ export default async function BrandPage({ params }: Props) {
       />
 
       <p className="text-sm text-stone-500">{brand.country}</p>
-      <h1 className="mt-1 font-serif text-3xl tracking-tight text-stone-950 sm:text-4xl">
+      <h1 className="page-title">
         {brand.nameJa}
         <span className="ml-2 text-xl font-medium text-stone-500">{brand.nameEn}</span>
       </h1>
@@ -58,7 +58,7 @@ export default async function BrandPage({ params }: Props) {
         <h2 className="font-serif text-2xl text-stone-950">掲載モデル</h2>
         <ul className="mt-4 space-y-6">
           {flagships.map((model) => (
-            <li key={model.id} className="overflow-hidden rounded-2xl border border-[var(--border-subtle)] bg-[var(--surface-elevated)]">
+            <li key={model.id} className="product-card">
               <div className="relative h-56 bg-stone-200">
                 <Image src={model.imageUrl} alt={model.imageAlt} fill sizes="(min-width: 768px) 48rem, 100vw" className="object-cover" />
               </div>
@@ -105,7 +105,7 @@ export default async function BrandPage({ params }: Props) {
                     </ul>
                   </div>
                 </div>
-                <BuyButtons model={model} />
+                <BuyButtons {...grinderBuyProps(model)} />
               </div>
             </li>
           ))}
@@ -122,14 +122,14 @@ export default async function BrandPage({ params }: Props) {
         </div>
       </section>
 
-      <div className="mt-12 flex flex-wrap gap-3">
-        <Link href="/compare" className="inline-flex rounded-full bg-[var(--accent)] px-4 py-2 text-sm font-medium text-white hover:opacity-90">
+      <div className="hero-actions mt-12">
+        <Link href="/compare" className="hero-cta">
           比較表を見る
         </Link>
-        <Link
-          href="/categories/mill"
-          className="inline-flex rounded-full border border-stone-300 bg-[var(--surface-elevated)] px-4 py-2 text-sm font-medium text-stone-800 hover:border-stone-400"
-        >
+        <Link href="/beans" className="text-link">
+          豆の店を見る
+        </Link>
+        <Link href="/categories/mill" className="text-link">
           ミルのカテゴリへ
         </Link>
       </div>

@@ -1,51 +1,49 @@
 import type { GrinderModel } from "@/data/grinders";
 import { affiliateRel, isHttpUrl, prepareAffiliateHtml } from "@/lib/affiliate";
 
-type Props = {
-  model: Pick<GrinderModel, "name" | "rakutenUrl" | "amazonUrl" | "yahooUrl" | "moshimoHtml">;
+export type BuyLink = {
+  href?: string;
+  label: string;
 };
 
-const shops: { key: "rakutenUrl" | "amazonUrl" | "yahooUrl"; label: string }[] = [
-  { key: "rakutenUrl", label: "楽天市場で見る" },
-  { key: "amazonUrl", label: "Amazonで見る" },
-  { key: "yahooUrl", label: "Yahoo!ショッピングで見る" },
-];
+type Props = {
+  name: string;
+  links: BuyLink[];
+  html?: string;
+};
 
-export function BuyButtons({ model }: Props) {
-  const links = shops.flatMap((shop) => {
-    const href = model[shop.key]?.trim();
+export function grinderBuyProps(model: Pick<GrinderModel, "name" | "rakutenUrl" | "amazonUrl" | "yahooUrl" | "moshimoHtml">): Props {
+  return {
+    name: model.name,
+    html: model.moshimoHtml,
+    links: [
+      { href: model.rakutenUrl, label: "楽天市場で価格を見る" },
+      { href: model.amazonUrl, label: "Amazonで価格を見る" },
+      { href: model.yahooUrl, label: "Yahoo!ショッピングで価格を見る" },
+    ],
+  };
+}
+
+export function BuyButtons({ name, links, html }: Props) {
+  const visible = links.flatMap((link) => {
+    const href = link.href?.trim();
     if (!isHttpUrl(href)) return [];
-    return [{ href, label: shop.label }];
+    return [{ href, label: link.label }];
   });
-  const html = model.moshimoHtml?.trim() ?? "";
-  if (links.length === 0 && html === "") return null;
+  const snippet = html?.trim() ?? "";
+  if (visible.length === 0 && snippet === "") return null;
 
   return (
-    <div className="mt-4 rounded-xl border border-dashed border-[var(--border-subtle)] bg-[var(--surface)] px-3 py-3">
-      <p className="text-xs font-medium text-[var(--seal)]">購入リンク（広告）</p>
-      {links.length > 0 ? (
-        <ul className="mt-2 flex flex-wrap gap-2">
-          {links.map((link) => (
-            <li key={link.label}>
-              <a
-                href={link.href}
-                target="_blank"
-                rel={affiliateRel}
-                className="inline-flex rounded-full bg-[var(--accent)] px-3 py-1.5 text-xs font-medium text-white transition hover:opacity-90"
-              >
-                {link.label}
-                <span className="sr-only">（{model.name}・外部サイト）</span>
-              </a>
-            </li>
-          ))}
-        </ul>
-      ) : null}
-      {html ? (
-        <div
-          className="affiliate-html mt-3 text-sm leading-relaxed"
-          dangerouslySetInnerHTML={{ __html: prepareAffiliateHtml(html) }}
-        />
-      ) : null}
+    <div className="buy-stack">
+      <p className="buy-note">購入リンク（広告）</p>
+      {visible.map((link) => (
+        <a key={link.label} className="buy-link" href={link.href} target="_blank" rel={affiliateRel}>
+          {link.label}
+          <small>広告</small>
+          <span className="sr-only">（{name}・外部サイト）</span>
+        </a>
+      ))}
+      {snippet ? <div className="affiliate-html" dangerouslySetInnerHTML={{ __html: prepareAffiliateHtml(snippet) }} /> : null}
     </div>
   );
 }

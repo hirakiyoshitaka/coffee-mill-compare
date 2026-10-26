@@ -102,6 +102,27 @@ date: "2026-10-25"
 
 使える ID は `comandante-c40`、`timemore-chestnut-x`、`1zpresso-k-ultra`、`epeios-essence-go`、`kinu-m47-classic` です。データにない数字や価格は、本文にも書かないでください。価格に触れるときは「目安」と分かる書き方にします。
 
+豆の店カードは、次の1行です。
+
+```md
+{{bean:coffee-carrot}}
+```
+
+使える ID は `coffee-carrot`、`doi-coffee`、`leo-specialty-coffee`、`lab-cafe`、`sawai-coffee` です。
+
+## 豆の購入リンク
+
+ファイルは `src/data/beans.ts` です。各店に次の2つがあります。最初は空です。
+
+```ts
+a8Url: "",
+rakutenUrl: "",
+```
+
+A8.net の URL は `a8Url`、楽天アフィリエイトの URL は `rakutenUrl` に貼ります。どちらも `https://` から書いたときだけ、「ショップで見る」「楽天市場で見る」のボタンが出ます。空のままならボタンは出ません。
+
+`officialUrl` と `rakutenShopUrl` は、店の公開ページです。広告のボタンではありません。金額を足すときは、目安であることと、いつの紹介に基づくかを本文とデータの時点表記に残してください。
+
 ## 連絡先
 
 運営者情報とプライバシーポリシーに出るメールアドレスは `hiraki19680812@gmail.com` です。変えるときは `src/data/site.ts` の `contactEmail` を書き換えます。見本のアドレスに戻す場合だけ、`contactEmailIsPlaceholder` を `true` にしてください。
@@ -128,4 +149,4 @@ npm run dev
 - Next.js の静的書き出し（`output: 'export'`）です。画像の最適化サーバーは使わず、`images.unoptimized` にしています。Cloudflare Pages は HTML を置くだけで動きます。
 - 各ページの URL は、末尾に `/` が付く形で書き出します（例：`/articles/coffee-mill-ranking/index.html`）。Pages はこの形を問題なく配信できます。
 - 準備中のカテゴリは、人が開けるページとしては存在しますが、検索結果には出さない設定（noindex）です。中身ができてから検索対象にします。
-- サイトマップに載るのは、ホーム、道具一覧、ミル、比較、ブランド、記事、運営者情報、プライバシーポリシー、広告表記です。
+- サイトマップに載るのは、ホーム、道具一覧、ミル、豆の店と各店、比較、ブランド、記事、運営者情報、プライバシーポリシー、広告表記です。豆のカテゴリ枠（`/categories/beans/`）は、豆の店（`/beans/`）へ案内するページで、検索結果には出しません。

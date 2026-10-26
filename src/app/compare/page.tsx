@@ -2,7 +2,7 @@ import Image from "next/image";
 import type { ReactNode } from "react";
 import Link from "next/link";
 import { Breadcrumb } from "@/components/Breadcrumb";
-import { BuyButtons } from "@/components/BuyButtons";
+import { BuyButtons, grinderBuyProps } from "@/components/BuyButtons";
 import { brands, comparisonRows, getFlagshipModels, type GrinderModel } from "@/data/grinders";
 import { pageMeta } from "@/lib/seo";
 
@@ -18,7 +18,7 @@ function MdSection({ title, children }: { title: string; children: ReactNode }) 
       <h2 className="mb-5 scroll-mt-24 text-[1.125rem] font-semibold tracking-tight text-stone-900 sm:text-[1.25rem]">
         {title}
       </h2>
-      <div className="space-y-3 text-[15px] leading-[1.75] text-stone-600 md:pl-7 [&_blockquote]:my-3 [&_blockquote]:border-l-2 [&_blockquote]:border-stone-300/90 [&_blockquote]:pl-4 [&_blockquote]:text-[14px] [&_blockquote]:italic [&_blockquote]:text-stone-500 [&_strong]:font-medium [&_strong]:text-stone-800 [&_ul]:my-2 [&_ul]:list-disc [&_ul]:pl-5">
+      <div className="space-y-3 text-[17px] leading-[1.9] text-[var(--muted)] md:pl-7 [&_blockquote]:my-3 [&_blockquote]:border-l-2 [&_blockquote]:border-[var(--line)] [&_blockquote]:pl-4 [&_blockquote]:text-[16px] [&_blockquote]:text-[var(--muted)] [&_strong]:font-medium [&_strong]:text-[var(--ink)] [&_ul]:my-2 [&_ul]:list-disc [&_ul]:pl-5">
         {children}
       </div>
     </section>
@@ -34,7 +34,7 @@ export default function ComparePage() {
   const models = getFlagshipModels();
 
   return (
-    <main className="mx-auto max-w-6xl px-4 py-10 sm:py-14 lg:max-w-[90rem]">
+    <main className="page-wrap">
       <Breadcrumb
         items={[
           { href: "/", label: "ホーム" },
@@ -44,8 +44,8 @@ export default function ComparePage() {
       />
       <header className="mb-10 max-w-2xl">
         <p className="mb-2 text-sm font-medium text-[var(--accent-soft)]">コーヒーミル（手挽き）</p>
-        <h1 className="font-serif text-3xl tracking-tight text-stone-900 sm:text-[2rem]">{models.length}機種スペック比較</h1>
-        <p className="mt-3 text-[15px] leading-relaxed text-stone-600">
+        <h1 className="page-title">{models.length}機種スペック比較</h1>
+        <p className="lede">
           写真はイメージです。数値と価格は目安です。購入前に、販売ページの最新表示を確認してください。購入リンクを置いた場合は広告です。
         </p>
       </header>
@@ -87,7 +87,7 @@ export default function ComparePage() {
                   >
                     ブランド詳細
                   </Link>
-                  <BuyButtons model={m} />
+                  <BuyButtons {...grinderBuyProps(m)} />
                 </div>
               </div>
             </article>
@@ -284,8 +284,11 @@ export default function ComparePage() {
         </MdSection>
       </article>
 
-      <p className="mx-auto mt-14 max-w-3xl text-center text-[13px] text-stone-500 lg:max-w-[42rem]">
-        <Link href="/" className="font-medium text-[var(--accent)] underline-offset-4 hover:underline">
+      <p className="mx-auto mt-14 flex max-w-3xl flex-wrap justify-center gap-x-8 gap-y-3 text-center lg:max-w-[42rem]">
+        <Link href="/beans" className="text-link">
+          挽いたあとの豆の店
+        </Link>
+        <Link href="/" className="text-link">
           ホームへ戻る
         </Link>
       </p>

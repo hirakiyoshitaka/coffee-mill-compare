@@ -107,3 +107,7 @@ date: "2026-10-25"
 - [ミルのカテゴリ](/categories/mill/)
 - [手挽き3ブランドの比較](/articles/manual-grinders-comandante-timemore-1zpresso/)
 - [C40 と Chestnut X](/articles/comandante-c40-vs-chestnut-x/)
+
+## 挽いたあとに頼む豆
+
+手挽きを置いたあと、どの店の豆を頼むかは別の話です。店の焙煎と選び方は[豆の店](/beans/)にまとめています。コマンダンテとタイムモアで挽く前提の紹介は[手挽きミルを買ったら最初に頼みたい豆](/articles/first-beans-after-hand-mill/)です。特定のミルと特定の豆の味の組み合わせは、このサイトでは断定していません。

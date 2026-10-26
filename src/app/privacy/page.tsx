@@ -11,9 +11,9 @@ export const metadata = pageMeta({
 
 export default function PrivacyPage() {
   return (
-    <main className="mx-auto max-w-3xl px-4 py-10 sm:py-14">
+    <main className="page-wrap page-narrow">
       <Breadcrumb items={[{ href: "/", label: "ホーム" }, { label: "プライバシーポリシー" }]} />
-      <h1 className="font-serif text-3xl text-stone-950 sm:text-4xl">プライバシーポリシー</h1>
+      <h1 className="page-title">プライバシーポリシー</h1>
       <p className="mt-3 text-sm text-stone-500">最終更新：{formatJaDate(siteConfig.legalUpdated)}</p>
       <div className="article-body mt-8">
         <h2>はじめに</h2>
