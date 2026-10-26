@@ -46,7 +46,7 @@ export default function ComparePage() {
         <p className="mb-2 text-sm font-medium text-[var(--accent-soft)]">コーヒーミル（手挽き）</p>
         <h1 className="page-title">{models.length}機種スペック比較</h1>
         <p className="lede">
-          このサイトが先に勧めるのは、栗子 S5 Pro とエペイオス Essence Go です。ほかの機種は、条件を並べるために残しています。Essence Go の写真は楽天市場の商品画像です。栗子 S5 Pro と、ほかの機種の実機写真は載せていません。数値と価格は目安です。
+          このサイトが先に勧めるのは、栗子 S5 Pro とエペイオス Essence Go です。ほかの機種は、条件を並べるために残しています。栗子 S5 Pro の写真はグリーンです。Essence Go の写真は楽天市場の商品画像です。ほかの機種の実機写真は載せていません。数値と価格は目安です。
         </p>
       </header>
 
