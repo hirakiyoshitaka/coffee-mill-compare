@@ -20,7 +20,7 @@ export function LocaleHeader({ locale }: { locale: TranslationLocale }) {
       </Link>
       <nav className="site-nav" aria-label={t.nav}>
         <Link href={`/${locale}/`}>{t.articles}</Link>
-        <Link href="/disclosure/">{t.disclosure}</Link>
+        <Link href={`/${locale}/disclosure/`}>{t.disclosure}</Link>
         <Link href="/" lang="ja">
           {t.japanese}
         </Link>
@@ -39,7 +39,7 @@ export function LocaleFooter({ locale }: { locale: TranslationLocale }) {
       </p>
       <div className="footer-links">
         <Link href={`/${locale}/`}>{t.articles}</Link>
-        <Link href="/disclosure/">{t.disclosure}</Link>
+        <Link href={`/${locale}/disclosure/`}>{t.disclosure}</Link>
         <Link href="/" lang="ja">
           {t.japanese}
         </Link>

@@ -15,13 +15,13 @@ type Props = {
   locale?: SiteLocale;
 };
 
-export function grinderBuyProps(model: Pick<GrinderModel, "name" | "rakutenUrl" | "amazonUrl" | "yahooUrl" | "moshimoHtml" | "purchaseNote">, locale: SiteLocale = "ja"): Props {
+export function grinderBuyProps(model: Pick<GrinderModel, "name" | "rakutenUrl" | "amazonUrl" | "yahooUrl" | "moshimoHtml" | "purchaseNote">, locale: SiteLocale = "ja", noteLocalized = false): Props {
   const d = cardDict[locale];
   return {
     name: model.name,
     html: model.moshimoHtml,
-    // purchaseNote は日本語のみのデータなので、翻訳ページでは出さない
-    note: locale === "ja" ? model.purchaseNote : undefined,
+    // 翻訳ページでは、翻訳済みの purchaseNote があるときだけ出す
+    note: locale === "ja" || noteLocalized ? model.purchaseNote : undefined,
     locale,
     links: [
       { href: model.rakutenUrl, label: d.rakuten },

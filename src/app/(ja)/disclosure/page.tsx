@@ -2,17 +2,22 @@ import Link from "next/link";
 import { Breadcrumb } from "@/components/Breadcrumb";
 import { formatJaDate, siteConfig } from "@/data/site";
 import { pageMeta } from "@/lib/seo";
+import { disclosureLanguages, disclosureLocalePaths } from "@/components/intl/LocaleDisclosure";
+import { LanguageSwitcher } from "@/components/intl/LanguageSwitcher";
 
-export const metadata = pageMeta({
+const baseMeta = pageMeta({
   title: "広告表記",
   description: "おうちカフェ道具帳のアフィリエイト広告、記事冒頭のPR表示、ランキングと価格の目安の考え方。ステルスマーケティング規制への対応です。",
   path: "/disclosure",
 });
 
+export const metadata = { ...baseMeta, alternates: { ...baseMeta.alternates, languages: disclosureLanguages() } };
+
 export default function DisclosurePage() {
   return (
     <main className="page-wrap page-narrow">
       <Breadcrumb items={[{ href: "/", label: "ホーム" }, { label: "広告表記" }]} />
+      <LanguageSwitcher current="ja" paths={disclosureLocalePaths()} label="言語" />
       <h1 className="page-title">広告表記</h1>
       <p className="mt-3 text-sm text-stone-500">最終更新：{formatJaDate(siteConfig.legalUpdated)}</p>
       <div className="article-body mt-8">

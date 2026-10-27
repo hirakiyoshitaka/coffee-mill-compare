@@ -59,6 +59,6 @@ date: "2026-10-27"
 
 ## 廣告揭露
 
-本站部分連結為聯盟行銷（Affiliate）連結，透過連結購買時，本站可能獲得分潤，但不會增加您的購買金額。詳細說明請見[廣告揭露](/disclosure/)。
+本站部分連結為聯盟行銷（Affiliate）連結，透過連結購買時，本站可能獲得分潤，但不會增加您的購買金額。詳細說明請見[廣告揭露](/zh-hk/disclosure/)。
 
 No.1 評測請看：[栗子 S5 Pro](/zh-hk/articles/timemore-chestnut-s5-pro/)。
