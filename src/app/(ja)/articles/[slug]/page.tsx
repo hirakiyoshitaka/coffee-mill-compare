@@ -9,6 +9,9 @@ import { formatJaDate, siteConfig } from "@/data/site";
 import { LanguageSwitcher } from "@/components/intl/LanguageSwitcher";
 import { articleLanguageAlternates, articleLocalePaths, getAllArticles, getArticle } from "@/lib/articles";
 import { pageMeta } from "@/lib/seo";
+import { GrinderCard } from "@/components/GrinderCard";
+import { getModel } from "@/data/grinders";
+import { getSiteUrl } from "@/data/site";
 
 type Props = { params: Promise<{ slug: string }> };
 
@@ -40,13 +43,30 @@ export default async function ArticlePage({ params }: Props) {
   if (!article) notFound();
 
   const category = getCategory(article.category);
-  const related = getAllArticles().filter((item) => item.slug !== article.slug);
+  const others = getAllArticles().filter((item) => item.slug !== article.slug);
+  const related = [...others.filter((item) => item.category === article.category), ...others.filter((item) => item.category !== article.category)];
+  const siteUrl = getSiteUrl();
+  const pageUrl = `${siteUrl}/articles/${article.slug}/`;
+  const grinderIds = [...new Set([...article.content.matchAll(/\{\{grinder:([a-z0-9-]+)\}\}/g)].map((m) => m[1]))];
+  const endModels = grinderIds.map((id) => getModel(id)).filter((m): m is NonNullable<typeof m> => Boolean(m));
+  const breadcrumbLd = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    itemListElement: [
+      { "@type": "ListItem", position: 1, name: "ホーム", item: `${siteUrl}/` },
+      { "@type": "ListItem", position: 2, name: "読みもの", item: `${siteUrl}/articles/` },
+      { "@type": "ListItem", position: 3, name: article.title, item: pageUrl },
+    ],
+  };
   const jsonLd = {
     "@context": "https://schema.org",
     "@type": "Article",
     headline: article.title,
     description: article.description,
     datePublished: article.date,
+    dateModified: article.date,
+    mainEntityOfPage: pageUrl,
+    image: `${siteUrl}/images/og-default.jpg`,
     inLanguage: "ja",
     author: { "@type": "Organization", name: siteConfig.operatorName },
     publisher: { "@type": "Organization", name: siteConfig.name },
@@ -55,6 +75,7 @@ export default async function ArticlePage({ params }: Props) {
   return (
     <main className="page-wrap page-narrow">
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbLd) }} />
       <Breadcrumb
         items={[
           { href: "/", label: "ホーム" },
@@ -83,6 +104,15 @@ export default async function ArticlePage({ params }: Props) {
       <div className="mt-8">
         <ArticleBody markdown={article.content} />
       </div>
+      {endModels.length > 0 ? (
+        <section className="mt-12 border-t border-[var(--border-subtle)] pt-8" aria-label="この記事で紹介したミル">
+          <h2 className="font-serif text-xl text-stone-950">この記事で紹介したミル</h2>
+          <p className="mt-2 text-xs text-stone-500">価格と在庫は、各ショップのページで確認してください。</p>
+          {endModels.map((model) => (
+            <GrinderCard key={`end-${model.id}`} model={model} variant="embed" />
+          ))}
+        </section>
+      ) : null}
       {related.length > 0 ? (
         <aside className="mt-14 border-t border-[var(--border-subtle)] pt-8">
           <h2 className="font-serif text-xl text-stone-950">ほかのノート</h2>

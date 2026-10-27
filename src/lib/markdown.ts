@@ -13,7 +13,7 @@ export function renderMarkdown(source: string): string {
     })
     .replace(/<a href="(https?:\/\/[^"]+)"/g, (_match, href: string) => {
       const affiliate = /(?:^https?:\/\/)(?:www\.)?(?:amazon\.co\.jp|amzn\.to|amzn\.asia|amzn\.com)\b|afl\.rakuten\.co\.jp|moshimo\.com|px\.a8\.net|valuecommerce\.com/i.test(href);
-      const rel = affiliate ? "sponsored noopener" : "noopener noreferrer";
+      const rel = affiliate ? "sponsored nofollow noopener" : "noopener noreferrer";
       return `<a href="${href}" target="_blank" rel="${rel}"`;
     });
 }
