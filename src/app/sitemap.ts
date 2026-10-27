@@ -3,7 +3,7 @@ import { beanShops } from "@/data/beans";
 import { categories } from "@/data/categories";
 import { brands } from "@/data/grinders";
 import { getSiteUrl, siteConfig } from "@/data/site";
-import { getAllArticles } from "@/lib/articles";
+import { getAllArticles, getLocalizedArticles, translationLocales } from "@/lib/articles";
 
 export const dynamic = "force-static";
 
@@ -55,5 +55,13 @@ export default function sitemap(): MetadataRoute.Sitemap {
       changeFrequency: "monthly" as const,
       priority: 0.8,
     })),
+    ...translationLocales.flatMap((locale) =>
+      getLocalizedArticles(locale).map((article) => ({
+        url: abs(`/${locale}/articles/${article.slug}`),
+        lastModified: new Date(`${article.date}T00:00:00.000Z`),
+        changeFrequency: "monthly" as const,
+        priority: 0.6,
+      })),
+    ),
   ];
 }

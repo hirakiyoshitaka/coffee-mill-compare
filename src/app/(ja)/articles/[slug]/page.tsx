@@ -6,7 +6,7 @@ import { Breadcrumb } from "@/components/Breadcrumb";
 import { PrNotice } from "@/components/PrNotice";
 import { categoryHref, getCategory } from "@/data/categories";
 import { formatJaDate, siteConfig } from "@/data/site";
-import { getAllArticles, getArticle } from "@/lib/articles";
+import { articleLanguageAlternates, getAllArticles, getArticle } from "@/lib/articles";
 import { pageMeta } from "@/lib/seo";
 
 type Props = { params: Promise<{ slug: string }> };
@@ -21,13 +21,16 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { slug } = await params;
   const article = getArticle(slug);
   if (!article) return {};
-  return pageMeta({
+  const meta = pageMeta({
     title: article.title,
     description: article.description,
     path: `/articles/${article.slug}`,
     type: "article",
     publishedTime: article.date,
   });
+  const languages = articleLanguageAlternates(article.slug);
+  if (Object.keys(languages).length > 2) meta.alternates = { ...meta.alternates, languages };
+  return meta;
 }
 
 export default async function ArticlePage({ params }: Props) {

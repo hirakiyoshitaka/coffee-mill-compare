@@ -75,3 +75,60 @@ export function getArticle(slug: string): Article | undefined {
 export function getArticlesByCategory(category: string): ArticleMeta[] {
   return getAllArticles().filter((article) => article.category === category);
 }
+
+/* ---- 海外向け（翻訳）記事: content/<locale>/*.md ---- */
+
+export const translationLocales = ["zh-tw", "ko"] as const;
+export type TranslationLocale = (typeof translationLocales)[number];
+
+/** hreflang 用の言語コード */
+export const hreflangOf: Record<"ja" | TranslationLocale, string> = { ja: "ja", "zh-tw": "zh-TW", ko: "ko" };
+
+function localeDir(locale: TranslationLocale): string {
+  return path.join(contentDir, locale);
+}
+
+function readLocalizedArticle(locale: TranslationLocale, fileName: string): Article {
+  const label = `${locale}/${fileName}`;
+  const parsed = matter(fs.readFileSync(path.join(localeDir(locale), fileName), "utf8"));
+  const category = requiredString(parsed.data.category, label, "category");
+  if (!getCategory(category)) throw new Error(`${label} の category「${category}」はカテゴリ一覧にありません`);
+  return {
+    slug: fileName.replace(/\.md$/, ""),
+    title: requiredString(parsed.data.title, label, "title"),
+    description: requiredString(parsed.data.description, label, "description"),
+    category,
+    date: asDateString(parsed.data.date, label),
+    content: parsed.content.trim(),
+  };
+}
+
+function localizedFiles(locale: TranslationLocale): string[] {
+  const dir = localeDir(locale);
+  if (!fs.existsSync(dir)) return [];
+  return fs.readdirSync(dir).filter((file) => file.endsWith(".md"));
+}
+
+export function getLocalizedArticles(locale: TranslationLocale): ArticleMeta[] {
+  return localizedFiles(locale)
+    .map((file) => readLocalizedArticle(locale, file))
+    .sort((a, b) => (a.date === b.date ? a.slug.localeCompare(b.slug) : a.date < b.date ? 1 : -1))
+    .map(({ slug, title, description, category, date }) => ({ slug, title, description, category, date }));
+}
+
+export function getLocalizedArticle(locale: TranslationLocale, slug: string): Article | undefined {
+  const fileName = `${slug}.md`;
+  if (!localizedFiles(locale).includes(fileName)) return undefined;
+  return readLocalizedArticle(locale, fileName);
+}
+
+/** 同じ slug の記事がある言語ごとのパス（hreflang alternates 用） */
+export function articleLanguageAlternates(slug: string): Record<string, string> {
+  const languages: Record<string, string> = {};
+  if (getArticle(slug)) languages[hreflangOf.ja] = `/articles/${slug}/`;
+  for (const locale of translationLocales) {
+    if (getLocalizedArticle(locale, slug)) languages[hreflangOf[locale]] = `/${locale}/articles/${slug}/`;
+  }
+  if (languages[hreflangOf.ja]) languages["x-default"] = languages[hreflangOf.ja];
+  return languages;
+}
