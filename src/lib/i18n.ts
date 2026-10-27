@@ -128,7 +128,7 @@ export const chromeDict: Record<
     japanese: "日本語版",
     disclosure: "廣告披露",
     listTitle: "文章一覽",
-    listLead: "按條件揀選在家用的咖啡器材。購買連結為 Amazon.co.jp 等日本商店，價錢為日本市場價格。",
+    listLead: "按條件挑選家用咖啡器材。購買連結為 Amazon.co.jp 等日本商店，價錢為日本市場價格。",
     footerNote: "本站含廣告及聯盟推廣連結。本站為 Amazon 日本的聯盟會員，透過合資格銷售賺取收入。",
     skip: "跳到主要內容",
     nav: "主選單",
