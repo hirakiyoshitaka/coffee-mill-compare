@@ -78,11 +78,11 @@ export function getArticlesByCategory(category: string): ArticleMeta[] {
 
 /* ---- 海外向け（翻訳）記事: content/<locale>/*.md ---- */
 
-export const translationLocales = ["zh-tw", "ko"] as const;
+export const translationLocales = ["zh-tw", "zh-hk", "ko"] as const;
 export type TranslationLocale = (typeof translationLocales)[number];
 
 /** hreflang 用の言語コード */
-export const hreflangOf: Record<"ja" | TranslationLocale, string> = { ja: "ja", "zh-tw": "zh-TW", ko: "ko" };
+export const hreflangOf: Record<"ja" | TranslationLocale, string> = { ja: "ja", "zh-tw": "zh-TW", "zh-hk": "zh-HK", ko: "ko" };
 
 function localeDir(locale: TranslationLocale): string {
   return path.join(contentDir, locale);
@@ -131,4 +131,14 @@ export function articleLanguageAlternates(slug: string): Record<string, string> 
   }
   if (languages[hreflangOf.ja]) languages["x-default"] = languages[hreflangOf.ja];
   return languages;
+}
+
+/** 言語切り替え用: その slug の記事がある言語とパス（ja は /articles/） */
+export function articleLocalePaths(slug: string): { locale: "ja" | TranslationLocale; href: string }[] {
+  const out: { locale: "ja" | TranslationLocale; href: string }[] = [];
+  if (getArticle(slug)) out.push({ locale: "ja", href: `/articles/${slug}/` });
+  for (const locale of translationLocales) {
+    if (getLocalizedArticle(locale, slug)) out.push({ locale, href: `/${locale}/articles/${slug}/` });
+  }
+  return out;
 }

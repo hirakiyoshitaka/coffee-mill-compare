@@ -15,7 +15,7 @@ date: "2026-10-27"
 
 ## 站長的使用心得
 
-我用的是狩獵綠的栗子 S5 Pro。在這之前沒有特別用過其他磨豆機，
+我用的是狩獵綠的栗子 S5 Pro。在這之前沒有特別用過其他磨豆機。
 
 用法以手沖為主，每天都在用。約 910g 在手搖磨豆機裡算偏重，但我完全不在意這個重量。
 
@@ -60,4 +60,4 @@ date: "2026-10-27"
 
 本站部分連結為聯盟行銷（Affiliate）連結，透過連結購買時，本站可能獲得分潤，但不會增加您的購買金額。詳細說明請見[廣告揭露](/disclosure/)。
 
-下一篇：[Epeios Essence Go](/articles/epeios-essence-go/)。
+下一篇：[Epeios Essence Go](/zh-tw/articles/epeios-essence-go/)。

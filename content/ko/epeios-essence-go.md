@@ -51,15 +51,12 @@ S5 프로를 집에 두었다면, 또 한 대는 케이스에 들어가고 눈�
 
 ## 구매처
 
-일본 아마존(Amazon.co.jp)의 일부 상품은 AmazonGlobal로 한국까지 배송됩니다. 배송비와 관세·부가세 예상액은 결제 화면에 표시되며, 배송 가능 여부는 상품마다 다르니 결제 화면에서 확인하세요.
+일본 아마존(Amazon.co.jp)은 AmazonGlobal을 통해 한국으로 배송합니다. 다만 배송비와 배송 가능 여부는 상품마다 다르며, 관세·부가세 예상액과 함께 결제 화면에서 확인하세요.
 
 - [Amazon.co.jp에서 에페이오스 에센스 고 보기](https://www.amazon.co.jp/dp/B0D3PZHGBX?tag=stocknotelife-22)
-
-쿠팡 등 한국 판매처 구매 링크는 준비 중입니다.
-<!-- TODO(Muse): 韓国向け購入リンク -->
 
 ## 광고 고지
 
 이 사이트의 일부 링크는 제휴 마케팅(어필리에이트) 링크입니다. 링크를 통해 구매하시면 사이트가 수수료를 받을 수 있지만, 구매 금액이 늘어나지는 않습니다. 자세한 내용은 [광고 고지](/disclosure/)를 확인하세요.
 
-No.1 리뷰: [타임모어 S5 프로](/articles/timemore-chestnut-s5-pro/)
+No.1 리뷰: [타임모어 S5 프로](/ko/articles/timemore-chestnut-s5-pro/)

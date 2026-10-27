@@ -1,34 +1,38 @@
 import Link from "next/link";
 import { BuyButtons, grinderBuyProps } from "@/components/BuyButtons";
 import { ProductVisual } from "@/components/ProductVisual";
+import { cardDict, type SiteLocale } from "@/lib/i18n";
 import { featuredLabel, getBrand, grinderTypeLabel, type GrinderModel } from "@/data/grinders";
 
-function diameterLabel(model: GrinderModel): string {
-  return model.burrDiameterMm ? `${model.burrDiameterMm} mm` : "公表値要確認";
+function diameterLabel(model: GrinderModel, locale: SiteLocale): string {
+  return model.burrDiameterMm ? `${model.burrDiameterMm} mm` : cardDict[locale].diameterUnknown;
 }
 
-export function GrinderCard({ model, variant = "tile" }: { model: GrinderModel; variant?: "tile" | "embed" }) {
+export function GrinderCard({ model, variant = "tile", locale = "ja", reviewHref }: { model: GrinderModel; variant?: "tile" | "embed"; locale?: SiteLocale; reviewHref?: string }) {
+  const d = cardDict[locale];
+  const ja = locale === "ja";
   const brand = getBrand(model.brandSlug);
   const specs = [
-    ["駆動", grinderTypeLabel(model.type)],
-    ["バー", model.burrMaterial],
-    ["バー径", diameterLabel(model)],
-    ["調整", model.adjustment],
-    ["重量", model.weightGrams ? `${model.weightGrams} g` : "—"],
+    [d.drive, grinderTypeLabel(model.type)],
+    [d.burr, model.burrMaterial],
+    [d.burrSize, diameterLabel(model, locale)],
+    [d.adjust, model.adjustment],
+    [d.weight, model.weightGrams ? `${model.weightGrams} g` : "—"],
   ] as const;
 
-  const rank = featuredLabel(model.id);
+  const jaRank = featuredLabel(model.id);
+  const rank = ja ? jaRank : jaRank?.replace(/^おすすめ\s*/, "");
   const body = (
     <div className="product-body flex flex-1 flex-col">
       <p className="pick-label">{rank ?? `${brand?.nameJa ?? model.brandSlug}・${grinderTypeLabel(model.type)}`}</p>
       {rank ? (
         <p className="fine">
-          {brand ? `${brand.nameJa}（${brand.nameEn}）` : model.brandSlug}
-          {brand?.country ? `・${brand.country}` : ""}
+          {brand ? (ja ? `${brand.nameJa}（${brand.nameEn}）` : brand.nameEn) : model.brandSlug}
+          {ja && brand?.country ? `・${brand.country}` : ""}
         </p>
       ) : null}
       <h3>{model.name}</h3>
-      {model.highlight ? <p>{model.highlight}</p> : null}
+      {ja && model.highlight ? <p>{model.highlight}</p> : null}
       {variant === "embed" ? (
         <dl className="mt-2 grid gap-3 sm:grid-cols-2">
           {specs.map(([label, value]) => (
@@ -42,18 +46,24 @@ export function GrinderCard({ model, variant = "tile" }: { model: GrinderModel; 
         <p>{model.cuppingNotes[0]}</p>
       )}
       <p className="price-row">
-        <span>価格の目安</span>
+        <span>{d.price}</span>
         <strong>{model.priceJpyHint}</strong>
       </p>
-      <BuyButtons {...grinderBuyProps(model)} />
+      {d.priceNote ? <p className="fine">{d.priceNote}</p> : null}
+      <BuyButtons {...grinderBuyProps(model, locale)} />
       <p className="hero-actions mt-auto pt-2">
-        {model.reviewSlug ? (
+        {ja && model.reviewSlug ? (
           <Link href={`/articles/${model.reviewSlug}`} className="text-link">
-            レビューを読む
+            {d.review}
           </Link>
         ) : null}
-        <Link href={`/brands/${model.brandSlug}`} className="text-link">
-          {brand?.nameJa ?? "ブランド"}のページへ
+        {!ja && reviewHref ? (
+          <Link href={reviewHref} className="text-link">
+            {d.review}
+          </Link>
+        ) : null}
+        <Link href={`/brands/${model.brandSlug}`} className="text-link" {...(ja ? {} : { lang: "ja" as const })}>
+          {ja ? <>{brand?.nameJa ?? "ブランド"}のページへ</> : d.brandPage(brand?.nameEn ?? model.brandSlug)}
         </Link>
       </p>
     </div>
