@@ -24,7 +24,7 @@ export default function DisclosurePage() {
         </p>
         <h2>どのリンクが広告か</h2>
         <p>
-          楽天市場、Amazon、Yahoo!ショッピング、A8.net への購入リンクと、もしもアフィリエイト等の HTML は、アフィリエイト広告です。リンクには <code>rel=&quot;sponsored noopener&quot;</code> と <code>target=&quot;_blank&quot;</code> を付けます。Amazon の商品リンクには、アソシエイトタグ <code>tag=stocknotelife-22</code> を付けます。栗子 S5 Pro の写真は、画像そのものが購入リンク（Amazon）になっています。Essence Go の写真は EPEIOS 公式サイトの製品写真で、こちらも画像が購入リンク（Amazon）です。URL も HTML も空の商品には、購入ボタンを出しません。豆の店にある公式サイトや、紹介用の楽天店舗ページは、アフィリエイト用の URL を入れていない限り広告リンクではありません。
+          楽天市場、Amazon、Yahoo!ショッピング、A8.net への購入リンクと、もしもアフィリエイト等の HTML は、アフィリエイト広告です。リンクには <code>rel=&quot;sponsored nofollow noopener&quot;</code> と <code>target=&quot;_blank&quot;</code> を付けます。Amazon の商品リンクには、アソシエイトタグ <code>tag=stocknotelife-22</code> を付けます。栗子 S5 Pro の写真は、画像そのものが購入リンク（Amazon）になっています。Essence Go の写真は EPEIOS 公式サイトの製品写真で、こちらも画像が購入リンク（Amazon）です。URL も HTML も空の商品には、購入ボタンを出しません。豆の店にある公式サイトや、紹介用の楽天店舗ページは、アフィリエイト用の URL を入れていない限り広告リンクではありません。
         </p>
         <p>参加している、または参加する予定のプログラムは次のとおりです。未設定のプログラムは、ボタンも出ません。</p>
         <ul>

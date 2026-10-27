@@ -1,6 +1,8 @@
 import type { Metadata } from "next";
 import { siteConfig } from "@/data/site";
 
+export const defaultOgImage = { url: "/images/og-default.jpg", width: 1200, height: 630 };
+
 type PageMetaInput = {
   title: string;
   description: string;
@@ -36,6 +38,7 @@ export function pageMeta({
           type: "article" as const,
           locale: siteConfig.locale,
           siteName: siteConfig.name,
+          images: [defaultOgImage],
           publishedTime,
         }
       : {
@@ -45,6 +48,7 @@ export function pageMeta({
           type: "website" as const,
           locale: siteConfig.locale,
           siteName: siteConfig.name,
+          images: [defaultOgImage],
         };
 
   return {
@@ -57,6 +61,7 @@ export function pageMeta({
       card: "summary_large_image",
       title: fullTitle,
       description,
+      images: [defaultOgImage.url],
     },
   };
 }

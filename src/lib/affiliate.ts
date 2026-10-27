@@ -1,4 +1,4 @@
-const REL = "sponsored noopener";
+const REL = "sponsored nofollow noopener";
 
 /** もしも等のHTMLに、広告リンク用の rel を足す。script と onclick 系は取り除く。 */
 export function prepareAffiliateHtml(html: string): string {
@@ -12,7 +12,7 @@ export function prepareAffiliateHtml(html: string): string {
     if (/\srel\s*=/i.test(next)) {
       next = next.replace(/\srel\s*=\s*("([^"]*)"|'([^']*)')/i, (_match, _quoted, doubleQuoted: string | undefined, singleQuoted: string | undefined) => {
         const current = (doubleQuoted ?? singleQuoted ?? "").split(/\s+/).filter(Boolean);
-        for (const token of ["sponsored", "noopener"]) {
+        for (const token of ["sponsored", "nofollow", "noopener"]) {
           if (!current.includes(token)) current.push(token);
         }
         return ` rel="${current.join(" ")}"`;
