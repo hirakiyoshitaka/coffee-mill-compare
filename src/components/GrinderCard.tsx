@@ -2,18 +2,21 @@ import Link from "next/link";
 import { BuyButtons, grinderBuyProps } from "@/components/BuyButtons";
 import { ProductVisual } from "@/components/ProductVisual";
 import { cardDict, type SiteLocale } from "@/lib/i18n";
+import { localizeModel, localizedTypeLabel } from "@/data/grinders-i18n";
 import { featuredLabel, getBrand, grinderTypeLabel, type GrinderModel } from "@/data/grinders";
 
 function diameterLabel(model: GrinderModel, locale: SiteLocale): string {
   return model.burrDiameterMm ? `${model.burrDiameterMm} mm` : cardDict[locale].diameterUnknown;
 }
 
-export function GrinderCard({ model, variant = "tile", locale = "ja", reviewHref }: { model: GrinderModel; variant?: "tile" | "embed"; locale?: SiteLocale; reviewHref?: string }) {
+export function GrinderCard({ model: baseModel, variant = "tile", locale = "ja", reviewHref }: { model: GrinderModel; variant?: "tile" | "embed"; locale?: SiteLocale; reviewHref?: string }) {
   const d = cardDict[locale];
   const ja = locale === "ja";
+  const model = localizeModel(baseModel, locale);
+  const typeLabel = ja ? grinderTypeLabel(model.type) : localizedTypeLabel(model.type, locale);
   const brand = getBrand(model.brandSlug);
   const specs = [
-    [d.drive, grinderTypeLabel(model.type)],
+    [d.drive, typeLabel],
     [d.burr, model.burrMaterial],
     [d.burrSize, diameterLabel(model, locale)],
     [d.adjust, model.adjustment],
@@ -24,7 +27,7 @@ export function GrinderCard({ model, variant = "tile", locale = "ja", reviewHref
   const rank = ja ? jaRank : jaRank?.replace(/^おすすめ\s*/, "");
   const body = (
     <div className="product-body flex flex-1 flex-col">
-      <p className="pick-label">{rank ?? `${brand?.nameJa ?? model.brandSlug}・${grinderTypeLabel(model.type)}`}</p>
+      <p className="pick-label">{rank ?? `${(ja ? brand?.nameJa : brand?.nameEn) ?? model.brandSlug}・${typeLabel}`}</p>
       {rank ? (
         <p className="fine">
           {brand ? (ja ? `${brand.nameJa}（${brand.nameEn}）` : brand.nameEn) : model.brandSlug}
@@ -32,7 +35,7 @@ export function GrinderCard({ model, variant = "tile", locale = "ja", reviewHref
         </p>
       ) : null}
       <h3>{model.name}</h3>
-      {ja && model.highlight ? <p>{model.highlight}</p> : null}
+      {(ja || model.localized) && model.highlight ? <p>{model.highlight}</p> : null}
       {variant === "embed" ? (
         <dl className="mt-2 grid gap-3 sm:grid-cols-2">
           {specs.map(([label, value]) => (
@@ -50,7 +53,7 @@ export function GrinderCard({ model, variant = "tile", locale = "ja", reviewHref
         <strong>{model.priceJpyHint}</strong>
       </p>
       {d.priceNote ? <p className="fine">{d.priceNote}</p> : null}
-      <BuyButtons {...grinderBuyProps(model, locale)} />
+      <BuyButtons {...grinderBuyProps(model, locale, model.localized)} />
       <p className="hero-actions mt-auto pt-2">
         {ja && model.reviewSlug ? (
           <Link href={`/articles/${model.reviewSlug}`} className="text-link">

@@ -55,11 +55,8 @@ date: "2026-10-27"
 
 上方 Amazon.co.jp 連結的商品，若標示可透過 AmazonGlobal 寄送，即可寄到台灣；運費與關稅於結帳時顯示，收件人需完成 EZ WAY 實名認證。是否可寄送依商品而定，請在結帳頁確認。
 
-台灣在地通路（蝦皮 Shopee、momo）的購買連結準備中。
-<!-- TODO(Muse): 台湾向け購入リンク -->
-
 ## 廣告揭露
 
-本站部分連結為聯盟行銷（Affiliate）連結，透過連結購買時，本站可能獲得分潤，但不會增加您的購買金額。詳細說明請見[廣告揭露](/disclosure/)。
+本站部分連結為聯盟行銷（Affiliate）連結，透過連結購買時，本站可能獲得分潤，但不會增加您的購買金額。詳細說明請見[廣告揭露](/zh-tw/disclosure/)。
 
 No.1 評測請看：[栗子 S5 Pro](/zh-tw/articles/timemore-chestnut-s5-pro/)。

@@ -63,6 +63,12 @@ export default function sitemap(): MetadataRoute.Sitemap {
         changeFrequency: "weekly" as const,
         priority: 0.6,
       })),
+    ...translationLocales.map((locale) => ({
+      url: abs(`/${locale}/disclosure`),
+      lastModified: updated,
+      changeFrequency: "monthly" as const,
+      priority: 0.4,
+    })),
     ...translationLocales.flatMap((locale) =>
       getLocalizedArticles(locale).map((article) => ({
         url: abs(`/${locale}/articles/${article.slug}`),
