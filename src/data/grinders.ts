@@ -89,79 +89,6 @@ export const grinderModels: Record<string, GrinderModel> = {
       "ゼロ点でも刃のすき間は約0.075mm。偏った力では摩擦音が出ることがある、と公式が注意しています",
     ],
   },
-  "comandante-c40": {
-    id: "comandante-c40",
-    brandSlug: "comandante",
-    name: "Comandante C40 MK4",
-    shortLabel: "C40 MK4",
-    type: "manual",
-    burrMaterial: "窒化鋼（Nitro Blade）",
-    burrDiameterMm: 39,
-    adjustment: "ダイヤル式ステップ（クリック）",
-    weightGrams: 600,
-    priceJpyHint: "約45,000〜55,000円台（リテーラー・為替により変動）",
-    rakutenUrl: "",
-    amazonUrl: "",
-    yahooUrl: "",
-    moshimoHtml: "",
-    cuppingNotes: [
-      "粒子の均一さと甘みの出方で定評",
-      "ハンドドリップ〜カップ向けのバランス型",
-      "ビルド品質とリセールの高さ",
-    ],
-    caveats: [
-      "価格帯が高め",
-      "エスプレッソ極細は習熟と時間が必要な声も",
-    ],
-  },
-  "timemore-chestnut-x": {
-    id: "timemore-chestnut-x",
-    brandSlug: "timemore",
-    name: "Timemore Chestnut X",
-    shortLabel: "Chestnut X",
-    type: "manual",
-    burrMaterial: "S2C 880 ステンレス（特許形状）",
-    burrDiameterMm: undefined,
-    adjustment: "24段階＋微調整リング",
-    weightGrams: 765,
-    priceJpyHint: "約35,000〜45,000円台（セール・店舗により変動）",
-    rakutenUrl: "",
-    amazonUrl: "",
-    yahooUrl: "",
-    moshimoHtml: "",
-    cuppingNotes: [
-      "切れ味とスルー速度のバランス",
-      "デザイン性とコストパフォーマンスの両立を狙う層に人気",
-    ],
-    caveats: [
-      "サイズ・重量は携帯より据え置き寄り",
-      "極細域の再現性は個体差・メンテ感度の指摘も",
-    ],
-  },
-  "1zpresso-k-ultra": {
-    id: "1zpresso-k-ultra",
-    brandSlug: "1zpresso",
-    name: "1Zpresso K-Ultra",
-    shortLabel: "K-Ultra",
-    type: "manual",
-    burrMaterial: "ステンレス コニカル",
-    burrDiameterMm: 48,
-    adjustment: "外ダイヤル式 100 クリック/回（8.8µm/click 目安）",
-    weightGrams: 700,
-    priceJpyHint: "約28,000〜38,000円台（直販・代理店により変動）",
-    rakutenUrl: "",
-    amazonUrl: "",
-    yahooUrl: "",
-    moshimoHtml: "",
-    cuppingNotes: [
-      "大径バーと外調整の使い勝手が支持されることが多い",
-      "エスプレッソ寄りの細挽きにも挑戦しやすい設計",
-    ],
-    caveats: [
-      "パーツ供給はブランド・世代で要確認",
-      "外観はやや工業的と感じるユーザーも",
-    ],
-  },
   /** EPEIOS: 比較対象は Essence Go のみ固定。価格・スペックは静的（公式 URL の定期同期なし・要更新時は手動で編集）。 */
   "epeios-essence-go": {
     id: "epeios-essence-go",
@@ -193,105 +120,17 @@ export const grinderModels: Record<string, GrinderModel> = {
       "スペア・サポート体制は購入前に公式情報で要確認",
     ],
   },
-  "kinu-m47-classic": {
-    id: "kinu-m47-classic",
-    brandSlug: "kinu",
-    name: "Kinu M47 Classic",
-    shortLabel: "M47 Classic",
-    type: "manual",
-    burrMaterial: "硬化鋼 コニカル（ブラックコーティング）",
-    burrDiameterMm: 47,
-    adjustment: "マイクロメトリック ステンレスダイヤル（無段階）",
-    weightGrams: 715,
-    priceJpyHint: "約55,000〜75,000円台（輸入ルート・在庫により変動）",
-    rakutenUrl: "",
-    amazonUrl: "",
-    yahooUrl: "",
-    moshimoHtml: "",
-    cuppingNotes: [
-      "47mm コニカルと無段階調整の操作感が高評価になりやすい",
-      "挽き心地の滑らかさを挙げるレビューが多い",
-    ],
-    caveats: [
-      "重量・サイズは携帯より据え置き寄り",
-      "価格帯はフラッグシップ級で予算との相談になりやすい",
-    ],
-  },
 };
 
 export const brands: Brand[] = [
-  {
-    slug: "comandante",
-    nameJa: "コマンダンテ",
-    nameEn: "Comandante",
-    country: "ドイツ",
-    blurb:
-      "スペシャルティシーンで広く参照されるハンドミルの一角。C40 は味わいの再現性とブランド資産の両方で語られることが多いです。",
-    flagshipIds: ["comandante-c40"],
-    communityReviews: [
-      {
-        id: "c40-1",
-        theme: "味の輪郭・甘み",
-        summary:
-          "同じ豆でも雑味が減り輪郭がはっきりする、という体験談がコミュニティで多く見られます。",
-        tendency: "good",
-      },
-      {
-        id: "c40-2",
-        theme: "価格と納得感",
-        summary:
-          "初めての一台としては勇気が要る一方、長く使う前提では投資として妥当という意見が対立しがちです。",
-        tendency: "mixed",
-      },
-      {
-        id: "c40-3",
-        theme: "エスプレッソ",
-        summary:
-          "可能だが専用ミルと比べると時間と腕前が要る、という声と、十分楽しめるという声が併存します。",
-        tendency: "watch",
-      },
-    ],
-  },
-  {
-    slug: "kinu",
-    nameJa: "キヌ",
-    nameEn: "Kinu",
-    country: "ドイツ",
-    blurb:
-      "ベルリン発のハンドミル。M47 シリーズは大径コニカルと無段階微調整で知られ、コマンダンテと並ぶ高級手挽きとしてレビューやフォーラムで頻繁に比較されます。",
-    flagshipIds: ["kinu-m47-classic"],
-    communityReviews: [
-      {
-        id: "kn-1",
-        theme: "挽き心地・トルク",
-        summary:
-          "浅煎りではやや重め、深煎りでは滑らか、といった豆依存のコメントと、一貫して滑らかだという評価が混在します。",
-        tendency: "mixed",
-      },
-      {
-        id: "kn-2",
-        theme: "無段階調整の再現性",
-        summary:
-          "ダイヤルで微調整できる点は好評一方、日々の記録やマーキングがないと再現に迷うという実用面の指摘も見られます。",
-        tendency: "mixed",
-      },
-      {
-        id: "kn-3",
-        theme: "携帯性と価格",
-        summary:
-          "据え置きメインのユーザーには納得感が高い一方、旅行用の第一候補としては重量・価格が壁になる声もあります。",
-        tendency: "watch",
-      },
-    ],
-  },
   {
     slug: "timemore",
     nameJa: "タイムモア",
     nameEn: "Timemore",
     country: "中国",
     blurb:
-      "デザインと調整機構で知られる手挽きのブランドです。このサイトが先に勧めるのは栗子 S5 Pro（Chestnut S5 Pro）です。Chestnut X は、比較表に残している別モデルです。",
-    flagshipIds: ["timemore-chestnut-s5-pro", "timemore-chestnut-x"],
+      "デザインと調整機構で知られる手挽きのブランドです。このサイトが勧めるのは栗子 S5 Pro（Chestnut S5 Pro）です。",
+    flagshipIds: ["timemore-chestnut-s5-pro"],
     communityReviews: [
       {
         id: "tm-1",
@@ -312,38 +151,6 @@ export const brands: Brand[] = [
         theme: "メンテナンス",
         summary:
           "分解清掃のしやすさを褒める声と、パーツの入手性を気にする声が混在します。",
-        tendency: "watch",
-      },
-    ],
-  },
-  {
-    slug: "1zpresso",
-    nameJa: "ワンゼットプレッソ",
-    nameEn: "1Zpresso",
-    country: "台湾",
-    blurb:
-      "大径バーと直感的な調整機構で支持を集める台湾発ブランド。K シリーズはエスプレッソ志向のユーザーレビューでも名前が上がりやすいです。",
-    flagshipIds: ["1zpresso-k-ultra"],
-    communityReviews: [
-      {
-        id: "1z-1",
-        theme: "外ダイヤル調整",
-        summary:
-          "豆を入れたまま粒度を変えられる点が作業導線の改善として好評になることが多いです。",
-        tendency: "good",
-      },
-      {
-        id: "1z-2",
-        theme: "挽き心地・トルク",
-        summary:
-          "浅煎りの硬い豆ではやや重い、深煎りでは滑らか、など豆依存のコメントが散見されます。",
-        tendency: "mixed",
-      },
-      {
-        id: "1z-3",
-        theme: "製品ラインナップ",
-        summary:
-          "型番が多く、自分の抽出スタイルに合うモデル選びに迷う、という初心者向けの相談がフォーラムで目立ちます。",
         tendency: "watch",
       },
     ],

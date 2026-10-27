@@ -16,9 +16,6 @@ date: "2026-10-27"
 掲載データの刃の径は、次のとおりです。
 
 - 栗子 S5 Pro：48mm
-- 1Zpresso K-Ultra：48mm
-- Kinu M47 Classic：47mm
-- Comandante C40 MK4：39mm
 - エペイオス Essence Go：38mm（10枚刃）
 
 ## 2. 挽き目の調整を見る
@@ -27,7 +24,6 @@ date: "2026-10-27"
 
 - 栗子 S5 Pro：外ダイヤル、1回転90クリック、1クリック15ミクロン（公式の説明）
 - エペイオス Essence Go：0〜80段階、外側で目盛りを見る方式
-- 1Zpresso K-Ultra：外ダイヤル式、1回転100クリック（目安）
 
 外ダイヤル式は、本体を分解せずに挽き目を変えられるので、はじめての人にも扱いやすい方式です。
 
@@ -37,8 +33,6 @@ date: "2026-10-27"
 
 - 栗子 S5 Pro：約910g
 - エペイオス Essence Go：約870g
-- 1Zpresso K-Ultra：約700g
-- Comandante C40 MK4：約600g
 
 運営者は栗子 S5 Pro のグリーンを使っていて、ドリップ中心の毎日で、約910gの重さは気にならない、というのが本人の感想です。
 
@@ -56,9 +50,9 @@ date: "2026-10-27"
 
 運営者の一言は「とにかく軽く回る」。公式も、10枚刃で挽きはじめを軽くした、と説明しています。詳しくは[Essence Go のレビュー](/articles/epeios-essence-go/)です。
 
-## 比較用の機種
+## ランキングと比較表
 
-予算や好みで、ほかのフラッグシップも見たい人は、[手挽きミルの比較](/articles/manual-grinders-comandante-timemore-1zpresso/)と[ランキング](/articles/coffee-mill-ranking/)を開いてください。
+2台を並べて見たい人は、[ランキング](/articles/coffee-mill-ranking/)と[スペック比較](/compare/)を開いてください。
 
 ## ミルが決まったら豆
 

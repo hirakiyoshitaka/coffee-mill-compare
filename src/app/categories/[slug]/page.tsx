@@ -98,22 +98,11 @@ export default async function CategoryPage({ params }: Props) {
           <section>
             <h2 className="font-serif text-2xl text-stone-950">おすすめ</h2>
             <p className="section-lead">
-              掲載は{manual.length}機種、いずれも{grinderTypeLabel("manual")}です。先に見るのは2台です。栗子 S5 Pro の写真はグリーンです。Essence Go は製品名のカードです。ほかの機種の実機写真は載せていません。価格は目安です。
+              掲載は{manual.length}機種、いずれも{grinderTypeLabel("manual")}です。栗子 S5 Pro の写真はグリーンです。Essence Go は製品名のカードです。価格は目安です。
             </p>
             <ul className="picks-grid">
               {manual
                 .filter((model) => featuredLabel(model.id))
-                .map((model) => (
-                  <li key={model.id}>
-                    <GrinderCard model={model} />
-                  </li>
-                ))}
-            </ul>
-            <h2 className="mt-14 font-serif text-2xl text-stone-950">比較用に残している機種</h2>
-            <p className="section-lead">このサイトの一番手ではありません。仕様を横並びで見るための掲載です。</p>
-            <ul className="card-grid">
-              {manual
-                .filter((model) => !featuredLabel(model.id))
                 .map((model) => (
                   <li key={model.id}>
                     <GrinderCard model={model} />
