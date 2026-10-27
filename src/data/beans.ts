@@ -100,7 +100,7 @@ export const beanShops: BeanShop[] = [
     slug: "leo-specialty-coffee",
     name: "LEO SPECIALTY COFFEE",
     officialUrl: "https://leo-specialty-coffee.com/",
-    a8Url: "",
+    a8Url: "https://px.a8.net/svt/ejp?a8mat=4BEPQ4+36WPAY+5XNE+5YJRM",
     rakutenUrl: "",
     summary: "国際資格のコーヒーグレーダーが豆を選び、欠点豆を手で除いてから届ける店です。",
     story: [
