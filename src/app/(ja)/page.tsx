@@ -12,7 +12,13 @@ import { getArticle } from "@/lib/articles";
 const heroImage =
   "https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd?auto=format&fit=crop&w=1400&q=80";
 
-const reviewSlugs = ["timemore-chestnut-s5-pro", "epeios-essence-go"] as const;
+const reviewSlugs = [
+  "timemore-chestnut-s5-pro",
+  "epeios-essence-go",
+  "home-latte-espresso-machines",
+  "hand-drip-upgrade-gear",
+  "cold-brew-outdoor-coffee",
+] as const;
 
 export default function HomePage() {
   const models = getFeaturedModels();
