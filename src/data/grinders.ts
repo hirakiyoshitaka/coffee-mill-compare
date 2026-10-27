@@ -101,7 +101,7 @@ export const grinderModels: Record<string, GrinderModel> = {
     weightGrams: 600,
     priceJpyHint: "約45,000〜55,000円台（リテーラー・為替により変動）",
     rakutenUrl: "",
-    amazonUrl: "https://www.amazon.co.jp/dp/B09X32XHQZ?tag=stocknotelife-22",
+    amazonUrl: "",
     yahooUrl: "",
     moshimoHtml: "",
     cuppingNotes: [
@@ -126,7 +126,7 @@ export const grinderModels: Record<string, GrinderModel> = {
     weightGrams: 765,
     priceJpyHint: "約35,000〜45,000円台（セール・店舗により変動）",
     rakutenUrl: "",
-    amazonUrl: "https://www.amazon.co.jp/s?k=TIMEMORE%20%E6%A0%97%E5%AD%90X&tag=stocknotelife-22",
+    amazonUrl: "",
     yahooUrl: "",
     moshimoHtml: "",
     cuppingNotes: [
@@ -150,7 +150,7 @@ export const grinderModels: Record<string, GrinderModel> = {
     weightGrams: 700,
     priceJpyHint: "約28,000〜38,000円台（直販・代理店により変動）",
     rakutenUrl: "",
-    amazonUrl: "https://www.amazon.co.jp/dp/B0CC4LXF1Z?tag=stocknotelife-22",
+    amazonUrl: "",
     yahooUrl: "",
     moshimoHtml: "",
     cuppingNotes: [
@@ -205,7 +205,7 @@ export const grinderModels: Record<string, GrinderModel> = {
     weightGrams: 715,
     priceJpyHint: "約55,000〜75,000円台（輸入ルート・在庫により変動）",
     rakutenUrl: "",
-    amazonUrl: "https://www.amazon.co.jp/s?k=Kinu%20M47%20Classic&tag=stocknotelife-22",
+    amazonUrl: "",
     yahooUrl: "",
     moshimoHtml: "",
     cuppingNotes: [
