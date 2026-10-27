@@ -6,7 +6,8 @@ import { Breadcrumb } from "@/components/Breadcrumb";
 import { PrNotice } from "@/components/PrNotice";
 import { categoryHref, getCategory } from "@/data/categories";
 import { formatJaDate, siteConfig } from "@/data/site";
-import { articleLanguageAlternates, getAllArticles, getArticle } from "@/lib/articles";
+import { LanguageSwitcher } from "@/components/intl/LanguageSwitcher";
+import { articleLanguageAlternates, articleLocalePaths, getAllArticles, getArticle } from "@/lib/articles";
 import { pageMeta } from "@/lib/seo";
 
 type Props = { params: Promise<{ slug: string }> };
@@ -61,6 +62,7 @@ export default async function ArticlePage({ params }: Props) {
           { label: article.title },
         ]}
       />
+      <LanguageSwitcher current="ja" paths={articleLocalePaths(article.slug)} label="言語" />
       <header className="mb-8">
         <p className="text-xs font-medium tracking-wide text-[var(--seal)]">PR</p>
         <h1 className="mt-3 font-serif text-[1.75rem] leading-snug tracking-wide text-[var(--ink)] sm:text-[2.15rem]">{article.title}</h1>

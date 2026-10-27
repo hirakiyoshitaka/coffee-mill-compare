@@ -2,11 +2,12 @@ import { BeanEmbed } from "@/components/BeanViews";
 import { GrinderCard } from "@/components/GrinderCard";
 import { getBeanShop } from "@/data/beans";
 import { getModel } from "@/data/grinders";
+import type { SiteLocale } from "@/lib/i18n";
 import { renderMarkdown } from "@/lib/markdown";
 
 const TOKEN = /\{\{(grinder|bean):([a-z0-9-]+)\}\}/g;
 
-export function ArticleBody({ markdown }: { markdown: string }) {
+export function ArticleBody({ markdown, locale = "ja", reviewHref }: { markdown: string; locale?: SiteLocale; reviewHref?: (slug: string) => string | undefined }) {
   const parts = markdown.split(TOKEN);
   const nodes = [];
 
@@ -29,7 +30,13 @@ export function ArticleBody({ markdown }: { markdown: string }) {
       if (!model) {
         throw new Error(`記事中のミルID「${id}」がデータにありません`);
       }
-      nodes.push(<GrinderCard key={`grinder-${id}-${index}`} model={model} variant="embed" />);
+      nodes.push(<GrinderCard
+          key={`grinder-${id}-${index}`}
+          model={model}
+          variant="embed"
+          locale={locale}
+          reviewHref={model.reviewSlug ? reviewHref?.(model.reviewSlug) : undefined}
+        />);
       continue;
     }
 

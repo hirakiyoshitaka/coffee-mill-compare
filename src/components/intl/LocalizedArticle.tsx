@@ -3,7 +3,9 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import { ArticleBody } from "@/components/ArticleBody";
 import { getSiteUrl, siteConfig } from "@/data/site";
-import { articleLanguageAlternates, getLocalizedArticle, getLocalizedArticles, hreflangOf, type TranslationLocale } from "@/lib/articles";
+import { LanguageSwitcher } from "@/components/intl/LanguageSwitcher";
+import { chromeDict } from "@/lib/i18n";
+import { articleLanguageAlternates, articleLocalePaths, getLocalizedArticle, getLocalizedArticles, hreflangOf, type TranslationLocale } from "@/lib/articles";
 
 const ui: Record<TranslationLocale, { og: string; home: string; pr: string; disclosure: string; others: string }> = {
   "zh-tw": {
@@ -12,6 +14,14 @@ const ui: Record<TranslationLocale, { og: string; home: string; pr: string; disc
     pr: "廣告（PR）",
     disclosure:
       "本文含廣告與聯盟行銷連結。本站為 Amazon 日本的聯盟會員，透過合格銷售取得收入。經由連結購買時，本站可能獲得報酬。推薦順序不以報酬高低決定，價格僅供參考。",
+    others: "其他文章",
+  },
+  "zh-hk": {
+    og: "zh_HK",
+    home: "日本語版",
+    pr: "廣告（PR）",
+    disclosure:
+      "本文含廣告及聯盟推廣連結。本站為 Amazon 日本的聯盟會員，透過合資格銷售賺取收入。經連結購買時，本站或會獲得報酬。推薦次序不以報酬高低決定，文中價格為日本市場價格，僅供參考。",
     others: "其他文章",
   },
   ko: {
@@ -68,6 +78,7 @@ export function LocalizedArticle({ locale, slug }: { locale: TranslationLocale; 
   };
   return (
     <main className="page-wrap page-narrow">
+      <LanguageSwitcher current={locale} paths={articleLocalePaths(slug)} label={chromeDict[locale].lang} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
       <header className="mb-8">
         <p className="text-xs font-medium tracking-wide text-[var(--seal)]">PR</p>
@@ -82,7 +93,11 @@ export function LocalizedArticle({ locale, slug }: { locale: TranslationLocale; 
         <p className="mt-1">{t.disclosure}</p>
       </aside>
       <div className="mt-8">
-        <ArticleBody markdown={article.content} />
+        <ArticleBody
+          markdown={article.content}
+          locale={locale}
+          reviewHref={(s) => (s !== slug && getLocalizedArticle(locale, s) ? `/${locale}/articles/${s}/` : undefined)}
+        />
       </div>
       <aside className="mt-14 border-t border-[var(--border-subtle)] pt-8">
         {related.length > 0 ? (
@@ -99,11 +114,6 @@ export function LocalizedArticle({ locale, slug }: { locale: TranslationLocale; 
             </ul>
           </>
         ) : null}
-        <p className="mt-6 text-sm">
-          <Link href={`/articles/${slug}/`} lang="ja" className="text-[var(--accent)] underline underline-offset-4">
-            {t.home}
-          </Link>
-        </p>
       </aside>
     </main>
   );
