@@ -1,0 +1,8 @@
+{
+  "headers": [
+    {
+      "source": "/:locale(zh-tw|zh-hk|ko)/articles/:slug/:img(opengraph-image-[a-z0-9]+)",
+      "headers": [{ "key": "Content-Type", "value": "image/png" }]
+    }
+  ]
+}
