@@ -42,6 +42,7 @@ export function localizedMetadata(locale: TranslationLocale, slug: string): Meta
   const article = getLocalizedArticle(locale, slug);
   if (!article) return {};
   const url = `/${locale}/articles/${slug}/`;
+  const ogImage = { url: `/${locale}/articles/${slug}/og.png`, width: 1200, height: 630, alt: article.title };
   return {
     metadataBase: new URL(getSiteUrl()),
     title: { absolute: `${article.title}｜${siteConfig.name}` },
@@ -56,8 +57,9 @@ export function localizedMetadata(locale: TranslationLocale, slug: string): Meta
       locale: ui[locale].og,
       siteName: siteConfig.name,
       publishedTime: article.date,
+      images: [ogImage],
     },
-    twitter: { card: "summary_large_image", title: article.title, description: article.description },
+    twitter: { card: "summary_large_image", title: article.title, description: article.description, images: [ogImage.url] },
   };
 }
 
