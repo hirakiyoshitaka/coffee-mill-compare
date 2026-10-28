@@ -18,6 +18,7 @@ const reviewSlugs = [
   "home-latte-espresso-machines",
   "hand-drip-upgrade-gear",
   "cold-brew-outdoor-coffee",
+  "coffee-bean-subscription",
 ] as const;
 
 export default function HomePage() {
