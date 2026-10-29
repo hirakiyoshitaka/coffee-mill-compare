@@ -2,7 +2,7 @@
  * サイトの本番アドレス（末尾の / なし）。独自ドメインへ切り替えるときはこの1行だけ変えます。
  * 例: "https://ouchi-dougubako.com"。環境変数 NEXT_PUBLIC_SITE_URL があればそちらが優先です。
  */
-export const SITE_URL = "https://coffee-mill-compare.vercel.app";
+export const SITE_URL = "https://ouchi-dougubako.com";
 
 export const siteConfig = {
   name: "おうち時間の道具箱",
