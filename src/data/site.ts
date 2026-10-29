@@ -1,3 +1,9 @@
+/**
+ * サイトの本番アドレス（末尾の / なし）。独自ドメインへ切り替えるときはこの1行だけ変えます。
+ * 環境変数 NEXT_PUBLIC_SITE_URL があればそちらが優先です。
+ */
+export const SITE_URL = "https://ouchi-dougubako.com";
+
 export const siteConfig = {
   name: "おうちカフェ道具帳",
   description:
@@ -10,7 +16,7 @@ export const siteConfig = {
 };
 
 export function getSiteUrl(): string {
-  const raw = (process.env.NEXT_PUBLIC_SITE_URL || "https://coffee-mill-compare.vercel.app").trim().replace(/\/+$/, "");
+  const raw = (process.env.NEXT_PUBLIC_SITE_URL || SITE_URL).trim().replace(/\/+$/, "");
   if (!/^https?:\/\//.test(raw)) {
     throw new Error("NEXT_PUBLIC_SITE_URL は https:// から書いてください（末尾のスラッシュは不要です）");
   }
