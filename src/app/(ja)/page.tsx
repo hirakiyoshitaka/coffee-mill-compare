@@ -8,6 +8,8 @@ import { beanShops } from "@/data/beans";
 import { categories, categoryHref } from "@/data/categories";
 import { getFeaturedModels } from "@/data/grinders";
 import { getArticle } from "@/lib/articles";
+import { KitchenList } from "@/components/KitchenList";
+import { getKitchenArticles } from "@/lib/kitchen";
 
 const heroImage =
   "https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd?auto=format&fit=crop&w=1400&q=80";
@@ -29,6 +31,8 @@ export default function HomePage() {
     .map((slug) => getArticle(slug))
     .filter((article) => article !== undefined)
     .map(({ slug, title, description, category, date }) => ({ slug, title, description, category, date }));
+
+  const kitchen = getKitchenArticles().slice(0, 4);
 
   return (
     <main className="page-wrap">
@@ -132,6 +136,17 @@ export default function HomePage() {
           </Link>
         </div>
         <ArticleList articles={articles} />
+      </section>
+
+      <section className="section-block" id="kitchen">
+        <div className="section-heading">
+          <h2>キッチン・ストック</h2>
+          <Link href="/kitchen" className="text-link">
+            すべて
+          </Link>
+        </div>
+        <p className="section-lead">帰宅後のごはんやストック食品を、使う場面と一食量から選ぶノートです。体験談ではなく、メーカー資料と外部の使用記事をもとにしています。</p>
+        <KitchenList articles={kitchen} />
       </section>
 
       <section className="section-block" id="categories">
