@@ -32,6 +32,14 @@ const ui: Record<TranslationLocale, { og: string; home: string; pr: string; disc
       "이 글에는 광고·제휴 마케팅 링크가 포함되어 있습니다. 이 사이트는 아마존 재팬 어소시에이트로서 적격 판매를 통해 수익을 얻습니다. 링크를 통해 구매하면 사이트가 수수료를 받을 수 있습니다. 소개 순서는 수수료와 무관하며, 가격은 참고용입니다.",
     others: "다른 글",
   },
+  en: {
+    og: "en_US",
+    home: "Japanese edition",
+    pr: "Advertising disclosure",
+    disclosure:
+      "This article contains ads and affiliate links. As an Amazon Associate (Amazon.co.jp), we earn from qualifying purchases, and we may earn a commission when you buy through some links at no extra cost to you. Rankings are not based on commission rates, and prices are for reference only.",
+    others: "More articles",
+  },
 };
 
 export function localizedStaticParams(locale: TranslationLocale) {

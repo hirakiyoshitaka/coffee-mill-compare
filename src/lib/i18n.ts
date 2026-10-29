@@ -8,6 +8,7 @@ export const languageOrder: { locale: SiteLocale; label: string }[] = [
   { locale: "zh-tw", label: "繁體中文(台灣)" },
   { locale: "zh-hk", label: "繁體中文(香港)" },
   { locale: "ko", label: "한국어" },
+  { locale: "en", label: "English" },
 ];
 
 /** 商品カードのラベル。ja は既存の日本語表示と同じ文言 */
@@ -108,6 +109,25 @@ export const cardDict: Record<
     review: "리뷰 읽기",
     brandPage: (b) => `${b} 브랜드 페이지(일본어)`,
   },
+  en: {
+    drive: "Drive",
+    burr: "Burr",
+    burrSize: "Burr size",
+    adjust: "Adjustment",
+    weight: "Weight",
+    diameterUnknown: "Not officially listed",
+    price: "Price guide",
+    priceNote: "Japanese market price in JPY, for reference only",
+    buyNote: "Where to buy (affiliate links)",
+    ad: "Ad",
+    external: "External site",
+    rakuten: "View on Rakuten (Japan)",
+    amazon: "Check price on Amazon.co.jp",
+    yahoo: "Check price on Yahoo! Shopping (Japan)",
+    shopeeMy: "View on Shopee (Malaysia)",
+    review: "Read the review",
+    brandPage: (b) => `${b} brand page (Japanese)`,
+  },
 };
 
 /** 翻訳ページのヘッダー・フッター・一覧の文言 */
@@ -150,5 +170,17 @@ export const chromeDict: Record<
     skip: "본문으로 건너뛰기",
     nav: "주요 메뉴",
     lang: "언어",
+  },
+  en: {
+    subtitle: "Notes on home coffee gear",
+    articles: "Articles",
+    japanese: "日本語版",
+    disclosure: "Disclosure",
+    listTitle: "Articles",
+    listLead: "Practical guides to choosing home coffee gear. Prices are Japanese market estimates unless noted; always check the store page before buying.",
+    footerNote: "This site contains ads and affiliate links. As an Amazon Associate (Amazon.co.jp), we earn from qualifying purchases.",
+    skip: "Skip to main content",
+    nav: "Main menu",
+    lang: "Language",
   },
 };

@@ -49,6 +49,19 @@ const docs: Record<TranslationLocale, Doc> = {
       { h: "운영", p: [`${siteConfig.operatorName}. 연락처: ${siteConfig.contactEmail}`] },
     ],
   },
+  en: {
+    title: "Advertising Disclosure",
+    description: "How Ouchi Dougubako handles affiliate advertising, PR labels, rankings, and reference prices.",
+    updated: "Last updated",
+    sections: [
+      { h: "Up front: this site has ads", p: ["This site contains ads and affiliate links.", "As an Amazon Associate (Amazon.co.jp), we earn from qualifying purchases.", "We may earn a commission from product links, at no extra cost to you. In line with Japan's rules on stealth marketing, every article is labeled as advertising before the main text, and a PR mark appears above the title."] },
+      { h: "Which links are ads", p: ["Purchase links to Rakuten, Amazon.co.jp, Yahoo! Shopping, A8.net, and Shopee (via Involve Asia) are affiliate links. They carry rel=\"sponsored noopener\" and open in a new tab. Amazon.co.jp links include the associate tag stocknotelife-22. Links to Amazon.com in our English articles are plain search links with no affiliate tag; we currently earn nothing from them.", "Programs we take part in or plan to join:"], list: [...programs, "Involve Asia (Shopee Malaysia)"] },
+      { h: "Rankings aren't for sale", p: ["Our order and recommendations are not based on commission rates. They are based on use case, specs, reference prices, and points that come up repeatedly in public reviews. We don't make up flavor scores or lowest prices."] },
+      { h: "Prices are for reference", p: ["Prices are Japanese market estimates in yen unless stated otherwise. They change with stores, sales, exchange rates, and manufacturer price changes. Shipping, duties, and availability in your country are shown by the store at checkout."] },
+      { h: "How we handle reviews", p: ["Review summaries condense points that come up repeatedly in forums and reviews; they are not copies of individual posts or star ratings. We only describe personal use for gear we actually use."] },
+      { h: "Operator", p: [`${siteConfig.operatorName}. Contact: ${siteConfig.contactEmail}`] },
+    ],
+  },
 };
 
 export function disclosureLocalePaths() {

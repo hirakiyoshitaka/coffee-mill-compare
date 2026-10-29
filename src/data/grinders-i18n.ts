@@ -50,6 +50,20 @@ export const grinderTexts: Record<string, Partial<Record<TranslationLocale, Grin
         "영점에서도 버 간격은 약 0.075mm. 힘이 한쪽으로 쏠리면 마찰음이 날 수 있다고 공식이 안내합니다",
       ],
     },
+    en: {
+      name: "TIMEMORE Chestnut S5 Pro",
+      imageAlt: "TIMEMORE Chestnut S5 Pro in green",
+      burrMaterial: "420 stainless steel TriB-048-I (5-axis CNC, 58HRC)",
+      adjustment: "External dial, 90 clicks per turn, 15 microns per click",
+      priceJpyHint: "Listed at ¥25,800 on the official Japanese site (checked Oct 26, 2026, pre-sale price; confirm tax and stock on the store page)",
+      highlight: "The grinder I use every day, in green (officially Olive Green). It's mostly for pour-over, and at about 910g the weight has never bothered me for daily use at home.",
+      purchaseNote: "On the linked page, choose \"S5 Pro\" and the green color.",
+      cuppingNotes: ["A hand grinder that fits 48mm burrs into a 56mm-wide body", "Our No.1 pick for a grinder that lives at home"],
+      caveats: [
+        "Officially about 910g. It has a folding handle, but we don't rank it first for travel",
+        "Even at zero the burr gap is about 0.075mm; the maker notes uneven pressure can cause some rubbing noise",
+      ],
+    },
   },
   "epeios-essence-go": {
     "zh-tw": {
@@ -82,6 +96,16 @@ export const grinderTexts: Record<string, Partial<Record<TranslationLocale, Grin
       cuppingNotes: ["이자키 히데노리 감수, 38mm・10날 핸드 그라인더", "분해해서 전용 케이스에 넣을 수 있다고 공식이 설명합니다"],
       caveats: ["스테디셀러 브랜드와의 비교는 개인의 추출 환경에 따라 다릅니다", "부품・지원 체계는 구매 전 공식 정보를 확인하세요"],
     },
+    en: {
+      name: "EPEIOS Essence Go",
+      imageAlt: "EPEIOS Essence Go (official EPEIOS product photo)",
+      burrMaterial: "Stainless steel conical burrs (10-blade, 38mm)",
+      adjustment: "0–80 settings (as officially listed)",
+      priceJpyHint: "¥23,100 incl. tax (as listed officially in Japan; updated manually when prices change)",
+      highlight: "The maker says the 38mm 10-blade burrs were designed to make the first turns feel light, and it comes with a dedicated case. My one-line take: \"it just spins so easily.\"",
+      cuppingNotes: ["Supervised by barista Hidenori Izaki; 38mm 10-blade hand grinder", "Officially designed to come apart and pack into its own case"],
+      caveats: ["How it compares with long-established brands depends on your brewing setup", "Check official info on parts and support before buying"],
+    },
   },
 };
 
@@ -89,6 +113,7 @@ const typeLabels: Record<TranslationLocale, Record<GrinderType, string>> = {
   "zh-tw": { manual: "手搖", electric: "電動", hybrid: "混合式" },
   "zh-hk": { manual: "手磨", electric: "電動", hybrid: "混合式" },
   ko: { manual: "수동", electric: "전동", hybrid: "하이브리드" },
+  en: { manual: "Manual", electric: "Electric", hybrid: "Hybrid" },
 };
 
 export function localizedTypeLabel(type: GrinderType, locale: TranslationLocale): string {
