@@ -15,7 +15,7 @@
 | Node.js | 22 |
 | ルート | リポジトリの直下 |
 
-環境変数 `NEXT_PUBLIC_SITE_URL` は任意です。未設定のビルドは `https://coffee-mill-compare.vercel.app` をサイトのアドレスとして使います。別のドメインで公開するときは、この環境変数を `https://` から、末尾の `/` なしで入れてからビルドし直します。sitemap、robots、canonical はビルド時のアドレスで焼き付きます。
+環境変数 `NEXT_PUBLIC_SITE_URL` は任意です。未設定のビルドは `src/data/site.ts` の `SITE_URL`（現在 `https://coffee-mill-compare.vercel.app`）をサイトのアドレスとして使います。別のドメインで公開するときは、この環境変数を `https://` から、末尾の `/` なしで入れてからビルドし直します。sitemap、robots、canonical はビルド時のアドレスで焼き付きます。
 
 ## ビルドが置くもの
 
