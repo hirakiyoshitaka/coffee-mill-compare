@@ -15,7 +15,7 @@ type Props = {
   locale?: SiteLocale;
 };
 
-export function grinderBuyProps(model: Pick<GrinderModel, "name" | "rakutenUrl" | "amazonUrl" | "yahooUrl" | "moshimoHtml" | "purchaseNote">, locale: SiteLocale = "ja", noteLocalized = false): Props {
+export function grinderBuyProps(model: Pick<GrinderModel, "name" | "rakutenUrl" | "amazonUrl" | "yahooUrl" | "shopeeMyUrl" | "moshimoHtml" | "purchaseNote">, locale: SiteLocale = "ja", noteLocalized = false): Props {
   const d = cardDict[locale];
   return {
     name: model.name,
@@ -27,6 +27,7 @@ export function grinderBuyProps(model: Pick<GrinderModel, "name" | "rakutenUrl" 
       { href: model.rakutenUrl, label: d.rakuten },
       { href: model.amazonUrl, label: d.amazon },
       { href: model.yahooUrl, label: d.yahoo },
+      { href: model.shopeeMyUrl, label: d.shopeeMy },
     ],
   };
 }
