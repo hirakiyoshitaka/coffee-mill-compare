@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="400" viewBox="0 0 600 400" role="img" aria-labelledby="title-chinese desc-chinese">
+<title id="title-chinese">ごはんに合わせる中華丼を示すオリジナル図</title>
+<desc id="desc-chinese">ブランドや特定商品の外観を再現しない、食べ方・用途の説明図です。実物写真ではありません。</desc>
+<rect width="600" height="400" rx="18" fill="#fffdf9"/>
+<circle cx="300" cy="195" r="145" fill="#f5f0e7"/>
+<g stroke="#24323f" stroke-width="3.5" stroke-linejoin="round" stroke-linecap="round"><ellipse cx="300" cy="307" rx="151" ry="14" fill="#24323f" opacity=".08" stroke="none"/>
+<path d="M151 196Q172 281 270 300H330Q428 281 449 196" fill="#fffdfa"/>
+<path d="M260 298V310Q300 321 340 310V298" fill="#e3d9c9"/>
+<ellipse cx="300" cy="196" rx="149" ry="61" fill="#eae0cc"/>
+<path d="M170 190Q195 149 297 150Q394 149 430 190Q407 233 301 241Q202 237 170 190" fill="#d6b474" stroke="none"/><path d="M208 177l38-14 10 21-37 13zM317 175l34-10 16 24-38 8zM263 207l35-8 12 22-34 9z" fill="#f1e9c7" stroke="#cbbd8c" stroke-width="1.5"/><path d="M241 176l14-6 10 21-14 4zM359 204l13-10 18 17-13 10zM208 209l11-8 13 11-12 10z" fill="#cd7846" stroke="none"/><path d="M280 172l20 13-15 9-17-14zM332 215l14-11 12 17-17 8zM388 185l11 17-17 4-8-12z" fill="#5e7656" stroke="none"/><path d="M167 222Q300 274 433 222" fill="none" stroke="#e1d8cb" stroke-width="2"/>
+<path d="M235 104Q225 88 237 72M300 98Q286 80 302 61M366 107Q353 89 369 74" fill="none" stroke="#b6ada0" stroke-width="2" opacity=".65"/></g>
+<g fill="#b65a3a"><rect x="33" y="29" width="4" height="18" rx="2"/><text x="48" y="43" font-family="sans-serif" font-size="15" letter-spacing="1">用途の図</text></g>
+</svg>

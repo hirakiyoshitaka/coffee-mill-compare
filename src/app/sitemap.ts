@@ -3,6 +3,7 @@ import { beanShops } from "@/data/beans";
 import { categories } from "@/data/categories";
 import { brands } from "@/data/grinders";
 import { getSiteUrl, siteConfig } from "@/data/site";
+import { getKitchenArticles } from "@/lib/kitchen";
 import { getAllArticles, getLocalizedArticles, translationLocales } from "@/lib/articles";
 
 export const dynamic = "force-static";
@@ -16,7 +17,7 @@ function abs(path: string): string {
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const updated = new Date(`${siteConfig.legalUpdated}T00:00:00.000Z`);
-  const staticPaths = ["/", "/categories", "/compare", "/articles", "/beans", "/about", "/privacy", "/disclosure"];
+  const staticPaths = ["/", "/categories", "/compare", "/articles", "/beans", "/kitchen", "/about", "/privacy", "/disclosure"];
   const categoryPaths = categories
     .filter((category) => category.status === "live" && category.slug !== "beans")
     .map((category) => `/categories/${category.slug}`);
@@ -54,6 +55,12 @@ export default function sitemap(): MetadataRoute.Sitemap {
       lastModified: new Date(`${article.date}T00:00:00.000Z`),
       changeFrequency: "monthly" as const,
       priority: 0.8,
+    })),
+    ...getKitchenArticles().map((article) => ({
+      url: abs(`/kitchen/${article.slug}`),
+      lastModified: new Date(`${article.updated}T00:00:00.000Z`),
+      changeFrequency: "monthly" as const,
+      priority: 0.7,
     })),
     ...translationLocales
       .filter((locale) => getLocalizedArticles(locale).length > 0)

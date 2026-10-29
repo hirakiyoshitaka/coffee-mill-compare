@@ -5,6 +5,7 @@ const nav = [
   { href: "/compare", label: "ミル比較" },
   { href: "/beans", label: "豆" },
   { href: "/articles", label: "読みもの" },
+  { href: "/kitchen", label: "キッチン" },
 ];
 
 export function SiteHeader() {
