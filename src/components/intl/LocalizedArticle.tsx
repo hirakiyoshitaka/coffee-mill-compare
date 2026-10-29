@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { ArticleBody } from "@/components/ArticleBody";
-import { getSiteUrl, siteConfig } from "@/data/site";
+import { getSiteUrl, siteConfig, localizedSiteName } from "@/data/site";
 import { LanguageSwitcher } from "@/components/intl/LanguageSwitcher";
 import { chromeDict } from "@/lib/i18n";
 import { articleLanguageAlternates, articleLocalePaths, getLocalizedArticle, getLocalizedArticles, hreflangOf, type TranslationLocale } from "@/lib/articles";
@@ -45,7 +45,7 @@ export function localizedMetadata(locale: TranslationLocale, slug: string): Meta
   const ogImage = { url: `/${locale}/articles/${slug}/og.png`, width: 1200, height: 630, alt: article.title };
   return {
     metadataBase: new URL(getSiteUrl()),
-    title: { absolute: `${article.title}｜${siteConfig.name}` },
+    title: { absolute: `${article.title}｜${localizedSiteName[locale]}` },
     description: article.description,
     alternates: { canonical: url, languages: articleLanguageAlternates(slug) },
     robots: { index: true, follow: true },
@@ -55,7 +55,7 @@ export function localizedMetadata(locale: TranslationLocale, slug: string): Meta
       url,
       type: "article",
       locale: ui[locale].og,
-      siteName: siteConfig.name,
+      siteName: localizedSiteName[locale],
       publishedTime: article.date,
       images: [ogImage],
     },
@@ -76,7 +76,7 @@ export function LocalizedArticle({ locale, slug }: { locale: TranslationLocale; 
     datePublished: article.date,
     inLanguage: hreflangOf[locale],
     author: { "@type": "Organization", name: siteConfig.operatorName },
-    publisher: { "@type": "Organization", name: siteConfig.name },
+    publisher: { "@type": "Organization", name: localizedSiteName[locale] },
   };
   return (
     <main className="page-wrap page-narrow">

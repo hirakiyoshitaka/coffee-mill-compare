@@ -7,7 +7,7 @@ import { LanguageSwitcher } from "@/components/intl/LanguageSwitcher";
 
 const baseMeta = pageMeta({
   title: "広告表記",
-  description: "おうちカフェ道具帳のアフィリエイト広告、記事冒頭のPR表示、ランキングと価格の目安の考え方。ステルスマーケティング規制への対応です。",
+  description: "おうち時間の道具箱のアフィリエイト広告、記事冒頭のPR表示、ランキングと価格の目安の考え方。ステルスマーケティング規制への対応です。",
   path: "/disclosure",
 });
 

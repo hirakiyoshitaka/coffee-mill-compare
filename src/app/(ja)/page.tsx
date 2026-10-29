@@ -37,7 +37,7 @@ export default function HomePage() {
           <p className="hero-kicker">先に置くのは、2台と1店</p>
           <h1>家のコーヒーを、条件から選ぶ。</h1>
           <p className="hero-description">
-            おうちカフェ道具帳が勧める手挽きは、タイムモア栗子 S5 Pro と、エペイオス Essence Go です。豆は、運営者が定期便を1年ほど続けていた珈琲きゃろっとから開きます。価格は目安です。
+            おうち時間の道具箱が勧める手挽きは、タイムモア栗子 S5 Pro と、エペイオス Essence Go です。豆は、運営者が定期便を1年ほど続けていた珈琲きゃろっとから開きます。価格は目安です。
           </p>
           <div className="hero-actions">
             <Link href="#picks" className="hero-cta">

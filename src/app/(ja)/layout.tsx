@@ -20,7 +20,7 @@ const notoSerifJp = Noto_Serif_JP({
   display: "swap",
 });
 
-const homeTitle = "おうちカフェ道具帳｜家のコーヒー道具と豆を用途で比べる";
+const homeTitle = "おうち時間の道具箱｜コーヒー道具・キッチン用品・ガジェットを用途で比べる";
 
 export const metadata: Metadata = {
   metadataBase: new URL(getSiteUrl()),

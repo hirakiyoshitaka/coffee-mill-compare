@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import Link from "next/link";
-import { getSiteUrl, siteConfig } from "@/data/site";
+import { getSiteUrl, siteConfig, localizedSiteName } from "@/data/site";
 import { getLocalizedArticles, hreflangOf, translationLocales, type TranslationLocale } from "@/lib/articles";
 import { chromeDict } from "@/lib/i18n";
 import { LanguageSwitcher } from "@/components/intl/LanguageSwitcher";
@@ -19,7 +19,7 @@ export function localeIndexMetadata(locale: TranslationLocale): Metadata {
   languages["x-default"] = "/articles/";
   return {
     metadataBase: new URL(getSiteUrl()),
-    title: { absolute: `${t.listTitle}｜${siteConfig.name}` },
+    title: { absolute: `${t.listTitle}｜${localizedSiteName[locale]}` },
     description: t.listLead,
     alternates: { canonical: `/${locale}/`, languages },
     robots: { index: true, follow: true },

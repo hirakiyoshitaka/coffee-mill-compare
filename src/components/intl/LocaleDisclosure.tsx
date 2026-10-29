@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import { LanguageSwitcher } from "@/components/intl/LanguageSwitcher";
-import { getSiteUrl, siteConfig } from "@/data/site";
+import { getSiteUrl, siteConfig, localizedSiteName } from "@/data/site";
 import { hreflangOf, translationLocales, type TranslationLocale } from "@/lib/articles";
 import { chromeDict } from "@/lib/i18n";
 
@@ -12,7 +12,7 @@ const programs = ["A8.net", "Rakuten Affiliate", "Amazon Associates (Amazon.co.j
 const docs: Record<TranslationLocale, Doc> = {
   "zh-tw": {
     title: "廣告揭露",
-    description: "おうちカフェ道具帳的聯盟行銷廣告、文章開頭的 PR 標示、排名與參考價格的原則。",
+    description: "居家時光工具箱的聯盟行銷廣告、文章開頭的 PR 標示、排名與參考價格的原則。",
     updated: "最後更新",
     sections: [
       { h: "先告訴你：這裡有廣告", p: ["本站含廣告與聯盟行銷連結。", "本站為 Amazon 日本（Amazon.co.jp）的聯盟會員，透過合格銷售取得收入。", "本站可能從商品購買連結獲得報酬。依照日本《景品表示法》的隱性行銷規範，我們會清楚標示廣告：文章本文前會寫「廣告（PR）」，標題上方也會顯示 PR，每頁頁尾也放有上面兩句。"] },
@@ -25,7 +25,7 @@ const docs: Record<TranslationLocale, Doc> = {
   },
   "zh-hk": {
     title: "廣告披露",
-    description: "おうちカフェ道具帳的聯盟推廣廣告、文章開頭的 PR 標示，以及排名與參考價錢的原則。",
+    description: "居家時光工具箱的聯盟推廣廣告、文章開頭的 PR 標示，以及排名與參考價錢的原則。",
     updated: "最後更新",
     sections: [
       { h: "先行說明：本站含廣告", p: ["本站含廣告及聯盟推廣連結。", "本站為 Amazon 日本（Amazon.co.jp）的聯盟會員，透過合資格銷售賺取收入。", "本站或會從商品購買連結收取報酬。根據日本《景品表示法》對隱性營銷的規範，本站會清楚標示廣告：文章正文前會註明「廣告（PR）」，標題上方亦會顯示 PR，每頁頁尾均載有以上兩句。"] },
@@ -38,7 +38,7 @@ const docs: Record<TranslationLocale, Doc> = {
   },
   ko: {
     title: "광고 고지",
-    description: "おうちカフェ道具帳의 제휴 광고, 글머리 PR 표시, 순위와 참고 가격에 대한 원칙입니다.",
+    description: "집콕 시간의 도구상자의 제휴 광고, 글머리 PR 표시, 순위와 참고 가격에 대한 원칙입니다.",
     updated: "최종 업데이트",
     sections: [
       { h: "광고가 있다는 것을 먼저 알립니다", p: ["이 사이트에는 광고·제휴 마케팅 링크가 포함되어 있습니다.", "아마존 재팬(Amazon.co.jp) 어소시에이트로서 적격 판매를 통해 수익을 얻습니다.", "이 사이트는 상품 구매 링크를 통해 보수를 받을 수 있습니다. 일본 경품표시법의 스텔스 마케팅 규제에 따라 광고임을 알기 쉽게 표시합니다. 글 본문 앞에 「광고(PR)」를, 제목 위에도 PR을 표시하며, 모든 페이지 하단에 위 두 문장을 둡니다."] },
@@ -66,7 +66,7 @@ export function localeDisclosureMetadata(locale: TranslationLocale): Metadata {
   const doc = docs[locale];
   return {
     metadataBase: new URL(getSiteUrl()),
-    title: { absolute: `${doc.title}｜${siteConfig.name}` },
+    title: { absolute: `${doc.title}｜${localizedSiteName[locale]}` },
     description: doc.description,
     alternates: { canonical: `/${locale}/disclosure/`, languages: disclosureLanguages() },
     robots: { index: true, follow: true },
