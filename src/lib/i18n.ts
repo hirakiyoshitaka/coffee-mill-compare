@@ -28,6 +28,7 @@ export const cardDict: Record<
     rakuten: string;
     amazon: string;
     yahoo: string;
+    shopeeMy: string;
     review: string;
     brandPage: (brand: string) => string;
   }
@@ -46,6 +47,7 @@ export const cardDict: Record<
     rakuten: "楽天で見る",
     amazon: "Amazonで価格を見る",
     yahoo: "Yahoo!ショッピングで価格を見る",
+    shopeeMy: "Shopee（マレーシア）で見る",
     review: "レビューを読む",
     brandPage: (b) => `${b}のページへ`,
   },
@@ -64,6 +66,7 @@ export const cardDict: Record<
     rakuten: "在樂天（日本）查看",
     amazon: "在 Amazon.co.jp 查看價格",
     yahoo: "在 Yahoo!購物（日本）查看價格",
+    shopeeMy: "在 Shopee（馬來西亞）查看",
     review: "閱讀評測",
     brandPage: (b) => `${b} 品牌頁（日文）`,
   },
@@ -82,6 +85,7 @@ export const cardDict: Record<
     rakuten: "在樂天（日本）查看",
     amazon: "在 Amazon.co.jp 查看價錢",
     yahoo: "在 Yahoo!購物（日本）查看價錢",
+    shopeeMy: "在 Shopee（馬來西亞）查看",
     review: "閱讀評測",
     brandPage: (b) => `${b} 品牌頁（日文）`,
   },
@@ -100,6 +104,7 @@ export const cardDict: Record<
     rakuten: "라쿠텐(일본)에서 보기",
     amazon: "Amazon.co.jp에서 가격 보기",
     yahoo: "Yahoo!쇼핑(일본)에서 가격 보기",
+    shopeeMy: "Shopee(말레이시아)에서 보기",
     review: "리뷰 읽기",
     brandPage: (b) => `${b} 브랜드 페이지(일본어)`,
   },

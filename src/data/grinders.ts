@@ -43,6 +43,8 @@ export type GrinderModel = {
   rakutenUrl?: string;
   amazonUrl?: string;
   yahooUrl?: string;
+  /** Shopee マレーシア（Involve Asia 経由）。マレーシアの読者向け */
+  shopeeMyUrl?: string;
   moshimoHtml?: string;
   cuppingNotes: string[];
   caveats: string[];
@@ -78,6 +80,7 @@ export const grinderModels: Record<string, GrinderModel> = {
     rakutenUrl:
       "https://hb.afl.rakuten.co.jp/ichiba/58d84d03.7b0724e9.58d84d04.7cac0326/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftimemore%2Fs5series%2F&link_type=hybrid_url&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJoeWJyaWRfdXJsIiwic2l6ZSI6IjI0MHgyNDAiLCJuYW0iOjEsIm5hbXAiOiJyaWdodCIsImNvbSI6MSwiY29tcCI6ImRvd24iLCJwcmljZSI6MSwiYm9yIjoxLCJjb2wiOjEsImJidG4iOjEsInByb2QiOjAsImFtcCI6ZmFsc2V9",
     amazonUrl: "https://www.amazon.co.jp/dp/B0HF4LXCCY?tag=stocknotelife-22",
+    shopeeMyUrl: "https://invl.me/clo6h9w",
     yahooUrl: "",
     moshimoHtml: "",
     cuppingNotes: [
@@ -109,6 +112,7 @@ export const grinderModels: Record<string, GrinderModel> = {
     rakutenUrl:
       "https://hb.afl.rakuten.co.jp/ichiba/58d84e37.d92dccda.58d84e38.b6bc4022/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fepeios-official%2Fbg003abjp1%2F&link_type=hybrid_url&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJoeWJyaWRfdXJsIiwic2l6ZSI6IjI0MHgyNDAiLCJuYW0iOjEsIm5hbXAiOiJyaWdodCIsImNvbSI6MSwiY29tcCI6ImRvd24iLCJwcmljZSI6MSwiYm9yIjoxLCJjb2wiOjEsImJidG4iOjEsInByb2QiOjAsImFtcCI6ZmFsc2V9",
     amazonUrl: "https://www.amazon.co.jp/dp/B0D3PZHGBX?tag=stocknotelife-22",
+    shopeeMyUrl: "https://invl.me/clo6h9y",
     yahooUrl: "",
     moshimoHtml: "",
     cuppingNotes: [
