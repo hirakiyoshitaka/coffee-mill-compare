@@ -54,3 +54,5 @@ date: "2026-10-27"
 購入ボタンは、アフィリエイトの URL を入れたときだけ出ます。空のままなら、ボタンはありません。方針は[広告表記](/disclosure/)です。
 
 次は[エペイオス Essence Go](/articles/epeios-essence-go/)です。豆は、運営者が定期便を1年ほど続けていた[珈琲きゃろっと](/beans/coffee-carrot/)から開いてください。
+
+2台で迷ったら[S5 Pro と Essence Go の比較](/articles/timemore-s5-pro-vs-essence-go/)もどうぞ。

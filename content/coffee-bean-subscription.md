@@ -61,3 +61,5 @@ date: "2026-10-28"
 豆は挽きたてがいちばん香ります。ミルは[手挽きミルの選び方](/articles/how-to-choose-hand-coffee-mill/)、道具は[ハンドドリップ道具のそろえ方](/articles/hand-drip-gear-guide/)を見てください。
 
 このページの購入リンク（A8.net）はアフィリエイトリンク（広告）です。方針は[広告表記](/disclosure/)にまとめています。
+
+運営者が約1年続けた感想は[珈琲きゃろっとの定期便レビュー](/articles/coffee-carrot-review/)にまとめました。
