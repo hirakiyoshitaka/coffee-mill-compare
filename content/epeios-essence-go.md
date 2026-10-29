@@ -54,3 +54,5 @@ S5 Pro を家に固定するなら、もう一台は、ケースに入って、�
 購入ボタンは、アフィリエイトの URL を入れたときだけ出ます。方針は[広告表記](/disclosure/)です。
 
 No.1 のレビューは[栗子 S5 Pro](/articles/timemore-chestnut-s5-pro/)です。豆は[珈琲きゃろっと](/beans/coffee-carrot/)を先に開いてください。
+
+2台で迷ったら[S5 Pro と Essence Go の比較](/articles/timemore-s5-pro-vs-essence-go/)もどうぞ。
