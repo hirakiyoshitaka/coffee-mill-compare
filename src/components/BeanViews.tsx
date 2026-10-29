@@ -8,6 +8,7 @@ export function shopBuyProps(shop: BeanShop) {
     links: [
       { href: shop.a8Url, label: "ショップで見る" },
       { href: shop.rakutenUrl, label: "楽天市場で見る" },
+      { href: shop.amazonUrl, label: "Amazonで探す" },
     ],
   };
 }
