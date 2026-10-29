@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="300" viewBox="0 0 600 400" role="img" aria-labelledby="title-tuna desc-tuna">
+<title id="title-tuna">ツナを料理に合わせる使い方を示すオリジナル図</title>
+<desc id="desc-tuna">ブランドや特定商品の外観を再現しない、食べ方・用途の説明図です。実物写真ではありません。</desc>
+<rect width="600" height="400" rx="18" fill="#fffdf9"/>
+<circle cx="300" cy="195" r="145" fill="#f5f0e7"/>
+<g stroke="#24323f" stroke-width="3.5" stroke-linejoin="round" stroke-linecap="round"><ellipse cx="310" cy="303" rx="184" ry="13" fill="#24323f" opacity=".08" stroke="none"/>
+<ellipse cx="335" cy="247" rx="162" ry="59" fill="#fffdfa"/>
+<ellipse cx="335" cy="247" rx="136" ry="39" fill="#f1eadf" stroke="#dfd7c9" stroke-width="2"/>
+<path d="M277 232l26-16 27 4 20-12 22 16 29 2 17 21-16 17-37 7-25-8-28 4-30-13-21-2z" fill="#d6a082" stroke="#b98568" stroke-width="1.5"/>
+<path d="M293 236l20 4M321 225l15 12M350 236l19-7M374 250l18 4M325 256l19-7" fill="none" stroke="#f4d1b7" stroke-width="3"/>
+<path d="M151 157V243Q151 264 216 264Q281 264 281 243V157" fill="#d6dfdc"/>
+<ellipse cx="216" cy="157" rx="65" ry="24" fill="#aab8b9"/>
+<ellipse cx="216" cy="156" rx="53" ry="16" fill="#d3a083" stroke="#788d91" stroke-width="2"/>
+<path d="M158 211Q216 226 274 211M158 228Q216 243 274 228" fill="none" stroke="#b6c4c2" stroke-width="2"/>
+<ellipse cx="166" cy="119" rx="57" ry="21" fill="#e4e9e5" stroke="#7d9193" stroke-width="2" transform="rotate(-35 166 119)"/>
+<ellipse cx="170" cy="113" rx="15" ry="6" fill="none" stroke="#7d9193" stroke-width="3" transform="rotate(-35 170 113)"/>
+<path d="M446 189l53-70M488 133l-12-9M494 125l-12-9M482 141l-12-9" fill="none" stroke="#8e999d" stroke-width="5"/></g>
+<g fill="#b65a3a"><rect x="33" y="29" width="4" height="18" rx="2"/><text x="48" y="43" font-family="sans-serif" font-size="15" letter-spacing="1">用途の図</text></g>
+</svg>

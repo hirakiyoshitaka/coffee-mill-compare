@@ -20,6 +20,8 @@ export type BeanShop = {
   a8Url?: string;
   /** 楽天アフィリエイトURL。空ならボタンを出さない */
   rakutenUrl?: string;
+  /** Amazonアソシエイト（tag=stocknotelife-22）のURL。空ならボタンを出さない */
+  amazonUrl?: string;
   summary: string;
   story: string[];
   roasting: string[];
@@ -78,6 +80,7 @@ export const beanShops: BeanShop[] = [
     rakutenShopUrl: "https://www.rakuten.co.jp/doicoffee/",
     a8Url: "",
     rakutenUrl: "",
+    amazonUrl: "https://www.amazon.co.jp/s?k=土居珈琲&tag=stocknotelife-22",
     summary: "1971年から続く店で、注文ごとに生豆を小型の焙煎機で焙いています。",
     story: [
       "大阪・堺の土居珈琲です。1971年に始まっています。注文のたびに、生豆から小型の焙煎機で焙煎します。",
@@ -94,7 +97,7 @@ export const beanShops: BeanShop[] = [
         note: "お試しセットはあります。中身と金額は、このサイトの掲載データにはありません。",
       },
     ],
-    position: "農園の名前まで見てから頼みたいときの候補です。楽天にも店舗ページがあります。",
+    position: "農園の名前まで見てから頼みたいときの候補です。楽天の店舗ページや、Amazonでの検索結果からも探せます。",
   },
   {
     slug: "leo-specialty-coffee",
@@ -125,6 +128,7 @@ export const beanShops: BeanShop[] = [
     company: "株式会社オークス",
     a8Url: "",
     rakutenUrl: "",
+    amazonUrl: "https://www.amazon.co.jp/s?k=ラボカフェ+コーヒー&tag=stocknotelife-22",
     summary: "注文のあとで焙煎し、AIの味診断で豆を選ぶ店です。定期便もあります。",
     story: [
       "ラボカフェは、株式会社オークスが扱っています。公式サイトのURLは、この紹介には載せていません。",
@@ -148,6 +152,7 @@ export const beanShops: BeanShop[] = [
     rakutenShopUrl: "https://www.rakuten.co.jp/sawaicoffee-tea/",
     a8Url: "",
     rakutenUrl: "",
+    amazonUrl: "https://www.amazon.co.jp/s?k=澤井珈琲&tag=stocknotelife-22",
     summary: "量が多く、お試しの入口が低い、たっぷり飲む人向けの店です。",
     story: [
       "鳥取の澤井珈琲です。楽天の店舗ページがあり、楽天グルメ大賞を受けています。受賞年は、このサイトの材料にはありません。",

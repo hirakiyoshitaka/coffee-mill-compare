@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="300" viewBox="0 0 600 400" role="img" aria-labelledby="title-freezer desc-freezer">
+<title id="title-freezer">ごはんを二つの容器に分けて保存する使い方を示すオリジナル図</title>
+<desc id="desc-freezer">ブランドや特定商品の外観を再現しない、食べ方・用途の説明図です。実物写真ではありません。</desc>
+<rect width="600" height="400" rx="18" fill="#fffdf9"/>
+<circle cx="300" cy="195" r="145" fill="#f5f0e7"/>
+<g stroke="#24323f" stroke-width="3.5" stroke-linejoin="round" stroke-linecap="round"><ellipse cx="303" cy="311" rx="191" ry="13" fill="#24323f" opacity=".08" stroke="none"/>
+<path d="M120 198l142-24 45 29-4 82q-86 43-179 2z" fill="#f0eee7"/>
+<path d="M124 226q86 22 179-9M151 240l105-16M153 254l104-15" fill="none" stroke="#d1d9d5" stroke-width="2"/>
+<path d="M133 195l127-19 34 25-127 23z" fill="#fffdf6" stroke="#d6d8ce" stroke-width="2"/>
+<path d="M156 192l18 7M190 188l18 7M226 184l17 6M183 210l18-4M222 204l18-4M255 199l13-3" stroke="#e3d9c6" stroke-width="4"/>
+<path d="M320 213l142-24 41 29-5 77q-86 34-175-2z" fill="#f0eee7"/>
+<path d="M326 241q83 20 172-9M348 256l104-13M350 270l102-13" fill="none" stroke="#d1d9d5" stroke-width="2"/>
+<path d="M332 212l128-20 32 24-127 24z" fill="#fffdf6" stroke="#d6d8ce" stroke-width="2"/>
+<path d="M355 209l18 7M391 205l17 6M427 200l17 7M383 226l18-4M423 220l17-3M459 216l13-3" stroke="#e3d9c6" stroke-width="4"/>
+<path d="M133 140l126-24 45 27-130 24zM330 155l126-24 45 27-131 23z" fill="#e4ebe7" stroke="#6f8583"/>
+<g transform="translate(451 82)" stroke="#879e9b" stroke-width="3"><path d="M-22 0h44M0-22v44M-15-15l30 30M15-15l-30 30"/><path d="M-22 0l6-5M-22 0l6 5M22 0l-6-5M22 0l-6 5M0-22l-5 6M0-22l5 6M0 22l-5-6M0 22l5-6"/></g></g>
+<g fill="#b65a3a"><rect x="33" y="29" width="4" height="18" rx="2"/><text x="48" y="43" font-family="sans-serif" font-size="15" letter-spacing="1">用途の図</text></g>
+</svg>

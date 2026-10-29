@@ -2,7 +2,7 @@
   "name": "ouchi-cafe-dougucho",
   "version": "0.1.0",
   "private": true,
-  "description": "おうちカフェ道具帳。家のコーヒー道具を用途別に比べる静的サイト。",
+  "description": "おうち時間の道具箱。コーヒー道具・キッチン用品・ガジェットを用途別に比べる静的サイト。",
   "scripts": {
     "dev": "next dev",
     "build": "next build",

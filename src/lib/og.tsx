@@ -1,6 +1,6 @@
 import { ImageResponse } from "next/og";
 import { getLocalizedArticle, type TranslationLocale } from "@/lib/articles";
-import { siteConfig } from "@/data/site";
+import { siteConfig, localizedSiteName } from "@/data/site";
 
 export const ogSize = { width: 1200, height: 630 };
 
@@ -26,8 +26,8 @@ async function loadFont(family: string, text: string): Promise<ArrayBuffer | nul
 
 export async function localizedOgImage(locale: TranslationLocale, slug: string) {
   const article = getLocalizedArticle(locale, slug);
-  const title = article?.title ?? siteConfig.name;
-  const all = `${title}${siteConfig.name}`;
+  const title = article?.title ?? localizedSiteName[locale];
+  const all = `${title}${localizedSiteName[locale]}`;
   const [main, jp] = await Promise.all([loadFont(fontFamily[locale], all), loadFont("Noto Sans JP", all)]);
   const fonts = [
     ...(main ? [{ name: "Main", data: main, weight: 700 as const, style: "normal" as const }] : []),
@@ -48,7 +48,7 @@ export async function localizedOgImage(locale: TranslationLocale, slug: string) 
           fontFamily: "Main, JP",
         }}
       >
-        <div style={{ display: "flex", fontSize: 30, color: "#8a5a3b" }}>{siteConfig.name}</div>
+        <div style={{ display: "flex", fontSize: 30, color: "#8a5a3b" }}>{localizedSiteName[locale]}</div>
         <div style={{ display: "flex", fontSize: title.length > 28 ? 56 : 66, lineHeight: 1.3, fontWeight: 700 }}>{title}</div>
         <div style={{ display: "flex", width: 160, height: 10, borderRadius: 5, background: "#8a5a3b" }} />
       </div>

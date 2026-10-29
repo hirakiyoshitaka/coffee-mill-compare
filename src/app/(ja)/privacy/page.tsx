@@ -5,7 +5,7 @@ import { pageMeta } from "@/lib/seo";
 
 export const metadata = pageMeta({
   title: "プライバシーポリシー",
-  description: "おうちカフェ道具帳における、取得する情報、Cookie、アフィリエイトリンク、アクセス解析の扱い。",
+  description: "おうち時間の道具箱における、取得する情報、Cookie、アフィリエイトリンク、アクセス解析の扱い。",
   path: "/privacy",
 });
 

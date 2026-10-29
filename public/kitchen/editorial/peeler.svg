@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="400" viewBox="0 0 600 400" role="img" aria-labelledby="title-peeler desc-peeler">
+<title id="title-peeler">皮むきを示すオリジナル図</title>
+<desc id="desc-peeler">ブランドや特定商品の外観を再現しない、食べ方・用途の説明図です。実物写真ではありません。</desc>
+<rect width="600" height="400" rx="18" fill="#fffdf9"/>
+<circle cx="300" cy="195" r="145" fill="#f5f0e7"/>
+<g stroke="#24323f" stroke-width="3.5" stroke-linejoin="round" stroke-linecap="round"><ellipse cx="300" cy="325" rx="120" ry="12" fill="#24323f" opacity=".08" stroke="none"/>
+<path d="M279 152L265 291Q265 316 300 316Q335 316 335 291L321 152" fill="#d4dcdb"/>
+<path d="M269 169L226 133Q209 114 222 89Q231 74 251 74H349Q369 74 378 89Q391 114 374 133L331 169" fill="#e8edeb"/>
+<path d="M242 99H358V122H242z" fill="#8b999d"/>
+<path d="M244 110H356" stroke="#fffdf9" stroke-width="2"/>
+<path d="M293 181L284 281Q283 294 300 294Q317 294 316 281L307 181" fill="#aab8ba" stroke="none"/>
+<circle cx="300" cy="309" r="4" fill="#24323f" stroke="none"/>
+<path d="M173 267Q138 201 172 160Q205 182 211 234Q208 266 173 267" fill="#e3b25d" stroke="#b98b45"/>
+<path d="M172 171Q165 204 179 249" fill="none" stroke="#c49548" stroke-width="2"/></g>
+<g fill="#b65a3a"><rect x="33" y="29" width="4" height="18" rx="2"/><text x="48" y="43" font-family="sans-serif" font-size="15" letter-spacing="1">用途の図</text></g>
+</svg>

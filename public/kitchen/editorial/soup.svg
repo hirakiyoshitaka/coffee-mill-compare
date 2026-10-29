@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="300" viewBox="0 0 600 400" role="img" aria-labelledby="title-soup desc-soup">
+<title id="title-soup">汁物を一品足す使い方を示すオリジナル図</title>
+<desc id="desc-soup">ブランドや特定商品の外観を再現しない、食べ方・用途の説明図です。実物写真ではありません。</desc>
+<rect width="600" height="400" rx="18" fill="#fffdf9"/>
+<circle cx="300" cy="195" r="145" fill="#f5f0e7"/>
+<g stroke="#24323f" stroke-width="3.5" stroke-linejoin="round" stroke-linecap="round"><ellipse cx="300" cy="308" rx="155" ry="14" fill="#24323f" opacity=".08" stroke="none"/>
+<path d="M150 188Q171 278 269 300H331Q429 278 450 188" fill="#344957"/>
+<path d="M263 297V311Q300 322 337 311V297" fill="#b65a3a"/>
+<ellipse cx="300" cy="187" rx="150" ry="62" fill="#b65a3a"/>
+<ellipse cx="300" cy="183" rx="133" ry="48" fill="#d3af79" stroke="#dfc49c" stroke-width="2"/>
+<path d="M211 177l21-11 18 15-20 12zM324 171l25-5 12 18-26 7zM272 198l24-6 17 16-24 10z" fill="#f4ead0" stroke="none"/>
+<path d="M260 161l12 9-8 13-15-6zM369 193l13 3-7 13-13-7zM227 202l11-4 5 10-12 4z" fill="#5e7656" stroke="none"/>
+<path d="M231 106Q218 89 233 69M300 98Q285 80 302 58M368 106Q353 89 369 71" fill="none" stroke="#b6ada0" stroke-width="2" opacity=".65"/>
+<path d="M464 272l58-110" fill="none" stroke="#a87543" stroke-width="6"/><path d="M478 277l58-110" fill="none" stroke="#a87543" stroke-width="6"/></g>
+<g fill="#b65a3a"><rect x="33" y="29" width="4" height="18" rx="2"/><text x="48" y="43" font-family="sans-serif" font-size="15" letter-spacing="1">用途の図</text></g>
+</svg>

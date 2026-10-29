@@ -5,7 +5,7 @@ import { pageMeta } from "@/lib/seo";
 
 export const metadata = pageMeta({
   title: "運営者情報",
-  description: "おうちカフェ道具帳の運営形態、連絡先、サイトの目的。個人運営の比較ノートです。",
+  description: "おうち時間の道具箱の運営形態、連絡先、サイトの目的。個人運営の比較ノートです。",
   path: "/about",
 });
 

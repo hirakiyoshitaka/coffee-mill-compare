@@ -8,6 +8,8 @@ import { beanShops } from "@/data/beans";
 import { categories, categoryHref } from "@/data/categories";
 import { getFeaturedModels } from "@/data/grinders";
 import { getArticle } from "@/lib/articles";
+import { KitchenList } from "@/components/KitchenList";
+import { getKitchenArticles } from "@/lib/kitchen";
 
 const heroImage =
   "https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd?auto=format&fit=crop&w=1400&q=80";
@@ -30,6 +32,8 @@ export default function HomePage() {
     .filter((article) => article !== undefined)
     .map(({ slug, title, description, category, date }) => ({ slug, title, description, category, date }));
 
+  const kitchen = getKitchenArticles().slice(0, 4);
+
   return (
     <main className="page-wrap">
       <section className="hero">
@@ -37,7 +41,7 @@ export default function HomePage() {
           <p className="hero-kicker">先に置くのは、2台と1店</p>
           <h1>家のコーヒーを、条件から選ぶ。</h1>
           <p className="hero-description">
-            おうちカフェ道具帳が勧める手挽きは、タイムモア栗子 S5 Pro と、エペイオス Essence Go です。豆は、運営者が定期便を1年ほど続けていた珈琲きゃろっとから開きます。価格は目安です。
+            おうち時間の道具箱が勧める手挽きは、タイムモア栗子 S5 Pro と、エペイオス Essence Go です。豆は、運営者が定期便を1年ほど続けていた珈琲きゃろっとから開きます。価格は目安です。
           </p>
           <div className="hero-actions">
             <Link href="#picks" className="hero-cta">
@@ -132,6 +136,17 @@ export default function HomePage() {
           </Link>
         </div>
         <ArticleList articles={articles} />
+      </section>
+
+      <section className="section-block" id="kitchen">
+        <div className="section-heading">
+          <h2>キッチン・ストック</h2>
+          <Link href="/kitchen" className="text-link">
+            すべて
+          </Link>
+        </div>
+        <p className="section-lead">帰宅後のごはんやストック食品を、使う場面と一食量から選ぶノートです。体験談ではなく、メーカー資料と外部の使用記事をもとにしています。</p>
+        <KitchenList articles={kitchen} />
       </section>
 
       <section className="section-block" id="categories">

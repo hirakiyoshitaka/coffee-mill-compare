@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="400" viewBox="0 0 600 400" role="img" aria-labelledby="title-oyako desc-oyako">
+<title id="title-oyako">ごはんに合わせる丼を示すオリジナル図</title>
+<desc id="desc-oyako">ブランドや特定商品の外観を再現しない、食べ方・用途の説明図です。実物写真ではありません。</desc>
+<rect width="600" height="400" rx="18" fill="#fffdf9"/>
+<circle cx="300" cy="195" r="145" fill="#f5f0e7"/>
+<g stroke="#24323f" stroke-width="3.5" stroke-linejoin="round" stroke-linecap="round"><ellipse cx="300" cy="307" rx="151" ry="14" fill="#24323f" opacity=".08" stroke="none"/>
+<path d="M151 196Q172 281 270 300H330Q428 281 449 196" fill="#fffdfa"/>
+<path d="M260 298V310Q300 321 340 310V298" fill="#e3d9c9"/>
+<ellipse cx="300" cy="196" rx="149" ry="61" fill="#eae0cc"/>
+<path d="M169 190Q198 151 294 150Q394 150 431 190Q407 233 300 240Q198 235 169 190" fill="#e9bd61" stroke="none"/><path d="M207 178l22-8 19 14-8 16-24-2z" fill="#c48d56" stroke="#b28150" stroke-width="1.5"/><path d="M269 169l22-8 19 14-8 16-24-2z" fill="#c48d56" stroke="#b28150" stroke-width="1.5"/><path d="M332 181l22-8 19 14-8 16-24-2z" fill="#c48d56" stroke="#b28150" stroke-width="1.5"/><path d="M257 209l22-8 19 14-8 16-24-2z" fill="#c48d56" stroke="#b28150" stroke-width="1.5"/><path d="M363 208l22-8 19 14-8 16-24-2z" fill="#c48d56" stroke="#b28150" stroke-width="1.5"/><path d="M276 172l8-19M311 192l16-16M339 221l18-7M233 211l-12-14" fill="none" stroke="#5e7656" stroke-width="6"/><path d="M167 222Q300 274 433 222" fill="none" stroke="#e1d8cb" stroke-width="2"/>
+<path d="M235 104Q225 88 237 72M300 98Q286 80 302 61M366 107Q353 89 369 74" fill="none" stroke="#b6ada0" stroke-width="2" opacity=".65"/></g>
+<g fill="#b65a3a"><rect x="33" y="29" width="4" height="18" rx="2"/><text x="48" y="43" font-family="sans-serif" font-size="15" letter-spacing="1">用途の図</text></g>
+</svg>
