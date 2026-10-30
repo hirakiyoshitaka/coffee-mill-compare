@@ -2,12 +2,13 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { ArticleBody } from "@/components/ArticleBody";
+import { ShareButtons } from "@/components/ShareButtons";
 import { getSiteUrl, siteConfig, localizedSiteName } from "@/data/site";
 import { LanguageSwitcher } from "@/components/intl/LanguageSwitcher";
 import { chromeDict } from "@/lib/i18n";
 import { articleLanguageAlternates, articleLocalePaths, getLocalizedArticle, getLocalizedArticles, hreflangOf, type TranslationLocale } from "@/lib/articles";
 
-const ui: Record<TranslationLocale, { og: string; home: string; pr: string; disclosure: string; others: string }> = {
+const ui: Record<TranslationLocale, { og: string; home: string; pr: string; disclosure: string; others: string; share: string }> = {
   "zh-tw": {
     og: "zh_TW",
     home: "日本語版",
@@ -15,6 +16,7 @@ const ui: Record<TranslationLocale, { og: string; home: string; pr: string; disc
     disclosure:
       "本文含廣告與聯盟行銷連結。本站為 Amazon 日本的聯盟會員，透過合格銷售取得收入。經由連結購買時，本站可能獲得報酬。推薦順序不以報酬高低決定，價格僅供參考。",
     others: "其他文章",
+    share: "分享這篇文章",
   },
   "zh-hk": {
     og: "zh_HK",
@@ -23,6 +25,7 @@ const ui: Record<TranslationLocale, { og: string; home: string; pr: string; disc
     disclosure:
       "本文含廣告及聯盟推廣連結。本站為 Amazon 日本的聯盟會員，透過合資格銷售賺取收入。經連結購買時，本站或會獲得報酬。推薦次序不以報酬高低決定，文中價格為日本市場價格，僅供參考。",
     others: "其他文章",
+    share: "分享這篇文章",
   },
   ko: {
     og: "ko_KR",
@@ -31,6 +34,7 @@ const ui: Record<TranslationLocale, { og: string; home: string; pr: string; disc
     disclosure:
       "이 글에는 광고·제휴 마케팅 링크가 포함되어 있습니다. 이 사이트는 아마존 재팬 어소시에이트로서 적격 판매를 통해 수익을 얻습니다. 링크를 통해 구매하면 사이트가 수수료를 받을 수 있습니다. 소개 순서는 수수료와 무관하며, 가격은 참고용입니다.",
     others: "다른 글",
+    share: "이 글 공유하기",
   },
   en: {
     og: "en_US",
@@ -39,6 +43,7 @@ const ui: Record<TranslationLocale, { og: string; home: string; pr: string; disc
     disclosure:
       "This article contains ads and affiliate links. As an Amazon Associate (Amazon.co.jp), we earn from qualifying purchases, and we may earn a commission when you buy through some links at no extra cost to you. Rankings are not based on commission rates, and prices are for reference only.",
     others: "More articles",
+    share: "Share this article",
   },
 };
 
@@ -125,6 +130,11 @@ export function LocalizedArticle({ locale, slug }: { locale: TranslationLocale; 
           </>
         ) : null}
       </aside>
+      <ShareButtons
+        url={`${getSiteUrl()}/${locale}/articles/${slug}/`}
+        title={article.title}
+        label={t.share}
+      />
     </main>
   );
 }
