@@ -55,7 +55,7 @@ date: "2026-10-27"
 
 次は[エペイオス Essence Go](/articles/epeios-essence-go/)です。豆は、運営者が定期便を1年ほど続けていた[珈琲きゃろっと](/beans/coffee-carrot/)から開いてください。
 
-2台で迷ったら[S5 Pro と Essence Go の比較](/articles/timemore-s5-pro-vs-essence-go/)もどうぞ。
+2台で迷ったら[S5 Pro と Essence Go の比較](/articles/timemore-s5-pro-vs-essence-go/)もどうぞ。粉と油分の手入れの整理は[コーヒーミルの掃除・お手入れ方法](/articles/coffee-mill-cleaning/)です。このレビューでは掃除の実測は書いていません。
 
 ## あわせて読みたい
 
@@ -63,4 +63,5 @@ date: "2026-10-27"
 - [タイムモア S5 Pro と エペイオス Essence Go 比較](/articles/timemore-s5-pro-vs-essence-go/)
 - [エペイオス Essence Goレビュー](/articles/epeios-essence-go/)
 - [手挽きミルを買ったら最初に頼みたい豆](/articles/first-beans-after-hand-mill/)
+- [コーヒーミルの掃除・お手入れ方法](/articles/coffee-mill-cleaning/)
 

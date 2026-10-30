@@ -96,6 +96,8 @@ date: "2026-10-27"
 - **淹れ方そのものを楽しみ、探求したい人**：V60 ＋ ケトル・フィット ＋ スケール
 - **毎朝、安定しておいしい一杯がほしい人**：カリタ ウェーブ ＋ ケトル・フィット ＋ スケール
 
+フィルターの素材で味と手入れは変わります。ペーパー・金属・布の比較は[コーヒーフィルターの選び方](/articles/coffee-filter-guide/)です。
+
 道具がそろったら、あとは豆です。運営者は[珈琲きゃろっと](/beans/coffee-carrot/)の定期便を約1年続けていて、美味しかったそうです。ほかの店は[スペシャルティコーヒー豆の通販ショップ比較](/articles/specialty-coffee-beans-shops/)にまとめています。ミルをもっと比べたい人は[手挽きミルのランキング](/articles/coffee-mill-ranking/)もどうぞ。慣れてきたら、次の一歩として[ハンドドリップを一段上げる道具](/articles/hand-drip-upgrade-gear/)も紹介しています。
 
 このページのAmazonリンクはアフィリエイトリンクです。方針は[広告表記](/disclosure/)にまとめています。
@@ -107,4 +109,5 @@ date: "2026-10-27"
 - [ドリップケトルおすすめの選び方](/articles/drip-kettle-guide/)
 - [コーヒースケールおすすめの選び方](/articles/coffee-scale-guide/)
 - [ハンドドリップを一段上げる道具](/articles/hand-drip-upgrade-gear/)
+- [コーヒーフィルターの選び方](/articles/coffee-filter-guide/)
 

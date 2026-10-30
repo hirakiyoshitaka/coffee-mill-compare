@@ -36,6 +36,8 @@ date: "2026-10-30"
 
 [円すい型ペーパーフィルターを Amazon で探す（広告）](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC+%E3%83%9A%E3%83%BC%E3%83%91%E3%83%BC%E3%83%95%E3%82%A3%E3%83%AB%E3%82%BF%E3%83%BC+%E5%86%86%E3%81%99%E3%81%84)
 
+ペーパー・金属・布の違いは[コーヒーフィルターの選び方](/articles/coffee-filter-guide/)に分けています。
+
 価格と仕様は購入前に商品ページで確認してください。
 
 ## あわせて読みたい
@@ -44,6 +46,7 @@ date: "2026-10-30"
 - [ハンドドリップ道具のそろえ方](/articles/hand-drip-gear-guide/)
 - [ドリップケトルおすすめの選び方](/articles/drip-kettle-guide/)
 - [コーヒースケールおすすめの選び方](/articles/coffee-scale-guide/)
+- [コーヒーフィルターの選び方](/articles/coffee-filter-guide/)
 
 お湯を注ぐ道具は[ドリップケトルの選び方](/articles/drip-kettle-guide/)、豆の挽き方で味は大きく変わるので[手挽きミルの選び方](/articles/how-to-choose-hand-coffee-mill/)もどうぞ。
 
