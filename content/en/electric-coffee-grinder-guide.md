@@ -33,9 +33,9 @@ If you make pour-over every day, start with a flat or conical burr grinder for a
 
 You can compare models on Amazon. Always confirm the price and specs on the product page before buying.
 
-[Browse flat burr electric grinders on Amazon.com](https://www.amazon.com/s?k=flat+burr+electric+coffee+grinder)
+[Browse flat burr electric grinders on Amazon.co.jp](https://www.amazon.co.jp/s?k=flat+burr+electric+coffee+grinder&tag=stocknotelife-22)
 
-[Browse conical burr electric grinders on Amazon.com](https://www.amazon.com/s?k=conical+burr+electric+coffee+grinder)
+[Browse conical burr electric grinders on Amazon.co.jp](https://www.amazon.co.jp/s?k=conical+burr+electric+coffee+grinder&tag=stocknotelife-22)
 
 ## Or consider a hand grinder
 
