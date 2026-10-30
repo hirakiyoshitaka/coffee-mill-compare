@@ -50,7 +50,7 @@ My one-line take: it just spins so easily. EPEIOS says the 10-blade burr is desi
 
 Want them side by side? Read [Timemore S5 Pro vs EPEIOS Essence Go](/en/articles/timemore-s5-pro-vs-essence-go/).
 
-[Browse manual coffee grinders on Amazon.com](https://www.amazon.com/s?k=manual+coffee+grinder+conical+burr)
+[Browse manual coffee grinders on Amazon.co.jp](https://www.amazon.co.jp/s?k=manual+coffee+grinder+conical+burr&tag=stocknotelife-22)
 
 Once you have a grinder, a [coffee scale](/en/articles/coffee-scale-guide/) is the next upgrade that makes the biggest difference.
 

@@ -39,9 +39,9 @@ For how to pick one, see our [electric coffee grinder guide](/en/articles/electr
 
 If you brew one or two cups of pour-over a day, I'd start with a hand grinder. That's how I started.
 
-[Browse manual coffee grinders on Amazon.com](https://www.amazon.com/s?k=manual+coffee+grinder)
+[Browse manual coffee grinders on Amazon.co.jp](https://www.amazon.co.jp/s?k=manual+coffee+grinder&tag=stocknotelife-22)
 
-[Browse electric burr grinders on Amazon.com](https://www.amazon.com/s?k=electric+burr+coffee+grinder)
+[Browse electric burr grinders on Amazon.co.jp](https://www.amazon.co.jp/s?k=electric+burr+coffee+grinder&tag=stocknotelife-22)
 
 For a first manual grinder, read [how to choose your first hand grinder](/en/articles/how-to-choose-hand-coffee-mill/).
 

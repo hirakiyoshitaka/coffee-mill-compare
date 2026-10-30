@@ -26,9 +26,9 @@ Even with the same beans and the same grind setting, small changes in the amount
 - **Mid range**: faster response, water resistance, auto-start timers.
 - **Premium**: flow-rate display, app connectivity, and more.
 
-[Browse coffee scales with timers on Amazon.com](https://www.amazon.com/s?k=coffee+scale+with+timer)
+[Browse coffee scales with timers on Amazon.co.jp](https://www.amazon.co.jp/s?k=coffee+scale+with+timer&tag=stocknotelife-22)
 
-[Browse water-resistant pour-over scales on Amazon.com](https://www.amazon.com/s?k=waterproof+pour+over+coffee+scale)
+[Browse water-resistant pour-over scales on Amazon.co.jp](https://www.amazon.co.jp/s?k=waterproof+pour+over+coffee+scale&tag=stocknotelife-22)
 
 Check the price and specs on the product page before buying.
 

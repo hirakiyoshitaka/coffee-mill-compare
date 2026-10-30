@@ -50,11 +50,11 @@ There's only about 40g between them, and neither is a lightweight. The real diff
 
 {{grinder:epeios-essence-go}}
 
-[Search for the Timemore Chestnut S5 Pro on Amazon.com](https://www.amazon.com/s?k=TIMEMORE+Chestnut+S5+Pro)
+[Search for the Timemore Chestnut S5 Pro on Amazon.co.jp](https://www.amazon.co.jp/s?k=TIMEMORE+Chestnut+S5+Pro&tag=stocknotelife-22)
 
-[Search for the EPEIOS Essence Go on Amazon.com](https://www.amazon.com/s?k=EPEIOS+Essence+Go+grinder)
+[Search for the EPEIOS Essence Go on Amazon.co.jp](https://www.amazon.co.jp/s?k=EPEIOS+Essence+Go+grinder&tag=stocknotelife-22)
 
-Availability on Amazon.com varies by region, so check the listing (and the seller) before ordering.
+Availability on Amazon.co.jp varies by region, so check the listing (and the seller) before ordering.
 
 Still deciding? See [how to choose your first hand grinder](/en/articles/how-to-choose-hand-coffee-mill/) or [hand vs electric grinders](/en/articles/hand-vs-electric-coffee-mill/).
 
