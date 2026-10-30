@@ -171,12 +171,12 @@ PSC-PRN-G7はグリーン7個入りで、200mL×4、500mL×2、1.2L×1。本体�
 
 Amazonの商品ページ上で確認した公開表示です。バリエーション別の厳密な販売数や、当サイト経由の注文・紹介料を示すものではありません。
 
-[表示を確認した商品ページ](https://www.amazon.co.jp/dp/B005H2DC5G)
+[表示を確認した商品ページ](https://www.amazon.co.jp/dp/B005H2DC5G?tag=stocknotelife-22)
 
 #### この商品の出典
 
 - [iwaki：パック＆レンジ7点セットの容量・使用条件](https://igc.co.jp/shop/pages/7set.aspx) — 確認日 2026-10-23
-- [Amazon：PSC-PRN-G7グリーン7個セットの構成・使用条件](https://www.amazon.co.jp/dp/B005H2DC5G) — 確認日 2026-10-23
+- [Amazon：PSC-PRN-G7グリーン7個セットの構成・使用条件](https://www.amazon.co.jp/dp/B005H2DC5G?tag=stocknotelife-22) — 確認日 2026-10-23
 - [消費者庁：耐熱ガラス製器具の使用区分・耐熱温度差の表示](https://www.caa.go.jp/policies/policy/representation/household_goods/guide/zakka/zakka_22.html) — 確認日 2026-10-25
 - [厚生労働省：家庭でできる食中毒予防の6つのポイント](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/shokuhin/syokuchu/01_00006.html) — 確認日 2026-10-25
 - [家電 Watch（インプレス）：使いやすく洗いやすい食品保存容器6選。おいしさも保てる](https://kaden.watch.impress.co.jp/docs/column/kosouji/1549089.html) — 確認日 2026-10-25
@@ -184,6 +184,6 @@ Amazonの商品ページ上で確認した公開表示です。バリエーシ�
 ## 記事の出典
 
 - [iwaki：パック＆レンジ7点セットの容量・使用条件](https://igc.co.jp/shop/pages/7set.aspx) — 確認日 2026-10-23
-- [Amazon：PSC-PRN-G7グリーン7個セットの構成・使用条件](https://www.amazon.co.jp/dp/B005H2DC5G) — 確認日 2026-10-23
+- [Amazon：PSC-PRN-G7グリーン7個セットの構成・使用条件](https://www.amazon.co.jp/dp/B005H2DC5G?tag=stocknotelife-22) — 確認日 2026-10-23
 - [消費者庁：耐熱ガラス製器具の使用区分・耐熱温度差の表示](https://www.caa.go.jp/policies/policy/representation/household_goods/guide/zakka/zakka_22.html) — 確認日 2026-10-25
 - [厚生労働省：家庭でできる食中毒予防の6つのポイント](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/shokuhin/syokuchu/01_00006.html) — 確認日 2026-10-25

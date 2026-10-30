@@ -281,7 +281,7 @@
 
 Amazonの商品ページの公開表示であり、当サイト経由の注文・紹介料ではありません。正確なSKU別月間販売数として換算しません。
 
-[表示を確認した商品ページ](https://www.amazon.co.jp/dp/B099HSL4KT)
+[表示を確認した商品ページ](https://www.amazon.co.jp/dp/B099HSL4KT?tag=stocknotelife-22)
 
 #### この商品の出典
 

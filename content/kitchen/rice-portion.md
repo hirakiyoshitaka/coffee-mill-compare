@@ -152,7 +152,7 @@ Amazonの商品名は「こだわりコシヒカリ小盛り150g×20個」、現
 #### この商品の出典
 
 - [サトウ食品：コシヒカリ小盛り150g](https://www.satosyokuhin.co.jp/products/products_rice_179.html) — 確認日 2026-10-27
-- [Amazon.co.jp：サトウのごはん こだわりコシヒカリ小盛り150g×20個（ASIN・容量・販売単位の照合）](https://www.amazon.co.jp/dp/B002NKLQ9Y) — 確認日 2026-10-27
+- [Amazon.co.jp：サトウのごはん こだわりコシヒカリ小盛り150g×20個（ASIN・容量・販売単位の照合）](https://www.amazon.co.jp/dp/B002NKLQ9Y?tag=stocknotelife-22) — 確認日 2026-10-27
 
 ### サトウ食品 サトウのごはん 新潟県産コシヒカリ 200g
 
@@ -254,7 +254,7 @@ Amazonの商品名は「こだわりコシヒカリ小盛り150g×20個」、現
 
 **販売単位：** 1食300g
 
-[Amazonで商品名を検索する（販売単位未照合）](https://www.amazon.co.jp/s?k=%E3%82%B5%E3%83%88%E3%82%A6%E3%81%AE%E3%81%94%E3%81%AF%E3%82%93+%E6%96%B0%E6%BD%9F%E7%9C%8C%E7%94%A3%E3%82%B3%E3%82%B7%E3%83%92%E3%82%AB%E3%83%AA+%E5%A4%A7%E7%9B%9B300g)
+[Amazonで商品名を検索する（販売単位未照合）](https://www.amazon.co.jp/s?k=%E3%82%B5%E3%83%88%E3%82%A6%E3%81%AE%E3%81%94%E3%81%AF%E3%82%93+%E6%96%B0%E6%BD%9F%E7%9C%8C%E7%94%A3%E3%82%B3%E3%82%B7%E3%83%92%E3%82%AB%E3%83%AA+%E5%A4%A7%E7%9B%9B300g&tag=stocknotelife-22)
 
 食べ切れる量と棚の空きから検討。200g用の加熱案内を流用しない。
 
@@ -269,4 +269,4 @@ Amazonの商品名は「こだわりコシヒカリ小盛り150g×20個」、現
 - [新潟県産コシヒカリ200g｜サトウ食品](https://www.satosyokuhin.co.jp/products/products_rice_77.html) — 確認日 2026-10-22
 - [ふっくら赤飯｜東洋水産](https://www.maruchan.co.jp/products/search/hukkurasekihan.html) — 確認日 2026-10-22
 - [サトウ食品：コシヒカリ小盛り150g](https://www.satosyokuhin.co.jp/products/products_rice_179.html) — 確認日 2026-10-27
-- [Amazon.co.jp：サトウのごはん こだわりコシヒカリ小盛り150g×20個（ASIN・容量・販売単位の照合）](https://www.amazon.co.jp/dp/B002NKLQ9Y) — 確認日 2026-10-27
+- [Amazon.co.jp：サトウのごはん こだわりコシヒカリ小盛り150g×20個（ASIN・容量・販売単位の照合）](https://www.amazon.co.jp/dp/B002NKLQ9Y?tag=stocknotelife-22) — 確認日 2026-10-27

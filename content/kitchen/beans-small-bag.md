@@ -132,9 +132,9 @@
 #### この商品の出典
 
 - [キユーピー公式Qummy：サラダクラブ ミックスビーンズ50g（内容量・使い方・保存方法）](https://qummy.kewpie.co.jp/products/4901577337390) — 確認日 2026-10-27
-- [Amazon.co.jp：キユーピー サラダクラブ ミックスビーンズ50g（ASIN・50g・1袋の照合）](https://www.amazon.co.jp/dp/B00TRUNNDA) — 確認日 2026-10-27
+- [Amazon.co.jp：キユーピー サラダクラブ ミックスビーンズ50g（ASIN・50g・1袋の照合）](https://www.amazon.co.jp/dp/B00TRUNNDA?tag=stocknotelife-22) — 確認日 2026-10-27
 
 ## 記事の出典
 
 - [キユーピー公式Qummy：サラダクラブ ミックスビーンズ50g（内容量・使い方・保存方法）](https://qummy.kewpie.co.jp/products/4901577337390) — 確認日 2026-10-27
-- [Amazon.co.jp：キユーピー サラダクラブ ミックスビーンズ50g（ASIN・50g・1袋の照合）](https://www.amazon.co.jp/dp/B00TRUNNDA) — 確認日 2026-10-27
+- [Amazon.co.jp：キユーピー サラダクラブ ミックスビーンズ50g（ASIN・50g・1袋の照合）](https://www.amazon.co.jp/dp/B00TRUNNDA?tag=stocknotelife-22) — 確認日 2026-10-27

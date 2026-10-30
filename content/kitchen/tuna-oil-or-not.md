@@ -122,12 +122,12 @@ by AmazonのLフレーク70gを12缶。サラダ・パスタ・ごはん等の�
 
 Amazonの商品ページ上で確認した公開表示です。バリエーション別の厳密な販売数や、当サイト経由の注文・紹介料を示すものではありません。
 
-[表示を確認した商品ページ](https://www.amazon.co.jp/dp/B07YYNFMPZ)
+[表示を確認した商品ページ](https://www.amazon.co.jp/dp/B07YYNFMPZ?tag=stocknotelife-22)
 
 #### この商品の出典
 
-- [Amazon：by AmazonシーチキンLフレーク70g×12缶の商品表示](https://www.amazon.co.jp/dp/B07YYNFMPZ) — 確認日 2026-10-23
+- [Amazon：by AmazonシーチキンLフレーク70g×12缶の商品表示](https://www.amazon.co.jp/dp/B07YYNFMPZ?tag=stocknotelife-22) — 確認日 2026-10-23
 
 ## 記事の出典
 
-- [Amazon：by AmazonシーチキンLフレーク70g×12缶の商品表示](https://www.amazon.co.jp/dp/B07YYNFMPZ) — 確認日 2026-10-23
+- [Amazon：by AmazonシーチキンLフレーク70g×12缶の商品表示](https://www.amazon.co.jp/dp/B07YYNFMPZ?tag=stocknotelife-22) — 確認日 2026-10-23

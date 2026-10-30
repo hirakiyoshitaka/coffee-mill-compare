@@ -130,14 +130,14 @@
 
 Amazonの商品ページ上で確認した公開表示です。バリエーション別の厳密な販売数や、当サイト経由の注文・紹介料を示すものではありません。
 
-[表示を確認した商品ページ](https://www.amazon.co.jp/dp/B0GR93HD31)
+[表示を確認した商品ページ](https://www.amazon.co.jp/dp/B0GR93HD31?tag=stocknotelife-22)
 
 #### この商品の出典
 
 - [マルコメ：料亭の味アソート10食の仕様・内訳](https://www.marukome.co.jp/product/detail/instant_202/) — 確認日 2026-10-23
-- [Amazon：顆粒みそ汁10食×2袋の商品・販売単位](https://www.amazon.co.jp/dp/B0GR93HD31) — 確認日 2026-10-23
+- [Amazon：顆粒みそ汁10食×2袋の商品・販売単位](https://www.amazon.co.jp/dp/B0GR93HD31?tag=stocknotelife-22) — 確認日 2026-10-23
 
 ## 記事の出典
 
 - [マルコメ：料亭の味アソート10食の仕様・内訳](https://www.marukome.co.jp/product/detail/instant_202/) — 確認日 2026-10-23
-- [Amazon：顆粒みそ汁10食×2袋の商品・販売単位](https://www.amazon.co.jp/dp/B0GR93HD31) — 確認日 2026-10-23
+- [Amazon：顆粒みそ汁10食×2袋の商品・販売単位](https://www.amazon.co.jp/dp/B0GR93HD31?tag=stocknotelife-22) — 確認日 2026-10-23
