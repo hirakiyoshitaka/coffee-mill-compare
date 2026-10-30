@@ -73,6 +73,7 @@ export function BeanDirectoryCard({ shop }: { shop: BeanShop }) {
         ))}
       </ul>
       <p className="fine">{priceAsOfLabel}</p>
+      <BuyButtons {...shopBuyProps(shop)} />
       <p>
         <Link className="text-link" href={`/beans/${shop.slug}`}>
           この店のページ
@@ -115,6 +116,7 @@ export function BeanShopDetail({ shop }: { shop: BeanShop }) {
       <h1 className="page-title">{shop.name}</h1>
       <p className="lede">{shop.summary}</p>
       <p className="fine">{shop.position}</p>
+      <BuyButtons {...shopBuyProps(shop)} />
 
       {shop.ownerExperience?.length ? (
         <section className="story-block owner-note">

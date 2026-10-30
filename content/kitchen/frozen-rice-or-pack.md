@@ -197,12 +197,12 @@ K748Wはホワイト2個入り。1個約280mL・ごはん約180gが目安で、�
 
 Amazonの商品ページ上で確認した公開表示です。バリエーション別の厳密な販売数や、当サイト経由の注文・紹介料を示すものではありません。
 
-[表示を確認した商品ページ](https://www.amazon.co.jp/dp/B085LNNFCF)
+[表示を確認した商品ページ](https://www.amazon.co.jp/dp/B085LNNFCF?tag=stocknotelife-22)
 
 #### この商品の出典
 
 - [マーナ：極 冷凍ごはん容器K748Wの仕様・使い方](https://marna.jp/shop/g/gK748W/) — 確認日 2026-10-23
-- [Amazon：K748Wホワイト2個入りの商品・選択中セット](https://www.amazon.co.jp/dp/B085LNNFCF) — 確認日 2026-10-23
+- [Amazon：K748Wホワイト2個入りの商品・選択中セット](https://www.amazon.co.jp/dp/B085LNNFCF?tag=stocknotelife-22) — 確認日 2026-10-23
 - [農林水産省：セレウス菌・米飯を小分けして速やかに低温保存](https://www.maff.go.jp/j/syouan/seisaku/foodpoisoning/f_encyclopedia/bacillus.cereus.html) — 確認日 2026-10-25
 - [鈴木一成（1989）：米飯の老化に及ぼす保存温度の影響](https://www.jstage.jst.go.jp/article/jhej1987/40/11/40_11_983/_article/-char/ja) — 確認日 2026-10-25
 - [家電 Watch（インプレス）：ごはんの冷凍がラクに! 測らず盛るだけのマーナ冷凍容器を愛用中](https://kaden.watch.impress.co.jp/docs/column/iine/1589342.html) — 確認日 2026-10-25
@@ -259,7 +259,7 @@ Amazonの商品名は「こだわりコシヒカリ小盛り150g×20個」、現
 #### この商品の出典
 
 - [サトウ食品：コシヒカリ小盛り150g](https://www.satosyokuhin.co.jp/products/products_rice_179.html) — 確認日 2026-10-27
-- [Amazon.co.jp：サトウのごはん こだわりコシヒカリ小盛り150g×20個（ASIN・容量・販売単位の照合）](https://www.amazon.co.jp/dp/B002NKLQ9Y) — 確認日 2026-10-27
+- [Amazon.co.jp：サトウのごはん こだわりコシヒカリ小盛り150g×20個（ASIN・容量・販売単位の照合）](https://www.amazon.co.jp/dp/B002NKLQ9Y?tag=stocknotelife-22) — 確認日 2026-10-27
 
 ### サトウ食品 サトウのごはん 新潟県産コシヒカリ 200g
 
@@ -310,8 +310,8 @@ Amazonの商品名は「こだわりコシヒカリ小盛り150g×20個」、現
 ## 記事の出典
 
 - [マーナ：極 冷凍ごはん容器K748Wの仕様・使い方](https://marna.jp/shop/g/gK748W/) — 確認日 2026-10-23
-- [Amazon：K748Wホワイト2個入りの商品・選択中セット](https://www.amazon.co.jp/dp/B085LNNFCF) — 確認日 2026-10-23
+- [Amazon：K748Wホワイト2個入りの商品・選択中セット](https://www.amazon.co.jp/dp/B085LNNFCF?tag=stocknotelife-22) — 確認日 2026-10-23
 - [新潟県産コシヒカリ200g｜サトウ食品](https://www.satosyokuhin.co.jp/products/products_rice_77.html) — 確認日 2026-10-22
 - [農林水産省：セレウス菌・米飯を小分けして速やかに低温保存](https://www.maff.go.jp/j/syouan/seisaku/foodpoisoning/f_encyclopedia/bacillus.cereus.html) — 確認日 2026-10-25
 - [サトウ食品：コシヒカリ小盛り150g](https://www.satosyokuhin.co.jp/products/products_rice_179.html) — 確認日 2026-10-27
-- [Amazon.co.jp：サトウのごはん こだわりコシヒカリ小盛り150g×20個（ASIN・容量・販売単位の照合）](https://www.amazon.co.jp/dp/B002NKLQ9Y) — 確認日 2026-10-27
+- [Amazon.co.jp：サトウのごはん こだわりコシヒカリ小盛り150g×20個（ASIN・容量・販売単位の照合）](https://www.amazon.co.jp/dp/B002NKLQ9Y?tag=stocknotelife-22) — 確認日 2026-10-27

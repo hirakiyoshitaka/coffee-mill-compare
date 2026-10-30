@@ -78,7 +78,7 @@
 
 **販売単位：** 1缶70g
 
-[Amazonで商品名を検索する（販売単位未照合）](https://www.amazon.co.jp/s?k=%E3%81%AF%E3%81%94%E3%82%8D%E3%82%82+%E3%82%B7%E3%83%BC%E3%83%81%E3%82%AD%E3%83%B3L%E3%83%95%E3%83%AC%E3%83%BC%E3%82%AF+70g)
+[Amazonで商品名を検索する（販売単位未照合）](https://www.amazon.co.jp/s?k=%E3%81%AF%E3%81%94%E3%82%8D%E3%82%82+%E3%82%B7%E3%83%BC%E3%83%81%E3%82%AD%E3%83%B3L%E3%83%95%E3%83%AC%E3%83%BC%E3%82%AF+70g&tag=stocknotelife-22)
 
 オイル不使用やby Amazonの別セットと区別。缶数と原材料は購入する商品の表示を確認。
 

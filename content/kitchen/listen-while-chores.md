@@ -67,7 +67,7 @@
 
 対象作品・申込条件・無料期間の有無を公式画面で確認。無料体験後も、退会しない限り有料で自動更新されます。
 
-[Amazonで料金・利用条件を確認](https://www.amazon.co.jp/b/?node=5816607051)
+[Amazonで料金・利用条件を確認](https://www.amazon.co.jp/b/?node=5816607051&tag=stocknotelife-22)
 
 **資料確認日：** 2026-10-20
 

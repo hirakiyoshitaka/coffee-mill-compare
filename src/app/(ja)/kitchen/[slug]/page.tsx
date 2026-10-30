@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { ArticleBody } from "@/components/ArticleBody";
+import { ArticlePicks } from "@/components/ArticlePicks";
 import { Breadcrumb } from "@/components/Breadcrumb";
 import { PrNotice } from "@/components/PrNotice";
 import { formatJaDate, getSiteUrl, siteConfig } from "@/data/site";
@@ -81,6 +82,7 @@ export default async function KitchenArticlePage({ params }: Props) {
       </header>
       <PrNotice />
       <div className="mt-8">
+        <ArticlePicks title={article.title} markdown={article.content} kind="kitchen" />
         <ArticleBody markdown={article.content} />
       </div>
       {related.length > 0 ? (
