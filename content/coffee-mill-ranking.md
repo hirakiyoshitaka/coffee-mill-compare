@@ -41,3 +41,12 @@ Essence Go は 870g、栗子 S5 Pro の公式値は約 910g です。2台の差�
 手挽きの次は、運営者が定期便で買っている[珈琲きゃろっと](/beans/coffee-carrot/)です。店の一覧は[豆の店](/beans/)にあります。
 
 購入リンクを置いた場合、それは広告です。未設定の機種にはボタンが出ません。方針は[広告表記](/disclosure/)です。
+
+## あわせて読みたい
+
+- [コーヒーミル（手挽き・電動）の記事一覧](/categories/mill/)
+- [タイムモア S5 Pro と エペイオス Essence Go 比較](/articles/timemore-s5-pro-vs-essence-go/)
+- [はじめての手挽きコーヒーミルの選び方](/articles/how-to-choose-hand-coffee-mill/)
+- [コーヒーミルは手挽きと電動どっち？違い・メリット・向いている人を比較](/articles/hand-vs-electric-coffee-mill/)
+- [電動コーヒーミルおすすめの選び方](/articles/electric-coffee-grinder-guide/)
+

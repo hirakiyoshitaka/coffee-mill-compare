@@ -56,3 +56,11 @@ LEO SPECIALTY COFFEE は、国際的な資格を持つコーヒーグレーダ�
 購入ボタンは、A8.net と楽天のアフィリエイト URL を入れた店だけに出ます。空のままなら、ボタンはありません。公式サイトや楽天の店舗ページは、入れてある店だけ、広告ではないリンクとして出します。方針は[広告表記](/disclosure/)です。
 
 ミルの全体は[手挽きミルのノート](/articles/coffee-mill-ranking/)と[比較表](/compare/)に戻ってください。
+
+## あわせて読みたい
+
+- [豆の店の記事一覧](/beans/)
+- [珈琲きゃろっとの定期便を約1年続けた感想](/articles/coffee-carrot-review/)
+- [スペシャルティコーヒー豆の通販ショップ比較](/articles/specialty-coffee-beans-shops/)
+- [コーヒー豆の保存容器（キャニスター）の選び方](/articles/coffee-bean-canister-guide/)
+

@@ -99,3 +99,12 @@ date: "2026-10-27"
 道具がそろったら、あとは豆です。運営者は[珈琲きゃろっと](/beans/coffee-carrot/)の定期便を約1年続けていて、美味しかったそうです。ほかの店は[スペシャルティコーヒー豆の通販ショップ比較](/articles/specialty-coffee-beans-shops/)にまとめています。ミルをもっと比べたい人は[手挽きミルのランキング](/articles/coffee-mill-ranking/)もどうぞ。慣れてきたら、次の一歩として[ハンドドリップを一段上げる道具](/articles/hand-drip-upgrade-gear/)も紹介しています。
 
 このページのAmazonリンクはアフィリエイトリンクです。方針は[広告表記](/disclosure/)にまとめています。
+
+## あわせて読みたい
+
+- [ドリッパーの記事一覧](/categories/dripper/)
+- [コーヒードリッパー比較](/articles/coffee-dripper-comparison/)
+- [ドリップケトルおすすめの選び方](/articles/drip-kettle-guide/)
+- [コーヒースケールおすすめの選び方](/articles/coffee-scale-guide/)
+- [ハンドドリップを一段上げる道具](/articles/hand-drip-upgrade-gear/)
+

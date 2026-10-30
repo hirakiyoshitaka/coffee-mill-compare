@@ -98,3 +98,11 @@ date: "2026-10-28"
 ドリップの味をいちばん左右するのは、挽きたての豆です。運営者がふだん使っているのは[栗子 S5 Pro](/articles/timemore-chestnut-s5-pro/)のグリーンで、ドリップ中心です。軽く回るミルなら[Essence Go](/articles/epeios-essence-go/)もどうぞ。豆は[スペシャルティコーヒー豆の通販ショップ比較](/articles/specialty-coffee-beans-shops/)に、ラテ派の方は[家でラテ・エスプレッソ 予算別3台](/articles/home-latte-espresso-machines/)にまとめています。
 
 このページのAmazonリンクはアフィリエイトリンクです。方針は[広告表記](/disclosure/)にまとめています。
+
+## あわせて読みたい
+
+- [ケトルの記事一覧](/categories/kettle/)
+- [ドリップケトルおすすめの選び方](/articles/drip-kettle-guide/)
+- [コーヒースケールおすすめの選び方](/articles/coffee-scale-guide/)
+- [コーヒー豆の保存容器（キャニスター）の選び方](/articles/coffee-bean-canister-guide/)
+
