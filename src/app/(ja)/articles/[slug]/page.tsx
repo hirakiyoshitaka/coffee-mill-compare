@@ -10,6 +10,7 @@ import { LanguageSwitcher } from "@/components/intl/LanguageSwitcher";
 import { articleLanguageAlternates, articleLocalePaths, getAllArticles, getArticle } from "@/lib/articles";
 import { pageMeta } from "@/lib/seo";
 import { GrinderCard } from "@/components/GrinderCard";
+import { ShareButtons } from "@/components/ShareButtons";
 import { getModel } from "@/data/grinders";
 import { getSiteUrl } from "@/data/site";
 
@@ -127,6 +128,7 @@ export default async function ArticlePage({ params }: Props) {
           </ul>
         </aside>
       ) : null}
+      <ShareButtons url={pageUrl} title={article.title} label="この記事をシェア" />
     </main>
   );
 }
