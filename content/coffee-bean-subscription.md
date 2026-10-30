@@ -62,7 +62,7 @@ date: "2026-10-28"
 
 このページの購入リンク（A8.net）はアフィリエイトリンク（広告）です。方針は[広告表記](/disclosure/)にまとめています。
 
-運営者が約1年続けた感想は[珈琲きゃろっとの定期便レビュー](/articles/coffee-carrot-review/)にまとめました。
+運営者が約1年続けた感想は[珈琲きゃろっとの定期便レビュー](/articles/coffee-carrot-review/)にまとめました。贈り物にするときの分け方は[コーヒー好きへのギフトおすすめ](/articles/coffee-gift-guide/)です。定期便は、相手の了承を取ってからにしてください。
 
 ## あわせて読みたい
 
@@ -70,4 +70,5 @@ date: "2026-10-28"
 - [珈琲きゃろっとの定期便を約1年続けた感想](/articles/coffee-carrot-review/)
 - [スペシャルティコーヒー豆の通販ショップ比較](/articles/specialty-coffee-beans-shops/)
 - [コーヒー豆の保存容器（キャニスター）の選び方](/articles/coffee-bean-canister-guide/)
+- [コーヒー好きへのギフトおすすめ](/articles/coffee-gift-guide/)
 

@@ -60,10 +60,13 @@ date: "2026-10-27"
 
 購入ボタンは、アフィリエイトの URL を入れたときだけ出ます。方針は[広告表記](/disclosure/)です。
 
+粉と油分の手入れは[コーヒーミルの掃除・お手入れ方法](/articles/coffee-mill-cleaning/)にまとめました。S5 Pro と Essence Go の水洗い可否は、このサイトの掲載データにはありません。
+
 ## あわせて読みたい
 
 - [コーヒーミル（手挽き・電動）の記事一覧](/categories/mill/)
 - [タイムモア S5 Pro と エペイオス Essence Go 比較](/articles/timemore-s5-pro-vs-essence-go/)
 - [コーヒーミルおすすめランキング](/articles/coffee-mill-ranking/)
 - [コーヒーミルは手挽きと電動どっち？違い・メリット・向いている人を比較](/articles/hand-vs-electric-coffee-mill/)
+- [コーヒーミルの掃除・お手入れ方法](/articles/coffee-mill-cleaning/)
 

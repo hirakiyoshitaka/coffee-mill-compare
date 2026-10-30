@@ -65,7 +65,7 @@ date: "2026-10-27"
 - **カフェの一杯を家でも、という人**：ブルーボトルコーヒー
 - **毎月ちがう豆との出会いを楽しみたい人**：LEO SPECIALTY COFFEEや珈琲きゃろっとの定期便
 
-豆を挽いて淹れるなら、道具は[ハンドドリップ道具のそろえ方](/articles/hand-drip-gear-guide/)、喫茶店のような一杯なら[サイフォンの選び方](/articles/how-to-choose-coffee-siphon/)を見てください。
+豆を挽いて淹れるなら、道具は[ハンドドリップ道具のそろえ方](/articles/hand-drip-gear-guide/)、喫茶店のような一杯なら[サイフォンの選び方](/articles/how-to-choose-coffee-siphon/)を見てください。贈り物の分け方は[コーヒー好きへのギフトおすすめ](/articles/coffee-gift-guide/)、夜に飲む豆の見方は[カフェインレス・デカフェコーヒー豆の選び方](/articles/decaf-coffee-beans/)です。この記事の店がデカフェを扱っているとは書いていません。
 
 このページの購入リンク（Amazon・A8.net）はアフィリエイトリンク（広告）です。方針は[広告表記](/disclosure/)にまとめています。
 
@@ -75,4 +75,6 @@ date: "2026-10-27"
 - [コーヒー豆の定期便おすすめ比較](/articles/coffee-bean-subscription/)
 - [珈琲きゃろっとの定期便を約1年続けた感想](/articles/coffee-carrot-review/)
 - [手挽きミルを買ったら最初に頼みたい豆](/articles/first-beans-after-hand-mill/)
+- [コーヒー好きへのギフトおすすめ](/articles/coffee-gift-guide/)
+- [カフェインレス・デカフェコーヒー豆の選び方](/articles/decaf-coffee-beans/)
 

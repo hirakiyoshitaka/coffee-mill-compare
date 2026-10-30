@@ -39,7 +39,8 @@ date: "2026-10-30"
 - [手挽きミルを買ったら最初に頼みたい豆](/articles/first-beans-after-hand-mill/)
 - [ハンドドリップを一段上げる道具](/articles/hand-drip-upgrade-gear/)
 - [コーヒー豆の定期便おすすめ比較](/articles/coffee-bean-subscription/)
+- [カフェインレス・デカフェコーヒー豆の選び方](/articles/decaf-coffee-beans/)
 
-豆選びは[手挽きミルのあとに選びたいコーヒー豆](/articles/first-beans-after-hand-mill/)、お店選びは[スペシャルティコーヒー豆のお店](/articles/specialty-coffee-beans-shops/)、定期便は[コーヒー豆の定期便](/articles/coffee-bean-subscription/)をどうぞ。
+豆選びは[手挽きミルのあとに選びたいコーヒー豆](/articles/first-beans-after-hand-mill/)、お店選びは[スペシャルティコーヒー豆のお店](/articles/specialty-coffee-beans-shops/)、定期便は[コーヒー豆の定期便](/articles/coffee-bean-subscription/)をどうぞ。夜用に缶を分けたいときは[カフェインレス・デカフェコーヒー豆の選び方](/articles/decaf-coffee-beans/)も見てください。
 
 リンクには広告が含まれます。方針は[広告表記](/disclosure/)をご覧ください。
