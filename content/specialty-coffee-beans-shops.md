@@ -68,3 +68,11 @@ date: "2026-10-27"
 豆を挽いて淹れるなら、道具は[ハンドドリップ道具のそろえ方](/articles/hand-drip-gear-guide/)、喫茶店のような一杯なら[サイフォンの選び方](/articles/how-to-choose-coffee-siphon/)を見てください。
 
 このページの購入リンク（Amazon・A8.net）はアフィリエイトリンク（広告）です。方針は[広告表記](/disclosure/)にまとめています。
+
+## あわせて読みたい
+
+- [豆の店の記事一覧](/beans/)
+- [コーヒー豆の定期便おすすめ比較](/articles/coffee-bean-subscription/)
+- [珈琲きゃろっとの定期便を約1年続けた感想](/articles/coffee-carrot-review/)
+- [手挽きミルを買ったら最初に頼みたい豆](/articles/first-beans-after-hand-mill/)
+

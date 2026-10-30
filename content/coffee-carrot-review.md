@@ -40,4 +40,11 @@ date: "2026-10-29"
 
 豆のまま届くので、ミルが必要です。手挽きなら[タイムモア S5 Pro と Essence Go の比較](/articles/timemore-s5-pro-vs-essence-go/)、量を合わせるなら[コーヒースケールの選び方](/articles/coffee-scale-guide/)をどうぞ。ほかの定期便とも比べたい人は[コーヒー豆の定期便おすすめ比較](/articles/coffee-bean-subscription/)へ。お店の詳細は[珈琲きゃろっとのページ](/beans/coffee-carrot/)にまとめています。
 
+## あわせて読みたい
+
+- [豆の店の記事一覧](/beans/)
+- [コーヒー豆の定期便おすすめ比較](/articles/coffee-bean-subscription/)
+- [スペシャルティコーヒー豆の通販ショップ比較](/articles/specialty-coffee-beans-shops/)
+- [手挽きミルを買ったら最初に頼みたい豆](/articles/first-beans-after-hand-mill/)
+
 リンクには広告が含まれます。方針は[広告表記](/disclosure/)をご覧ください。

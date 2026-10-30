@@ -43,4 +43,11 @@ date: "2026-10-29"
 
 [電動コーヒーミルを Amazon で探す（広告）](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=%E9%9B%BB%E5%8B%95%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%83%9F%E3%83%AB)
 
+## あわせて読みたい
+
+- [コーヒーミル（手挽き・電動）の記事一覧](/categories/mill/)
+- [電動コーヒーミルおすすめの選び方](/articles/electric-coffee-grinder-guide/)
+- [はじめての手挽きコーヒーミルの選び方](/articles/how-to-choose-hand-coffee-mill/)
+- [コーヒーミルおすすめランキング](/articles/coffee-mill-ranking/)
+
 リンクには広告が含まれます。方針は[広告表記](/disclosure/)をご覧ください。

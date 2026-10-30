@@ -35,6 +35,11 @@ date: "2026-10-30"
 
 ## あわせて読みたい
 
+- [キャニスターの記事一覧](/categories/canister/)
+- [手挽きミルを買ったら最初に頼みたい豆](/articles/first-beans-after-hand-mill/)
+- [ハンドドリップを一段上げる道具](/articles/hand-drip-upgrade-gear/)
+- [コーヒー豆の定期便おすすめ比較](/articles/coffee-bean-subscription/)
+
 豆選びは[手挽きミルのあとに選びたいコーヒー豆](/articles/first-beans-after-hand-mill/)、お店選びは[スペシャルティコーヒー豆のお店](/articles/specialty-coffee-beans-shops/)、定期便は[コーヒー豆の定期便](/articles/coffee-bean-subscription/)をどうぞ。
 
 リンクには広告が含まれます。方針は[広告表記](/disclosure/)をご覧ください。

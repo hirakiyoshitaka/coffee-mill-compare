@@ -40,6 +40,11 @@ date: "2026-10-30"
 
 ## あわせて読みたい
 
+- [ドリッパーの記事一覧](/categories/dripper/)
+- [ハンドドリップ道具のそろえ方](/articles/hand-drip-gear-guide/)
+- [ドリップケトルおすすめの選び方](/articles/drip-kettle-guide/)
+- [コーヒースケールおすすめの選び方](/articles/coffee-scale-guide/)
+
 お湯を注ぐ道具は[ドリップケトルの選び方](/articles/drip-kettle-guide/)、豆の挽き方で味は大きく変わるので[手挽きミルの選び方](/articles/how-to-choose-hand-coffee-mill/)もどうぞ。
 
 リンクには広告が含まれます。方針は[広告表記](/disclosure/)をご覧ください。

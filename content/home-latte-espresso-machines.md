@@ -67,3 +67,11 @@ date: "2026-10-28"
 ハンドドリップ派の方は、[ハンドドリップを一段上げる道具](/articles/hand-drip-upgrade-gear/)もどうぞ。豆は、運営者が定期便を約1年続けて美味しかった[珈琲きゃろっと](/beans/coffee-carrot/)ほか、[スペシャルティコーヒー豆の通販ショップ比較](/articles/specialty-coffee-beans-shops/)にまとめています。
 
 このページのAmazonリンクはアフィリエイトリンクです。方針は[広告表記](/disclosure/)にまとめています。
+
+## あわせて読みたい
+
+- [エスプレッソマシンの記事一覧](/categories/espresso-machine/)
+- [ミルクフォーマーおすすめの選び方](/articles/milk-frother-guide/)
+- [コーヒーメーカーおすすめの選び方](/articles/coffee-maker-guide/)
+- [スペシャルティコーヒー豆の通販ショップ比較](/articles/specialty-coffee-beans-shops/)
+

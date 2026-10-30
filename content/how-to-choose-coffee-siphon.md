@@ -96,3 +96,11 @@ date: "2026-10-27"
 豆を挽くミルがまだなら、[手挽きミルの選び方](/articles/how-to-choose-hand-coffee-mill/)もどうぞ。
 
 このページのAmazonリンクはアフィリエイトリンクです。方針は[広告表記](/disclosure/)にまとめています。
+
+## あわせて読みたい
+
+- [コーヒーメーカーの記事一覧](/categories/coffee-maker/)
+- [コーヒーメーカーおすすめの選び方](/articles/coffee-maker-guide/)
+- [コーヒードリッパー比較](/articles/coffee-dripper-comparison/)
+- [スペシャルティコーヒー豆の通販ショップ比較](/articles/specialty-coffee-beans-shops/)
+
