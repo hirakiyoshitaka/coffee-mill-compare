@@ -7,7 +7,7 @@ date: "2026-10-30"
 
 Search for "best electric coffee grinder" and you'll drown in options. This guide gives you the criteria to narrow them down.
 
-A quick note up front: I grind by hand with a Timemore Chestnut S5 Pro and an EPEIOS Essence Go, and I don't use an electric grinder. So there are no hands-on impressions here, just what to look for.
+A quick note up front: I grind by hand with a [Timemore Chestnut S5 Pro](/en/articles/timemore-chestnut-s5-pro/) and an [EPEIOS Essence Go](/en/articles/epeios-essence-go/), and I don't use an electric grinder. So there are no hands-on impressions here, just what to look for.
 
 ## Three types of grinder
 
@@ -39,6 +39,6 @@ You can compare models on Amazon. Always confirm the price and specs on the prod
 
 ## Or consider a hand grinder
 
-If you want silence, no power cord, and enjoy the grinding itself, a hand grinder is worth considering. See [hand vs electric grinders](/en/articles/hand-vs-electric-coffee-mill/) and [how to choose your first hand grinder](/en/articles/how-to-choose-hand-coffee-mill/).
+If you want silence, no power cord, and enjoy the grinding itself, a hand grinder is worth considering. See [hand vs electric grinders](/en/articles/hand-vs-electric-coffee-mill/), [how to choose your first hand grinder](/en/articles/how-to-choose-hand-coffee-mill/), and [Timemore S5 Pro vs EPEIOS Essence Go](/en/articles/timemore-s5-pro-vs-essence-go/).
 
 Some links on this page are ads. See our [disclosure](/en/disclosure/) for details.

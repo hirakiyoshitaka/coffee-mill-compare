@@ -56,6 +56,8 @@ There's only about 40g between them, and neither is a lightweight. The real diff
 
 Availability on Amazon.co.jp varies by region, so check the listing (and the seller) before ordering.
 
+The longer write-ups are the [Chestnut S5 Pro review](/en/articles/timemore-chestnut-s5-pro/) and the [Essence Go review](/en/articles/epeios-essence-go/). For where to set either dial, see the [coffee grind size guide](/en/articles/coffee-grind-size-guide/).
+
 Still deciding? See [how to choose your first hand grinder](/en/articles/how-to-choose-hand-coffee-mill/) or [hand vs electric grinders](/en/articles/hand-vs-electric-coffee-mill/).
 
 Some links on this page are ads. See our [disclosure](/en/disclosure/) for details.

@@ -48,7 +48,7 @@ Our No.1 for a grinder that stays at home.
 
 My one-line take: it just spins so easily. EPEIOS says the 10-blade burr is designed to make the first turns lighter.
 
-Want them side by side? Read [Timemore S5 Pro vs EPEIOS Essence Go](/en/articles/timemore-s5-pro-vs-essence-go/).
+Want them side by side? Read [Timemore S5 Pro vs EPEIOS Essence Go](/en/articles/timemore-s5-pro-vs-essence-go/). The full write-ups are the [Chestnut S5 Pro review](/en/articles/timemore-chestnut-s5-pro/) and the [Essence Go review](/en/articles/epeios-essence-go/). Once the grinder is home, the [coffee grind size guide](/en/articles/coffee-grind-size-guide/) is where to set the dial.
 
 [Browse manual coffee grinders on Amazon.co.jp](https://www.amazon.co.jp/s?k=manual+coffee+grinder+conical+burr&tag=stocknotelife-22)
 
