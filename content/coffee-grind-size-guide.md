@@ -47,7 +47,7 @@ date: "2026-10-31"
 
 家に置いてドリップの目盛りを残すなら栗子 S5 Pro、軽い力で回したい・分解して持ち出したいなら Essence Go、という役割です。横並びは[2台の比較](/articles/timemore-s5-pro-vs-essence-go/)、[コーヒーミルおすすめランキング](/articles/coffee-mill-ranking/)、[スペック比較](/compare/)です。
 
-掲載している価格の目安は、どちらもおよそ1万円を超えます。予算をそこまでに抑えたい場合は[1万円以下の手挽きコーヒーミルの選び方](/articles/hand-coffee-mill-under-10000/)を見てください。価格は変動します。
+掲載している価格の目安は、どちらもおよそ1万円を超えます。価格は変動します。
 
 {{grinder:timemore-chestnut-s5-pro}}
 
@@ -79,7 +79,6 @@ date: "2026-10-31"
 - [はじめての手挽きコーヒーミルの選び方](/articles/how-to-choose-hand-coffee-mill/)
 - [コーヒーフィルターの選び方](/articles/coffee-filter-guide/)
 - [エスプレッソ・モカポット向け手挽きミルの選び方](/articles/hand-mill-espresso-moka/)
-- [1万円以下の手挽きコーヒーミルの選び方](/articles/hand-coffee-mill-under-10000/)
 - [タイムモア栗子 S5 Proレビュー](/articles/timemore-chestnut-s5-pro/)
 - [家でラテ・エスプレッソ](/articles/home-latte-espresso-machines/)
 

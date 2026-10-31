@@ -118,11 +118,7 @@ export default async function CategoryPage({ params }: Props) {
               </Link>
             </p>
             <p className="section-lead">
-              予算をおよそ1万円以下にする見方は
-              <Link href="/articles/hand-coffee-mill-under-10000" className="mx-1 font-bold text-[var(--accent-dark)] underline underline-offset-4">
-                1万円以下の手挽き
-              </Link>
-              、モカやエスプレッソの細挽きは
+              モカやエスプレッソの細挽きは
               <Link href="/articles/hand-mill-espresso-moka" className="mx-1 font-bold text-[var(--accent-dark)] underline underline-offset-4">
                 細挽きできるかの見方
               </Link>

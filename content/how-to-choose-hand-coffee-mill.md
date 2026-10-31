@@ -7,7 +7,7 @@ date: "2026-10-27"
 
 はじめての手挽きミルは、選ぶ軸を少なくすると迷いません。この記事では、刃の径、挽き目の調整、重さ、置き場所（家か持ち運びか）の4つだけを見ます。数値は、各機種のページに載せているメーカー公表値をもとにした掲載データです。当サイトが計測した数字ではありません。
 
-先に結論です。家に置いて毎日ドリップするなら[栗子 S5 Pro](/articles/timemore-chestnut-s5-pro/)、軽く回したい・分解してしまいたいなら[エペイオス Essence Go](/articles/epeios-essence-go/)を、このサイトはおすすめにしています。掲載している2台の価格目安は、およそ1万円を超えます。予算をそこまでに抑えたい場合は[1万円以下の手挽きコーヒーミルの選び方](/articles/hand-coffee-mill-under-10000/)を見てください。
+先に結論です。家に置いて毎日ドリップするなら[栗子 S5 Pro](/articles/timemore-chestnut-s5-pro/)、軽く回したい・分解してしまいたいなら[エペイオス Essence Go](/articles/epeios-essence-go/)を、このサイトはおすすめにしています。掲載している2台の価格目安は、およそ1万円を超えます。
 
 ## 1. 刃の径を見る
 
@@ -70,6 +70,5 @@ date: "2026-10-27"
 - [コーヒーミルは手挽きと電動どっち？違い・メリット・向いている人を比較](/articles/hand-vs-electric-coffee-mill/)
 - [コーヒーミルの掃除・お手入れ方法](/articles/coffee-mill-cleaning/)
 - [コーヒーの挽き目（粒度）の選び方](/articles/coffee-grind-size-guide/)
-- [1万円以下の手挽きコーヒーミルの選び方](/articles/hand-coffee-mill-under-10000/)
 - [エスプレッソ・モカポット向け手挽きミルの選び方](/articles/hand-mill-espresso-moka/)
 
