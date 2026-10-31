@@ -23,7 +23,7 @@ date: "2026-10-31"
 | フレンチプレス | 粗挽き | ザラメに近い、と言われることが多い | 細かすぎるとカップに泥が残りやすい |
 | 水出し | 粗挽き。プレスと同じか、さらに粗い側 | ザラメ、またはそれより粗い | 細かいと濃くなりすぎることがある、という一般論 |
 
-ハンドドリップの器具は[ハンドドリップ道具のそろえ方](/articles/hand-drip-gear-guide/)、形の違いは[コーヒードリッパー比較](/articles/coffee-dripper-comparison/)、フィルターの素材は[コーヒーフィルターの選び方](/articles/coffee-filter-guide/)です。水出しの道具は[1,000円台からの水出し・アウトドア珈琲](/articles/cold-brew-outdoor-coffee/)です。マシン側は[家でラテ・エスプレッソ](/articles/home-latte-espresso-machines/)です。細挽き用のミルの見方は[エスプレッソ・モカポット向け手挽きミルの選び方](/articles/hand-mill-espresso-moka/)に分けました。
+ハンドドリップの器具は[ハンドドリップ道具のそろえ方](/articles/hand-drip-gear-guide/)、形の違いは[コーヒードリッパー比較](/articles/coffee-dripper-comparison/)、フィルターの素材は[コーヒーフィルターの選び方](/articles/coffee-filter-guide/)です。粉12gからの注ぎ順は[はじめてのハンドドリップの淹れ方](/articles/beginner-hand-drip-recipe/)に、ハリオの基本レシピとして置いています。当サイトが測った抽出時間ではありません。水出しの道具は[1,000円台からの水出し・アウトドア珈琲](/articles/cold-brew-outdoor-coffee/)です。マシン側は[家でラテ・エスプレッソ](/articles/home-latte-espresso-machines/)です。細挽き用のミルの見方は[エスプレッソ・モカポット向け手挽きミルの選び方](/articles/hand-mill-espresso-moka/)に分けました。
 
 ## クリックの数字は、別のミルに移せない
 
@@ -78,6 +78,7 @@ date: "2026-10-31"
 - [手挽きミルのスペック比較](/compare/)
 - [はじめての手挽きコーヒーミルの選び方](/articles/how-to-choose-hand-coffee-mill/)
 - [コーヒーフィルターの選び方](/articles/coffee-filter-guide/)
+- [はじめてのハンドドリップの淹れ方](/articles/beginner-hand-drip-recipe/)
 - [エスプレッソ・モカポット向け手挽きミルの選び方](/articles/hand-mill-espresso-moka/)
 - [タイムモア栗子 S5 Proレビュー](/articles/timemore-chestnut-s5-pro/)
 - [家でラテ・エスプレッソ](/articles/home-latte-espresso-machines/)

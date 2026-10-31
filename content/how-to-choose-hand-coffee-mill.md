@@ -52,7 +52,7 @@ date: "2026-10-27"
 
 ## ランキングと比較表
 
-2台を並べて見たい人は、[ランキング](/articles/coffee-mill-ranking/)と[スペック比較](/compare/)を開いてください。
+2台を並べて見たい人は、[ランキング](/articles/coffee-mill-ranking/)と[スペック比較](/compare/)を開いてください。1Zpressoを役割で分ける比較は[1Zpressoの手挽きミルの選び方](/articles/1zpresso-hand-grinder-lineup/)、コマンダンテ C40 と栗子 S5 Pro の仕様の違いは[C40とタイムモアの比較](/articles/comandante-c40-vs-timemore/)です。C40 も 1Zpresso も、運営者は使っていません。
 
 ## ミルが決まったら豆
 
@@ -71,4 +71,6 @@ date: "2026-10-27"
 - [コーヒーミルの掃除・お手入れ方法](/articles/coffee-mill-cleaning/)
 - [コーヒーの挽き目（粒度）の選び方](/articles/coffee-grind-size-guide/)
 - [エスプレッソ・モカポット向け手挽きミルの選び方](/articles/hand-mill-espresso-moka/)
+- [1Zpressoの手挽きミルの選び方](/articles/1zpresso-hand-grinder-lineup/)
+- [コマンダンテ C40 と タイムモア栗子 S5 Pro 比較](/articles/comandante-c40-vs-timemore/)
 
