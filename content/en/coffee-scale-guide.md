@@ -34,6 +34,6 @@ Check the price and specs on the product page before buying.
 
 ## Pair it with a good grinder
 
-A scale shines alongside a consistent grinder. See [how to choose your first hand grinder](/en/articles/how-to-choose-hand-coffee-mill/) or [Timemore S5 Pro vs EPEIOS Essence Go](/en/articles/timemore-s5-pro-vs-essence-go/).
+A scale shines alongside a consistent grinder. See [how to choose your first hand grinder](/en/articles/how-to-choose-hand-coffee-mill/), [Timemore S5 Pro vs EPEIOS Essence Go](/en/articles/timemore-s5-pro-vs-essence-go/), or the [coffee grind size guide](/en/articles/coffee-grind-size-guide/).
 
 Some links on this page are ads. See our [disclosure](/en/disclosure/) for details.

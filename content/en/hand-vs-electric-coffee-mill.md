@@ -5,7 +5,7 @@ category: "mill"
 date: "2026-10-30"
 ---
 
-The first question when buying a coffee grinder is usually "hand or electric?" My first grinder was a manual one, the [Timemore Chestnut S5 Pro](/en/articles/timemore-s5-pro-vs-essence-go/), and I use it for pour-over every day. I don't own an electric grinder, so I'll describe that side in general terms only.
+The first question when buying a coffee grinder is usually "hand or electric?" My first grinder was a manual one, the [Timemore Chestnut S5 Pro](/en/articles/timemore-chestnut-s5-pro/), and I use it for pour-over every day. I don't own an electric grinder, so I'll describe that side in general terms only.
 
 ## The differences at a glance
 
@@ -25,7 +25,7 @@ The first question when buying a coffee grinder is usually "hand or electric?" M
 - Enjoy the ritual of grinding as part of the brew
 - Want to take it camping or to the office
 
-In my experience, the S5 Pro's roughly 910g weight is a non-issue at home. If you want the lightest possible turning, the [EPEIOS Essence Go](/en/articles/timemore-s5-pro-vs-essence-go/) is worth a look; my take on it is that it just spins so easily.
+In my experience, the S5 Pro's roughly 910g weight is a non-issue at home. If you want the lightest possible turning, the [EPEIOS Essence Go](/en/articles/epeios-essence-go/) is worth a look; my take on it is that it just spins so easily. The two are compared in [Timemore S5 Pro vs EPEIOS Essence Go](/en/articles/timemore-s5-pro-vs-essence-go/).
 
 ## An electric grinder suits you if you
 
@@ -43,6 +43,6 @@ If you brew one or two cups of pour-over a day, I'd start with a hand grinder. T
 
 [Browse electric burr grinders on Amazon.co.jp](https://www.amazon.co.jp/s?k=electric+burr+coffee+grinder&tag=stocknotelife-22)
 
-For a first manual grinder, read [how to choose your first hand grinder](/en/articles/how-to-choose-hand-coffee-mill/).
+For a first manual grinder, read [how to choose your first hand grinder](/en/articles/how-to-choose-hand-coffee-mill/). For where to set the dial, see the [coffee grind size guide](/en/articles/coffee-grind-size-guide/).
 
 Some links on this page are ads. See our [disclosure](/en/disclosure/) for details.
