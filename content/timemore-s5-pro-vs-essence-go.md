@@ -48,6 +48,8 @@ Essence Go は 38mm・10枚刃。公式は、刃の枚数で摩擦を減らし�
 - 力をかけずに回したい、キャンプや職場にも持っていきたい → **Essence Go**
 - 2台目として → S5 Pro を家に、Essence Go を持ち出し用に
 
+掲載している価格の目安は、どちらもおよそ1万円を超えます。予算をそこまでに抑えたい場合は[1万円以下の手挽きコーヒーミルの選び方](/articles/hand-coffee-mill-under-10000/)を見てください。価格は変動します。数値の横並びは[スペック比較](/compare/)です。
+
 [タイムモア 栗子 S5 Pro を Amazon で見る（広告）](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=TIMEMORE+%E6%A0%97%E5%AD%90+S5+Pro)
 
 [エペイオス Essence Go を Amazon で見る（広告）](https://www.amazon.co.jp/dp/B0D3PZHGBX?tag=stocknotelife-22)
@@ -60,5 +62,7 @@ Essence Go は 38mm・10枚刃。公式は、刃の枚数で摩擦を減らし�
 - [タイムモア栗子 S5 Proレビュー](/articles/timemore-chestnut-s5-pro/)
 - [エペイオス Essence Goレビュー](/articles/epeios-essence-go/)
 - [はじめての手挽きコーヒーミルの選び方](/articles/how-to-choose-hand-coffee-mill/)
+- [1万円以下の手挽きコーヒーミルの選び方](/articles/hand-coffee-mill-under-10000/)
+- [手挽きミルのスペック比較](/compare/)
 
 リンクには広告が含まれます。方針は[広告表記](/disclosure/)をご覧ください。

@@ -66,7 +66,7 @@ date: "2026-10-30"
 
 このサイトが家に置く手挽きとして先に出しているのは、次の2台です。価格の数字はカードの掲載データで、変動します。購入ボタンは、設定済みのリンクだけです。
 
-家に置いて毎日ドリップするなら栗子 S5 Pro、軽く回したい・分解してしまいたいなら Essence Go、という役割分担です。くわしい違いは[2台の比較](/articles/timemore-s5-pro-vs-essence-go/)にあります。
+家に置いて毎日ドリップするなら栗子 S5 Pro、軽く回したい・分解してしまいたいなら Essence Go、という役割分担です。くわしい違いは[2台の比較](/articles/timemore-s5-pro-vs-essence-go/)、先に見る順番は[コーヒーミルおすすめランキング](/articles/coffee-mill-ranking/)、数値の横並びは[スペック比較](/compare/)です。
 
 {{grinder:timemore-chestnut-s5-pro}}
 
@@ -96,6 +96,8 @@ date: "2026-10-30"
 ## あわせて読みたい
 
 - [豆の店の記事一覧](/beans/)
+- [コーヒーミルおすすめランキング](/articles/coffee-mill-ranking/)
+- [手挽きミルのスペック比較](/compare/)
 - [スペシャルティコーヒー豆の通販ショップ比較](/articles/specialty-coffee-beans-shops/)
 - [コーヒー豆の定期便おすすめ比較](/articles/coffee-bean-subscription/)
 - [珈琲きゃろっとの定期便を約1年続けた感想](/articles/coffee-carrot-review/)

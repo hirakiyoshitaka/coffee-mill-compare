@@ -146,6 +146,13 @@ export default function ComparePage() {
               </li>
             ))}
           </ul>
+          <p>
+            抽出方法ごとの粗さの順番は
+            <Link href="/articles/coffee-grind-size-guide/" className="mx-1 font-medium text-[var(--accent)] underline underline-offset-4">
+              コーヒーの挽き目（粒度）の選び方
+            </Link>
+            です。クリックの数字は機種のあいだで移せません。
+          </p>
         </MdSection>
 
         <MdSection title="重量と携帯性の目安">
@@ -176,6 +183,13 @@ export default function ComparePage() {
               </li>
             ))}
           </ul>
+          <p>
+            掲載の価格目安は、いずれもおよそ1万円を超えます。予算をそこまでに抑えたい場合は
+            <Link href="/articles/hand-coffee-mill-under-10000/" className="mx-1 font-medium text-[var(--accent)] underline underline-offset-4">
+              1万円以下の手挽きコーヒーミルの選び方
+            </Link>
+            を見てください。価格は変動します。
+          </p>
         </MdSection>
 
         <MdSection title="味わい・抽出におけるコミュニティの傾向">
@@ -188,7 +202,11 @@ export default function ComparePage() {
               <strong>均一さ・甘みの立ち上がり</strong> — 粒子の揃いとカップのバランスを称する声が多いモデルがあります。
             </li>
             <li>
-              <strong>エスプレッソ極細</strong> — 可能でも時間と習熟が要る、という声と、十分実用的という声が併存しがちです。
+              <strong>エスプレッソ極細</strong> — 可能でも時間と習熟が要る、という声と、十分実用的という声が併存しがちです。手挽きの目盛りが細かい側まで公式に示されているかの見方は
+              <Link href="/articles/hand-mill-espresso-moka/" className="mx-1 font-medium text-[var(--accent)] underline underline-offset-4">
+                エスプレッソ・モカポット向け手挽きミルの選び方
+              </Link>
+              に分けています。
             </li>
             <li>
               <strong>コストと満足度</strong> — 初回投資が高くても長期利用で納得、という意見と、まず中価格帯から、という意見が対立しやすいです。
@@ -224,6 +242,13 @@ export default function ComparePage() {
               </li>
             ))}
           </ul>
+          <p>
+            粉と油分の手入れの整理は
+            <Link href="/articles/coffee-mill-cleaning/" className="mx-1 font-medium text-[var(--accent)] underline underline-offset-4">
+              コーヒーミルの掃除・お手入れ方法
+            </Link>
+            です。このページでは掃除の実測は書いていません。
+          </p>
           <p className="pt-2 text-[14px] font-medium text-stone-800">ブランド別・口コミテーマ要約</p>
           <ul className="text-[14px]">
             {brands.map((b) => (

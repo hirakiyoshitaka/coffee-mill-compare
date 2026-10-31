@@ -76,7 +76,7 @@ date: "2026-10-28"
 
 - **Amazonでは**：1,009件のレビューがあります【2026年10月時点】。
 - **メーカー公表では**：ステンレスフィルターなのでペーパーが要らず、電子レンジと食洗機に対応。
-- 紙フィルターより豆の油分が出やすく、コクのある味になりやすいと言われます。
+- 紙フィルターより豆の油分が出やすく、コクのある味になりやすいと言われます。ペーパー・金属・布の違いは[コーヒーフィルターの選び方](/articles/coffee-filter-guide/)です。
 
 [KINTO SCS カラフェセットをAmazonで見る](https://www.amazon.co.jp/dp/B00NFBMA7W?tag=stocknotelife-22)
 
@@ -105,4 +105,5 @@ date: "2026-10-28"
 - [ドリップケトルおすすめの選び方](/articles/drip-kettle-guide/)
 - [コーヒースケールおすすめの選び方](/articles/coffee-scale-guide/)
 - [コーヒー豆の保存容器（キャニスター）の選び方](/articles/coffee-bean-canister-guide/)
+- [コーヒーフィルターの選び方](/articles/coffee-filter-guide/)
 

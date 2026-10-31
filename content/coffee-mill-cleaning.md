@@ -46,7 +46,7 @@ S5 Pro と Essence Go の水洗い可否は、掲載データにありません�
 
 {{grinder:epeios-essence-go}}
 
-2台の違いは[比較記事](/articles/timemore-s5-pro-vs-essence-go/)、全体は[コーヒーミルおすすめランキング](/articles/coffee-mill-ranking/)です。はじめて選ぶ軸は[手挽きミルの選び方](/articles/how-to-choose-hand-coffee-mill/)にまとめました。
+2台の違いは[比較記事](/articles/timemore-s5-pro-vs-essence-go/)、全体は[コーヒーミルおすすめランキング](/articles/coffee-mill-ranking/)、数値の横並びは[スペック比較](/compare/)です。はじめて選ぶ軸は[手挽きミルの選び方](/articles/how-to-choose-hand-coffee-mill/)にまとめました。
 
 ## 掃除用品を探す
 
@@ -63,6 +63,8 @@ S5 Pro と Essence Go の水洗い可否は、掲載データにありません�
 ## あわせて読みたい
 
 - [コーヒーミル（手挽き・電動）の記事一覧](/categories/mill/)
+- [コーヒーミルおすすめランキング](/articles/coffee-mill-ranking/)
+- [手挽きミルのスペック比較](/compare/)
 - [はじめての手挽きコーヒーミルの選び方](/articles/how-to-choose-hand-coffee-mill/)
 - [電動コーヒーミルおすすめの選び方](/articles/electric-coffee-grinder-guide/)
 - [タイムモア栗子 S5 Proレビュー](/articles/timemore-chestnut-s5-pro/)
