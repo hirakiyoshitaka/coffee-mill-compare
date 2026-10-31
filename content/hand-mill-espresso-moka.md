@@ -51,7 +51,7 @@ S5 Pro の公式の推奨範囲は、エスプレッソ 0–2.0、モカ 1.0–3
 
 {{grinder:epeios-essence-go}}
 
-毎日ショットを挽くなら、[電動コーヒーミルの選び方](/articles/electric-coffee-grinder-guide/)へ。音と置き場所はそちらの基準です。手挽きと電動の手間の違いは[比較記事](/articles/hand-vs-electric-coffee-mill/)にあります。
+毎日ショットを挽くなら、[電動コーヒーミルの選び方](/articles/electric-coffee-grinder-guide/)へ。音と置き場所はそちらの基準です。手挽きと電動の手間の違いは[比較記事](/articles/hand-vs-electric-coffee-mill/)にあります。1Zpressoがエスプレッソ向けに置いている J-Ultra の公式の刻みは[1Zpressoの選び方](/articles/1zpresso-hand-grinder-lineup/)に、公開ページの数字だけを転記しています。運営者は使っていません。推奨クリック番号は、そちらの記事でも転記していません。
 
 マシンを先に選ぶなら[家でラテ・エスプレッソ](/articles/home-latte-espresso-machines/)です。デロンギのセミオートは粉が要ります。カプセルのヴァーチュオと、豆から挽く全自動は、手挽きを前提にしません。ミルク側は[ミルクフォーマーの選び方](/articles/milk-frother-guide/)です。
 
@@ -86,5 +86,6 @@ S5 Pro の公式の推奨範囲は、エスプレッソ 0–2.0、モカ 1.0–3
 - [タイムモア栗子 S5 Proレビュー](/articles/timemore-chestnut-s5-pro/)
 - [電動コーヒーミルおすすめの選び方](/articles/electric-coffee-grinder-guide/)
 - [はじめての手挽きコーヒーミルの選び方](/articles/how-to-choose-hand-coffee-mill/)
+- [1Zpressoの手挽きミルの選び方](/articles/1zpresso-hand-grinder-lineup/)
 
 リンクには広告が含まれます（Amazonのアソシエイト、ミルのカードに設定済みの購入リンク）。方針は[広告表記](/disclosure/)をご覧ください。
