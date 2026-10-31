@@ -31,7 +31,7 @@ date: "2026-10-27"
 - ゼロ設定でも刃は接触せず、すき間は約 0.075mm。偏った力をかけると摩擦音が出ることがある、と公式が注意しています。故障ではない、という説明です
 - 公式が主観的な表現だと注記したうえで、味の方向は “Full bodied, layered clarity” と書いています。当サイトの試飲結果ではありません
 
-推奨の目安も公式にあります。エスプレッソ 0–2.0、モカ 1.0–3.0、プアオーバー 5.0–8.0、フレンチプレス 8.0–9.0。出発点であって、豆が違えば動きます。
+推奨の目安も公式にあります。エスプレッソ 0–2.0、モカ 1.0–3.0、プアオーバー 5.0–8.0、フレンチプレス 8.0–9.0。出発点であって、豆が違えば動きます。抽出方法ごとの並びは[コーヒーの挽き目（粒度）の選び方](/articles/coffee-grind-size-guide/)です。細挽きを手挽きで見る手順は[エスプレッソ・モカポット向け手挽きミルの選び方](/articles/hand-mill-espresso-moka/)に分けました。
 
 楽天公式店のレビューページは、S5 と S5 Pro が同じ商品に並んでいます。S5 を買った、と書いてある投稿が混ざるので、その星の平均は S5 Pro の評価としては使いません。
 
@@ -62,6 +62,8 @@ date: "2026-10-27"
 - [コーヒーミル（手挽き・電動）の記事一覧](/categories/mill/)
 - [タイムモア S5 Pro と エペイオス Essence Go 比較](/articles/timemore-s5-pro-vs-essence-go/)
 - [エペイオス Essence Goレビュー](/articles/epeios-essence-go/)
+- [コーヒーの挽き目（粒度）の選び方](/articles/coffee-grind-size-guide/)
+- [エスプレッソ・モカポット向け手挽きミルの選び方](/articles/hand-mill-espresso-moka/)
 - [手挽きミルを買ったら最初に頼みたい豆](/articles/first-beans-after-hand-mill/)
 - [コーヒーミルの掃除・お手入れ方法](/articles/coffee-mill-cleaning/)
 

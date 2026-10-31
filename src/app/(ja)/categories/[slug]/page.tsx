@@ -117,6 +117,21 @@ export default async function CategoryPage({ params }: Props) {
                 挽いたあとの豆の店
               </Link>
             </p>
+            <p className="section-lead">
+              予算をおよそ1万円以下にする見方は
+              <Link href="/articles/hand-coffee-mill-under-10000" className="mx-1 font-bold text-[var(--accent-dark)] underline underline-offset-4">
+                1万円以下の手挽き
+              </Link>
+              、モカやエスプレッソの細挽きは
+              <Link href="/articles/hand-mill-espresso-moka" className="mx-1 font-bold text-[var(--accent-dark)] underline underline-offset-4">
+                細挽きできるかの見方
+              </Link>
+              、目盛りの置き方は
+              <Link href="/articles/coffee-grind-size-guide" className="mx-1 font-bold text-[var(--accent-dark)] underline underline-offset-4">
+                挽き目の選び方
+              </Link>
+              です。
+            </p>
           </section>
 
           <section className="section-block border border-[var(--line)] bg-[var(--white)] p-6">
@@ -155,6 +170,15 @@ export default async function CategoryPage({ params }: Props) {
             </Link>
             です。
           </p>
+          {category.slug === "dripper" ? (
+            <p className="mt-4 text-sm leading-relaxed text-stone-600">
+              ペーパー、金属、布（ネル）の違いは
+              <Link href="/articles/coffee-filter-guide" className="mx-1 font-bold text-[var(--accent-dark)] underline underline-offset-4">
+                コーヒーフィルターの選び方
+              </Link>
+              にまとめました。機種の掲載データはありません。
+            </p>
+          ) : null}
         </section>
       )}
 

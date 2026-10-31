@@ -10,7 +10,7 @@ date: "2026-10-26"
 1. タイムモア栗子 S5 Pro。家に置く No.1。運営者のおすすめ色はグリーンです
 2. エペイオス Essence Go。ケースに入る No.2
 
-点数をつけて競わせた順位ではありません。家で淹れるなら、この2台を先に見てほしい、という編集の選択です。価格は目安です。掲載の金額は、およそ1万円を超えます。予算をそこまでに抑えたい人は[1万円以下の手挽きコーヒーミルの選び方](/articles/hand-coffee-mill-under-10000/)へ。抽出方法ごとの挽き目は[コーヒーの挽き目（粒度）の選び方](/articles/coffee-grind-size-guide/)です。
+点数をつけて競わせた順位ではありません。家で淹れるなら、この2台を先に見てほしい、という編集の選択です。価格は目安です。掲載の金額は、およそ1万円を超えます。予算をそこまでに抑えたい人は[1万円以下の手挽きコーヒーミルの選び方](/articles/hand-coffee-mill-under-10000/)へ。抽出方法ごとの挽き目は[コーヒーの挽き目（粒度）の選び方](/articles/coffee-grind-size-guide/)です。モカやエスプレッソまで手挽きで見る場合は[エスプレッソ・モカポット向け手挽きミルの選び方](/articles/hand-mill-espresso-moka/)です。
 
 | 順位 | 機種 | 役割 | 価格の目安 |
 | --- | --- | --- | --- |
@@ -51,4 +51,5 @@ Essence Go は 870g、栗子 S5 Pro の公式値は約 910g です。2台の差�
 - [電動コーヒーミルおすすめの選び方](/articles/electric-coffee-grinder-guide/)
 - [1万円以下の手挽きコーヒーミルの選び方](/articles/hand-coffee-mill-under-10000/)
 - [コーヒーの挽き目（粒度）の選び方](/articles/coffee-grind-size-guide/)
+- [エスプレッソ・モカポット向け手挽きミルの選び方](/articles/hand-mill-espresso-moka/)
 
