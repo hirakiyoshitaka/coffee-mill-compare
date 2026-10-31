@@ -184,11 +184,7 @@ export default function ComparePage() {
             ))}
           </ul>
           <p>
-            掲載の価格目安は、いずれもおよそ1万円を超えます。予算をそこまでに抑えたい場合は
-            <Link href="/articles/hand-coffee-mill-under-10000/" className="mx-1 font-medium text-[var(--accent)] underline underline-offset-4">
-              1万円以下の手挽きコーヒーミルの選び方
-            </Link>
-            を見てください。価格は変動します。
+            掲載の価格目安は、いずれもおよそ1万円を超えます。価格は変動します。
           </p>
         </MdSection>
 
