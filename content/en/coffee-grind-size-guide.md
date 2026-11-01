@@ -99,5 +99,6 @@ This site does not list French press or moka pot models. Check capacity and heat
 - [Beginner pour-over recipe](/en/articles/beginner-hand-drip-recipe/)
 - [1Zpresso hand grinder lineup](/en/articles/1zpresso-hand-grinder-lineup/)
 - [Comandante C40 vs Timemore Chestnut S5 Pro](/en/articles/comandante-c40-vs-timemore/)
+- [Japanese craft coffee makers: BALMUDA The Brew vs TWINBIRD](/en/articles/japanese-premium-coffee-makers/)
 
 Some links on this page are ads (the Amazon Associate links above, and the purchase links already set on the grinder cards). See our [disclosure](/en/disclosure/) for details.

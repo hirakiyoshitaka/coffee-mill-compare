@@ -52,6 +52,8 @@ date: "2026-10-30"
 - [フレンチプレスおすすめの選び方](/articles/french-press-guide/)
 - [モカポットおすすめの選び方](/articles/moka-pot-guide/)
 
+日本ブランドの上質な一台を探すなら[バルミューダ ザ・ブリューとツインバード全自動の比較](/articles/japanese-premium-coffee-makers/)もどうぞ。
+
 挽くのは別にしたい人は[電動コーヒーミルの選び方](/articles/electric-coffee-grinder-guide/)、手挽きと電動の違いは[手挽きと電動ミルの比較](/articles/hand-vs-electric-coffee-mill/)、ラテ派は[家庭用ラテ・エスプレッソマシン](/articles/home-latte-espresso-machines/)へ。
 
 リンクには広告が含まれます。方針は[広告表記](/disclosure/)をご覧ください。
