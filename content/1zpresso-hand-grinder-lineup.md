@@ -109,6 +109,7 @@ J-Ultra は、公式が「1Zpressoでいちばん細かい」とする8ミクロ
 - [コーヒーミル（手挽き・電動）の記事一覧](/categories/mill/)
 - [はじめての手挽きコーヒーミルの選び方](/articles/how-to-choose-hand-coffee-mill/)
 - [エスプレッソ・モカポット向け手挽きミルの選び方](/articles/hand-mill-espresso-moka/)
+- [モカポットおすすめの選び方](/articles/moka-pot-guide/)
 - [コーヒーの挽き目（粒度）の選び方](/articles/coffee-grind-size-guide/)
 - [コマンダンテ C40 と タイムモア栗子 S5 Pro 比較](/articles/comandante-c40-vs-timemore/)
 - [コーヒーミルおすすめランキング](/articles/coffee-mill-ranking/)

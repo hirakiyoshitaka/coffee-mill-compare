@@ -23,7 +23,7 @@ date: "2026-10-31"
 | フレンチプレス | 粗挽き | ザラメに近い、と言われることが多い | 細かすぎるとカップに泥が残りやすい |
 | 水出し | 粗挽き。プレスと同じか、さらに粗い側 | ザラメ、またはそれより粗い | 細かいと濃くなりすぎることがある、という一般論 |
 
-ハンドドリップの器具は[ハンドドリップ道具のそろえ方](/articles/hand-drip-gear-guide/)、形の違いは[コーヒードリッパー比較](/articles/coffee-dripper-comparison/)、フィルターの素材は[コーヒーフィルターの選び方](/articles/coffee-filter-guide/)です。粉12gからの注ぎ順は[はじめてのハンドドリップの淹れ方](/articles/beginner-hand-drip-recipe/)に、ハリオの基本レシピとして置いています。当サイトが測った抽出時間ではありません。水出しの道具は[1,000円台からの水出し・アウトドア珈琲](/articles/cold-brew-outdoor-coffee/)です。マシン側は[家でラテ・エスプレッソ](/articles/home-latte-espresso-machines/)です。細挽き用のミルの見方は[エスプレッソ・モカポット向け手挽きミルの選び方](/articles/hand-mill-espresso-moka/)に分けました。
+ハンドドリップの器具は[ハンドドリップ道具のそろえ方](/articles/hand-drip-gear-guide/)、形の違いは[コーヒードリッパー比較](/articles/coffee-dripper-comparison/)、受けの容器は[コーヒーサーバーの選び方](/articles/coffee-server-guide/)、フィルターの素材は[コーヒーフィルターの選び方](/articles/coffee-filter-guide/)です。粉12gからの注ぎ順は[はじめてのハンドドリップの淹れ方](/articles/beginner-hand-drip-recipe/)に、ハリオの基本レシピとして置いています。当サイトが測った抽出時間ではありません。水出しの道具は[1,000円台からの水出し・アウトドア珈琲](/articles/cold-brew-outdoor-coffee/)です。マシン側は[家でラテ・エスプレッソ](/articles/home-latte-espresso-machines/)です。細挽き用のミルの見方は[エスプレッソ・モカポット向け手挽きミルの選び方](/articles/hand-mill-espresso-moka/)に分けました。
 
 ## クリックの数字は、別のミルに移せない
 
@@ -68,7 +68,7 @@ date: "2026-10-31"
 
 ## 器具を探す
 
-フレンチプレスとモカポットは、このサイトに機種データを載せていません。容量と熱源は商品ページで確認してください。価格は変動します。
+フレンチプレスの容量と素材は[フレンチプレスの選び方](/articles/french-press-guide/)、モカポットの杯数と熱源は[モカポットの選び方](/articles/moka-pot-guide/)に分けました。価格は変動します。
 
 [フレンチプレスを Amazon で探す（広告）](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=%E3%83%95%E3%83%AC%E3%83%B3%E3%83%81%E3%83%97%E3%83%AC%E3%82%B9+%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC)
 
@@ -82,6 +82,9 @@ date: "2026-10-31"
 - [コーヒーフィルターの選び方](/articles/coffee-filter-guide/)
 - [はじめてのハンドドリップの淹れ方](/articles/beginner-hand-drip-recipe/)
 - [エスプレッソ・モカポット向け手挽きミルの選び方](/articles/hand-mill-espresso-moka/)
+- [フレンチプレスおすすめの選び方](/articles/french-press-guide/)
+- [モカポットおすすめの選び方](/articles/moka-pot-guide/)
+- [コーヒーサーバーおすすめの選び方](/articles/coffee-server-guide/)
 - [タイムモア栗子 S5 Proレビュー](/articles/timemore-chestnut-s5-pro/)
 - [家でラテ・エスプレッソ](/articles/home-latte-espresso-machines/)
 

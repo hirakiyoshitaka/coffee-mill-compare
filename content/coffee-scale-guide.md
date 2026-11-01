@@ -42,5 +42,7 @@ date: "2026-10-29"
 - [ドリップケトルおすすめの選び方](/articles/drip-kettle-guide/)
 - [コーヒードリッパー比較](/articles/coffee-dripper-comparison/)
 - [ハンドドリップ道具のそろえ方](/articles/hand-drip-gear-guide/)
+- [コーヒーサーバーおすすめの選び方](/articles/coffee-server-guide/)
+- [はじめてのハンドドリップの淹れ方](/articles/beginner-hand-drip-recipe/)
 
 リンクには広告が含まれます。方針は[広告表記](/disclosure/)をご覧ください。

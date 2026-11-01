@@ -41,12 +41,16 @@ date: "2026-10-30"
 
 価格と仕様は購入前に商品ページで確認してください。
 
+ボタン式ではない淹れ方は、別に分けています。粗挽きを浸す器具は[フレンチプレスの選び方](/articles/french-press-guide/)、直火で上げる器具は[モカポットの選び方](/articles/moka-pot-guide/)です。運営者はその記事の器具を使っていません。
+
 ## あわせて読みたい
 
 - [コーヒーメーカーの記事一覧](/categories/coffee-maker/)
 - [電動コーヒーミルおすすめの選び方](/articles/electric-coffee-grinder-guide/)
 - [家でラテ・エスプレッソ](/articles/home-latte-espresso-machines/)
 - [サイフォンの選び方](/articles/how-to-choose-coffee-siphon/)
+- [フレンチプレスおすすめの選び方](/articles/french-press-guide/)
+- [モカポットおすすめの選び方](/articles/moka-pot-guide/)
 
 挽くのは別にしたい人は[電動コーヒーミルの選び方](/articles/electric-coffee-grinder-guide/)、手挽きと電動の違いは[手挽きと電動ミルの比較](/articles/hand-vs-electric-coffee-mill/)、ラテ派は[家庭用ラテ・エスプレッソマシン](/articles/home-latte-espresso-machines/)へ。
 
