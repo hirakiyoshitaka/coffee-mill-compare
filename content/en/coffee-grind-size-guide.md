@@ -37,6 +37,16 @@ For the [EPEIOS Essence Go](/en/articles/epeios-essence-go/), the published data
 
 The same gap shows up on grinders this site has not used. The [1Zpresso lineup](/en/articles/1zpresso-hand-grinder-lineup/) lists a different step for the Q series, the X-Ultra, the ZP6 Special, the K-Ultra, and the J-Ultra. The [Comandante C40 comparison](/en/articles/comandante-c40-vs-timemore/) does not treat a C40 click as an S5 Pro number. The official pages we opened did not publish microns per click for the C40.
 
+[Search for the 1Zpresso X-Ultra on Amazon.co.jp](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=1Zpresso+X-Ultra)
+
+[Search for the 1Zpresso ZP6 on Amazon.co.jp](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=1Zpresso+ZP6)
+
+[Search for the 1Zpresso K-Ultra on Amazon.co.jp](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=1Zpresso+K-Ultra)
+
+[Search for the 1Zpresso J-Ultra on Amazon.co.jp](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=1Zpresso+J-Ultra)
+
+[Search for the Comandante C40 on Amazon.co.jp](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=%E3%82%B3%E3%83%9E%E3%83%B3%E3%83%80%E3%83%B3%E3%83%86+C40)
+
 ## Setting the dial on a hand grinder
 
 1. If the maker publishes a range for that brew method, start there. If it does not, make the first pour-over a little finer than the middle of the dial, and make the first French press or cold brew on the coarse side.
@@ -67,6 +77,8 @@ The moves below are general guidance. They are not the result of a tasting this 
 - Cold brew that is too strong: go coarser. Using less coffee is another adjustment brewer guides often mention
 
 The beans I kept on subscription for about a year, because they tasted good, are from [Coffee Carrot (珈琲きゃろっと)](/beans/coffee-carrot/). That shop page is in Japanese.
+
+[View the Coffee Carrot subscription (ad)](https://px.a8.net/svt/ejp?a8mat=4BEQHR+383KII+2CG0+5YJRM)
 
 ## Finding a brewer
 

@@ -27,6 +27,10 @@ The first question when buying a coffee grinder is usually "hand or electric?" M
 
 In my experience, the S5 Pro's roughly 910g weight is a non-issue at home. If you want the lightest possible turning, the [EPEIOS Essence Go](/en/articles/epeios-essence-go/) is worth a look; my take on it is that it just spins so easily. The two are compared in [Timemore S5 Pro vs EPEIOS Essence Go](/en/articles/timemore-s5-pro-vs-essence-go/).
 
+[Search for the Timemore Chestnut S5 Pro on Amazon.co.jp](https://www.amazon.co.jp/s?k=TIMEMORE+Chestnut+S5+Pro&tag=stocknotelife-22)
+
+[Search for the EPEIOS Essence Go on Amazon.co.jp](https://www.amazon.co.jp/s?k=EPEIOS+Essence+Go+grinder&tag=stocknotelife-22)
+
 ## An electric grinder suits you if you
 
 - Grind for the whole household at once

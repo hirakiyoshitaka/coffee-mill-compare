@@ -56,6 +56,8 @@ Essence Go は 38mm・10枚刃。公式は、刃の枚数で摩擦を減らし�
 
 ほかの手挽きも見たい人は[コーヒーミルおすすめランキング](/articles/coffee-mill-ranking/)と[手挽きミルの選び方](/articles/how-to-choose-hand-coffee-mill/)へ。電動と迷っているなら[手挽きと電動の違い](/articles/hand-vs-electric-coffee-mill/)もどうぞ。挽いた豆は、運営者が約1年定期便を続けた[珈琲きゃろっと](/beans/coffee-carrot/)がおすすめです。
 
+[珈琲きゃろっとの定期便を見る（広告）](https://px.a8.net/svt/ejp?a8mat=4BEQHR+383KII+2CG0+5YJRM)
+
 ## あわせて読みたい
 
 - [コーヒーミル（手挽き・電動）の記事一覧](/categories/mill/)

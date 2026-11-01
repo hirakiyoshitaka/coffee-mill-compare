@@ -70,6 +70,8 @@ Other model numbers show up in the same search. On a C40, confirm MK4 and Nitro 
 
 The beans I kept on subscription for about a year, because they tasted good, are from [Coffee Carrot (珈琲きゃろっと)](/beans/coffee-carrot/). That shop page is in Japanese.
 
+[View the Coffee Carrot subscription (ad)](https://px.a8.net/svt/ejp?a8mat=4BEQHR+383KII+2CG0+5YJRM)
+
 ## Sources
 
 - [C40 MK4 product page (Black)](https://comandantegrinder.com/products/c40-mk4-nitro-blade-black) (October 31, 2026)

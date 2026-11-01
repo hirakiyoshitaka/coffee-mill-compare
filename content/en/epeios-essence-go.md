@@ -53,6 +53,10 @@ Buy buttons appear on the product card when an affiliate URL is set. Our policy 
 
 The No.1 review is the [Chestnut S5 Pro](/en/articles/timemore-chestnut-s5-pro/). For beans, start with [Coffee Carrot (珈琲きゃろっと)](/beans/coffee-carrot/). That shop page is in Japanese. I kept their subscription for about a year.
 
+[Search for the Timemore Chestnut S5 Pro on Amazon.co.jp](https://www.amazon.co.jp/s?k=TIMEMORE+Chestnut+S5+Pro&tag=stocknotelife-22)
+
+[View the Coffee Carrot subscription (ad)](https://px.a8.net/svt/ejp?a8mat=4BEQHR+383KII+2CG0+5YJRM)
+
 This review does not include timed cleaning tests. One Amazon review notes that the grinder is not washed with water and needs a brush. For a first hand grinder, see [how to choose](/en/articles/how-to-choose-hand-coffee-mill/). For where to put the 0–80 scale, see the [coffee grind size guide](/en/articles/coffee-grind-size-guide/). This site does not have a recommended number for each brew method on the Essence Go.
 
 [Search for the EPEIOS Essence Go on Amazon.co.jp](https://www.amazon.co.jp/s?k=EPEIOS+Essence+Go+grinder&tag=stocknotelife-22)

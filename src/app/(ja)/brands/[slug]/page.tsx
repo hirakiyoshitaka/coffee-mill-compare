@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { Breadcrumb } from "@/components/Breadcrumb";
+import { PrNotice } from "@/components/PrNotice";
 import { BuyButtons, grinderBuyProps } from "@/components/BuyButtons";
 import { ProductVisual } from "@/components/ProductVisual";
 import { ReviewChips } from "@/components/ReviewChips";
@@ -54,6 +55,9 @@ export default async function BrandPage({ params }: Props) {
         <RichText text={brand.blurb} />
       </p>
 
+      <div className="mt-8">
+        <PrNotice />
+      </div>
       <section className="mt-10">
         <h2 className="font-serif text-2xl text-stone-950">掲載モデル</h2>
         <ul className="mt-4 space-y-6">

@@ -55,6 +55,10 @@ S5 Pro を家に固定するなら、もう一台は、ケースに入って、�
 
 No.1 のレビューは[栗子 S5 Pro](/articles/timemore-chestnut-s5-pro/)です。豆は[珈琲きゃろっと](/beans/coffee-carrot/)を先に開いてください。
 
+[タイムモア 栗子 S5 Pro を Amazon で見る（広告）](https://www.amazon.co.jp/dp/B0HF4LXCCY?tag=stocknotelife-22)
+
+[珈琲きゃろっとの定期便を見る（広告）](https://px.a8.net/svt/ejp?a8mat=4BEQHR+383KII+2CG0+5YJRM)
+
 2台で迷ったら[S5 Pro と Essence Go の比較](/articles/timemore-s5-pro-vs-essence-go/)もどうぞ。粉と油分の手入れの整理は[コーヒーミルの掃除・お手入れ方法](/articles/coffee-mill-cleaning/)です。このレビューでは掃除の実測は書いていません。
 
 ## あわせて読みたい

@@ -41,4 +41,8 @@ You can compare models on Amazon. Always confirm the price and specs on the prod
 
 If you want silence, no power cord, and enjoy the grinding itself, a hand grinder is worth considering. See [hand vs electric grinders](/en/articles/hand-vs-electric-coffee-mill/), [how to choose your first hand grinder](/en/articles/how-to-choose-hand-coffee-mill/), and [Timemore S5 Pro vs EPEIOS Essence Go](/en/articles/timemore-s5-pro-vs-essence-go/).
 
+[Search for the Timemore Chestnut S5 Pro on Amazon.co.jp](https://www.amazon.co.jp/s?k=TIMEMORE+Chestnut+S5+Pro&tag=stocknotelife-22)
+
+[Search for the EPEIOS Essence Go on Amazon.co.jp](https://www.amazon.co.jp/s?k=EPEIOS+Essence+Go+grinder&tag=stocknotelife-22)
+
 Some links on this page are ads. See our [disclosure](/en/disclosure/) for details.

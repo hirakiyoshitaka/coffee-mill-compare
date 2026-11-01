@@ -8,6 +8,7 @@ import { beanShops } from "@/data/beans";
 import { categories, categoryHref } from "@/data/categories";
 import { getFeaturedModels } from "@/data/grinders";
 import { getArticle } from "@/lib/articles";
+import { PrNotice } from "@/components/PrNotice";
 import { KitchenList } from "@/components/KitchenList";
 import { getKitchenArticles } from "@/lib/kitchen";
 
@@ -84,6 +85,7 @@ export default function HomePage() {
         </Link>
       </nav>
 
+      <PrNotice />
       <section className="section-block" id="picks">
         <div className="section-heading">
           <h2>おすすめの手挽き</h2>

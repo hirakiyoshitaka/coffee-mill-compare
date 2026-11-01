@@ -52,8 +52,12 @@ Want them side by side? Read [Timemore S5 Pro vs EPEIOS Essence Go](/en/articles
 
 To split 1Zpresso models by the job each one is built for, see the [1Zpresso hand grinder lineup](/en/articles/1zpresso-hand-grinder-lineup/). To set the Comandante C40 MK4 next to the Chestnut S5 Pro, see [Comandante C40 vs Timemore Chestnut S5 Pro](/en/articles/comandante-c40-vs-timemore/). We have not used a C40 or a 1Zpresso.
 
+[Search for the Comandante C40 on Amazon.co.jp](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=%E3%82%B3%E3%83%9E%E3%83%B3%E3%83%80%E3%83%B3%E3%83%86+C40)
+
 [Browse manual coffee grinders on Amazon.co.jp](https://www.amazon.co.jp/s?k=manual+coffee+grinder+conical+burr&tag=stocknotelife-22)
 
 Once you have a grinder, a [coffee scale](/en/articles/coffee-scale-guide/) is the next upgrade that makes the biggest difference. A first V60 cup, using Hario's published ratios at 12g, is the [beginner pour-over recipe](/en/articles/beginner-hand-drip-recipe/). Those times are Hario's recipe, not a brew we timed.
+
+[Browse coffee scales with timers on Amazon.co.jp](https://www.amazon.co.jp/s?k=coffee+scale+with+timer&tag=stocknotelife-22)
 
 Some links on this page are ads. See our [disclosure](/en/disclosure/) for details.

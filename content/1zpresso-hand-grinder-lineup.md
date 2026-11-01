@@ -66,11 +66,15 @@ J-Ultra は、公式が「1Zpressoでいちばん細かい」とする8ミクロ
 
 ドイツ製のクリック方式と比較したい人は[コマンダンテ C40 と栗子 S5 Pro の比較](/articles/comandante-c40-vs-timemore/)へ。
 
+[コマンダンテ C40 を Amazon で探す（広告）](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=%E3%82%B3%E3%83%9E%E3%83%B3%E3%83%80%E3%83%B3%E3%83%86+C40)
+
 {{grinder:timemore-chestnut-s5-pro}}
 
 {{grinder:epeios-essence-go}}
 
 豆は、運営者が定期便を1年ほど続けておいしかった[珈琲きゃろっと](/beans/coffee-carrot/)です。ほかの店は[最初に頼みたい豆](/articles/first-beans-after-hand-mill/)にまとめています。
+
+[珈琲きゃろっとの定期便を見る（広告）](https://px.a8.net/svt/ejp?a8mat=4BEQHR+383KII+2CG0+5YJRM)
 
 ## 価格
 

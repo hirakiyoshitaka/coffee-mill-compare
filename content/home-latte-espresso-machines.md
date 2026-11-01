@@ -66,6 +66,8 @@ date: "2026-10-28"
 
 ハンドドリップ派の方は、[ハンドドリップを一段上げる道具](/articles/hand-drip-upgrade-gear/)もどうぞ。豆は、運営者が定期便を約1年続けて美味しかった[珈琲きゃろっと](/beans/coffee-carrot/)ほか、[スペシャルティコーヒー豆の通販ショップ比較](/articles/specialty-coffee-beans-shops/)にまとめています。
 
+[珈琲きゃろっとの定期便を見る（広告）](https://px.a8.net/svt/ejp?a8mat=4BEQHR+383KII+2CG0+5YJRM)
+
 このページのAmazonリンクはアフィリエイトリンクです。方針は[広告表記](/disclosure/)にまとめています。
 
 ## あわせて読みたい

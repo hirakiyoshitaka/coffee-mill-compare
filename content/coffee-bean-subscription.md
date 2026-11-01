@@ -52,6 +52,10 @@ date: "2026-10-28"
 
 定期便に決める前に、お試しセットで店の味を知るのもよい方法です。[土居珈琲](/beans/doi-coffee/)や[澤井珈琲](/beans/sawai-coffee/)のページ、[スペシャルティコーヒー豆の通販ショップ比較](/articles/specialty-coffee-beans-shops/)もどうぞ。
 
+[土居珈琲を Amazon で探す（広告）](https://www.amazon.co.jp/s?k=土居珈琲&tag=stocknotelife-22)
+
+[澤井珈琲を Amazon で探す（広告）](https://www.amazon.co.jp/s?k=澤井珈琲&tag=stocknotelife-22)
+
 ## どれを選ぶ？
 
 - **実際に続いた店から選びたい人**：珈琲きゃろっと
@@ -60,7 +64,7 @@ date: "2026-10-28"
 
 豆は挽きたてがいちばん香ります。ミルは[手挽きミルの選び方](/articles/how-to-choose-hand-coffee-mill/)、道具は[ハンドドリップ道具のそろえ方](/articles/hand-drip-gear-guide/)を見てください。
 
-このページの購入リンク（A8.net）はアフィリエイトリンク（広告）です。方針は[広告表記](/disclosure/)にまとめています。
+このページの購入リンク（A8.net・Amazon）はアフィリエイトリンク（広告）です。方針は[広告表記](/disclosure/)にまとめています。
 
 運営者が約1年続けた感想は[珈琲きゃろっとの定期便レビュー](/articles/coffee-carrot-review/)にまとめました。贈り物にするときの分け方は[コーヒー好きへのギフトおすすめ](/articles/coffee-gift-guide/)です。定期便は、相手の了承を取ってからにしてください。
 

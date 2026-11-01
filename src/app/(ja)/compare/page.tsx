@@ -1,6 +1,7 @@
 import type { ReactNode } from "react";
 import Link from "next/link";
 import { Breadcrumb } from "@/components/Breadcrumb";
+import { PrNotice } from "@/components/PrNotice";
 import { BuyButtons, grinderBuyProps } from "@/components/BuyButtons";
 import { ProductVisual } from "@/components/ProductVisual";
 import { brands, comparisonRows, getFlagshipModels, type GrinderModel } from "@/data/grinders";
@@ -49,6 +50,7 @@ export default function ComparePage() {
           このサイトが先に勧めるのは、栗子 S5 Pro とエペイオス Essence Go です。ほかの機種は、条件を並べるために残しています。栗子 S5 Pro の写真はグリーンです。Essence Go は製品名のカードです。ほかの機種の実機写真は載せていません。数値と価格は目安です。
         </p>
       </header>
+      <PrNotice />
 
       {/* 掲載機種の横並び */}
       <div className="-mx-4 mb-14 px-4 lg:mx-0 lg:px-0">
