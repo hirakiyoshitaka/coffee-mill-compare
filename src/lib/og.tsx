@@ -7,6 +7,7 @@ export const ogSize = { width: 1200, height: 630 };
 const fontFamily: Record<TranslationLocale, string> = {
   "zh-tw": "Noto Sans TC",
   "zh-hk": "Noto Sans HK",
+  "zh-cn": "Noto Sans SC",
   ko: "Noto Sans KR",
   en: "Noto Sans",
 };
