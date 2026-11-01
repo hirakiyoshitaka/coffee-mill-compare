@@ -16,7 +16,7 @@ export type ArticlePick = {
 };
 
 const PRODUCT_TOKEN =
-  /S5|Essence|V60|HARIO|ハリオ|カリタ|Kalita|Timemore|TIMEMORE|タイムモア|エペイオス|EPEIOS|栗子|Chestnut|デロンギ|ネスプレッソ|ヴァーチュオ|エアロチーノ|マグニフィカ|デディカ|Audible|KINTO|丸山|Fellow|Atmos|Stagg|BALMUDA|ORIGAMI|Chemex|AeroPress|Vertuo|Dedica|Magnifica|Aeroccino|ブラックミラー|Black Mirror|ピーラー|シーチキン|iwaki|貝印|ブルーボトル/i;
+  /S5|Essence|V60|HARIO|ハリオ|カリタ|Kalita|Timemore|TIMEMORE|タイムモア|エペイオス|EPEIOS|栗子|Chestnut|デロンギ|ネスプレッソ|ヴァーチュオ|エアロチーノ|マグニフィカ|デディカ|Audible|KINTO|丸山|Fellow|Atmos|Stagg|BALMUDA|ORIGAMI|Chemex|AeroPress|Vertuo|Dedica|Magnifica|Aeroccino|ブラックミラー|Breville|ブレビル|Rivelia|リヴェリア|Eletta|エレッタ|Black Mirror|ピーラー|シーチキン|iwaki|貝印|ブルーボトル/i;
 
 const EMBED_RULES: [RegExp, string][] = [
   [/S5|Chestnut|栗子|タイムモア|Timemore|TIMEMORE|泰摩/i, "timemore-chestnut-s5-pro"],

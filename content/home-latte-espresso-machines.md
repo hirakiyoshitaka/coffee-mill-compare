@@ -79,4 +79,5 @@ date: "2026-10-28"
 - [エスプレッソ・モカポット向け手挽きミルの選び方](/articles/hand-mill-espresso-moka/)
 - [モカポットおすすめの選び方](/articles/moka-pot-guide/)
 - [コーヒーの挽き目（粒度）の選び方](/articles/coffee-grind-size-guide/)
+- [ブレビル vs デロンギ｜グラインダー内蔵エスプレッソマシン最新6機種を比較](/articles/breville-vs-delonghi-all-in-one-espresso/)
 
