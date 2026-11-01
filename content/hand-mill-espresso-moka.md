@@ -96,5 +96,6 @@ S5 Pro の公式の推奨範囲は、エスプレッソ 0–2.0、モカ 1.0–3
 - [電動コーヒーミルおすすめの選び方](/articles/electric-coffee-grinder-guide/)
 - [はじめての手挽きコーヒーミルの選び方](/articles/how-to-choose-hand-coffee-mill/)
 - [1Zpressoの手挽きミルの選び方](/articles/1zpresso-hand-grinder-lineup/)
+- [ブレビル vs デロンギ｜グラインダー内蔵エスプレッソマシン最新6機種を比較](/articles/breville-vs-delonghi-all-in-one-espresso/)
 
 リンクには広告が含まれます（Amazonのアソシエイト、ミルのカードに設定済みの購入リンク）。方針は[広告表記](/disclosure/)をご覧ください。

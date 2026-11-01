@@ -45,4 +45,6 @@ If you want silence, no power cord, and enjoy the grinding itself, a hand grinde
 
 [Search for the EPEIOS Essence Go on Amazon.co.jp](https://www.amazon.co.jp/s?k=EPEIOS+Essence+Go+grinder&tag=stocknotelife-22)
 
+Comparing espresso machines with a built-in grinder? See [Breville vs De'Longhi all-in-one espresso machines](/en/articles/breville-vs-delonghi-all-in-one-espresso/).
+
 Some links on this page are ads. See our [disclosure](/en/disclosure/) for details.
