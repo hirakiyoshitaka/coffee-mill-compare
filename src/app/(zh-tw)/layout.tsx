@@ -1,4 +1,4 @@
-import { Analytics } from "@vercel/analytics/next";
+import { Analytics } from "@vercel/analytics/react";
 import "../globals.css";
 import { CloudflareBeacon } from "@/components/CloudflareBeacon";
 import { LocaleFooter, LocaleHeader } from "@/components/intl/LocaleChrome";

@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import { Analytics } from "@vercel/analytics/next";
+import { Analytics } from "@vercel/analytics/react";
 import { Noto_Sans_JP, Noto_Serif_JP } from "next/font/google";
 import "../globals.css";
 import { CloudflareBeacon } from "@/components/CloudflareBeacon";
