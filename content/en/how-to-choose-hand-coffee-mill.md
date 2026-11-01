@@ -50,8 +50,10 @@ My one-line take: it just spins so easily. EPEIOS says the 10-blade burr is desi
 
 Want them side by side? Read [Timemore S5 Pro vs EPEIOS Essence Go](/en/articles/timemore-s5-pro-vs-essence-go/). The full write-ups are the [Chestnut S5 Pro review](/en/articles/timemore-chestnut-s5-pro/) and the [Essence Go review](/en/articles/epeios-essence-go/). Once the grinder is home, the [coffee grind size guide](/en/articles/coffee-grind-size-guide/) is where to set the dial.
 
+To split 1Zpresso models by the job each one is built for, see the [1Zpresso hand grinder lineup](/en/articles/1zpresso-hand-grinder-lineup/). To set the Comandante C40 MK4 next to the Chestnut S5 Pro, see [Comandante C40 vs Timemore Chestnut S5 Pro](/en/articles/comandante-c40-vs-timemore/). We have not used a C40 or a 1Zpresso.
+
 [Browse manual coffee grinders on Amazon.co.jp](https://www.amazon.co.jp/s?k=manual+coffee+grinder+conical+burr&tag=stocknotelife-22)
 
-Once you have a grinder, a [coffee scale](/en/articles/coffee-scale-guide/) is the next upgrade that makes the biggest difference.
+Once you have a grinder, a [coffee scale](/en/articles/coffee-scale-guide/) is the next upgrade that makes the biggest difference. A first V60 cup, using Hario's published ratios at 12g, is the [beginner pour-over recipe](/en/articles/beginner-hand-drip-recipe/). Those times are Hario's recipe, not a brew we timed.
 
 Some links on this page are ads. See our [disclosure](/en/disclosure/) for details.
