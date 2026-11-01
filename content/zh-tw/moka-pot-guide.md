@@ -60,7 +60,7 @@ Brikka Induction 的美國頁面說明了做出克麗瑪，以及鋁和鋼的雙
 
 摩卡的粉比手沖細。本站確認到官方摩卡範圍的手搖磨豆機，只有[栗子 S5 Pro](/zh-tw/articles/timemore-chestnut-s5-pro/)，建議刻度是 1.0–3.0。出處在評測裡。站長的用法以手沖為主，沒有用這台磨豆機沖摩卡壺的紀錄。
 
-[Essence Go](/zh-tw/articles/epeios-essence-go/)沒有刊出摩卡用的建議刻度。就算壺很小，每天磨細粉的負擔還在。若是用機器打義式、再加奶，見[在家做拿鐵・義式濃縮](/zh-tw/articles/home-latte-espresso-machines/)。
+[Essence Go](/zh-tw/articles/epeios-essence-go/)沒有刊出摩卡用的建議刻度。就算壺很小，每天磨細粉的負擔還在。若是用機器打義式、再加奶，見[在家做拿鐵・義式濃縮](/zh-tw/articles/home-latte-espresso-machines/)。內建磨豆的 Breville 與 De'Longhi 見[六台怎麼挑](/zh-tw/articles/breville-vs-delonghi-all-in-one-espresso/)。1Zpresso 裡官方寫成義式一格最細的是 J-Ultra，分法見[1Zpresso 手搖磨豆機怎麼挑](/zh-tw/articles/1zpresso-hand-grinder-lineup/)。那一篇沒有轉載建議格數，這裡也不抄。按鈕式的滴濾咖啡機是另一類，見[BALMUDA The Brew 與 TWINBIRD 全自動怎麼挑](/zh-tw/articles/japanese-premium-coffee-makers/)。
 
 {{grinder:timemore-chestnut-s5-pro}}
 
@@ -86,6 +86,9 @@ Brikka Induction 的美國頁面說明了做出克麗瑪，以及鋁和鋼的雙
 
 - [法式濾壓壺怎麼挑](/zh-tw/articles/french-press-guide/)
 - [在家做拿鐵・義式濃縮](/zh-tw/articles/home-latte-espresso-machines/)
+- [Breville 與 De'Longhi 怎麼挑](/zh-tw/articles/breville-vs-delonghi-all-in-one-espresso/)
+- [1Zpresso 手搖磨豆機怎麼挑](/zh-tw/articles/1zpresso-hand-grinder-lineup/)
+- [BALMUDA The Brew 與 TWINBIRD 全自動怎麼挑](/zh-tw/articles/japanese-premium-coffee-makers/)
 - [手沖分享壺怎麼挑](/zh-tw/articles/coffee-server-guide/)
 - [TIMEMORE 栗子 S5 Pro 評測](/zh-tw/articles/timemore-chestnut-s5-pro/)
 - [Epeios Essence Go 評測](/zh-tw/articles/epeios-essence-go/)
