@@ -72,4 +72,4 @@ date: "2026-10-28"
 
 本站部分連結為聯盟行銷（Affiliate）連結，透過連結購買時，本站可能獲得分潤，但不會增加您的購買金額。詳細說明請見[廣告揭露](/zh-tw/disclosure/)。
 
-手沖派請看：[讓手沖再升級的器具](/zh-tw/articles/hand-drip-upgrade-gear/)。
+手沖派請看：[讓手沖再升級的器具](/zh-tw/articles/hand-drip-upgrade-gear/)。不想放咖啡機、改用爐火把水壓上來，見[摩卡壺怎麼挑](/zh-tw/articles/moka-pot-guide/)。
