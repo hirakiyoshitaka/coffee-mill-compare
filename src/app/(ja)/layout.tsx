@@ -1,7 +1,8 @@
 import type { Metadata } from "next";
-import { Analytics } from "@vercel/analytics/next";
+import { Analytics } from "@vercel/analytics/react";
 import { Noto_Sans_JP, Noto_Serif_JP } from "next/font/google";
 import "../globals.css";
+import { CloudflareBeacon } from "@/components/CloudflareBeacon";
 import { SiteFooter } from "@/components/SiteFooter";
 import { SiteHeader } from "@/components/SiteHeader";
 import { getSiteUrl, siteConfig } from "@/data/site";
@@ -74,6 +75,7 @@ export default function RootLayout({
         </div>
         <SiteFooter />
         <Analytics />
+        <CloudflareBeacon />
       </body>
     </html>
   );
