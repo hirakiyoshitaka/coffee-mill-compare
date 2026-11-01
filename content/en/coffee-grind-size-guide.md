@@ -25,6 +25,8 @@ From fine to coarse, the order people usually give is espresso, moka pot, pour-o
 
 If you are deciding whether to grind espresso-fine by hand at all, read [hand vs electric grinders](/en/articles/hand-vs-electric-coffee-mill/) and the [electric grinder guide](/en/articles/electric-coffee-grinder-guide/). This site does not list French press, moka pot, dripper, or espresso-machine models.
 
+A first pour-over that follows Hario's published V60 ratios, scaled to 12g, is the [beginner pour-over recipe](/en/articles/beginner-hand-drip-recipe/). The times there are Hario's. This site did not time that brew.
+
 ## Click numbers do not transfer to another grinder
 
 "Setting 6" is not automatically a medium grind. When the burrs and the size of each step differ, the same number can be a different particle size.
@@ -32,6 +34,8 @@ If you are deciding whether to grind espresso-fine by hand at all, read [hand vs
 The only hand grinder whose official recommended range for each brew method this site has checked is the Chestnut S5 Pro. Espresso, moka, pour-over, and French press ranges are copied in the [S5 Pro review](/en/articles/timemore-chestnut-s5-pro/) as a record of the official page: espresso 0–2.0, moka 1.0–3.0, pour-over 5.0–8.0, French press 8.0–9.0. Copying those numbers onto another grinder will not line up.
 
 For the [EPEIOS Essence Go](/en/articles/epeios-essence-go/), the published data this site has stops at 0–80 steps, with the scale readable from the outside. This site does not have a recommended number for each brew method on that grinder.
+
+The same gap shows up on grinders this site has not used. The [1Zpresso lineup](/en/articles/1zpresso-hand-grinder-lineup/) lists a different step for the Q series, the X-Ultra, the ZP6 Special, the K-Ultra, and the J-Ultra. The [Comandante C40 comparison](/en/articles/comandante-c40-vs-timemore/) does not treat a C40 click as an S5 Pro number. The official pages we opened did not publish microns per click for the C40.
 
 ## Setting the dial on a hand grinder
 
@@ -80,5 +84,8 @@ This site does not list French press or moka pot models. Check capacity and heat
 - [Timemore S5 Pro vs EPEIOS Essence Go](/en/articles/timemore-s5-pro-vs-essence-go/)
 - [Hand vs electric coffee grinders](/en/articles/hand-vs-electric-coffee-mill/)
 - [How to choose a coffee scale](/en/articles/coffee-scale-guide/)
+- [Beginner pour-over recipe](/en/articles/beginner-hand-drip-recipe/)
+- [1Zpresso hand grinder lineup](/en/articles/1zpresso-hand-grinder-lineup/)
+- [Comandante C40 vs Timemore Chestnut S5 Pro](/en/articles/comandante-c40-vs-timemore/)
 
 Some links on this page are ads (the Amazon Associate links above, and the purchase links already set on the grinder cards). See our [disclosure](/en/disclosure/) for details.
