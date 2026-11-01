@@ -69,7 +69,7 @@ S5 Pro の公式の推奨範囲は、エスプレッソ 0–2.0、モカ 1.0–3
 
 [モカポットを Amazon で探す（広告）](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=%E3%83%A2%E3%82%AB%E3%83%9D%E3%83%83%E3%83%88)
 
-モカポットの器具は、このサイトの掲載データにありません。容量と、直火かIHかは商品ページで確認してください。
+モカポットの杯数（マグカップではなくエスプレッソ杯）と、直火かIHかは[モカポットの選び方](/articles/moka-pot-guide/)に分けました。価格は変動します。
 
 およそ1万円以下に予算を固定するなら、細挽きの仕様は商品ページに無いことが多いです。
 
@@ -90,6 +90,7 @@ S5 Pro の公式の推奨範囲は、エスプレッソ 0–2.0、モカ 1.0–3
 - [コーヒーミルおすすめランキング](/articles/coffee-mill-ranking/)
 - [手挽きミルのスペック比較](/compare/)
 - [家でラテ・エスプレッソ](/articles/home-latte-espresso-machines/)
+- [モカポットおすすめの選び方](/articles/moka-pot-guide/)
 - [コーヒーの挽き目（粒度）の選び方](/articles/coffee-grind-size-guide/)
 - [タイムモア栗子 S5 Proレビュー](/articles/timemore-chestnut-s5-pro/)
 - [電動コーヒーミルおすすめの選び方](/articles/electric-coffee-grinder-guide/)

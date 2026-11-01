@@ -52,6 +52,7 @@ date: "2026-10-31"
 1. **ドリッパーとペーパー**。このレシピは V60 の円すい、大きなひとつ穴向けです。フィルターは湯通しして紙のにおいを落とす、とハリオが書いています。素材の違いは[コーヒーフィルターの選び方](/articles/coffee-filter-guide/)です。
 2. **スケール**。12gと、24g、48gを目で量ると、次の朝に戻りません。[コーヒースケールの選び方](/articles/coffee-scale-guide/)をどうぞ。
 3. **細く注げるケトル**。渦が描けることが、このレシピの条件です。
+4. **サーバー**。ドリッパーの下で液を受けます。杯数と、電子レンジに入れられるかは[コーヒーサーバーの選び方](/articles/coffee-server-guide/)です。運営者はそこで挙げたサーバーを使っていません。
 
 [HARIO V60 ドリッパー01をAmazonで見る（広告）](https://www.amazon.co.jp/dp/B0BWGTYRTW?tag=stocknotelife-22)
 
@@ -90,6 +91,7 @@ date: "2026-10-31"
 - [コーヒーの挽き目（粒度）の選び方](/articles/coffee-grind-size-guide/)
 - [ドリップケトルおすすめの選び方](/articles/drip-kettle-guide/)
 - [コーヒースケールおすすめの選び方](/articles/coffee-scale-guide/)
+- [コーヒーサーバーおすすめの選び方](/articles/coffee-server-guide/)
 - [コーヒーフィルターの選び方](/articles/coffee-filter-guide/)
 - [タイムモア栗子 S5 Proレビュー](/articles/timemore-chestnut-s5-pro/)
 

@@ -100,7 +100,7 @@ date: "2026-10-27"
 
 フィルターの素材で味と手入れは変わります。ペーパー・金属・布の比較は[コーヒーフィルターの選び方](/articles/coffee-filter-guide/)です。
 
-道具がそろったら、最初の一杯の粉量と蒸らしは[はじめてのハンドドリップの淹れ方](/articles/beginner-hand-drip-recipe/)に、ハリオが公開している V60 の基本レシピを12gで計算して置いています。運営者が測った秒数ではありません。あとは豆です。運営者は[珈琲きゃろっと](/beans/coffee-carrot/)の定期便を約1年続けていて、美味しかったそうです。ほかの店は[スペシャルティコーヒー豆の通販ショップ比較](/articles/specialty-coffee-beans-shops/)にまとめています。
+道具がそろったら、最初の一杯の粉量と蒸らしは[はじめてのハンドドリップの淹れ方](/articles/beginner-hand-drip-recipe/)に、ハリオが公開している V60 の基本レシピを12gで計算して置いています。運営者が測った秒数ではありません。ドリッパーの下に置く容器の杯数と熱源は[コーヒーサーバーの選び方](/articles/coffee-server-guide/)です。あとは豆です。運営者は[珈琲きゃろっと](/beans/coffee-carrot/)の定期便を約1年続けていて、美味しかったそうです。ほかの店は[スペシャルティコーヒー豆の通販ショップ比較](/articles/specialty-coffee-beans-shops/)にまとめています。
 
 [珈琲きゃろっとの定期便を見る（広告）](https://px.a8.net/svt/ejp?a8mat=4BEQHR+383KII+2CG0+5YJRM)ミルをもっと比べたい人は[手挽きミルのランキング](/articles/coffee-mill-ranking/)もどうぞ。慣れてきたら、次の一歩として[ハンドドリップを一段上げる道具](/articles/hand-drip-upgrade-gear/)も紹介しています。
 
@@ -115,4 +115,5 @@ date: "2026-10-27"
 - [ハンドドリップを一段上げる道具](/articles/hand-drip-upgrade-gear/)
 - [コーヒーフィルターの選び方](/articles/coffee-filter-guide/)
 - [はじめてのハンドドリップの淹れ方](/articles/beginner-hand-drip-recipe/)
+- [コーヒーサーバーおすすめの選び方](/articles/coffee-server-guide/)
 

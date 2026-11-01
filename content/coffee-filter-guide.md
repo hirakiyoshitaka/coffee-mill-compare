@@ -31,7 +31,7 @@ date: "2026-10-30"
 
 [KINTO SCS カラフェセットをAmazonで見る（広告）](https://www.amazon.co.jp/dp/B00NFBMA7W?tag=stocknotelife-22)
 
-布は、ネルドリップ用の器具と一緒に使うのが基本です。サイフォンでも、機種によって布、紙、樹脂のフィルターが違います。サイフォン側の手入れは[コーヒーサイフォンの選び方](/articles/how-to-choose-coffee-siphon/)にあります。
+布は、ネルドリップ用の器具と一緒に使うのが基本です。サイフォンでも、機種によって布、紙、樹脂のフィルターが違います。サイフォン側の手入れは[コーヒーサイフォンの選び方](/articles/how-to-choose-coffee-siphon/)にあります。フレンチプレスは器具側の金属網で分けるので、ペーパーの買い足しとは別です。容量と素材は[フレンチプレスの選び方](/articles/french-press-guide/)です。
 
 ## 選ぶときのポイント
 
@@ -66,6 +66,8 @@ date: "2026-10-30"
 - [コーヒードリッパー比較](/articles/coffee-dripper-comparison/)
 - [ハンドドリップ道具のそろえ方](/articles/hand-drip-gear-guide/)
 - [コーヒーサイフォンの選び方](/articles/how-to-choose-coffee-siphon/)
+- [フレンチプレスおすすめの選び方](/articles/french-press-guide/)
+- [コーヒーサーバーおすすめの選び方](/articles/coffee-server-guide/)
 - [1,000円台からの水出し・アウトドア珈琲](/articles/cold-brew-outdoor-coffee/)
 
 リンクには広告が含まれます。方針は[広告表記](/disclosure/)をご覧ください。

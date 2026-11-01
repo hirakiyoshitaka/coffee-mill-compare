@@ -46,6 +46,8 @@ date: "2026-10-30"
 - [コーヒースケールおすすめの選び方](/articles/coffee-scale-guide/)
 - [コーヒードリッパー比較](/articles/coffee-dripper-comparison/)
 - [ハンドドリップを一段上げる道具](/articles/hand-drip-upgrade-gear/)
+- [コーヒーサーバーおすすめの選び方](/articles/coffee-server-guide/)
+- [はじめてのハンドドリップの淹れ方](/articles/beginner-hand-drip-recipe/)
 
 量をそろえるなら[コーヒースケールの選び方](/articles/coffee-scale-guide/)、ドリッパーは[コーヒードリッパー比較](/articles/coffee-dripper-comparison/)、道具一式は[ハンドドリップ道具のそろえ方](/articles/hand-drip-gear-guide/)をどうぞ。
 
