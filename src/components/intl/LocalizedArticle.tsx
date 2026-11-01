@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { ArticleBody } from "@/components/ArticleBody";
-import { ArticlePicks } from "@/components/ArticlePicks";
+import { ArticlePicks, QuickPick } from "@/components/ArticlePicks";
 import { ShareButtons } from "@/components/ShareButtons";
 import { getSiteUrl, siteConfig, localizedSiteName } from "@/data/site";
 import { LanguageSwitcher } from "@/components/intl/LanguageSwitcher";
@@ -109,7 +109,8 @@ export function LocalizedArticle({ locale, slug }: { locale: TranslationLocale; 
         <p className="mt-1">{t.disclosure}</p>
       </aside>
       <div className="mt-8">
-        <ArticlePicks title={article.title} markdown={article.content} locale={locale} />
+        {locale === "en" ? <QuickPick title={article.title} markdown={article.content} locale="en" /> : null}
+        <ArticlePicks title={article.title} markdown={article.content} locale={locale} quickPick={locale === "en"} />
         <ArticleBody
           markdown={article.content}
           locale={locale}

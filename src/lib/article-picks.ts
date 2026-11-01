@@ -325,6 +325,22 @@ function isCategorySearchPick(pick: ArticlePick): boolean {
   return !PRODUCT_TOKEN.test(pick.name);
 }
 
+/** 先頭付近に、購入リンク付きの結論ボックス見出しが既にある */
+export function articleHasQuickPick(markdown: string): boolean {
+  const head = markdown.split("\n").slice(0, 40).join("\n");
+  return /おすすめ結論|Quick pick/i.test(head);
+}
+
+/** 記事先頭の短い結論。登場順の先頭2件だけ */
+export function selectQuickPicks(picks: ArticlePick[]): ArticlePick[] {
+  return picks.slice(0, 2);
+}
+
+export function buildQuickPicks(markdown: string, title: string, locale: SiteLocale = "ja"): ArticlePick[] {
+  if (articleHasQuickPick(markdown)) return [];
+  return selectQuickPicks(buildArticlePicks(markdown, title, locale));
+}
+
 export function shouldShowArticlePicks(title: string, kind: "article" | "kitchen", picks: ArticlePick[]): boolean {
   if (picks.length === 0) return false;
   if (kind === "kitchen") return true;

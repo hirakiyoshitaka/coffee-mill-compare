@@ -68,11 +68,15 @@ The J-Ultra is the 8-micron step that 1Zpresso calls the finest in its range. Th
 
 For a German click grinder set next to the S5 Pro, read [Comandante C40 vs Timemore Chestnut S5 Pro](/en/articles/comandante-c40-vs-timemore/).
 
+[Search for the Comandante C40 on Amazon.co.jp](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=%E3%82%B3%E3%83%9E%E3%83%B3%E3%83%80%E3%83%B3%E3%83%86+C40)
+
 {{grinder:timemore-chestnut-s5-pro}}
 
 {{grinder:epeios-essence-go}}
 
 The beans I kept on subscription for about a year, because they tasted good, are from [Coffee Carrot (珈琲きゃろっと)](/beans/coffee-carrot/). That shop page is in Japanese.
+
+[View the Coffee Carrot subscription (ad)](https://px.a8.net/svt/ejp?a8mat=4BEQHR+383KII+2CG0+5YJRM)
 
 ## Price
 

@@ -54,9 +54,13 @@ date: "2026-10-27"
 
 2台を並べて見たい人は、[ランキング](/articles/coffee-mill-ranking/)と[スペック比較](/compare/)を開いてください。1Zpressoを役割で分ける比較は[1Zpressoの手挽きミルの選び方](/articles/1zpresso-hand-grinder-lineup/)、コマンダンテ C40 と栗子 S5 Pro の仕様の違いは[C40とタイムモアの比較](/articles/comandante-c40-vs-timemore/)です。C40 も 1Zpresso も、運営者は使っていません。
 
+[コマンダンテ C40 を Amazon で探す（広告）](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=%E3%82%B3%E3%83%9E%E3%83%B3%E3%83%80%E3%83%B3%E3%83%86+C40)
+
 ## ミルが決まったら豆
 
 ミルを置いたら、次は豆です。運営者は[珈琲きゃろっと](/beans/coffee-carrot/)の定期便を1年ほど続けていて、本当においしかった、とのことです。ほかの店は[最初に頼みたい豆](/articles/first-beans-after-hand-mill/)にまとめています。
+
+[珈琲きゃろっとの定期便を見る（広告）](https://px.a8.net/svt/ejp?a8mat=4BEQHR+383KII+2CG0+5YJRM)
 
 購入ボタンは、アフィリエイトの URL を入れたときだけ出ます。方針は[広告表記](/disclosure/)です。
 

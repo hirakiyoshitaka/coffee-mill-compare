@@ -56,6 +56,8 @@ date: "2026-10-28"
 
 [V60 ドリップスケールをAmazonで見る](https://www.amazon.co.jp/dp/B08VRSZVN4?tag=stocknotelife-22)
 
+[TIMEMORE Black Mirror Basic 2.0をAmazonで見る](https://www.amazon.co.jp/dp/B07YCSF8VP?tag=stocknotelife-22)
+
 ## ドリッパー：味と見た目に変化をつける
 
 ### ORIGAMI ドリッパー S
@@ -96,6 +98,10 @@ date: "2026-10-28"
 - **紙フィルターを買い足したくない**：KINTO SCS
 
 ドリップの味をいちばん左右するのは、挽きたての豆です。運営者がふだん使っているのは[栗子 S5 Pro](/articles/timemore-chestnut-s5-pro/)のグリーンで、ドリップ中心です。軽く回るミルなら[Essence Go](/articles/epeios-essence-go/)もどうぞ。豆は[スペシャルティコーヒー豆の通販ショップ比較](/articles/specialty-coffee-beans-shops/)に、ラテ派の方は[家でラテ・エスプレッソ 予算別3台](/articles/home-latte-espresso-machines/)にまとめています。
+
+[タイムモア 栗子 S5 Pro を Amazon で見る（広告）](https://www.amazon.co.jp/dp/B0HF4LXCCY?tag=stocknotelife-22)
+
+[エペイオス Essence Go を Amazon で見る（広告）](https://www.amazon.co.jp/dp/B0D3PZHGBX?tag=stocknotelife-22)
 
 このページのAmazonリンクはアフィリエイトリンクです。方針は[広告表記](/disclosure/)にまとめています。
 

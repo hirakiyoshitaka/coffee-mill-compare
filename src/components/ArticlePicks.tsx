@@ -1,5 +1,5 @@
 import { BuyButtons } from "@/components/BuyButtons";
-import { buildArticlePicks, shouldShowArticlePicks } from "@/lib/article-picks";
+import { buildArticlePicks, buildQuickPicks, shouldShowArticlePicks, type ArticlePick } from "@/lib/article-picks";
 import type { SiteLocale } from "@/lib/i18n";
 
 const copy: Record<SiteLocale, { heading: string; note: string }> = {
@@ -25,25 +25,73 @@ const copy: Record<SiteLocale, { heading: string; note: string }> = {
   },
 };
 
+const quickCopy: Record<"ja" | "en", { heading: string; note: string }> = {
+  ja: {
+    heading: "おすすめ結論",
+    note: "この記事で先に開く購入先です。価格と在庫は、リンク先で確認してください。",
+  },
+  en: {
+    heading: "Quick pick",
+    note: "Open these first. Check the current price and stock on the store page.",
+  },
+};
+
+export function QuickPick({
+  title,
+  markdown,
+  locale,
+}: {
+  title: string;
+  markdown: string;
+  locale: "ja" | "en";
+}) {
+  const picks = buildQuickPicks(markdown, title, locale);
+  if (picks.length === 0) return null;
+  const text = quickCopy[locale];
+  return <PickList heading={text.heading} note={text.note} picks={picks} locale={locale} />;
+}
+
 export function ArticlePicks({
   title,
   markdown,
   locale = "ja",
   kind = "article",
+  quickPick = false,
 }: {
   title: string;
   markdown: string;
   locale?: SiteLocale;
   kind?: "article" | "kitchen";
+  /** 日本語・英語の記事で、先頭の結論ボックスに出した商品はここから外す */
+  quickPick?: boolean;
 }) {
   const picks = buildArticlePicks(markdown, title, locale);
   if (!shouldShowArticlePicks(title, kind, picks)) return null;
+  const quickKeys = new Set(
+    quickPick ? buildQuickPicks(markdown, title, locale).map((pick) => pick.key) : [],
+  );
+  const shown = picks.filter((pick) => !quickKeys.has(pick.key));
+  if (shown.length === 0) return null;
   const text = copy[locale];
+  return <PickList heading={text.heading} note={text.note} picks={shown} locale={locale} />;
+}
+
+function PickList({
+  heading,
+  note,
+  picks,
+  locale,
+}: {
+  heading: string;
+  note: string;
+  picks: ArticlePick[];
+  locale: SiteLocale;
+}) {
 
   return (
-    <aside className="article-picks" aria-label={text.heading}>
-      <h2>{text.heading}</h2>
-      <p className="fine">{text.note}</p>
+    <aside className="article-picks" aria-label={heading}>
+      <h2>{heading}</h2>
+      <p className="fine">{note}</p>
       <ul className="picks">
         {picks.map((pick) => (
           <li key={pick.key} className="article-pick">

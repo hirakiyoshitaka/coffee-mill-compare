@@ -37,6 +37,10 @@ date: "2026-10-30"
 
 豆で買うなら、手挽きの選び方は[はじめての手挽きコーヒーミルの選び方](/articles/how-to-choose-hand-coffee-mill/)です。このサイトが先に置いているレビューは[栗子 S5 Pro](/articles/timemore-chestnut-s5-pro/)と[Essence Go](/articles/epeios-essence-go/)で、順番は[コーヒーミルおすすめランキング](/articles/coffee-mill-ranking/)、数値は[スペック比較](/compare/)です。開きかけの袋は[キャニスターの選び方](/articles/coffee-bean-canister-guide/)で、酸素・光・湿気・温度を避けます。
 
+[タイムモア 栗子 S5 Pro を Amazon で見る（広告）](https://www.amazon.co.jp/dp/B0HF4LXCCY?tag=stocknotelife-22)
+
+[エペイオス Essence Go を Amazon で見る（広告）](https://www.amazon.co.jp/dp/B0D3PZHGBX?tag=stocknotelife-22)
+
 ## 選ぶときのポイント
 
 1. **誰が飲むか**：自分用か、夜に飲む家族への贈り物か。[コーヒー好きへのギフト](/articles/coffee-gift-guide/)では、ドリップバッグを一度きりの贈り物の入口にしています。

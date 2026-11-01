@@ -53,7 +53,13 @@ S5 Pro の公式の推奨範囲は、エスプレッソ 0–2.0、モカ 1.0–3
 
 毎日ショットを挽くなら、[電動コーヒーミルの選び方](/articles/electric-coffee-grinder-guide/)へ。音と置き場所はそちらの基準です。手挽きと電動の手間の違いは[比較記事](/articles/hand-vs-electric-coffee-mill/)にあります。1Zpressoがエスプレッソ向けに置いている J-Ultra の公式の刻みは[1Zpressoの選び方](/articles/1zpresso-hand-grinder-lineup/)に、公開ページの数字だけを転記しています。運営者は使っていません。推奨クリック番号は、そちらの記事でも転記していません。
 
+[1Zpresso J-Ultra を Amazon で探す（広告）](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=1Zpresso+J-Ultra)
+
 マシンを先に選ぶなら[家でラテ・エスプレッソ](/articles/home-latte-espresso-machines/)です。デロンギのセミオートは粉が要ります。カプセルのヴァーチュオと、豆から挽く全自動は、手挽きを前提にしません。ミルク側は[ミルクフォーマーの選び方](/articles/milk-frother-guide/)です。
+
+[ヴァーチュオ ポップ プラスをAmazonで見る](https://www.amazon.co.jp/dp/B0DL5M3WLK?tag=stocknotelife-22)
+
+[デディカ アルテをAmazonで見る](https://www.amazon.co.jp/dp/B0BYHB9YYW?tag=stocknotelife-22)
 
 ## 探す
 
@@ -68,6 +74,8 @@ S5 Pro の公式の推奨範囲は、エスプレッソ 0–2.0、モカ 1.0–3
 およそ1万円以下に予算を固定するなら、細挽きの仕様は商品ページに無いことが多いです。
 
 豆は、運営者が定期便を1年ほど続けておいしかった[珈琲きゃろっと](/beans/coffee-carrot/)です。店の使い方はドリップ向けの記録で、エスプレッソ用の挽き売りとは書いていません。
+
+[珈琲きゃろっとの定期便を見る（広告）](https://px.a8.net/svt/ejp?a8mat=4BEQHR+383KII+2CG0+5YJRM)
 
 ## どれを選ぶ？
 

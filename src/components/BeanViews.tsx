@@ -1,5 +1,6 @@
 import Link from "next/link";
 import { BuyButtons } from "@/components/BuyButtons";
+import { PrNotice } from "@/components/PrNotice";
 import { priceAsOfLabel, type BeanShop } from "@/data/beans";
 
 export function shopBuyProps(shop: BeanShop) {
@@ -116,6 +117,7 @@ export function BeanShopDetail({ shop }: { shop: BeanShop }) {
       <h1 className="page-title">{shop.name}</h1>
       <p className="lede">{shop.summary}</p>
       <p className="fine">{shop.position}</p>
+      <PrNotice />
       <BuyButtons {...shopBuyProps(shop)} />
 
       {shop.ownerExperience?.length ? (

@@ -40,6 +40,10 @@ date: "2026-10-29"
 
 豆のまま届くので、ミルが必要です。手挽きなら[タイムモア S5 Pro と Essence Go の比較](/articles/timemore-s5-pro-vs-essence-go/)、量を合わせるなら[コーヒースケールの選び方](/articles/coffee-scale-guide/)をどうぞ。ほかの定期便とも比べたい人は[コーヒー豆の定期便おすすめ比較](/articles/coffee-bean-subscription/)へ。お店の詳細は[珈琲きゃろっとのページ](/beans/coffee-carrot/)にまとめています。贈り物にする場合の注意は[コーヒー好きへのギフトおすすめ](/articles/coffee-gift-guide/)に書きました。
 
+[タイムモア 栗子 S5 Pro を Amazon で見る（広告）](https://www.amazon.co.jp/dp/B0HF4LXCCY?tag=stocknotelife-22)
+
+[エペイオス Essence Go を Amazon で見る（広告）](https://www.amazon.co.jp/dp/B0D3PZHGBX?tag=stocknotelife-22)
+
 ## あわせて読みたい
 
 - [豆の店の記事一覧](/beans/)

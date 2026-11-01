@@ -45,6 +45,8 @@ The only hand grinder whose official range for each brew method this site has ch
 
 The grinder I use every day is that S5 Pro, in green, mostly for pour-over. I have not logged times for this 12g recipe on it. How to choose the grinder is in [how to choose your first hand grinder](/en/articles/how-to-choose-hand-coffee-mill/). If you are still deciding between the two grinders this site actually uses, see [Timemore S5 Pro vs EPEIOS Essence Go](/en/articles/timemore-s5-pro-vs-essence-go/).
 
+[Search for the EPEIOS Essence Go on Amazon.co.jp](https://www.amazon.co.jp/s?k=EPEIOS+Essence+Go+grinder&tag=stocknotelife-22)
+
 {{grinder:timemore-chestnut-s5-pro}}
 
 ## Weighing comes before the rest of the kit
@@ -73,6 +75,8 @@ Older beans lose aroma first, even when the numbers stay the same.
 ## Beans
 
 I kept a [Coffee Carrot (珈琲きゃろっと)](/beans/coffee-carrot/) subscription for about a year because the coffee tasted good. That is not a coffee assigned to this recipe. The shop page is in Japanese.
+
+[View the Coffee Carrot subscription (ad)](https://px.a8.net/svt/ejp?a8mat=4BEQHR+383KII+2CG0+5YJRM)
 
 ## Sources
 

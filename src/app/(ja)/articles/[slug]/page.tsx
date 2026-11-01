@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { ArticleBody } from "@/components/ArticleBody";
-import { ArticlePicks } from "@/components/ArticlePicks";
+import { ArticlePicks, QuickPick } from "@/components/ArticlePicks";
 import { Breadcrumb } from "@/components/Breadcrumb";
 import { PrNotice } from "@/components/PrNotice";
 import { categoryHref, getCategory } from "@/data/categories";
@@ -104,7 +104,8 @@ export default async function ArticlePage({ params }: Props) {
       </header>
       <PrNotice />
       <div className="mt-8">
-        <ArticlePicks title={article.title} markdown={article.content} />
+        <QuickPick title={article.title} markdown={article.content} locale="ja" />
+        <ArticlePicks title={article.title} markdown={article.content} quickPick />
         <ArticleBody markdown={article.content} />
       </div>
       {endModels.length > 0 ? (

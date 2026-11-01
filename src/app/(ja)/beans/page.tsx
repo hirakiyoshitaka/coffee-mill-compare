@@ -2,6 +2,7 @@ import Link from "next/link";
 import { ArticleList } from "@/components/ArticleList";
 import { BeanDirectoryCard } from "@/components/BeanViews";
 import { Breadcrumb } from "@/components/Breadcrumb";
+import { PrNotice } from "@/components/PrNotice";
 import { beanShops, priceAsOfLabel } from "@/data/beans";
 import { getArticlesByCategory } from "@/lib/articles";
 import { pageMeta } from "@/lib/seo";
@@ -33,6 +34,9 @@ export default function BeansPage() {
         です。
       </p>
       <p className="fine">{priceAsOfLabel}。5店が同じ等級、という意味にはしていません。</p>
+      <div className="mt-8">
+        <PrNotice />
+      </div>
       <ul className="shop-grid mt-8">
         {beanShops.map((shop) => (
           <li key={shop.slug}>

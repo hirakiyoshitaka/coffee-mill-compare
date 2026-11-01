@@ -29,6 +29,10 @@ date: "2026-10-29"
 
 運営者の実感では、S5 Pro の約910gという重さは家で使うぶんには気になりません。軽い力で回したい人には、運営者が「とにかく軽く回る」と感じた[エペイオス Essence Go](/articles/epeios-essence-go/)も候補です。2台の比較は[S5 Pro と Essence Go の比較](/articles/timemore-s5-pro-vs-essence-go/)にまとめました。
 
+[タイムモア 栗子 S5 Pro を Amazon で見る（広告）](https://www.amazon.co.jp/dp/B0HF4LXCCY?tag=stocknotelife-22)
+
+[エペイオス Essence Go を Amazon で見る（広告）](https://www.amazon.co.jp/dp/B0D3PZHGBX?tag=stocknotelife-22)
+
 ## 電動が向いている人
 
 - 家族の分も含めて一度にたくさん挽く

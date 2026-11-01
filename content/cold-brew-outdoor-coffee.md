@@ -61,6 +61,8 @@ date: "2026-10-28"
 
 外で挽きたてを楽しむなら、手挽きミルもあると便利です。運営者が「とにかく軽く回る」と感じている[Essence Go](/articles/epeios-essence-go/)を紹介しています。家でのドリップを充実させたい人は[ハンドドリップを一段上げる道具](/articles/hand-drip-upgrade-gear/)もどうぞ。
 
+[エペイオス Essence Go を Amazon で見る（広告）](https://www.amazon.co.jp/dp/B0D3PZHGBX?tag=stocknotelife-22)
+
 このページのAmazonリンクはアフィリエイトリンクです。方針は[広告表記](/disclosure/)にまとめています。
 
 ## あわせて読みたい

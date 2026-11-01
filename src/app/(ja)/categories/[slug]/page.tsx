@@ -3,6 +3,7 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import { ArticleList } from "@/components/ArticleList";
 import { Breadcrumb } from "@/components/Breadcrumb";
+import { PrNotice } from "@/components/PrNotice";
 import { GrinderCard } from "@/components/GrinderCard";
 import { StatusBadge } from "@/components/StatusBadge";
 import { beanShops } from "@/data/beans";
@@ -95,6 +96,7 @@ export default async function CategoryPage({ params }: Props) {
 
       {category.slug === "mill" ? (
         <>
+          <PrNotice />
           <section>
             <h2 className="font-serif text-2xl text-stone-950">おすすめ</h2>
             <p className="section-lead">

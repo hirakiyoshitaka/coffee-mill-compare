@@ -9,6 +9,10 @@ date: "2026-10-29"
 
 先にお断りすると、運営者が使っているのは手挽きの[タイムモア栗子 S5 Pro](/articles/timemore-chestnut-s5-pro/)と[エペイオス Essence Go](/articles/epeios-essence-go/)で、電動ミルは使っていません。ここでは体験談は書かず、選び方だけを書きます。
 
+[タイムモア 栗子 S5 Pro を Amazon で見る（広告）](https://www.amazon.co.jp/dp/B0HF4LXCCY?tag=stocknotelife-22)
+
+[エペイオス Essence Go を Amazon で見る（広告）](https://www.amazon.co.jp/dp/B0D3PZHGBX?tag=stocknotelife-22)
+
 ## 刃の方式は3種類
 
 - **プロペラ式**：刃が回って豆を砕きます。安くて小さい反面、挽きムラが出やすく、粒度は時間で調整します。
