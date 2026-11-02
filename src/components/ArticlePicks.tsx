@@ -27,6 +27,10 @@ const copy: Record<SiteLocale, { heading: string; note: string }> = {
     heading: "이 글의 추천",
     note: "이 글에서 소개한 구매처입니다. 가격과 재고는 상점 페이지에서 확인해 주세요.",
   },
+  th: {
+    heading: "ลิงก์ในบทความนี้",
+    note: "ร้านของสินค้าที่บทความนี้พูดถึง ราคาและสต็อกให้ตรวจที่หน้าร้าน",
+  },
 };
 
 const quickCopy: Record<"ja" | "en", { heading: string; note: string }> = {
