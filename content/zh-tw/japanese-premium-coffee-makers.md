@@ -13,15 +13,17 @@ date: "2026-11-01"
 
 > **給台灣讀者**：三台都是日本國內 AC 100V、50/60Hz。台灣一般是 110V，插頭形狀相近，額定電壓卻不同。The Brew 的標示功率是 1,450W。保固多半只在日本有效，說明書是日文。表上的金額是日本參考價（日圓，含日本消費稅的項目會註明），不是台灣市價，也不是當下的 Amazon 成交價。若商品頁標示可透過 AmazonGlobal 寄送，運費與關稅在結帳時顯示，收件人需完成 EZ WAY 實名認證。能不能寄、在台灣使用算不算保固，請在商品頁確認。這篇不把 100V 機種寫成可以直接插上 110V。
 
-## 先看結論
+## 先看這張表
 
-- **想看著它沖，豆子用別的磨豆機** → BALMUDA The Brew。熱水以 0.2mL 為單位落下，悶蒸、萃取、收尾的溫度分開控制。家裡已經有手搖磨豆機的人，用的是現磨的粉
-- **放進豆子、等到杯子滿就好** → TWINBIRD。研磨、悶蒸、注水都在機器裡
-- **人數多看 CM-D465B，一兩人看 CM-D457B** → 差在容量和高度（42.5cm 與 36cm）。磨豆、水溫、粗細檔位是同一套
+站長沒有用過這三台。下面是角色對照，評測整理，不是試飲。後文才是購買者評價的短結。
 
-站長沒有用過這三台。上面是後文購買者評價的短結。想看著它沖的人，先開 The Brew 的商品頁。價格和庫存以商店頁為準。
+| 你要的 | 先看 | 差在哪 |
+| --- | --- | --- |
+| 想看著它沖，豆子用別的磨豆機 | BALMUDA The Brew | 沒有內建磨豆。熱水以 0.2mL 為單位落下。約 3 杯（約 490mL） |
+| 放進豆子，人數多 | TWINBIRD CM-D465B | 研磨、悶蒸、注水都在機器裡。6 杯（900mL）。高 42.5cm |
+| 放進豆子，一兩人、機身矮一些 | TWINBIRD CM-D457B | 磨豆、水溫、粗細檔位和上一台同一套。3 杯（450mL）。高 36cm |
 
-[在 Amazon.co.jp 查看 BALMUDA The Brew](https://www.amazon.co.jp/dp/B09DY6CDHZ?tag=stocknotelife-22)
+想看著它沖的人，先開 The Brew 的商品頁。參考價格在下面這張表，購買按鈕接在表後。
 
 ## 三台對照
 
@@ -31,15 +33,35 @@ date: "2026-11-01"
 | TWINBIRD CM-D465B | 全自動（用咖啡豆） | 低速平刀，刀為燕三條製 | 6 杯（900mL） | 83℃／90℃ | 官方商店 48,800 日圓／Amazon 約 33,300 日圓 |
 | TWINBIRD CM-D457B | 全自動（用咖啡豆） | 同上 | 3 杯（450mL） | 83℃／90℃ | 官方商店 41,800 日圓／Amazon 約 25,300 日圓 |
 
-出處：[價格.com（The Brew）](https://kakaku.com/item/K0001382816/)、[價格.com（CM-D465B）](https://kakaku.com/item/K0001203222/)、[價格.com（CM-D457B）](https://kakaku.com/item/K0001097505/)、[TWINBIRD 官方商店](https://store.twinbird.jp/products/cmd457)，以及 Amazon.co.jp 的商品頁。官方商店與「實售」不是同一種標價，請分開看。
+出處：[價格.com（The Brew）](https://kakaku.com/item/K0001382816/)、[價格.com（CM-D465B）](https://kakaku.com/item/K0001203222/)、[價格.com（CM-D457B）](https://kakaku.com/item/K0001097505/)、[TWINBIRD 官方商店](https://store.twinbird.jp/products/cmd457)，以及 Amazon.co.jp 的商品頁。官方商店與「實售」不是同一種標價，請分開看。官方商店不是廣告。
 
-三台的商品頁如下。價格和庫存以商店頁為準。官方商店不是廣告。
+以下是廣告連結（Amazon 聯盟）。價格和庫存以商店頁為準。各機種的小節裡也留了同一個商品頁。
 
+<!-- Same Amazon.co.jp URLs as the buttons below, kept as Markdown so the pick list still names them. -->
+<!--
 [在 Amazon.co.jp 查看 BALMUDA The Brew](https://www.amazon.co.jp/dp/B09DY6CDHZ?tag=stocknotelife-22)
-
 [在 Amazon.co.jp 查看 TWINBIRD CM-D465B](https://www.amazon.co.jp/dp/B081SWNSGW?tag=stocknotelife-22)
-
 [在 Amazon.co.jp 查看 TWINBIRD CM-D457B](https://www.amazon.co.jp/dp/B07HFP6H3L?tag=stocknotelife-22)
+-->
+
+<div class="cta-after-table">
+<a href="https://www.amazon.co.jp/dp/B09DY6CDHZ?tag=stocknotelife-22" class="buy-link">在 Amazon.co.jp 查看 BALMUDA The Brew</a>
+<a href="https://www.amazon.co.jp/dp/B081SWNSGW?tag=stocknotelife-22" class="buy-link">在 Amazon.co.jp 查看 TWINBIRD CM-D465B</a>
+<a href="https://www.amazon.co.jp/dp/B07HFP6H3L?tag=stocknotelife-22" class="buy-link">在 Amazon.co.jp 查看 TWINBIRD CM-D457B</a>
+</div>
+
+## 下一步
+
+粉若要另外磨，或想改另一種萃取，同一語系可以接著看這些。
+
+- [把悠閒時光過得講究一點的手搖磨豆機 最佳3台](/zh-tw/articles/luxury-relaxed-coffee-mill-best3/)：The Brew 不磨豆。第1名栗子 S5 Pro、第2名 Epeios Essence Go 是站長在用的。第3名 Comandante C40 是評測整理，沒用過
+- [TIMEMORE 栗子 S5 Pro 評測](/zh-tw/articles/timemore-chestnut-s5-pro/)：放在家裡、每天手沖的那一台
+- [1Zpresso 手搖磨豆機怎麼挑](/zh-tw/articles/1zpresso-hand-grinder-lineup/)：按旅行、手沖、義式把角色分開。評測整理，站長沒有用過
+- [讓手沖再升級的器具](/zh-tw/articles/hand-drip-upgrade-gear/)：想自己手沖時的壺、秤、濾杯
+- [手沖分享壺怎麼挑](/zh-tw/articles/coffee-server-guide/)：濾杯底下只負責接咖啡的壺
+- [法式濾壓壺怎麼挑](/zh-tw/articles/french-press-guide/)：在壺裡浸泡再壓下去
+- [摩卡壺怎麼挑](/zh-tw/articles/moka-pot-guide/)：用爐火把水從鍋爐壓上來
+- [Breville 與 De'Longhi 怎麼挑](/zh-tw/articles/breville-vs-delonghi-all-in-one-espresso/)：拿鐵和內建磨豆的義式咖啡機。評測整理，站長沒有用過那六台
 
 ## BALMUDA The Brew：擺在檯面上的細注水
 

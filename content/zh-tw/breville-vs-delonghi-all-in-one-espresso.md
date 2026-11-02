@@ -15,19 +15,43 @@ date: "2026-11-01"
 
 > **給台灣讀者**：表上的金額是美國定價、英國當時看到的標價，或日本參考價（日圓），不是台灣市價。這些機器不是雙電壓。Breville 的美國機以 120V 為主，英國與歐洲的 Sage 是當地電壓；De'Longhi 的 Eletta Explore 與 Rivelia 有日本正規的 100V 機種。台灣一般是 110V。Breville 這三台在日本沒有正規銷售，看得到的多是並行輸入。La Specialista Touch 在撰文時沒有確認到日本正規銷售。電壓、保固、能否透過 AmazonGlobal 寄到台灣（運費與關稅在結帳時顯示，收件人需完成 EZ WAY 實名認證），都請在商品頁確認。這篇不指定哪一個電壓才能在台灣用。
 
-## 先看結論
+## 先看這張表
 
-- **想留著做一杯的過程** → Breville。畫面會告訴你這杯偏快還是偏慢。填壓也交給機器的是 Oracle Jet；畫面帶著做、也有冷飲的是 Barista Touch Impress；奶泡想自己打的是 Barista Express Impress
-- **家裡菜單不同、希望少動手** → De'Longhi。可換豆倉的是 Rivelia；熱的、冰的、冷萃在同一台的是 Eletta Explore
-- **導引式沖煮把手、又是 De'Longhi** → La Specialista Touch。它和 Barista Touch Impress 最接近
+站長沒有用過這六台。下面是角色對照，評測整理，不是試飲。規格與媒體評價的出處在後文各段。
 
-站長沒有用過這六台。上面是後文媒體評價的短結，出處在各段。
+| 你要的 | 先看 | 類型 |
+| --- | --- | --- |
+| 留著做一杯，填壓也交給機器 | Breville Oracle Jet | 研磨、計量、填壓都自動的沖煮把手。有冷飲 |
+| 畫面帶著做，也要冷飲 | Barista Touch Impress | 導引式沖煮把手。自動奶泡 |
+| 奶泡想自己打 | Barista Express Impress | 半自動、輔助填壓。手動蒸氣。沒有冷飲 |
+| 熱的、冰的、冷萃在同一台，少動手 | De'Longhi Eletta Explore | 全自動。這篇有 Amazon.co.jp 的搜尋頁 |
+| 家裡菜單不同，豆倉要能換 | De'Longhi Rivelia | 全自動，兩個可更換的豆倉。這篇有 Amazon.co.jp 的商品頁 |
+| 導引式沖煮把手，又是 De'Longhi | La Specialista Touch | 和 Barista Touch Impress 最接近。撰文時沒有確認到日本正規銷售 |
 
-這篇對到 Amazon.co.jp 的是下面兩台 De'Longhi。Breville／Sage 的官方頁在後文，不是廣告。價格和庫存以商店頁為準。
+Breville／Sage 的官方頁在後文，不是廣告。這篇對到 Amazon.co.jp 的是下面兩台 De'Longhi。以下是廣告連結（Amazon 聯盟）。請對型號。價格和庫存以商店頁為準。
 
+<!-- Same Amazon.co.jp URLs as the buttons below, kept as Markdown so the pick list still names them. -->
+<!--
 [在 Amazon.co.jp 搜尋 De'Longhi Eletta Explore](https://www.amazon.co.jp/s?k=デロンギ+エレッタ+エクスプロア&tag=stocknotelife-22)
-
 [在 Amazon.co.jp 查看 Rivelia](https://www.amazon.co.jp/dp/B0F1FBXFBL?tag=stocknotelife-22)
+-->
+
+<div class="cta-after-table">
+<a href="https://www.amazon.co.jp/s?k=デロンギ+エレッタ+エクスプロア&amp;tag=stocknotelife-22" class="buy-link">在 Amazon.co.jp 搜尋 De'Longhi Eletta Explore</a>
+<a href="https://www.amazon.co.jp/dp/B0F1FBXFBL?tag=stocknotelife-22" class="buy-link">在 Amazon.co.jp 查看 Rivelia</a>
+</div>
+
+## 下一步
+
+六台都是評測整理。同一語系裡，接著可以看這些。
+
+- [在家做拿鐵・義式濃縮](/zh-tw/articles/home-latte-espresso-machines/)：膠囊、小型半自動，和另一台 De'Longhi 全自動。那三台不是這六台
+- [摩卡壺怎麼挑](/zh-tw/articles/moka-pot-guide/)：不想放咖啡機、改在爐上煮。摩卡壺不是這篇的壓力
+- [BALMUDA The Brew 與 TWINBIRD 全自動怎麼挑](/zh-tw/articles/japanese-premium-coffee-makers/)：滴濾，不是義式。評測整理，站長沒有用過
+- [1Zpresso 手搖磨豆機怎麼挑](/zh-tw/articles/1zpresso-hand-grinder-lineup/)：手搖再填粉時，義式刻度分最細的是 J-Ultra。評測整理，站長沒有用過，這篇也不抄建議刻度
+- [把悠閒時光過得講究一點的手搖磨豆機 最佳3台](/zh-tw/articles/luxury-relaxed-coffee-mill-best3/)：第1名栗子 S5 Pro、第2名 Epeios Essence Go 是站長在用的。第3名 Comandante C40 是評測整理
+- [TIMEMORE 栗子 S5 Pro 評測](/zh-tw/articles/timemore-chestnut-s5-pro/)：本站對過官方義式範圍的手搖只有這台。站長每天用它手沖，沒有用它打這六台的義式
+- [法式濾壓壺怎麼挑](/zh-tw/articles/french-press-guide/)：粗研磨，在壺裡浸泡再壓下來
 
 ## 六台對照
 
@@ -42,11 +66,7 @@ date: "2026-11-01"
 
 出處：Breville 美國官方、美國販售頁（Macy's、Sur La Table）、[Crema Karma 的規格比較](https://cremakarma.com/breville-barista-express-impress-vs-oracle-jet/)、[Sage 英國官方](https://www.sageappliances.com/en-gb/product/bes882)、[The Guardian](https://www.theguardian.com/thefilter/2026/apr/05/best-bean-cup-coffee-machines-tested-uk)、[BBC Good Food](https://www.bbcgoodfood.com/review/best-delonghi-coffee-machine)、[價格.com（Eletta Explore）](https://kakaku.com/item/K0001646793/)、De'Longhi 官方樂天市場店。英文版另記了部分美國通路看到的 De'Longhi 標價（Eletta Explore 約 1,865 美元、Rivelia 約 1,300 美元），那是看到的售價，不是定價，購買前請再查。
 
-表內有 Amazon.co.jp 連結的，是這兩台 De'Longhi。請對型號。價格和庫存以商店頁為準。
-
-[在 Amazon.co.jp 搜尋 De'Longhi Eletta Explore](https://www.amazon.co.jp/s?k=デロンギ+エレッタ+エクスプロア&tag=stocknotelife-22)
-
-[在 Amazon.co.jp 查看 Rivelia](https://www.amazon.co.jp/dp/B0F1FBXFBL?tag=stocknotelife-22)
+表內有 Amazon.co.jp 連結的，是 Eletta Explore 與 Rivelia，按鈕在文首的對照之後。各機種的小節裡也留了同一個連結。請對型號。價格和庫存以商店頁為準。
 
 ## 哪一邊比較近
 
