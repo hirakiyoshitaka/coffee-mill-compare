@@ -64,4 +64,6 @@ date: "2026-11-01"
 
 如果想要的是浓缩和拿铁，而不是滴滤，读 [铂富 vs 德龙](/zh-cn/articles/breville-vs-delonghi-all-in-one-espresso/)。
 
+在壶里浸泡再压下去的法压，见[法压壶怎么选](/zh-cn/articles/french-press-guide/)。用炉火把水从下壶压上来的摩卡壶，见[摩卡壶怎么选](/zh-cn/articles/moka-pot-guide/)。滤杯底下只负责接咖啡的壶，见[手冲分享壶怎么选](/zh-cn/articles/coffee-server-guide/)。本站没有用过那些壶。
+
 本页的亚马逊日本链接是联盟链接。厂家官网的链接不是广告。说明见 [广告说明](/zh-cn/disclosure/)。

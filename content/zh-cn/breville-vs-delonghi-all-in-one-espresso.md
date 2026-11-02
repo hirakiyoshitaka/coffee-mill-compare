@@ -120,6 +120,6 @@ Amazon.co.jp 是否寄到你的地址、运费和关税，以结算页为准。�
 
 - **电压和销售地区。** 买你所在地区的版本（美国、加拿大、澳洲是 Breville，英国和欧盟是 Sage）。机器不是双电压。
 - **进深。** 有几台很深，先量吊柜下面的位置。
-- **按键解决不了豆子。** 磨豆机只能把豆子里有的东西呈现出来。如果想看手摇磨豆机里最细的意式刻度，读 [1Zpresso 手摇磨豆机怎么选](/zh-cn/articles/1zpresso-hand-grinder-lineup/) 的 J-Ultra。想要滴滤而不是浓缩，读 [巴慕达 The Brew 和双鸟全自动](/zh-cn/articles/japanese-premium-coffee-makers/)。
+- **按键解决不了豆子。** 磨豆机只能把豆子里有的东西呈现出来。如果想看手摇磨豆机里最细的意式刻度，读 [1Zpresso 手摇磨豆机怎么选](/zh-cn/articles/1zpresso-hand-grinder-lineup/) 的 J-Ultra。想要滴滤而不是浓缩，读 [巴慕达 The Brew 和双鸟全自动](/zh-cn/articles/japanese-premium-coffee-makers/)。不想放咖啡机、改在炉上煮，见[摩卡壶怎么选](/zh-cn/articles/moka-pot-guide/)。摩卡壶不是这篇的压力。浸泡后压下去的法压，见[法压壶怎么选](/zh-cn/articles/french-press-guide/)。
 
 本页的 Amazon.co.jp 链接是联盟链接。铂富、Sage、德龙官网的链接不是广告。说明见 [广告说明](/zh-cn/disclosure/)。

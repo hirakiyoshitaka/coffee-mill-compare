@@ -48,7 +48,7 @@ X-Ultra는 590g, 용량 25–30g, 접이식 핸들과 자석 받이 컵입니다
 
 ### 드립에서 미분을 줄이고 싶을 때: ZP6 Special
 
-ZP6 Special은 48mm 육각 스테인리스 날입니다. 공식 설명은 다른 1Zpresso보다 미분이 적다는 문장입니다. 한 클릭이 22마이크론이라 K-Ultra나 J-Ultra보다 간격이 넓고, 드립 도구에 가깝게 놓입니다. 무게는 700g입니다. 상품 페이지는 2023년 월드 브루어스 컵에서 카를로스 메디나가 썼다고 적습니다. 대회 기록을 이 사이트가 대조한 것은 아닙니다.
+ZP6 Special은 48mm 육각 스테인리스 날입니다. 공식 설명은 다른 1Zpresso보다 미분이 적다는 문장입니다. 한 클릭이 22마이크론이라 K-Ultra나 J-Ultra보다 간격이 넓고, 드립 도구에 가깝게 놓입니다. 무게는 700g입니다. 상품 페이지는 2023년 월드 브루어스 컵에서 카를로스 메디나가 썼다고 적습니다. 대회 기록을 이 사이트가 대조한 것은 아닙니다. 드리퍼 아래에서 커피를 받는 서버의 잔 수와 전자레인지 가능 여부는 [커피 서버 고르는 법](/ko/articles/coffee-server-guide/)에 있습니다.
 
 ### 한 대로 추출을 넘나들 때: K-Ultra
 
@@ -56,7 +56,7 @@ K-Ultra는 1Zpresso가 여러 추출 자리에 둔 기종입니다. 바깥 다�
 
 ### 에스프레소 클릭: J-Ultra
 
-J-Ultra는 1Zpresso가 라인업에서 가장 촘촘하다고 부르는 8마이크론 단계입니다. 날은 코팅한 48mm이고, 제조사는 에스프레소용이라고 설명합니다. 무게 670g, 용량 35–40g, 받이 컵은 자석입니다. 클릭이 촘촘해도, 매일 아침 손밀로 샷을 가는 일은 남습니다. 그 계획이면 [핸드밀 vs 전동 그라인더](/ko/articles/hand-vs-electric-coffee-mill/)와, 그라인더가 내장된 [브레빌 vs 드롱기](/ko/articles/breville-vs-delonghi-all-in-one-espresso/)를 보세요. 이 사이트가 공식 에스프레소 범위까지 확인한 손밀은 [밤 S5 프로](/ko/articles/timemore-chestnut-s5-pro/)뿐입니다. J-Ultra의 권장 클릭 번호는 이 글에 옮기지 않았습니다.
+J-Ultra는 1Zpresso가 라인업에서 가장 촘촘하다고 부르는 8마이크론 단계입니다. 날은 코팅한 48mm이고, 제조사는 에스프레소용이라고 설명합니다. 무게 670g, 용량 35–40g, 받이 컵은 자석입니다. 클릭이 촘촘해도, 매일 아침 손밀로 샷을 가는 일은 남습니다. 그 계획이면 [핸드밀 vs 전동 그라인더](/ko/articles/hand-vs-electric-coffee-mill/)와, 그라인더가 내장된 [브레빌 vs 드롱기](/ko/articles/breville-vs-delonghi-all-in-one-espresso/)를 보세요. 이 사이트가 공식 에스프레소 범위까지 확인한 손밀은 [밤 S5 프로](/ko/articles/timemore-chestnut-s5-pro/)뿐입니다. J-Ultra의 권장 클릭 번호는 이 글에 옮기지 않았습니다. 불 위의 모카포트는 에스프레소보다 한 단계 굵고, 잔 수와 열원은 [모카포트 고르는 법](/ko/articles/moka-pot-guide/)에 있습니다. 프렌치프레스는 굵게 갑니다. [프렌치프레스 고르는 법](/ko/articles/french-press-guide/)을 보세요.
 
 ## 클릭 숫자는 다른 밀로 옮기지 않습니다
 
@@ -113,5 +113,8 @@ J-Ultra는 1Zpresso가 라인업에서 가장 촘촘하다고 부르는 8마이�
 - [핸드밀 vs 전동 그라인더](/ko/articles/hand-vs-electric-coffee-mill/)
 - [브레빌 vs 드롱기](/ko/articles/breville-vs-delonghi-all-in-one-espresso/)
 - [발뮤다 더 브루와 트윈버드](/ko/articles/japanese-premium-coffee-makers/)
+- [프렌치프레스 고르는 법](/ko/articles/french-press-guide/)
+- [모카포트 고르는 법](/ko/articles/moka-pot-guide/)
+- [커피 서버 고르는 법](/ko/articles/coffee-server-guide/)
 
 이 페이지의 일부 링크는 광고입니다. 위의 아마존 어소시에이트 링크와, 그라인더 카드에 이미 들어 있는 구매 링크가 해당합니다. 자세한 내용은 [광고 고지](/ko/disclosure/)를 보세요.
