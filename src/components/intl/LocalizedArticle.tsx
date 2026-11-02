@@ -46,6 +46,15 @@ const ui: Record<TranslationLocale, { og: string; home: string; pr: string; disc
     others: "다른 글",
     share: "이 글 공유하기",
   },
+  th: {
+    og: "th_TH",
+    home: "ฉบับภาษาญี่ปุ่น",
+    pr: "โฆษณา (PR)",
+    disclosure:
+      "บทความนี้มีโฆษณาและลิงก์พันธมิตร เว็บไซต์นี้เป็นสมาชิก Amazon Associates ของ Amazon.co.jp และได้รับรายได้จากการขายที่มีคุณสมบัติ หากซื้อผ่านลิงก์ เว็บไซต์อาจได้รับค่าคอมมิชชัน ลำดับที่แนะนำไม่ได้เรียงตามค่าคอมมิชชัน และราคาเป็นเพียงตัวเลขอ้างอิง",
+    others: "บทความอื่น",
+    share: "แชร์บทความนี้",
+  },
   en: {
     og: "en_US",
     home: "Japanese edition",
