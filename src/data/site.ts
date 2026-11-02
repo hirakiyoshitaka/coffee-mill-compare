@@ -23,8 +23,7 @@ export const localizedSiteName = {
   "zh-hk": "居家時光工具箱",
   "zh-cn": "居家时光工具箱",
   ko: "집콕 시간의 도구상자",
-  th: "กล่องเครื่องมือเวลาอยู่บ้าน",
-  en: "Ouchi Dougubako",
+  vi: "Hộp dụng cụ cho thời gian ở nhà",  th: "กล่องเครื่องมือเวลาอยู่บ้าน",  en: "Ouchi Dougubako",
 } as const;
 
 export function getSiteUrl(): string {

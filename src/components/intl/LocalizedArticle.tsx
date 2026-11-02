@@ -46,6 +46,15 @@ const ui: Record<TranslationLocale, { og: string; home: string; pr: string; disc
     others: "다른 글",
     share: "이 글 공유하기",
   },
+  vi: {
+    og: "vi_VN",
+    home: "Bản tiếng Nhật",
+    pr: "Quảng cáo (PR)",
+    disclosure:
+      "Bài này có quảng cáo và liên kết tiếp thị liên kết. Trang là thành viên Amazon Associates (Amazon.co.jp) và có thể nhận hoa hồng khi bạn mua qua một số liên kết, không thêm chi phí cho bạn. Thứ tự giới thiệu không theo mức hoa hồng. Giá chỉ để tham khảo.",
+    others: "Bài khác",
+    share: "Chia sẻ bài này",
+  },
   th: {
     og: "th_TH",
     home: "ฉบับภาษาญี่ปุ่น",
@@ -53,8 +62,7 @@ const ui: Record<TranslationLocale, { og: string; home: string; pr: string; disc
     disclosure:
       "บทความนี้มีโฆษณาและลิงก์พันธมิตร เว็บไซต์นี้เป็นสมาชิก Amazon Associates ของ Amazon.co.jp และได้รับรายได้จากการขายที่มีคุณสมบัติ หากซื้อผ่านลิงก์ เว็บไซต์อาจได้รับค่าคอมมิชชัน ลำดับที่แนะนำไม่ได้เรียงตามค่าคอมมิชชัน และราคาเป็นเพียงตัวเลขอ้างอิง",
     others: "บทความอื่น",
-    share: "แชร์บทความนี้",
-  },
+    share: "แชร์บทความนี้",  },
   en: {
     og: "en_US",
     home: "Japanese edition",
