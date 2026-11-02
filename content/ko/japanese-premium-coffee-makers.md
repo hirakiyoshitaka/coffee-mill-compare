@@ -64,4 +64,6 @@ date: "2026-11-01"
 
 에스프레소와 라테 쪽이라면 [브레빌 vs 드롱기 6종](/ko/articles/breville-vs-delonghi-all-in-one-espresso/)을 보세요. 손밀과 전동 그라인더의 차이는 [핸드밀 vs 전동 그라인더](/ko/articles/hand-vs-electric-coffee-mill/)에 있습니다.
 
+포트 안에서 불린 뒤 망을 누르는 프렌치프레스는 [프렌치프레스 고르는 법](/ko/articles/french-press-guide/), 불 위에서 물을 밀어 올리는 모카포트는 [모카포트 고르는 법](/ko/articles/moka-pot-guide/)입니다. 드리퍼 아래에서 커피만 받는 서버는 [커피 서버 고르는 법](/ko/articles/coffee-server-guide/)입니다. 운영자는 그 글의 기구도 쓰지 않았습니다.
+
 이 페이지의 아마존 재팬 링크는 제휴 링크입니다. 제조사 공식 사이트로 가는 링크는 광고가 아닙니다. 자세한 내용은 [광고 고지](/ko/disclosure/)에 있습니다.

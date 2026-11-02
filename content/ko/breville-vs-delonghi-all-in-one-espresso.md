@@ -120,6 +120,6 @@ date: "2026-11-01"
 
 - **전압과 판매 국가.** 사는 나라의 모델을 고르세요. 미국·캐나다·호주는 브레빌, 영국·EU는 Sage입니다. 두 전압을 한 기기가 받지 않습니다.
 - **깊이.** 여러 대가 앞뒤로 깊습니다. 상부장 아래를 자로 재 보세요.
-- **버튼보다 원두와 분쇄.** 좋은 그라인더도 원두가 가진 것 이상은 보여 주지 못합니다. 손밀로 에스프레소 클릭을 보려면 [1Zpresso 핸드밀 라인업](/ko/articles/1zpresso-hand-grinder-lineup/)의 J-Ultra 항목을, 손밀과 전동의 차이는 [핸드밀 vs 전동 그라인더](/ko/articles/hand-vs-electric-coffee-mill/)를 보세요. 이 사이트가 공식 에스프레소 범위까지 확인한 손밀은 [타임모어 S5 프로](/ko/articles/timemore-chestnut-s5-pro/)입니다. 드립 기계 쪽이 궁금하면 [발뮤다 더 브루와 트윈버드](/ko/articles/japanese-premium-coffee-makers/)로 가면 됩니다.
+- **버튼보다 원두와 분쇄.** 좋은 그라인더도 원두가 가진 것 이상은 보여 주지 못합니다. 손밀로 에스프레소 클릭을 보려면 [1Zpresso 핸드밀 라인업](/ko/articles/1zpresso-hand-grinder-lineup/)의 J-Ultra 항목을, 손밀과 전동의 차이는 [핸드밀 vs 전동 그라인더](/ko/articles/hand-vs-electric-coffee-mill/)를 보세요. 이 사이트가 공식 에스프레소 범위까지 확인한 손밀은 [타임모어 S5 프로](/ko/articles/timemore-chestnut-s5-pro/)입니다. 드립 기계 쪽이 궁금하면 [발뮤다 더 브루와 트윈버드](/ko/articles/japanese-premium-coffee-makers/)로 가면 됩니다. 머신을 두지 않고 불 위에서 올리려면 [모카포트 고르는 법](/ko/articles/moka-pot-guide/)입니다. 모카포트는 이 글의 압력이 아닙니다. 담가 두고 누르는 프렌치프레스는 [프렌치프레스 고르는 법](/ko/articles/french-press-guide/)입니다.
 
 이 페이지의 Amazon.co.jp 링크는 제휴 링크입니다. 브레빌·Sage·드롱기 공식 사이트로 가는 링크는 광고가 아닙니다. 자세한 내용은 [광고 고지](/ko/disclosure/)에 있습니다.

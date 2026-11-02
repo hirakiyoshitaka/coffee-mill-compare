@@ -48,7 +48,7 @@ X-Ultra 重 590 克，容量 25–30 克，有折叠把手和磁性接粉杯。�
 
 ### 手冲里少一点细粉：ZP6 Special
 
-ZP6 Special 用 48mm 六角形不锈钢刀盘。官方描述是细粉少于其他 1Zpresso。每格 22 微米，比 K-Ultra 和 J-Ultra 更宽，所以更接近一台手冲工具。重 700 克。商品页写 Carlos Medina 在 2023 年世界冲煮大赛用过一台。本站没有核对过那条比赛记录。
+ZP6 Special 用 48mm 六角形不锈钢刀盘。官方描述是细粉少于其他 1Zpresso。每格 22 微米，比 K-Ultra 和 J-Ultra 更宽，所以更接近一台手冲工具。重 700 克。商品页写 Carlos Medina 在 2023 年世界冲煮大赛用过一台。本站没有核对过那条比赛记录。接在滤杯底下的分享壶，杯数和能不能进微波炉，见[手冲分享壶怎么选](/zh-cn/articles/coffee-server-guide/)。
 
 ### 一台覆盖多种萃取：K-Ultra
 
@@ -56,7 +56,7 @@ K-Ultra 是 1Zpresso 放在「多种萃取」位置上的型号。外部旋钮�
 
 ### 意式刻度：J-Ultra
 
-J-Ultra 是 8 微米一格，1Zpresso 称它是全系列最细的。刀盘是带涂层的 48mm，厂家把它写成意式用。重 670 克，容量 35–40 克，接粉杯是磁性的。刻度更细，并没有取消每天早上用手摇出一份意式粉的劳动。如果这就是计划，去看带磨豆机的 [铂富 vs 德龙](/zh-cn/articles/breville-vs-delonghi-all-in-one-espresso/)。本文不转抄 J-Ultra 的推荐刻度。
+J-Ultra 是 8 微米一格，1Zpresso 称它是全系列最细的。刀盘是带涂层的 48mm，厂家把它写成意式用。重 670 克，容量 35–40 克，接粉杯是磁性的。刻度更细，并没有取消每天早上用手摇出一份意式粉的劳动。如果这就是计划，去看带磨豆机的 [铂富 vs 德龙](/zh-cn/articles/breville-vs-delonghi-all-in-one-espresso/)。本文不转抄 J-Ultra 的推荐刻度。炉上的摩卡壶比意式粗一档，壶的杯数和热源见[摩卡壶怎么选](/zh-cn/articles/moka-pot-guide/)。法压要粗研磨，见[法压壶怎么选](/zh-cn/articles/french-press-guide/)。
 
 ## 刻度不能搬到另一台磨豆机上
 
@@ -108,5 +108,8 @@ J-Ultra 是 8 微米一格，1Zpresso 称它是全系列最细的。刀盘是带
 
 - [铂富 vs 德龙：六款带磨豆机的意式咖啡机](/zh-cn/articles/breville-vs-delonghi-all-in-one-espresso/)
 - [巴慕达 The Brew 和双鸟全自动](/zh-cn/articles/japanese-premium-coffee-makers/)
+- [法压壶怎么选](/zh-cn/articles/french-press-guide/)
+- [摩卡壶怎么选](/zh-cn/articles/moka-pot-guide/)
+- [手冲分享壶怎么选](/zh-cn/articles/coffee-server-guide/)
 
 本页部分链接是广告（上面的亚马逊联盟链接，以及磨豆机卡片里已经设置好的购买链接）。说明见 [广告说明](/zh-cn/disclosure/)。
