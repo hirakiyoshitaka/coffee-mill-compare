@@ -78,11 +78,11 @@ export function getArticlesByCategory(category: string): ArticleMeta[] {
 
 /* ---- 海外向け（翻訳）記事: content/<locale>/*.md ---- */
 
-export const translationLocales = ["zh-tw", "zh-hk", "zh-cn", "ko", "vi", "en"] as const;
+export const translationLocales = ["zh-tw", "zh-hk", "zh-cn", "ko", "th", "vi", "en"] as const;
 export type TranslationLocale = (typeof translationLocales)[number];
 
 /** hreflang 用の言語コード */
-export const hreflangOf: Record<"ja" | TranslationLocale, string> = { ja: "ja", "zh-tw": "zh-TW", "zh-hk": "zh-HK", "zh-cn": "zh-CN", ko: "ko", vi: "vi", en: "en" };
+export const hreflangOf: Record<"ja" | TranslationLocale, string> = { ja: "ja", "zh-tw": "zh-TW", "zh-hk": "zh-HK", "zh-cn": "zh-CN", ko: "ko", th: "th", vi: "vi", en: "en" };
 
 function localeDir(locale: TranslationLocale): string {
   return path.join(contentDir, locale);

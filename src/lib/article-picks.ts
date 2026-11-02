@@ -97,8 +97,8 @@ export function cleanPickName(label: string): string {
   text = text.replace(/^Amazon\.co\.jp에서\s*/u, "");
   text = text.replace(/\s*보기\s*$/u, "");
   text = text.replace(/^Tìm\s+/u, "");
-  text = text.replace(/\s+trên\s+Amazon\.co\.jp\s*$/iu, "");
-  text = text.replace(/^Browse\s+/i, "");
+  text = text.replace(/\s+trên\s+Amazon\.co\.jp\s*$/iu, "");  text = text.replace(/^ค้นหา\s+/u, "");
+  text = text.replace(/\s+บน Amazon\.co\.jp\s*$/u, "");  text = text.replace(/^Browse\s+/i, "");
   text = text.replace(/^Search for the\s+/i, "");
   text = text.replace(/\s+on Amazon\.co\.jp\s*$/i, "");
   return text.trim();
@@ -109,7 +109,7 @@ function displayName(h3: string, h2: string, label: string): string {
   const fromH3 = productHeading(h3);
   const fromH2 = productHeading(h2);
   if (isGenericLabel(label)) return fromH3 || fromH2 || cleaned || label;
-  if (/探す|Browse|Search|搜尋/.test(label)) return cleaned || fromH3 || fromH2 || label;
+  if (/探す|Browse|Search|搜尋|ค้นหา/.test(label)) return cleaned || fromH3 || fromH2 || label;
   if (fromH3) return fromH3;
   if (fromH2 && cleaned && fromH2.includes(cleaned)) return fromH2;
   return cleaned || fromH2 || label;
@@ -120,6 +120,7 @@ function searchAction(locale: SiteLocale): string {
   if (locale === "ko") return "Amazon.co.jp에서 찾기";
   if (locale === "vi") return "Tìm trên Amazon.co.jp";
   if (locale === "zh-cn") return "在 Amazon.co.jp 搜索";
+  if (locale === "th") return "ค้นหาบน Amazon.co.jp";
   if (locale === "zh-tw" || locale === "zh-hk") return "在 Amazon.co.jp 搜尋";
   return "Amazonで探す";
 }
@@ -129,6 +130,7 @@ function shopAction(locale: SiteLocale): string {
   if (locale === "ko") return "쇼핑몰에서 보기";
   if (locale === "vi") return "Xem cửa hàng";
   if (locale === "zh-cn") return "去商店查看";
+  if (locale === "th") return "ดูที่ร้าน";
   if (locale === "zh-tw" || locale === "zh-hk") return "前往商店查看";
   return "ショップで見る";
 }
@@ -196,8 +198,7 @@ function embedPick(id: string, line: number, locale: SiteLocale): ArticlePick | 
 }
 
 export function isHighIntentTitle(title: string): boolean {
-  return /選び方|おすすめ|比較|どっち|ランキング|そろえ方|一段上げ|予算別|ギフト|定期便|通販|頼みたい|How to Choose|Which|\bvs\b|推薦|推荐|比较|对比|怎么选|추천|비교|升級|選ぶ|比べ|挑|so sánh|So sánh|cách chọn|Cách chọn/.test(title);
-}
+  return /選び方|おすすめ|比較|どっち|ランキング|そろえ方|一段上げ|予算別|ギフト|定期便|通販|頼みたい|How to Choose|Which|\bvs\b|推薦|推荐|比较|对比|怎么选|추천|비교|升級|選ぶ|比べ|挑|so sánh|So sánh|cách chọn|Cách chọn/.test(title);  return /選び方|おすすめ|比較|どっち|ランキング|そろえ方|一段上げ|予算別|ギフト|定期便|通販|頼みたい|How to Choose|Which|\bvs\b|推薦|推荐|比较|对比|怎么选|추천|비교|升級|選ぶ|比べ|挑|วิธีเลือก|เปรียบเทียบ|เทียบ/.test(title);}
 
 function collect(markdown: string): { links: RawLink[]; embeds: { id: string; line: number }[] } {
   const links: RawLink[] = [];
@@ -222,7 +223,7 @@ function collect(markdown: string): { links: RawLink[]; embeds: { id: string; li
       section = text;
       return;
     }
-    if (/出典|あわせて読みたい|其他文章|More articles/.test(section)) return;
+    if (/出典|あわせて読みたい|其他文章|More articles|แหล่งที่มา|อ่านต่อ/.test(section)) return;
 
     const embed = /\{\{(?:grinder|bean):([a-z0-9-]+)\}\}/.exec(line);
     if (embed?.[1]) embeds.push({ id: embed[1], line: lineNo });

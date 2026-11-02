@@ -9,8 +9,7 @@ const fontFamily: Record<TranslationLocale, string> = {
   "zh-hk": "Noto Sans HK",
   "zh-cn": "Noto Sans SC",
   ko: "Noto Sans KR",
-  vi: "Noto Sans",
-  en: "Noto Sans",
+  vi: "Noto Sans",  th: "Noto Sans Thai",  en: "Noto Sans",
 };
 
 // Fetch a glyph-subset TTF from Google Fonts at build time (static export).

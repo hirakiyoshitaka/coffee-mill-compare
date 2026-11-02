@@ -9,8 +9,7 @@ export const languageOrder: { locale: SiteLocale; label: string }[] = [
   { locale: "zh-hk", label: "繁體中文(香港)" },
   { locale: "zh-cn", label: "简体中文" },
   { locale: "ko", label: "한국어" },
-  { locale: "vi", label: "Tiếng Việt" },
-  { locale: "en", label: "English" },
+  { locale: "vi", label: "Tiếng Việt" },  { locale: "th", label: "ไทย" },  { locale: "en", label: "English" },
 ];
 
 /** 商品カードのラベル。ja は既存の日本語表示と同じ文言 */
@@ -168,6 +167,25 @@ export const cardDict: Record<
     review: "Read the review",
     brandPage: (b) => `${b} brand page (Japanese)`,
   },
+  th: {
+    drive: "ระบบขับ",
+    burr: "ฟันบด",
+    burrSize: "เส้นผ่านศูนย์กลางฟันบด",
+    adjust: "การปรับ",
+    weight: "น้ำหนัก",
+    diameterUnknown: "ยังไม่มีตัวเลขอย่างเป็นทางการ",
+    price: "ราคาอ้างอิง",
+    priceNote: "ราคาตลาดญี่ปุ่น (เยน) ใช้ดูเทียบเท่านั้น ไม่ใช่ราคาขายในไทย",
+    buyNote: "ลิงก์ซื้อ (โฆษณา)",
+    ad: "โฆษณา",
+    external: "เว็บไซต์ภายนอก",
+    rakuten: "ดูที่ Rakuten (ญี่ปุ่น)",
+    amazon: "ดูราคาบน Amazon.co.jp",
+    yahoo: "ดูราคาบน Yahoo! Shopping (ญี่ปุ่น)",
+    shopeeMy: "ดูบน Shopee (มาเลเซีย)",
+    review: "อ่านรีวิว",
+    brandPage: (b) => `หน้าแบรนด์ ${b} (ภาษาญี่ปุ่น)`,
+  },
 };
 
 /** 翻訳ページのヘッダー・フッター・一覧の文言 */
@@ -246,5 +264,17 @@ export const chromeDict: Record<
     skip: "Skip to main content",
     nav: "Main menu",
     lang: "Language",
+  },
+  th: {
+    subtitle: "บันทึกเครื่องมือกาแฟที่ใช้ที่บ้าน",
+    articles: "บทความ",
+    japanese: "日本語版",
+    disclosure: "เปิดเผยโฆษณา",
+    listTitle: "รายการบทความ",
+    listLead: "เลือกเครื่องมือกาแฟที่ใช้ที่บ้านตามงานที่ใช้จริง ลิงก์ซื้อชี้ไปที่ร้านในญี่ปุ่นอย่าง Amazon.co.jp และราคาเป็นราคาตลาดญี่ปุ่น",
+    footerNote: "เว็บไซต์นี้มีโฆษณาและลิงก์พันธมิตร ในฐานะ Amazon Associates ของ Amazon.co.jp เว็บไซต์ได้รับรายได้จากการขายที่มีคุณสมบัติ",
+    skip: "ข้ามไปที่เนื้อหา",
+    nav: "เมนูหลัก",
+    lang: "ภาษา",
   },
 };

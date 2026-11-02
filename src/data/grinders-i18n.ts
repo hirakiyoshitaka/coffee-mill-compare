@@ -92,6 +92,20 @@ export const grinderTexts: Record<string, Partial<Record<TranslationLocale, Grin
         "Even at zero the burr gap is about 0.075mm; the maker notes uneven pressure can cause some rubbing noise",
       ],
     },
+    th: {
+      name: "TIMEMORE Chestnut S5 Pro",
+      imageAlt: "TIMEMORE Chestnut S5 Pro สีเขียว",
+      burrMaterial: "สเตนเลส 420 รุ่น TriB-048-I (CNC 5 แกน ความแข็ง 58HRC)",
+      adjustment: "ปุ่มหมุนด้านนอก หนึ่งรอบ 90 คลิก คลิกละ 15 ไมครอน",
+      priceJpyHint: "ราคาบนเว็บทางการ ¥25,800 (ดูเมื่อ 26 ต.ค. 2026 เป็นราคาพรีเซลล์ ภาษีและสต็อกให้ตรวจที่หน้าซื้อ)",
+      highlight: "เครื่องที่ผู้ดูแลใช้ทุกวัน สีเขียว (ชื่อทางการ Olive Green) ใช้กับแฮนด์ดริปเป็นหลัก น้ำหนักประมาณ 910g สำหรับการใช้ทุกวันที่บ้านไม่ได้รู้สึกเกะกะ นี่เป็นความรู้สึกของผู้ดูแลเอง",
+      purchaseNote: "ที่หน้าลิงก์ ให้เลือก «S5 Pro» และสีเขียว",
+      cuppingNotes: ["เครื่องบดมือหมุนที่ใส่ฟันบด 48mm ในตัวกว้าง 56mm", "ในฐานะเครื่องที่วางไว้ที่บ้าน เว็บนี้จัดไว้เป็นอันดับ 1"],
+      caveats: [
+        "น้ำหนักทางการประมาณ 910g มีด้ามพับได้ แต่เว็บนี้ไม่ได้จัดเป็นตัวเลือกแรกสำหรับเดินทาง",
+        "แม้ที่จุดศูนย์ ช่องว่างฟันบดยังประมาณ 0.075mm ผู้ผลิตเตือนว่าถ้าออกแรงไม่สม่ำเสมออาจมีเสียงครูด",
+      ],
+    },
   },
   "epeios-essence-go": {
     "zh-tw": {
@@ -154,6 +168,16 @@ export const grinderTexts: Record<string, Partial<Record<TranslationLocale, Grin
       cuppingNotes: ["Supervised by barista Hidenori Izaki; 38mm 10-blade hand grinder", "Officially designed to come apart and pack into its own case"],
       caveats: ["How it compares with long-established brands depends on your brewing setup", "Check official info on parts and support before buying"],
     },
+    th: {
+      name: "EPEIOS Essence Go",
+      imageAlt: "EPEIOS Essence Go (ภาพสินค้าจากเว็บทางการของ EPEIOS)",
+      burrMaterial: "ฟันบดทรงกรวยสเตนเลส (10 ใบ・38mm)",
+      adjustment: "0–80 ระดับ (ค่าที่เว็บนี้ตรึงไว้ตามตัวเลขที่ผู้ผลิตระบุ)",
+      priceJpyHint: "¥23,100 (รวมภาษี・ค่าที่เว็บนี้ตรึงไว้ตามที่เว็บทางการลงไว้ / อัปเดตเองเมื่อราคาเปลี่ยน)",
+      highlight: "ผู้ผลิตอธิบายว่าออกแบบฟันบด 38mm 10 ใบให้ตอนเริ่มหมุนรู้สึกเบา และมีกล่องเฉพาะ คำหนึ่งของผู้ดูแลคือ «หมุนเบามาก»",
+      cuppingNotes: ["ฮิเดโนริ อิซากิ (井崎英典) เป็นที่ปรึกษา เครื่องบดมือหมุนฟันบด 38mm 10 ใบ", "ผู้ผลิตอธิบายว่าถอดแล้วใส่กล่องเฉพาะได้"],
+      caveats: ["การเทียบกับแบรนด์ที่ขายมานานขึ้นกับวิธีชงของแต่ละคน", "อะไหล่และการซัพพอร์ตให้ตรวจข้อมูลทางการก่อนซื้อ"],
+    },
   },
 };
 
@@ -162,8 +186,7 @@ const typeLabels: Record<TranslationLocale, Record<GrinderType, string>> = {
   "zh-hk": { manual: "手磨", electric: "電動", hybrid: "混合式" },
   "zh-cn": { manual: "手摇", electric: "电动", hybrid: "混合式" },
   ko: { manual: "수동", electric: "전동", hybrid: "하이브리드" },
-  vi: { manual: "Quay tay", electric: "Điện", hybrid: "Kết hợp" },
-  en: { manual: "Manual", electric: "Electric", hybrid: "Hybrid" },
+  vi: { manual: "Quay tay", electric: "Điện", hybrid: "Kết hợp" },  th: { manual: "มือหมุน", electric: "ไฟฟ้า", hybrid: "ผสม" },  en: { manual: "Manual", electric: "Electric", hybrid: "Hybrid" },
 };
 
 export function localizedTypeLabel(type: GrinderType, locale: TranslationLocale): string {

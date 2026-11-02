@@ -31,6 +31,9 @@ const copy: Record<SiteLocale, { heading: string; note: string }> = {
     heading: "Gợi ý trong bài",
     note: "Đây là nơi mua các món được nhắc trong bài. Giá và hàng còn hay hết, xem trên trang cửa hàng.",
   },
+  th: {
+    heading: "ลิงก์ในบทความนี้",
+    note: "ร้านของสินค้าที่บทความนี้พูดถึง ราคาและสต็อกให้ตรวจที่หน้าร้าน",  },
 };
 
 const quickCopy: Record<"ja" | "en", { heading: string; note: string }> = {
