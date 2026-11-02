@@ -19,6 +19,19 @@ The green S5 Pro is the one I use. I did not have another grinder before it. I b
 
 I use it mostly for pour-over. At about 910g it is heavy for a hand grinder. In daily use the weight has never bothered me. If it stays in the kitchen, that weight is a non-issue. That is my own impression.
 
+## Impressions from actually using it (owner review)
+
+The grinder I use is the green Timemore Chestnut S5 Pro, with a folding handle. The beans are from [Coffee Carrot (珈琲きゃろっと)](/beans/coffee-carrot/). That shop page is in Japanese.
+
+- Grinding enough for two cups takes about a minute.
+- It grinds with a light effort. I change the grind by clicking the outer dial, and making the cup stronger or lighter is genuinely easy.
+- The handle folds, so it stores compactly.
+- Taking it apart to clean is very easy.
+- I like the design. It has a solid, premium weight, and it is not too heavy. I like the green.
+- Grinding Coffee Carrot beans with the Timemore makes that coffee time feel like bliss.
+- I have no particular complaints. A finer grind does get reasonably heavier to turn.
+- With some beans, static builds up, and brushing the grounds into the dripper with the included brush is a little tedious.
+
 ## Specs from the maker
 
 The figures below follow the official pages as checked on October 26, 2026: the Japanese sales page, and the [spec summary on Timemore's blog](https://www.timemore.com/blogs/read-our-blog/the-founding-story-of-chestnut-s5-pro).
@@ -59,7 +72,7 @@ No.2 is the [EPEIOS Essence Go](/en/articles/epeios-essence-go/). For beans, sta
 
 [View the Coffee Carrot subscription (ad)](https://px.a8.net/svt/ejp?a8mat=4BEQHR+383KII+2CG0+5YJRM)
 
-If you are choosing between the two, read [Timemore S5 Pro vs EPEIOS Essence Go](/en/articles/timemore-s5-pro-vs-essence-go/). This review does not include timed cleaning tests. For how to pick a first hand grinder, see [burr size, adjustment, weight, and where it lives](/en/articles/how-to-choose-hand-coffee-mill/). A [coffee scale](/en/articles/coffee-scale-guide/) is what makes a saved grind setting repeatable.
+If you are choosing between the two, read [Timemore S5 Pro vs EPEIOS Essence Go](/en/articles/timemore-s5-pro-vs-essence-go/). This review does not include a timed cleaning test, or a check of whether it can be washed. How easy it is to take apart is in the owner review above. For how to pick a first hand grinder, see [burr size, adjustment, weight, and where it lives](/en/articles/how-to-choose-hand-coffee-mill/). A [coffee scale](/en/articles/coffee-scale-guide/) is what makes a saved grind setting repeatable.
 
 [Search for the Timemore Chestnut S5 Pro on Amazon.co.jp](https://www.amazon.co.jp/s?k=TIMEMORE+Chestnut+S5+Pro&tag=stocknotelife-22)
 
