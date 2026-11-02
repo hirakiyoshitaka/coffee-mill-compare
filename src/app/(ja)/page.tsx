@@ -15,6 +15,14 @@ import { getKitchenArticles } from "@/lib/kitchen";
 const heroImage =
   "https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd?auto=format&fit=crop&w=1400&q=80";
 
+const best3Slugs = [
+  "best-3-golf-laser-rangefinders",
+  "best-3-folding-standing-desks",
+  "best-3-premium-drip-kettles",
+  "best-3-premium-coffee-machines",
+  "best-3-japanese-kitchen-knives",
+] as const;
+
 const reviewSlugs = [
   "timemore-chestnut-s5-pro",
   "epeios-essence-go",
@@ -28,10 +36,13 @@ export default function HomePage() {
   const models = getFeaturedModels();
   const featuredShop = beanShops.find((shop) => shop.ownerExperience?.length) ?? beanShops[0];
   const otherShops = beanShops.filter((shop) => shop.slug !== featuredShop.slug);
-  const articles = reviewSlugs
-    .map((slug) => getArticle(slug))
-    .filter((article) => article !== undefined)
-    .map(({ slug, title, description, category, date }) => ({ slug, title, description, category, date }));
+  const toCards = (slugs: readonly string[]) =>
+    slugs
+      .map((slug) => getArticle(slug))
+      .filter((article) => article !== undefined)
+      .map(({ slug, title, description, category, date }) => ({ slug, title, description, category, date }));
+  const articles = toCards(reviewSlugs);
+  const best3 = toCards(best3Slugs);
 
   const kitchen = getKitchenArticles().slice(0, 4);
 
@@ -140,6 +151,19 @@ export default function HomePage() {
         <ArticleList articles={articles} />
       </section>
 
+      <section className="section-block" id="best3">
+        <div className="section-heading">
+          <h2>暮らしのベスト3</h2>
+          <Link href="/articles" className="text-link">
+            すべて
+          </Link>
+        </div>
+        <p className="section-lead">
+          ゴルフの距離計、しまう昇降デスク、細口ケトル、上質なコーヒーマシン、日本の牛刀。使っているもの以外はレビューまとめです。
+        </p>
+        <ArticleList articles={best3} />
+      </section>
+
       <section className="section-block" id="kitchen">
         <div className="section-heading">
           <h2>キッチン・ストック</h2>
@@ -158,7 +182,9 @@ export default function HomePage() {
             一覧
           </Link>
         </div>
-        <p className="section-lead">公開中はミルと豆です。ほかは、比べるページの枠だけ先に置いています。</p>
+        <p className="section-lead">
+          公開中は、ミルと豆に加えて、ゴルフ、在宅の折りたたみ昇降デスク、包丁、ドリップケトル、コーヒーメーカーです。準備中の枠には機種名を置いていません。
+        </p>
         <ul className="category-grid">
           {categories.map((category) => (
             <li key={category.slug}>

@@ -3,6 +3,58 @@ import { siteConfig, localizedSiteName } from "@/data/site";
 import type { TranslationLocale } from "@/lib/articles";
 import { chromeDict } from "@/lib/i18n";
 
+const hubNav: Record<TranslationLocale, { href: string; label: string }[]> = {
+  en: [
+    { href: "/en/articles/best-3-golf-laser-rangefinders/", label: "Golf" },
+    { href: "/en/articles/best-3-folding-standing-desks/", label: "Desk" },
+    { href: "/en/articles/best-3-premium-drip-kettles/", label: "Kettle" },
+    { href: "/en/articles/best-3-premium-coffee-machines/", label: "Brewer" },
+    { href: "/en/articles/best-3-japanese-kitchen-knives/", label: "Knives" },
+  ],
+  "zh-tw": [
+    { href: "/zh-tw/articles/best-3-golf-laser-rangefinders/", label: "測距" },
+    { href: "/zh-tw/articles/best-3-folding-standing-desks/", label: "書桌" },
+    { href: "/zh-tw/articles/best-3-premium-drip-kettles/", label: "手沖壺" },
+    { href: "/zh-tw/articles/best-3-premium-coffee-machines/", label: "咖啡機" },
+    { href: "/zh-tw/articles/best-3-japanese-kitchen-knives/", label: "菜刀" },
+  ],
+  "zh-hk": [
+    { href: "/zh-hk/articles/best-3-golf-laser-rangefinders/", label: "測距" },
+    { href: "/zh-hk/articles/best-3-folding-standing-desks/", label: "書桌" },
+    { href: "/zh-hk/articles/best-3-premium-drip-kettles/", label: "手沖壺" },
+    { href: "/zh-hk/articles/best-3-premium-coffee-machines/", label: "咖啡機" },
+    { href: "/zh-hk/articles/best-3-japanese-kitchen-knives/", label: "菜刀" },
+  ],
+  "zh-cn": [
+    { href: "/zh-cn/articles/best-3-golf-laser-rangefinders/", label: "测距" },
+    { href: "/zh-cn/articles/best-3-folding-standing-desks/", label: "书桌" },
+    { href: "/zh-cn/articles/best-3-premium-drip-kettles/", label: "手冲壶" },
+    { href: "/zh-cn/articles/best-3-premium-coffee-machines/", label: "咖啡机" },
+    { href: "/zh-cn/articles/best-3-japanese-kitchen-knives/", label: "菜刀" },
+  ],
+  ko: [
+    { href: "/ko/articles/best-3-golf-laser-rangefinders/", label: "골프" },
+    { href: "/ko/articles/best-3-folding-standing-desks/", label: "데스크" },
+    { href: "/ko/articles/best-3-premium-drip-kettles/", label: "드립포트" },
+    { href: "/ko/articles/best-3-premium-coffee-machines/", label: "커피머신" },
+    { href: "/ko/articles/best-3-japanese-kitchen-knives/", label: "칼" },
+  ],
+  th: [
+    { href: "/th/articles/best-3-golf-laser-rangefinders/", label: "กอล์ฟ" },
+    { href: "/th/articles/best-3-folding-standing-desks/", label: "โต๊ะ" },
+    { href: "/th/articles/best-3-premium-drip-kettles/", label: "กา" },
+    { href: "/th/articles/best-3-premium-coffee-machines/", label: "เครื่องชง" },
+    { href: "/th/articles/best-3-japanese-kitchen-knives/", label: "มีด" },
+  ],
+  vi: [
+    { href: "/vi/articles/best-3-golf-laser-rangefinders/", label: "Golf" },
+    { href: "/vi/articles/best-3-folding-standing-desks/", label: "Bàn" },
+    { href: "/vi/articles/best-3-premium-drip-kettles/", label: "Ấm" },
+    { href: "/vi/articles/best-3-premium-coffee-machines/", label: "Máy pha" },
+    { href: "/vi/articles/best-3-japanese-kitchen-knives/", label: "Dao" },
+  ],
+};
+
 export function LocaleHeader({ locale }: { locale: TranslationLocale }) {
   const t = chromeDict[locale];
   return (
@@ -20,6 +72,11 @@ export function LocaleHeader({ locale }: { locale: TranslationLocale }) {
       </Link>
       <nav className="site-nav" aria-label={t.nav}>
         <Link href={`/${locale}/`}>{t.articles}</Link>
+        {hubNav[locale].map((item) => (
+          <Link key={item.href} href={item.href}>
+            {item.label}
+          </Link>
+        ))}
         <Link href={`/${locale}/disclosure/`}>{t.disclosure}</Link>
         <Link href="/" lang="ja">
           {t.japanese}
@@ -39,6 +96,11 @@ export function LocaleFooter({ locale }: { locale: TranslationLocale }) {
       </p>
       <div className="footer-links">
         <Link href={`/${locale}/`}>{t.articles}</Link>
+        {hubNav[locale].map((item) => (
+          <Link key={item.href} href={item.href}>
+            {item.label}
+          </Link>
+        ))}
         <Link href={`/${locale}/disclosure/`}>{t.disclosure}</Link>
         <Link href="/" lang="ja">
           {t.japanese}

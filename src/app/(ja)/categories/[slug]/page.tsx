@@ -149,6 +149,16 @@ export default async function CategoryPage({ params }: Props) {
             )}
           </section>
         </>
+      ) : category.status === "live" ? (
+        <section className="border border-[var(--line)] bg-[var(--white)] p-6">
+          <h2 className="font-serif text-2xl text-stone-950">比べる軸</h2>
+          <ul className="mt-4 list-disc space-y-1 pl-5 text-sm leading-relaxed text-stone-700">
+            {category.planned.map((item) => (
+              <li key={item}>{item}</li>
+            ))}
+          </ul>
+          <p className="mt-4 text-sm leading-relaxed text-stone-600">仕様の数字は、各記事が引用している公式ページのものです。価格は目安です。</p>
+        </section>
       ) : (
         <section className="border border-[var(--line)] bg-[var(--white)] p-6">
           <h2 className="font-serif text-2xl text-stone-950">準備している比べ方</h2>
@@ -158,15 +168,7 @@ export default async function CategoryPage({ params }: Props) {
             ))}
           </ul>
           <p className="mt-4 text-sm leading-relaxed text-stone-600">
-            商品名、価格、購入リンクはまだ入れていません。いま中身があるのは
-            <Link href="/categories/mill" className="mx-1 font-bold text-[var(--accent-dark)] underline underline-offset-4">
-              ミル
-            </Link>
-            と
-            <Link href="/beans" className="mx-1 font-bold text-[var(--accent-dark)] underline underline-offset-4">
-              豆
-            </Link>
-            です。
+            このカテゴリの商品名と購入リンクは、まだ入れていません。公開中のハブは下の記事一覧と、フッターのカテゴリから開けます。
           </p>
           {category.slug === "dripper" ? (
             <p className="mt-4 text-sm leading-relaxed text-stone-600">

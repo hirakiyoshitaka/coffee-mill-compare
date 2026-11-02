@@ -42,6 +42,7 @@ date: "2026-10-30"
 
 ## あわせて読みたい
 
+- [上質なドリップケトル ベスト3](/articles/best-3-premium-drip-kettles/)
 - [ケトルの記事一覧](/categories/kettle/)
 - [コーヒースケールおすすめの選び方](/articles/coffee-scale-guide/)
 - [コーヒードリッパー比較](/articles/coffee-dripper-comparison/)

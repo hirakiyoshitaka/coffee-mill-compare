@@ -62,6 +62,6 @@ CM-D465Bと同じミル・湯温・挽き目で、容量を3杯（450ml）にし
 - 豆から全自動で、ハンドドリップに近い味を家族分：**ツインバード CM-D465B**
 - 同じ味を1〜2人分、置きやすいサイズで：**ツインバード CM-D457B**
 
-ほかの淹れ方も比べたい人は[コーヒーメーカーの選び方](/articles/coffee-maker-guide/)、ラテやエスプレッソ派は[家庭用ラテ・エスプレッソマシン](/articles/home-latte-espresso-machines/)へ。挽き目の違いは[コーヒーの挽き目の選び方](/articles/coffee-grind-size-guide/)で解説しています。
+ほかの淹れ方も比べたい人は[コーヒーメーカーの選び方](/articles/coffee-maker-guide/)、上質な3台の入口は[プレミアムコーヒーマシン ベスト3](/articles/best-3-premium-coffee-machines/)、ラテやエスプレッソ派は[家庭用ラテ・エスプレッソマシン](/articles/home-latte-espresso-machines/)へ。挽き目の違いは[コーヒーの挽き目の選び方](/articles/coffee-grind-size-guide/)で解説しています。
 
 このページのAmazonリンクはアフィリエイトリンクです。メーカー公式サイトへのリンクは広告ではありません。方針は[広告表記](/disclosure/)にまとめています。

@@ -79,9 +79,27 @@ const NEXT_READS: Record<string, readonly string[]> = {
   ],
 };
 
+const HUB_SLUGS = [
+  "best-3-golf-laser-rangefinders",
+  "best-3-folding-standing-desks",
+  "best-3-premium-drip-kettles",
+  "best-3-premium-coffee-machines",
+  "best-3-japanese-kitchen-knives",
+] as const;
+
+function hubReads(slug: string): string[] {
+  if (!HUB_SLUGS.includes(slug as (typeof HUB_SLUGS)[number])) return [];
+  const siblings = HUB_SLUGS.filter((item) => item !== slug);
+  if (slug === "best-3-premium-drip-kettles") return [...siblings, "drip-kettle-guide", "hand-drip-upgrade-gear"];
+  if (slug === "best-3-premium-coffee-machines") {
+    return [...siblings, "japanese-premium-coffee-makers", "home-latte-espresso-machines", "breville-vs-delonghi-all-in-one-espresso", "coffee-maker-guide"];
+  }
+  return [...siblings];
+}
+
 export function getNextReads(locale: TranslationLocale, slug: string): ArticleMeta[] {
-  const slugs = NEXT_READS[`${locale}/${slug}`];
-  if (!slugs) return [];
+  const slugs = NEXT_READS[`${locale}/${slug}`] ?? hubReads(slug);
+  if (!slugs.length) return [];
   const bySlug = new Map(getLocalizedArticles(locale).map((article) => [article.slug, article]));
   return slugs.flatMap((nextSlug) => {
     if (nextSlug === slug) return [];

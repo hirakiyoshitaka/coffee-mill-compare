@@ -2,8 +2,11 @@ import Link from "next/link";
 
 const nav = [
   { href: "/categories", label: "道具" },
-  { href: "/compare", label: "ミル比較" },
-  { href: "/beans", label: "豆" },
+  { href: "/categories/golf", label: "ゴルフ" },
+  { href: "/categories/home-work", label: "在宅" },
+  { href: "/categories/knife", label: "包丁" },
+  { href: "/categories/kettle", label: "ケトル" },
+  { href: "/categories/coffee-maker", label: "コーヒーメーカー" },
   { href: "/articles", label: "読みもの" },
   { href: "/kitchen", label: "キッチン" },
 ];
