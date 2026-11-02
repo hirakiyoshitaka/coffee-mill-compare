@@ -93,7 +93,7 @@ function productHeading(text: string): string {
 export function cleanPickName(label: string): string {
   let text = label.replace(/（広告）|\(広告\)/g, "").trim();
   text = text.replace(/\s*を\s*Amazon(?:\.co\.jp)?\s*で[\s\S]*$/u, "");
-  text = text.replace(/^在\s*Amazon\.co\.jp\s*(?:查看|搜尋)\s*/u, "");
+  text = text.replace(/^在\s*Amazon\.co\.jp\s*(?:查看|搜尋|搜索)\s*/u, "");
   text = text.replace(/^Amazon\.co\.jp에서\s*/u, "");
   text = text.replace(/\s*보기\s*$/u, "");
   text = text.replace(/^Browse\s+/i, "");
@@ -116,6 +116,7 @@ function displayName(h3: string, h2: string, label: string): string {
 function searchAction(locale: SiteLocale): string {
   if (locale === "en") return "Browse on Amazon.co.jp";
   if (locale === "ko") return "Amazon.co.jp에서 찾기";
+  if (locale === "zh-cn") return "在 Amazon.co.jp 搜索";
   if (locale === "zh-tw" || locale === "zh-hk") return "在 Amazon.co.jp 搜尋";
   return "Amazonで探す";
 }
@@ -123,6 +124,7 @@ function searchAction(locale: SiteLocale): string {
 function shopAction(locale: SiteLocale): string {
   if (locale === "en") return "View shop";
   if (locale === "ko") return "쇼핑몰에서 보기";
+  if (locale === "zh-cn") return "去商店查看";
   if (locale === "zh-tw" || locale === "zh-hk") return "前往商店查看";
   return "ショップで見る";
 }
@@ -190,7 +192,7 @@ function embedPick(id: string, line: number, locale: SiteLocale): ArticlePick | 
 }
 
 export function isHighIntentTitle(title: string): boolean {
-  return /選び方|おすすめ|比較|どっち|ランキング|そろえ方|一段上げ|予算別|ギフト|定期便|通販|頼みたい|How to Choose|Which|\bvs\b|推薦|추천|升級|選ぶ|比べ|挑/.test(title);
+  return /選び方|おすすめ|比較|どっち|ランキング|そろえ方|一段上げ|予算別|ギフト|定期便|通販|頼みたい|How to Choose|Which|\bvs\b|推薦|推荐|比较|对比|怎么选|추천|비교|升級|選ぶ|比べ|挑/.test(title);
 }
 
 function collect(markdown: string): { links: RawLink[]; embeds: { id: string; line: number }[] } {

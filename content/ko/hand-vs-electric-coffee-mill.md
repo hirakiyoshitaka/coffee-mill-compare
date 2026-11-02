@@ -39,7 +39,9 @@ date: "2026-10-30"
 
 ## 아직 고민이라면
 
-하루에 핸드드립 한두 잔이라면, 핸드밀부터 시작하는 쪽을 권합니다. 저도 그렇게 시작했습니다. 첫 핸드밀을 좁혀 보는 기준은 [처음 사는 핸드 그라인더 추천](/ko/articles/how-to-choose-hand-coffee-mill/)에 있습니다.
+하루에 핸드드립 한두 잔이라면, 핸드밀부터 시작하는 쪽을 권합니다. 저도 그렇게 시작했습니다. 첫 핸드밀을 좁혀 보는 기준은 [처음 사는 핸드 그라인더 추천](/ko/articles/how-to-choose-hand-coffee-mill/)에 있습니다. 역할을 나눠 1Zpresso를 보려면 [1Zpresso 핸드밀 라인업](/ko/articles/1zpresso-hand-grinder-lineup/)이 있습니다. 운영자는 1Zpresso를 쓰지 않았습니다.
+
+그라인더가 들어 있는 에스프레소 머신은 [브레빌 vs 드롱기 6종](/ko/articles/breville-vs-delonghi-all-in-one-espresso/)에서, 원두부터 드립까지 맡기는 일본 기종은 [발뮤다 더 브루와 트윈버드](/ko/articles/japanese-premium-coffee-makers/)에서 비교합니다. 두 글의 기기는 운영자가 직접 쓰지 않았습니다.
 
 ## 구매처
 

@@ -19,6 +19,10 @@ const copy: Record<SiteLocale, { heading: string; note: string }> = {
     heading: "本文推薦",
     note: "以下是本文介紹的購買連結。價錢與存貨請以商店頁面為準。",
   },
+  "zh-cn": {
+    heading: "本文里的购买链接",
+    note: "下面是本文介绍的购买处。价格和库存请以商店页面为准。",
+  },
   ko: {
     heading: "이 글의 추천",
     note: "이 글에서 소개한 구매처입니다. 가격과 재고는 상점 페이지에서 확인해 주세요.",

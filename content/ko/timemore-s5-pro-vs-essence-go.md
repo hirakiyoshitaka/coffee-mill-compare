@@ -46,7 +46,7 @@ S5 프로는 48mm 버와 90클릭 외부 다이얼이라, 간격을 잘게 나�
 - 힘 들이지 않고 돌리고 싶거나, 캠핑·직장에 가져갈 생각 → **에센스 고**
 - 두 번째 한 대 → 집에는 S5 프로, 밖에는 에센스 고
 
-보는 기준을 더 좁히고 싶다면 [처음 사는 핸드 그라인더 추천](/ko/articles/how-to-choose-hand-coffee-mill/)을, 전동과 비교하고 싶다면 [핸드밀 vs 전동 그라인더](/ko/articles/hand-vs-electric-coffee-mill/)를 읽어 주세요.
+보는 기준을 더 좁히고 싶다면 [처음 사는 핸드 그라인더 추천](/ko/articles/how-to-choose-hand-coffee-mill/)을, 전동과 비교하고 싶다면 [핸드밀 vs 전동 그라인더](/ko/articles/hand-vs-electric-coffee-mill/)를 읽어 주세요. 1Zpresso를 용도별로 나누고 싶다면 [1Zpresso 핸드밀 라인업](/ko/articles/1zpresso-hand-grinder-lineup/)을 보세요. 클릭 간격은 기종마다 달라서, S5 프로의 숫자와 그대로 겹치지 않습니다. 운영자는 1Zpresso를 쓰지 않았습니다.
 
 원두는 그라인더와 별개입니다. 운영자가 정기 배송을 약 1년 이어 간 곳은 일본 홋카이도 에니와의 [珈琲きゃろっと](https://coffeecarrot.jp/)입니다. 다른 원두 가게를 써 본 경험은 쓰지 않습니다. 한국으로 배송되는지는 확인하지 못했습니다.
 

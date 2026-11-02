@@ -28,6 +28,15 @@ const ui: Record<TranslationLocale, { og: string; home: string; pr: string; disc
     others: "其他文章",
     share: "分享這篇文章",
   },
+  "zh-cn": {
+    og: "zh_CN",
+    home: "日文版",
+    pr: "广告（PR）",
+    disclosure:
+      "本文含广告和联盟营销链接。本站是亚马逊日本（Amazon.co.jp）联盟会员，通过合格销售获得收入。经由链接购买时，本站可能获得报酬。推荐顺序不按报酬高低决定，文中价格为参考价。",
+    others: "其他文章",
+    share: "分享这篇文章",
+  },
   ko: {
     og: "ko_KR",
     home: "일본어판",

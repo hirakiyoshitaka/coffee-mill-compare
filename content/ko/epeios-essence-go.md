@@ -59,4 +59,4 @@ S5 프로를 집에 두었다면, 또 한 대는 케이스에 들어가고 눈�
 
 이 사이트의 일부 링크는 제휴 마케팅(어필리에이트) 링크입니다. 링크를 통해 구매하시면 사이트가 수수료를 받을 수 있지만, 구매 금액이 늘어나지는 않습니다. 자세한 내용은 [광고 고지](/ko/disclosure/)를 확인하세요.
 
-No.1 리뷰: [타임모어 S5 프로](/ko/articles/timemore-chestnut-s5-pro/)
+No.1 리뷰: [타임모어 S5 프로](/ko/articles/timemore-chestnut-s5-pro/). 여행·드립·에스프레소로 역할을 나눈 비교는 [1Zpresso 핸드밀 라인업](/ko/articles/1zpresso-hand-grinder-lineup/)에 있습니다. 운영자는 1Zpresso를 쓰지 않았습니다.

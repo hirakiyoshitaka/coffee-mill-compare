@@ -59,4 +59,4 @@ date: "2026-10-27"
 
 이 사이트의 일부 링크는 제휴 마케팅(어필리에이트) 링크입니다. 링크를 통해 구매하시면 사이트가 수수료를 받을 수 있지만, 구매 금액이 늘어나지는 않습니다. 자세한 내용은 [광고 고지](/ko/disclosure/)를 확인하세요.
 
-다음 글: [에페이오스 에센스 고](/ko/articles/epeios-essence-go/)
+다음 글: [에페이오스 에센스 고](/ko/articles/epeios-essence-go/). 역할을 나눠 다른 손밀을 보려면 [1Zpresso 핸드밀 라인업](/ko/articles/1zpresso-hand-grinder-lineup/). 운영자는 1Zpresso를 쓰지 않았습니다.

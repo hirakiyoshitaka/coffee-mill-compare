@@ -36,6 +36,20 @@ export const grinderTexts: Record<string, Partial<Record<TranslationLocale, Grin
         "歸零時刀盤間隙約 0.075mm。官方提醒，用力不均時可能有摩擦聲",
       ],
     },
+    "zh-cn": {
+      name: "TIMEMORE 泰摩 栗子 S5 Pro",
+      imageAlt: "TIMEMORE 栗子 S5 Pro 绿色",
+      burrMaterial: "420 不锈钢 TriB-048-I（五轴 CNC，硬度 58HRC）",
+      adjustment: "外部旋钮，一圈 90 格，每格 15 微米",
+      priceJpyHint: "官网标价 ¥25,800（2026 年 10 月 26 日查看，为预售价。税费和库存请在购买页确认）",
+      highlight: "站长本人每天都在用的一台。颜色是绿色（官方名称 Olive Green）。以手冲为主，大约 910g 的重量每天用也不觉得碍事——这是站长本人的感受。",
+      purchaseNote: "请在链接页面选择「S5 Pro」和「绿色」。",
+      cuppingNotes: ["在宽 56mm 的机身里装进 48mm 刀盘的手摇磨豆机", "作为放在家里的一台，列为本站 No.1"],
+      caveats: [
+        "官方重量约 910g。虽然有折叠把手，但本站不把它列为旅行首选",
+        "归零时刀盘间隙约 0.075mm。官方提醒，用力不均时可能出现摩擦声",
+      ],
+    },
     ko: {
       name: "TIMEMORE 밤(栗子) S5 Pro",
       imageAlt: "TIMEMORE 밤 S5 Pro 그린",
@@ -76,6 +90,16 @@ export const grinderTexts: Record<string, Partial<Record<TranslationLocale, Grin
       cuppingNotes: ["井崎英典監修，38mm・10 爪刀盤的手搖磨豆機", "官方說明可拆解收進專用盒"],
       caveats: ["與長銷品牌的比較結果取決於個人的沖煮環境", "備品與售後支援請於購買前查看官方資訊"],
     },
+    "zh-cn": {
+      name: "EPEIOS Essence Go",
+      imageAlt: "EPEIOS Essence Go（EPEIOS 官网产品照片）",
+      burrMaterial: "不锈钢锥刀（10 刃・38mm）",
+      adjustment: "0〜80 段（按官方标示的站内固定值）",
+      priceJpyHint: "¥23,100（含税・以官网刊载为准的站内固定值／价格调整时手动更新）",
+      highlight: "官方说明以 38mm・10 刃刀盘追求起步时的轻盈，附专用收纳盒。站长的一句话：「转起来真的很轻」。",
+      cuppingNotes: ["井崎英典监修，38mm・10 刃刀盘的手摇磨豆机", "官方说明可拆开放进专用盒"],
+      caveats: ["和长销品牌的比较结果取决于个人的冲煮环境", "配件和售后请在购买前查看官方信息"],
+    },
     "zh-hk": {
       name: "EPEIOS Essence Go",
       imageAlt: "EPEIOS Essence Go（EPEIOS 官網產品相片）",
@@ -112,6 +136,7 @@ export const grinderTexts: Record<string, Partial<Record<TranslationLocale, Grin
 const typeLabels: Record<TranslationLocale, Record<GrinderType, string>> = {
   "zh-tw": { manual: "手搖", electric: "電動", hybrid: "混合式" },
   "zh-hk": { manual: "手磨", electric: "電動", hybrid: "混合式" },
+  "zh-cn": { manual: "手摇", electric: "电动", hybrid: "混合式" },
   ko: { manual: "수동", electric: "전동", hybrid: "하이브리드" },
   en: { manual: "Manual", electric: "Electric", hybrid: "Hybrid" },
 };
