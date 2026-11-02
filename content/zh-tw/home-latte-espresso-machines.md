@@ -72,4 +72,4 @@ date: "2026-10-28"
 
 本站部分連結為聯盟行銷（Affiliate）連結，透過連結購買時，本站可能獲得分潤，但不會增加您的購買金額。詳細說明請見[廣告揭露](/zh-tw/disclosure/)。
 
-手沖派請看：[讓手沖再升級的器具](/zh-tw/articles/hand-drip-upgrade-gear/)。不想放咖啡機、改用爐火把水壓上來，見[摩卡壺怎麼挑](/zh-tw/articles/moka-pot-guide/)。
+手沖派請看：[讓手沖再升級的器具](/zh-tw/articles/hand-drip-upgrade-gear/)。不想放咖啡機、改用爐火把水壓上來，見[摩卡壺怎麼挑](/zh-tw/articles/moka-pot-guide/)。內建磨豆、要在 Breville（英國與歐洲為 Sage）和 De'Longhi 的現行機種之間選，見[Breville 與 De'Longhi 怎麼挑](/zh-tw/articles/breville-vs-delonghi-all-in-one-espresso/)。那六台和上面這三台不是同一批。想用手搖磨到義式再自己填粉，見[1Zpresso 手搖磨豆機怎麼挑](/zh-tw/articles/1zpresso-hand-grinder-lineup/)和[栗子 S5 Pro](/zh-tw/articles/timemore-chestnut-s5-pro/)。法壓是另一種器具，見[法式濾壓壺怎麼挑](/zh-tw/articles/french-press-guide/)。

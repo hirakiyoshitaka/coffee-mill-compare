@@ -68,13 +68,13 @@ Chambord 是 BODUM 放在法式濾壓玻璃壺系列的產品。2026 年 11 月 
 
 栗子 S5 Pro 的官方建議裡，法壓是 8.0–9.0。數字出處是[評測](/zh-tw/articles/timemore-chestnut-s5-pro/)從官方轉載的範圍，只是起點。把這個 8 抄到別台磨豆機的「8」，刻度對不上。站長每天用的是狩獵綠的這台 S5 Pro，用法以手沖為主，沒有用法壓沖煮的紀錄。
 
-[Epeios Essence Go](/zh-tw/articles/epeios-essence-go/)刊出的資料裡，沒有依萃取方式給的建議刻度。
+[Epeios Essence Go](/zh-tw/articles/epeios-essence-go/)刊出的資料裡，沒有依萃取方式給的建議刻度。1Zpresso 各型的一格寬度也和 8.0–9.0 不是同一套，分法見[1Zpresso 手搖磨豆機怎麼挑](/zh-tw/articles/1zpresso-hand-grinder-lineup/)。
 
 {{grinder:timemore-chestnut-s5-pro}}
 
 {{grinder:epeios-essence-go}}
 
-法壓的金屬濾網裝在器具上，和另外買濾紙是兩件事。按鈕式的咖啡機也是另一類，這篇不比較。
+法壓的金屬濾網裝在器具上，和另外買濾紙是兩件事。按鈕式的滴濾咖啡機是另一類，見[BALMUDA The Brew 與 TWINBIRD 全自動怎麼挑](/zh-tw/articles/japanese-premium-coffee-makers/)。內建磨豆的義式咖啡機見[Breville 與 De'Longhi 怎麼挑](/zh-tw/articles/breville-vs-delonghi-all-in-one-espresso/)。
 
 ## 豆子
 
@@ -95,6 +95,9 @@ Chambord 是 BODUM 放在法式濾壓玻璃壺系列的產品。2026 年 11 月 
 
 - [摩卡壺怎麼挑](/zh-tw/articles/moka-pot-guide/)
 - [手沖分享壺怎麼挑](/zh-tw/articles/coffee-server-guide/)
+- [1Zpresso 手搖磨豆機怎麼挑](/zh-tw/articles/1zpresso-hand-grinder-lineup/)
+- [BALMUDA The Brew 與 TWINBIRD 全自動怎麼挑](/zh-tw/articles/japanese-premium-coffee-makers/)
+- [Breville 與 De'Longhi 怎麼挑](/zh-tw/articles/breville-vs-delonghi-all-in-one-espresso/)
 - [讓手沖再升級的器具](/zh-tw/articles/hand-drip-upgrade-gear/)
 - [TIMEMORE 栗子 S5 Pro 評測](/zh-tw/articles/timemore-chestnut-s5-pro/)
 - [Epeios Essence Go 評測](/zh-tw/articles/epeios-essence-go/)

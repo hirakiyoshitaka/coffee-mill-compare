@@ -7,7 +7,7 @@ date: "2026-11-01"
 
 分享壺（也有人叫下壺）是放在濾杯底下、接萃取液的容器。它不負責把粉和熱水混在一起。這篇看的是 2026 年 11 月 1 日官方頁面怎麼寫容量、材質、熱源標示，以及標了給哪一種濾杯用。站長沒有用過這裡列出的壺，不寫味道，也不寫星等。
 
-在壺裡浸泡再壓下去的法壓，是另一種器具，見[法式濾壓壺怎麼挑](/zh-tw/articles/french-press-guide/)。
+在壺裡浸泡再壓下去的法壓，是另一種器具，見[法式濾壓壺怎麼挑](/zh-tw/articles/french-press-guide/)。用爐火把水壓上來的摩卡壺，見[摩卡壺怎麼挑](/zh-tw/articles/moka-pot-guide/)。想改由機器做接近手沖的滴濾，見[BALMUDA The Brew 與 TWINBIRD 全自動怎麼挑](/zh-tw/articles/japanese-premium-coffee-makers/)。手沖前若要按用途分手搖，見[1Zpresso 手搖磨豆機怎麼挑](/zh-tw/articles/1zpresso-hand-grinder-lineup/)。
 
 > **給台灣讀者**：下面的價格是當天官方頁面上的日圓含稅價，不是台灣市價，也不是 Amazon 售價。玻璃的 Range Server 有微波爐標示，沒有明火標示；金屬那款相反，有明火、沒有微波爐。請不要把金屬壺放進微波爐，也不要把沒標明火的玻璃壺放上瓦斯爐。玻璃製品透過 AmazonGlobal 寄到台灣時，不一定每款都能寄；運費與關稅在結帳時顯示，收件人需完成 EZ WAY 實名認證。
 
@@ -97,6 +97,8 @@ Kalita 的常見問題裡，針對該公司耐熱玻璃的一般說明是：耐�
 - [冷泡・戶外咖啡](/zh-tw/articles/cold-brew-outdoor-coffee/)
 - [法式濾壓壺怎麼挑](/zh-tw/articles/french-press-guide/)
 - [摩卡壺怎麼挑](/zh-tw/articles/moka-pot-guide/)
+- [BALMUDA The Brew 與 TWINBIRD 全自動怎麼挑](/zh-tw/articles/japanese-premium-coffee-makers/)
+- [1Zpresso 手搖磨豆機怎麼挑](/zh-tw/articles/1zpresso-hand-grinder-lineup/)
 - [TIMEMORE 栗子 S5 Pro 評測](/zh-tw/articles/timemore-chestnut-s5-pro/)
 - [Epeios Essence Go 評測](/zh-tw/articles/epeios-essence-go/)
 

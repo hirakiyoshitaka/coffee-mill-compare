@@ -95,7 +95,7 @@ date: "2026-10-28"
 - **也想享受外觀**：ORIGAMI、Chemex、The Pot
 - **不想一直補買濾紙**：KINTO SCS
 
-最影響手沖風味的，是現磨的咖啡豆。站長平常使用的是綠色的[栗子 S5 Pro](/zh-tw/articles/timemore-chestnut-s5-pro/)，以手沖為主。想要轉起來輕的磨豆機，也可以看看 [Essence Go](/zh-tw/articles/epeios-essence-go/)。拿鐵派請看[在家做拿鐵・義式濃縮](/zh-tw/articles/home-latte-espresso-machines/)。濾杯底下接咖啡的分享壺，杯數和能不能進微波爐，見[手沖分享壺怎麼挑](/zh-tw/articles/coffee-server-guide/)。在壺裡浸泡再壓下的法壓，見[法式濾壓壺怎麼挑](/zh-tw/articles/french-press-guide/)。
+最影響手沖風味的，是現磨的咖啡豆。站長平常使用的是綠色的[栗子 S5 Pro](/zh-tw/articles/timemore-chestnut-s5-pro/)，以手沖為主。想要轉起來輕的磨豆機，也可以看看 [Essence Go](/zh-tw/articles/epeios-essence-go/)。若要按旅行、手沖、義式把 1Zpresso 分開看，見[1Zpresso 手搖磨豆機怎麼挑](/zh-tw/articles/1zpresso-hand-grinder-lineup/)。想改由機器做接近手沖的滴濾，見[BALMUDA The Brew 與 TWINBIRD 全自動怎麼挑](/zh-tw/articles/japanese-premium-coffee-makers/)。拿鐵派請看[在家做拿鐵・義式濃縮](/zh-tw/articles/home-latte-espresso-machines/)。濾杯底下接咖啡的分享壺，杯數和能不能進微波爐，見[手沖分享壺怎麼挑](/zh-tw/articles/coffee-server-guide/)。在壺裡浸泡再壓下的法壓，見[法式濾壓壺怎麼挑](/zh-tw/articles/french-press-guide/)。用爐火把水壓上來的摩卡壺，見[摩卡壺怎麼挑](/zh-tw/articles/moka-pot-guide/)。
 
 ## 購買管道
 
