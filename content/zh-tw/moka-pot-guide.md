@@ -5,7 +5,7 @@ category: "coffee-maker"
 date: "2026-11-01"
 ---
 
-摩卡壺是把下層鍋爐的水加熱，讓水穿過裝了咖啡粉的粉槽，再升到上壺。這篇不把它寫成和義式咖啡機相同的壓力。Bialetti 的頁面稱它為義式風格；本站對研磨度的整理，是把摩卡壺放在義式濃縮再粗一階，不把它寫成同一種粉。浸泡後把濾網壓下去的泡法，是[法式濾壓壺怎麼挑](/zh-tw/articles/french-press-guide/)。站長沒有用過這裡列出的壺，不寫味道、星等，也不寫日圓售價。
+摩卡壺是把下層鍋爐的水加熱，讓水穿過裝了咖啡粉的粉槽，再升到上壺。這篇不把它寫成和義式咖啡機相同的壓力。Bialetti 的頁面稱它為義式風格；本站對研磨度的整理，是把摩卡壺放在義式濃縮再粗一階，不把它寫成同一種粉。浸泡後把濾網壓下去的泡法，是[法式濾壓壺怎麼挑](/zh-tw/articles/french-press-guide/)。濾杯底下只接咖啡的分享壺，見[手沖分享壺怎麼挑](/zh-tw/articles/coffee-server-guide/)。站長沒有用過這裡列出的壺，不寫味道、星等，也不寫日圓售價。
 
 > **給台灣讀者**：台灣家裡常見的是瓦斯爐，感應爐（IH）不見得每戶都有。Moka Express 的頁面寫瓦斯和電熱爐；感應爐只在搭配 Bialetti 的感應板時才列入。Venus 的頁面寫不需要轉接板，瓦斯、電熱爐、感應爐都可以。杯數不是馬克杯。這些是爐上用具，不是 100V 家電。價格會隨官網的外幣標價變動，這篇不寫售價。Amazon.co.jp 若可透過 AmazonGlobal 寄到台灣，運費與關稅在結帳時顯示，收件人需完成 EZ WAY 實名認證，是否可寄請在結帳頁確認。
 
@@ -15,6 +15,10 @@ date: "2026-11-01"
 - **不想加轉接板就放上感應爐** → Venus。頁面寫 18/10 不鏽鋼，對應瓦斯、電熱爐、感應爐
 - **頁面說明了克麗瑪（crema）結構的型號** → Brikka Induction。美國頁寫 4 杯約 5.4 盎司（咖啡加克麗瑪）
 - **杯數怎麼讀** → 官方提醒那是約 2 盎司的義式濃縮杯，不是馬克杯。有些列並不是「杯數 × 2 盎司」，請看頁面上印的總盎司
+
+瓦斯或電熱爐、先看八角形鋁壺時，從 Moka Express 的搜尋頁對材質和杯數。價格和庫存以商店頁為準。這篇不寫日圓售價。
+
+[在 Amazon.co.jp 搜尋 Bialetti Moka Express](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=%E3%83%93%E3%82%A2%E3%83%AC%E3%83%83%E3%83%86%E3%82%A3+%E3%83%A2%E3%82%AB%E3%82%A8%E3%82%AD%E3%82%B9%E3%83%97%E3%83%AC%E3%82%B9)
 
 ## 一杯不是馬克杯
 
@@ -29,6 +33,14 @@ date: "2026-11-01"
 | Brikka Induction | 頁面寫鋁和鋼的雙層鍋爐。沖洗即可，不必用清潔劑，也不必用洗碗機 | 頁面寫感應爐、瓦斯、電熱爐 | 4 杯約 5.4 盎司（咖啡加克麗瑪） |
 
 同樣寫「6 杯」，Moka Express 的 9.1 盎司和 Venus 的 7.9 盎司是兩張不同的表。不要把杯數抄到另一個系列。日圓定價這篇不寫。官網的外幣標價會變。
+
+表上三個系列的搜尋頁如下。結果會混進其他系列和替換墊圈，請對鋁或不鏽鋼，以及幾杯。
+
+[在 Amazon.co.jp 搜尋 Bialetti Moka Express](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=%E3%83%93%E3%82%A2%E3%83%AC%E3%83%83%E3%83%86%E3%82%A3+%E3%83%A2%E3%82%AB%E3%82%A8%E3%82%AD%E3%82%B9%E3%83%97%E3%83%AC%E3%82%B9)
+
+[在 Amazon.co.jp 搜尋 Bialetti Venus](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=%E3%83%93%E3%82%A2%E3%83%AC%E3%83%83%E3%83%86%E3%82%A3+%E3%83%B4%E3%82%A3%E3%83%BC%E3%83%8A%E3%82%B9)
+
+[在 Amazon.co.jp 搜尋 Bialetti Brikka](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=%E3%83%93%E3%82%A2%E3%83%AC%E3%83%83%E3%83%86%E3%82%A3+%E3%83%96%E3%83%AA%E3%83%83%E3%82%AB)
 
 ## 萃取步驟只轉載官方的注意
 
@@ -81,16 +93,5 @@ Brikka Induction 的美國頁面說明了做出克麗瑪，以及鋁和鋼的雙
 - [Venus（不鏽鋼、感應爐、杯數與盎司）](https://www.bialetti.com/us_en/moka-pot-3-cup-6-cup-italian-stovetop-4.html)
 - [Brikka Induction](https://www.bialetti.com/us_en/brikka-4-cup-induction-moka-pot-rich-espresso-with-crema.html)
 - S5 Pro 的摩卡 1.0–3.0，是[評測](/zh-tw/articles/timemore-chestnut-s5-pro/)從官方轉載的範圍
-
-## 其他文章
-
-- [法式濾壓壺怎麼挑](/zh-tw/articles/french-press-guide/)
-- [在家做拿鐵・義式濃縮](/zh-tw/articles/home-latte-espresso-machines/)
-- [Breville 與 De'Longhi 怎麼挑](/zh-tw/articles/breville-vs-delonghi-all-in-one-espresso/)
-- [1Zpresso 手搖磨豆機怎麼挑](/zh-tw/articles/1zpresso-hand-grinder-lineup/)
-- [BALMUDA The Brew 與 TWINBIRD 全自動怎麼挑](/zh-tw/articles/japanese-premium-coffee-makers/)
-- [手沖分享壺怎麼挑](/zh-tw/articles/coffee-server-guide/)
-- [TIMEMORE 栗子 S5 Pro 評測](/zh-tw/articles/timemore-chestnut-s5-pro/)
-- [Epeios Essence Go 評測](/zh-tw/articles/epeios-essence-go/)
 
 文中的購買連結含廣告（Amazon 聯盟，以及磨豆機與豆子卡片上已設定的連結）。說明見[廣告揭露](/zh-tw/disclosure/)。

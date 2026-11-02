@@ -13,6 +13,16 @@ date: "2026-11-01"
 
 > **給台灣讀者**：三台都是日本國內 AC 100V、50/60Hz。台灣一般是 110V，插頭形狀相近，額定電壓卻不同。The Brew 的標示功率是 1,450W。保固多半只在日本有效，說明書是日文。表上的金額是日本參考價（日圓，含日本消費稅的項目會註明），不是台灣市價，也不是當下的 Amazon 成交價。若商品頁標示可透過 AmazonGlobal 寄送，運費與關稅在結帳時顯示，收件人需完成 EZ WAY 實名認證。能不能寄、在台灣使用算不算保固，請在商品頁確認。這篇不把 100V 機種寫成可以直接插上 110V。
 
+## 先看結論
+
+- **想看著它沖，豆子用別的磨豆機** → BALMUDA The Brew。熱水以 0.2mL 為單位落下，悶蒸、萃取、收尾的溫度分開控制。家裡已經有手搖磨豆機的人，用的是現磨的粉
+- **放進豆子、等到杯子滿就好** → TWINBIRD。研磨、悶蒸、注水都在機器裡
+- **人數多看 CM-D465B，一兩人看 CM-D457B** → 差在容量和高度（42.5cm 與 36cm）。磨豆、水溫、粗細檔位是同一套
+
+站長沒有用過這三台。上面是後文購買者評價的短結。想看著它沖的人，先開 The Brew 的商品頁。價格和庫存以商店頁為準。
+
+[在 Amazon.co.jp 查看 BALMUDA The Brew](https://www.amazon.co.jp/dp/B09DY6CDHZ?tag=stocknotelife-22)
+
 ## 三台對照
 
 | 機種 | 類型 | 磨豆 | 容量 | 水溫 | 參考價格（日本・2026 年 11 月 1 日） |
@@ -23,11 +33,13 @@ date: "2026-11-01"
 
 出處：[價格.com（The Brew）](https://kakaku.com/item/K0001382816/)、[價格.com（CM-D465B）](https://kakaku.com/item/K0001203222/)、[價格.com（CM-D457B）](https://kakaku.com/item/K0001097505/)、[TWINBIRD 官方商店](https://store.twinbird.jp/products/cmd457)，以及 Amazon.co.jp 的商品頁。官方商店與「實售」不是同一種標價，請分開看。
 
-## 先看結論
+三台的商品頁如下。價格和庫存以商店頁為準。官方商店不是廣告。
 
-- **想看著它沖，豆子用別的磨豆機** → BALMUDA The Brew。熱水以 0.2mL 為單位落下，悶蒸、萃取、收尾的溫度分開控制。官方把這套叫 Clear Brewing Method。家裡已經有手搖磨豆機的人，用的是現磨的粉
-- **放進豆子、等到杯子滿就好** → TWINBIRD。研磨、悶蒸、注水都在機器裡
-- **人數多看 CM-D465B，一兩人看 CM-D457B** → 差在容量和高度（42.5cm 與 36cm）。磨豆、水溫、粗細檔位是同一套
+[在 Amazon.co.jp 查看 BALMUDA The Brew](https://www.amazon.co.jp/dp/B09DY6CDHZ?tag=stocknotelife-22)
+
+[在 Amazon.co.jp 查看 TWINBIRD CM-D465B](https://www.amazon.co.jp/dp/B081SWNSGW?tag=stocknotelife-22)
+
+[在 Amazon.co.jp 查看 TWINBIRD CM-D457B](https://www.amazon.co.jp/dp/B07HFP6H3L?tag=stocknotelife-22)
 
 ## BALMUDA The Brew：擺在檯面上的細注水
 
@@ -71,15 +83,5 @@ TWINBIRD 在新潟燕三條。這台用低速平刀，減少摩擦熱；蓮蓬�
 - 同一種做法，一兩人、機身矮一些：**TWINBIRD CM-D457B**
 
 想自己手沖、再挑濾杯底下的壺，見[讓手沖再升級的器具](/zh-tw/articles/hand-drip-upgrade-gear/)和[手沖分享壺怎麼挑](/zh-tw/articles/coffee-server-guide/)。拿鐵和內建磨豆的義式咖啡機是另一類，見[在家做拿鐵・義式濃縮](/zh-tw/articles/home-latte-espresso-machines/)與[Breville 與 De'Longhi 怎麼挑](/zh-tw/articles/breville-vs-delonghi-all-in-one-espresso/)。
-
-## 其他文章
-
-- [法式濾壓壺怎麼挑](/zh-tw/articles/french-press-guide/)
-- [摩卡壺怎麼挑](/zh-tw/articles/moka-pot-guide/)
-- [手沖分享壺怎麼挑](/zh-tw/articles/coffee-server-guide/)
-- [1Zpresso 手搖磨豆機怎麼挑](/zh-tw/articles/1zpresso-hand-grinder-lineup/)
-- [Breville 與 De'Longhi 怎麼挑](/zh-tw/articles/breville-vs-delonghi-all-in-one-espresso/)
-- [TIMEMORE 栗子 S5 Pro 評測](/zh-tw/articles/timemore-chestnut-s5-pro/)
-- [Epeios Essence Go 評測](/zh-tw/articles/epeios-essence-go/)
 
 文中的 Amazon 連結含廣告（聯盟標籤 stocknotelife-22）。廠商官方網站不是廣告。說明見[廣告揭露](/zh-tw/disclosure/)。

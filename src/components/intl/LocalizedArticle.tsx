@@ -8,14 +8,17 @@ import { getSiteUrl, siteConfig, localizedSiteName } from "@/data/site";
 import { LanguageSwitcher } from "@/components/intl/LanguageSwitcher";
 import { chromeDict } from "@/lib/i18n";
 import { articleLanguageAlternates, articleLocalePaths, getLocalizedArticle, getLocalizedArticles, hreflangOf, type TranslationLocale } from "@/lib/articles";
+import { getNextReads } from "@/lib/next-read";
 
-const ui: Record<TranslationLocale, { og: string; home: string; pr: string; disclosure: string; others: string; share: string }> = {
+const ui: Record<TranslationLocale, { og: string; home: string; pr: string; disclosure: string; next: string; nextNote: string; others: string; share: string }> = {
   "zh-tw": {
     og: "zh_TW",
     home: "日本語版",
     pr: "廣告（PR）",
     disclosure:
       "本文含廣告與聯盟行銷連結。本站為 Amazon 日本的聯盟會員，透過合格銷售取得收入。經由連結購買時，本站可能獲得報酬。推薦順序不以報酬高低決定，價格僅供參考。",
+    next: "接著讀",
+    nextNote: "看完這篇，下一篇可以從這裡選。",
     others: "其他文章",
     share: "分享這篇文章",
   },
@@ -25,6 +28,8 @@ const ui: Record<TranslationLocale, { og: string; home: string; pr: string; disc
     pr: "廣告（PR）",
     disclosure:
       "本文含廣告及聯盟推廣連結。本站為 Amazon 日本的聯盟會員，透過合資格銷售賺取收入。經連結購買時，本站或會獲得報酬。推薦次序不以報酬高低決定，文中價格為日本市場價格，僅供參考。",
+    next: "接著讀",
+    nextNote: "看完這篇，下一篇可以從這裡選。",
     others: "其他文章",
     share: "分享這篇文章",
   },
@@ -34,6 +39,8 @@ const ui: Record<TranslationLocale, { og: string; home: string; pr: string; disc
     pr: "广告（PR）",
     disclosure:
       "本文含广告和联盟营销链接。本站是亚马逊日本（Amazon.co.jp）联盟会员，通过合格销售获得收入。经由链接购买时，本站可能获得报酬。推荐顺序不按报酬高低决定，文中价格为参考价。",
+    next: "接着读",
+    nextNote: "看完这篇，下一篇可以从这里选。",
     others: "其他文章",
     share: "分享这篇文章",
   },
@@ -43,6 +50,8 @@ const ui: Record<TranslationLocale, { og: string; home: string; pr: string; disc
     pr: "광고(PR)",
     disclosure:
       "이 글에는 광고·제휴 마케팅 링크가 포함되어 있습니다. 이 사이트는 아마존 재팬 어소시에이트로서 적격 판매를 통해 수익을 얻습니다. 링크를 통해 구매하면 사이트가 수수료를 받을 수 있습니다. 소개 순서는 수수료와 무관하며, 가격은 참고용입니다.",
+    next: "이어서 읽기",
+    nextNote: "이 글 다음에 볼 글입니다.",
     others: "다른 글",
     share: "이 글 공유하기",
   },
@@ -52,6 +61,8 @@ const ui: Record<TranslationLocale, { og: string; home: string; pr: string; disc
     pr: "Quảng cáo (PR)",
     disclosure:
       "Bài này có quảng cáo và liên kết tiếp thị liên kết. Trang là thành viên Amazon Associates (Amazon.co.jp) và có thể nhận hoa hồng khi bạn mua qua một số liên kết, không thêm chi phí cho bạn. Thứ tự giới thiệu không theo mức hoa hồng. Giá chỉ để tham khảo.",
+    next: "Đọc tiếp",
+    nextNote: "Các bài cùng chủ đề trên trang này.",
     others: "Bài khác",
     share: "Chia sẻ bài này",
   },
@@ -61,6 +72,8 @@ const ui: Record<TranslationLocale, { og: string; home: string; pr: string; disc
     pr: "โฆษณา (PR)",
     disclosure:
       "บทความนี้มีโฆษณาและลิงก์พันธมิตร เว็บไซต์นี้เป็นสมาชิก Amazon Associates ของ Amazon.co.jp และได้รับรายได้จากการขายที่มีคุณสมบัติ หากซื้อผ่านลิงก์ เว็บไซต์อาจได้รับค่าคอมมิชชัน ลำดับที่แนะนำไม่ได้เรียงตามค่าคอมมิชชัน และราคาเป็นเพียงตัวเลขอ้างอิง",
+    next: "อ่านต่อ",
+    nextNote: "บทความถัดไปบนเว็บไซต์นี้",
     others: "บทความอื่น",
     share: "แชร์บทความนี้",  },
   en: {
@@ -69,6 +82,8 @@ const ui: Record<TranslationLocale, { og: string; home: string; pr: string; disc
     pr: "Advertising disclosure",
     disclosure:
       "This article contains ads and affiliate links. As an Amazon Associate (Amazon.co.jp), we earn from qualifying purchases, and we may earn a commission when you buy through some links at no extra cost to you. Rankings are not based on commission rates, and prices are for reference only.",
+    next: "Read next",
+    nextNote: "If you are still choosing, these pages are the next stop.",
     others: "More articles",
     share: "Share this article",
   },
@@ -107,7 +122,9 @@ export function LocalizedArticle({ locale, slug }: { locale: TranslationLocale; 
   const article = getLocalizedArticle(locale, slug);
   if (!article) notFound();
   const t = ui[locale];
-  const related = getLocalizedArticles(locale).filter((a) => a.slug !== slug);
+  const nextReads = getNextReads(locale, slug);
+  const nextSlugs = new Set(nextReads.map((item) => item.slug));
+  const related = getLocalizedArticles(locale).filter((a) => a.slug !== slug && !nextSlugs.has(a.slug));
   const jsonLd = {
     "@context": "https://schema.org",
     "@type": "Article",
@@ -143,6 +160,20 @@ export function LocalizedArticle({ locale, slug }: { locale: TranslationLocale; 
           reviewHref={(s) => (s !== slug && getLocalizedArticle(locale, s) ? `/${locale}/articles/${s}/` : undefined)}
         />
       </div>
+      {nextReads.length > 0 ? (
+        <aside className="next-read" aria-label={t.next}>
+          <h2>{t.next}</h2>
+          <p className="fine">{t.nextNote}</p>
+          <ol>
+            {nextReads.map((item) => (
+              <li key={item.slug}>
+                <Link href={`/${locale}/articles/${item.slug}/`}>{item.title}</Link>
+                <p>{item.description}</p>
+              </li>
+            ))}
+          </ol>
+        </aside>
+      ) : null}
       <aside className="mt-14 border-t border-[var(--border-subtle)] pt-8">
         {related.length > 0 ? (
           <>

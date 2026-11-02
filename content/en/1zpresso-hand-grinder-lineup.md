@@ -21,6 +21,12 @@ If the grinder is going to live at home for daily pour-over, the one this site s
 
 The official chooser still lists the J, JX-Pro S, JE-Plus, and X-Pro S, and it includes a click chart. This page stays with the five lines whose jobs are easiest to tell apart.
 
+If the grinder lives at home for pour-over, this site still points to the Chestnut S5 Pro first. For a lighter bag, start with the Q2 search and match the model name. Check the current price and stock on the store page.
+
+[Search for the Timemore Chestnut S5 Pro on Amazon.co.jp](https://www.amazon.co.jp/s?k=TIMEMORE+Chestnut+S5+Pro&tag=stocknotelife-22)
+
+[Search for the 1Zpresso Q2 on Amazon.co.jp](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=1Zpresso+Q2)
+
 ## Numbers from the official pages
 
 | Model | The job 1Zpresso assigns | Adjustment | Capacity | Weight |
@@ -33,6 +39,18 @@ The official chooser still lists the J, JX-Pro S, JE-Plus, and X-Pro S, and it i
 | J-Ultra | Espresso. The finest click step in the 1Zpresso range | External. 8 microns per click. Coated 48mm burr | 35–40g | 670g |
 
 Sources are at the end of the page. The Q Series travel copy says "465g." On the same page, the table assigns 465g to the Q2 S, 480g to the Q, and 365g to the Q Air. Use the table. The maker also says the Q and the Q Air use a newer heptagonal burr, described as easier to turn, and that this burr is not the one in the Q2 S.
+
+Search pages for the models in the table. Results mix in other model numbers, so match the name before you order. Check the current price and stock on the store page.
+
+[Search for the 1Zpresso Q2 on Amazon.co.jp](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=1Zpresso+Q2)
+
+[Search for the 1Zpresso X-Ultra on Amazon.co.jp](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=1Zpresso+X-Ultra)
+
+[Search for the 1Zpresso ZP6 on Amazon.co.jp](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=1Zpresso+ZP6)
+
+[Search for the 1Zpresso K-Ultra on Amazon.co.jp](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=1Zpresso+K-Ultra)
+
+[Search for the 1Zpresso J-Ultra on Amazon.co.jp](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=1Zpresso+J-Ultra)
 
 ## Who each one is for
 
@@ -48,7 +66,7 @@ The X-Ultra weighs 590g, holds 25–30g, and has a folding handle and a magnetic
 
 ### Fewer fines in a pour-over: ZP6 Special
 
-The ZP6 Special uses a 48mm hexagonal stainless burr. The official description says it produces fewer fines than 1Zpresso's other grinders. Each click is 22 microns, a wider step than the K-Ultra or the J-Ultra, so the grinder sits close to a drip tool. Weight is 700g. The product page says Carlos Medina used one at the 2023 World Brewers Cup. We have not checked that competition record.
+The ZP6 Special uses a 48mm hexagonal stainless burr. The official description says it produces fewer fines than 1Zpresso's other grinders. Each click is 22 microns, a wider step than the K-Ultra or the J-Ultra, so the grinder sits close to a drip tool. Weight is 700g. The product page says Carlos Medina used one at the 2023 World Brewers Cup. We have not checked that competition record. A first V60 cup is the [beginner pour-over recipe](/en/articles/beginner-hand-drip-recipe/). A [coffee scale](/en/articles/coffee-scale-guide/) is what makes a saved dose repeatable.
 
 ### One grinder across brew methods: K-Ultra
 
@@ -56,7 +74,7 @@ The K-Ultra is the model 1Zpresso places in the all-methods slot. The external d
 
 ### Espresso clicks: J-Ultra
 
-The J-Ultra is the 8-micron step that 1Zpresso calls the finest in its range. The burr is a coated 48mm, and the maker describes the grinder as built for espresso. Weight is 670g, capacity is 35–40g, and the catch cup is magnetic. A finer click does not remove the work of grinding espresso by hand every morning. If that is the plan, read [how to choose an electric coffee grinder](/en/articles/electric-coffee-grinder-guide/) and [hand vs electric grinders](/en/articles/hand-vs-electric-coffee-mill/). The only hand grinder whose official espresso range this site has checked is the [Chestnut S5 Pro](/en/articles/timemore-chestnut-s5-pro/). This article does not copy a recommended J-Ultra click number.
+The J-Ultra is the 8-micron step that 1Zpresso calls the finest in its range. The burr is a coated 48mm, and the maker describes the grinder as built for espresso. Weight is 670g, capacity is 35–40g, and the catch cup is magnetic. A finer click does not remove the work of grinding espresso by hand every morning. If that is the plan, read [how to choose an electric coffee grinder](/en/articles/electric-coffee-grinder-guide/) and [hand vs electric grinders](/en/articles/hand-vs-electric-coffee-mill/). A machine that grinds and brews the shot is a different purchase: [Breville vs De'Longhi all-in-one espresso machines](/en/articles/breville-vs-delonghi-all-in-one-espresso/) and [Best all-in-one espresso machines of 2026](/en/articles/best-all-in-one-espresso-machines-2026/). The only hand grinder whose official espresso range this site has checked is the [Chestnut S5 Pro](/en/articles/timemore-chestnut-s5-pro/). This article does not copy a recommended J-Ultra click number.
 
 ## A click number does not travel to another grinder
 
@@ -64,7 +82,7 @@ The J-Ultra is the 8-micron step that 1Zpresso calls the finest in its range. Th
 
 ## The hand grinders this site recommends first
 
-1Zpresso is not in this site's order of picks. Those roles stay as they are: the Chestnut S5 Pro when you want a pour-over setting that lives on the counter, and the [EPEIOS Essence Go](/en/articles/epeios-essence-go/) when you want light turning or a grinder you can take apart and carry. The side-by-side is [Timemore S5 Pro vs EPEIOS Essence Go](/en/articles/timemore-s5-pro-vs-essence-go/). The four things to check on a first grinder — burr size, adjustment, weight, and where it lives — are in [how to choose your first hand grinder](/en/articles/how-to-choose-hand-coffee-mill/).
+1Zpresso is not in this site's order of picks. Those roles stay as they are: the Chestnut S5 Pro when you want a pour-over setting that lives on the counter, and the [EPEIOS Essence Go](/en/articles/epeios-essence-go/) when you want light turning or a grinder you can take apart and carry. The side-by-side is [Timemore S5 Pro vs EPEIOS Essence Go](/en/articles/timemore-s5-pro-vs-essence-go/). The four things to check on a first grinder — burr size, adjustment, weight, and where it lives — are in [how to choose your first hand grinder](/en/articles/how-to-choose-hand-coffee-mill/). A drip machine that does not grind, such as BALMUDA The Brew, still needs grounds from somewhere. See [Japanese premium coffee makers](/en/articles/japanese-premium-coffee-makers/). We have not used those machines.
 
 For a German click grinder set next to the S5 Pro, read [Comandante C40 vs Timemore Chestnut S5 Pro](/en/articles/comandante-c40-vs-timemore/).
 
@@ -105,16 +123,5 @@ Official pages opened on October 31, 2026.
 - [ZP6 Special](https://1zpresso.coffee/product/zp6-special/)
 - [K-Ultra](https://1zpresso.coffee/product/kultra/)
 - [J-Ultra](https://1zpresso.coffee/j-ultra/)
-
-## Read next
-
-- [How to choose your first hand grinder](/en/articles/how-to-choose-hand-coffee-mill/)
-- [Coffee grind size guide](/en/articles/coffee-grind-size-guide/)
-- [Comandante C40 vs Timemore Chestnut S5 Pro](/en/articles/comandante-c40-vs-timemore/)
-- [Timemore Chestnut S5 Pro review](/en/articles/timemore-chestnut-s5-pro/)
-- [EPEIOS Essence Go review](/en/articles/epeios-essence-go/)
-- [Timemore S5 Pro vs EPEIOS Essence Go](/en/articles/timemore-s5-pro-vs-essence-go/)
-- [Hand vs electric coffee grinders](/en/articles/hand-vs-electric-coffee-mill/)
-- [How to choose an electric coffee grinder](/en/articles/electric-coffee-grinder-guide/)
 
 Some links on this page are ads (the Amazon Associate links above, and the purchase links already set on the grinder cards). See our [disclosure](/en/disclosure/) for details.

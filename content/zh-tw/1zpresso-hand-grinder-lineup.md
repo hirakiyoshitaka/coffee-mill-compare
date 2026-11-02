@@ -23,6 +23,12 @@ date: "2026-10-31"
 
 官方的選購頁還留著 J、JX-Pro S、JE-Plus、X-Pro S，點擊表也在那一頁。這篇只留角色比較分得開的五條。
 
+若磨豆機固定放在家裡手沖，本站仍先指栗子 S5 Pro。行李要輕、先看 Q 系列時，從 Q2 的搜尋頁對型號。價格和庫存以商店頁為準。
+
+[在 Amazon.co.jp 查看 TIMEMORE 栗子 S5 Pro](https://www.amazon.co.jp/dp/B0HF4LXCCY?tag=stocknotelife-22)
+
+[在 Amazon.co.jp 搜尋 1Zpresso Q2](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=1Zpresso+Q2)
+
 ## 官方頁面的數字
 
 | 機種 | 官方放的角色 | 調整 | 容量 | 重量 |
@@ -36,13 +42,25 @@ date: "2026-10-31"
 
 出處在文末。Q 系列的旅行文案寫「465g」。同一頁的表把 465g 放在 Q2 S、Q 是 480g、Q Air 是 365g。請用表。官方也寫 Q 和 Q Air 用的是較新、比較好轉的七角刀，和 Q2 S 不是同一支。
 
+表上各型的搜尋頁。結果會混進其他型號，請對商品名稱。價格和庫存以商店頁為準。
+
+[在 Amazon.co.jp 搜尋 1Zpresso Q2](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=1Zpresso+Q2)
+
+[在 Amazon.co.jp 搜尋 1Zpresso X-Ultra](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=1Zpresso+X-Ultra)
+
+[在 Amazon.co.jp 搜尋 1Zpresso ZP6](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=1Zpresso+ZP6)
+
+[在 Amazon.co.jp 搜尋 1Zpresso K-Ultra](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=1Zpresso+K-Ultra)
+
+[在 Amazon.co.jp 搜尋 1Zpresso J-Ultra](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=1Zpresso+J-Ultra)
+
 ## 誰先看哪一台
 
 ### 要帶出門：Q
 
 官方把 Q 系列寫成全系列裡最小、最輕的一條。容量 15–20g，適合一杯或兩人份的手沖。刻度在裡面調，不是外面看得到的旋鈕。
 
-需要可折搖柄就選 Q2 S（465g）。克數優先就選 Q Air（365g），這支搖柄不折。官方的表寫 Q Air 的本體和接粉杯是塑膠。
+需要可折搖柄就選 Q2 S（465g）。克數優先就選 Q Air（365g），這支搖柄不折。官方的表寫 Q Air 的本體和接粉杯是塑膠。若出門改泡冷泡、不現磨，見[冷泡・戶外咖啡](/zh-tw/articles/cold-brew-outdoor-coffee/)。
 
 ### 刀盤小一號、家裡或袋子裡都可以：X-Ultra
 
@@ -107,16 +125,5 @@ J-Ultra 是官方稱為「1Zpresso 最細」的 8 微米一格。刀盤是有塗
 - [ZP6 Special](https://1zpresso.coffee/product/zp6-special/)
 - [K-Ultra](https://1zpresso.coffee/product/kultra/)
 - [J-Ultra](https://1zpresso.coffee/j-ultra/)
-
-## 其他文章
-
-- [TIMEMORE 栗子 S5 Pro 評測](/zh-tw/articles/timemore-chestnut-s5-pro/)
-- [Epeios Essence Go 評測](/zh-tw/articles/epeios-essence-go/)
-- [法式濾壓壺怎麼挑](/zh-tw/articles/french-press-guide/)
-- [摩卡壺怎麼挑](/zh-tw/articles/moka-pot-guide/)
-- [手沖分享壺怎麼挑](/zh-tw/articles/coffee-server-guide/)
-- [BALMUDA The Brew 與 TWINBIRD 全自動怎麼挑](/zh-tw/articles/japanese-premium-coffee-makers/)
-- [Breville 與 De'Longhi 怎麼挑](/zh-tw/articles/breville-vs-delonghi-all-in-one-espresso/)
-- [讓手沖再升級的器具](/zh-tw/articles/hand-drip-upgrade-gear/)
 
 文中的購買連結含廣告（Amazon 聯盟，以及磨豆機與豆子卡片上已設定的連結）。說明見[廣告揭露](/zh-tw/disclosure/)。

@@ -18,6 +18,10 @@ date: "2026-11-01"
 - **官方寫了時間和水溫的大容量玻璃壺** → BODUM Chambord。這篇打開的型號容量是 34 盎司
 - **研磨度** → 粗研磨。本站確認到官方法壓範圍的手搖磨豆機，只有[栗子 S5 Pro](/zh-tw/articles/timemore-chestnut-s5-pro/)，建議刻度是 8.0–9.0
 
+上面先看的是一兩人份的 Cafe Press U。價格和庫存請在商店頁確認。
+
+[在 Amazon.co.jp 搜尋 HARIO Cafe Press U](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=HARIO+%E3%82%AB%E3%83%95%E3%82%A7%E3%83%97%E3%83%AC%E3%82%B9)
+
 ## 官方頁面的數字
 
 HARIO 兩款的重量都是「含外盒」，不是壺身本身的克數。建議零售價是含稅的廠商標價，不是 Amazon 賣多少。BODUM 那一頁標的是美元，所以這篇不寫日圓售價。
@@ -31,6 +35,14 @@ HARIO 兩款的重量都是「含外盒」，不是壺身本身的克數。建�
 | BODUM Chambord（1928-16US4） | 34 盎司。頁面寫 1 杯約 4 盎司 | 硼矽玻璃、不鏽鋼框架與蓋、聚丙烯握把 | 頁面上的步驟是水溫 92–96℃、4 分鐘。Shatter Proof 是 No | 這篇不寫 |
 
 出處在文末。有沒有標示，是照那一頁的使用區分；只把有標成可用的項目寫成「有標示」。
+
+表上三個系列的搜尋頁如下。結果會混進其他容量，請對型號。價格和庫存以商店頁為準。
+
+[在 Amazon.co.jp 搜尋 HARIO Cafe Press U](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=HARIO+%E3%82%AB%E3%83%95%E3%82%A7%E3%83%97%E3%83%AC%E3%82%B9)
+
+[在 Amazon.co.jp 搜尋 HARIO Harior 7](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=%E3%83%8F%E3%83%AA%E3%82%AA%E3%83%BC%E3%83%AB)
+
+[在 Amazon.co.jp 搜尋 BODUM Chambord](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=BODUM+CHAMBORD)
 
 ## 哪一款先看
 
@@ -74,7 +86,7 @@ Chambord 是 BODUM 放在法式濾壓玻璃壺系列的產品。2026 年 11 月 
 
 {{grinder:epeios-essence-go}}
 
-法壓的金屬濾網裝在器具上，和另外買濾紙是兩件事。按鈕式的滴濾咖啡機是另一類，見[BALMUDA The Brew 與 TWINBIRD 全自動怎麼挑](/zh-tw/articles/japanese-premium-coffee-makers/)。內建磨豆的義式咖啡機見[Breville 與 De'Longhi 怎麼挑](/zh-tw/articles/breville-vs-delonghi-all-in-one-espresso/)。
+法壓的金屬濾網裝在器具上，和另外買濾紙是兩件事。手沖用的細口壺和電子秤，見[讓手沖再升級的器具](/zh-tw/articles/hand-drip-upgrade-gear/)。按鈕式的滴濾咖啡機是另一類，見[BALMUDA The Brew 與 TWINBIRD 全自動怎麼挑](/zh-tw/articles/japanese-premium-coffee-makers/)。內建磨豆的義式咖啡機見[Breville 與 De'Longhi 怎麼挑](/zh-tw/articles/breville-vs-delonghi-all-in-one-espresso/)。膠囊、小型半自動和另一台全自動，見[在家做拿鐵・義式濃縮](/zh-tw/articles/home-latte-espresso-machines/)。
 
 ## 豆子
 
@@ -90,16 +102,5 @@ Chambord 是 BODUM 放在法式濾壓玻璃壺系列的產品。2026 年 11 月 
 - [HARIO Harior 7](https://www.hario.com/product/coffee/coffeepress/THSV.html)
 - [BODUM Chambord（型號 1928-16US4）](https://www.bodum.com/us/en/1928-16us4-chambord)
 - S5 Pro 的法壓 8.0–9.0，是[評測](/zh-tw/articles/timemore-chestnut-s5-pro/)從官方轉載的範圍
-
-## 其他文章
-
-- [摩卡壺怎麼挑](/zh-tw/articles/moka-pot-guide/)
-- [手沖分享壺怎麼挑](/zh-tw/articles/coffee-server-guide/)
-- [1Zpresso 手搖磨豆機怎麼挑](/zh-tw/articles/1zpresso-hand-grinder-lineup/)
-- [BALMUDA The Brew 與 TWINBIRD 全自動怎麼挑](/zh-tw/articles/japanese-premium-coffee-makers/)
-- [Breville 與 De'Longhi 怎麼挑](/zh-tw/articles/breville-vs-delonghi-all-in-one-espresso/)
-- [讓手沖再升級的器具](/zh-tw/articles/hand-drip-upgrade-gear/)
-- [TIMEMORE 栗子 S5 Pro 評測](/zh-tw/articles/timemore-chestnut-s5-pro/)
-- [Epeios Essence Go 評測](/zh-tw/articles/epeios-essence-go/)
 
 文中的購買連結含廣告（Amazon 聯盟，以及磨豆機與豆子卡片上已設定的連結）。說明見[廣告揭露](/zh-tw/disclosure/)。
