@@ -68,7 +68,7 @@ date: "2026-10-27"
 
 - [Amazon.co.jp에서 타임모어 S5 프로 보기](https://www.amazon.co.jp/s?k=TIMEMORE+S5+Pro&tag=stocknotelife-22)
 
-여유 있는 아침을 위한 세 대는 [핸드밀 베스트 3](/ko/articles/luxury-relaxed-coffee-mill-best3/)입니다. C40과 K-Ultra는 리뷰 정리이고, 쓰지 않았습니다.
+여유 있는 아침을 위한 세 대는 [핸드밀 베스트 3](/ko/articles/luxury-relaxed-coffee-mill-best3/)입니다. 3위 코만단테 C40은 리뷰 정리이고, 쓰지 않았습니다.
 
 ## 광고 고지
 

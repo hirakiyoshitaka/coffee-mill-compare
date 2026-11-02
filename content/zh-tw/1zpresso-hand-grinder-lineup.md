@@ -126,6 +126,6 @@ J-Ultra 是官方稱為「1Zpresso 最細」的 8 微米一格。刀盤是有塗
 - [K-Ultra](https://1zpresso.coffee/product/kultra/)
 - [J-Ultra](https://1zpresso.coffee/j-ultra/)
 
-悠閒早晨的三台見[手搖磨豆機最佳3台](/zh-tw/articles/luxury-relaxed-coffee-mill-best3/)。K-Ultra 在那篇是評測整理，沒用過。
+悠閒早晨的三台見[手搖磨豆機最佳3台](/zh-tw/articles/luxury-relaxed-coffee-mill-best3/)。那篇的第3名是 Comandante C40，屬評測整理。K-Ultra 只在「也可以看看」裡出現，沒用過。
 
 文中的購買連結含廣告（Amazon 聯盟，以及磨豆機與豆子卡片上已設定的連結）。說明見[廣告揭露](/zh-tw/disclosure/)。

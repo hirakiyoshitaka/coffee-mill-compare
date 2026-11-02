@@ -1,17 +1,17 @@
 ---
 title: "Three Hand Grinders for a Slow, Luxurious Coffee"
-description: "Three premium-feeling hand grinders for an unhurried morning. I use the Timemore Chestnut S5 Pro. The Comandante C40 and the 1Zpresso K-Ultra are review summaries, not notes from use. Prices are approximate."
+description: "Three premium-feeling hand grinders for an unhurried morning. First is the Timemore Chestnut S5 Pro, second is the EPEIOS Essence Go. I use both. Third is the Comandante C40, a review summary, not a note from use. Prices are approximate."
 category: "mill"
 date: "2026-11-02"
 ---
 
-These three are for a morning you do not want to rush, with a hand grinder that feels a little more special. I look at design and a premium feel. I have used only one of them. The other two are short summaries of what the makers publish. They are not notes from my hands.
+These three are for a morning you do not want to rush, with a hand grinder that feels a little more special. I look at design and a premium feel. I use the first two. Only the third is a short summary of what the maker publishes, not a note from my hands.
 
 1. Timemore Chestnut S5 Pro. This is the one on my counter in the morning
-2. Comandante C40 MK4. A review summary. I have not used it
-3. 1Zpresso K-Ultra. A review summary. I have not used it
+2. EPEIOS Essence Go. The other one I own. The one line I can write is that it just spins so easily
+3. Comandante C40 MK4. A review summary. I have not used it
 
-This is not a scored taste ranking. Prices are approximate. If you want the other grinder I own, the one that turns with very little effort, that is the [EPEIOS Essence Go](/en/articles/epeios-essence-go/). It is not in these three.
+This is not a scored taste ranking. Prices are approximate.
 
 ## 1. Timemore Chestnut S5 Pro
 
@@ -36,7 +36,19 @@ If you want that unhurried morning to start with this kind of coffee time, look 
 
 [Search for the Timemore Chestnut S5 Pro on Amazon.co.jp](https://www.amazon.co.jp/s?k=TIMEMORE+Chestnut+S5+Pro&tag=stocknotelife-22)
 
-## 2. Comandante C40 MK4 — review summary
+## 2. EPEIOS Essence Go
+
+Second is the other grinder I own, the EPEIOS Essence Go.
+
+The only impression I can write is one line. It just spins so easily. The lightness of the handle when you start grinding is the difference from the S5 Pro.
+
+Coming apart into a dedicated case is the maker's description. The longer pages are the [Essence Go review](/en/articles/epeios-essence-go/) and [Timemore S5 Pro vs EPEIOS Essence Go](/en/articles/timemore-s5-pro-vs-essence-go/).
+
+{{grinder:epeios-essence-go}}
+
+[Search for the EPEIOS Essence Go on Amazon.co.jp](https://www.amazon.co.jp/s?k=EPEIOS+Essence+Go+grinder&tag=stocknotelife-22)
+
+## 3. Comandante C40 MK4 — review summary
 
 I have not used a Comandante C40. I am not writing how it turns, or how it feels in the hand. It is on this list for design and a premium feel, so this section only repeats what this site already took from the official pages opened on October 31, 2026.
 
@@ -52,22 +64,11 @@ The longer comparison is [Comandante C40 vs Timemore Chestnut S5 Pro](/en/articl
 
 Search results mix in other model numbers. Check that the title says MK4 and Nitro Blade.
 
-## 3. 1Zpresso K-Ultra — review summary
+## Also consider
 
-I have not used a 1Zpresso either. There is no note from turning a K-Ultra. This is a review summary. The figures are what the official pages showed on October 31, 2026.
-
-- 1Zpresso places it as the grinder that crosses brew methods
-- Adjustment is external: 100 clicks per turn, 20 microns (0.02mm) per click. The manual says you can keep turning past one full rotation
-- The burr is heptagonal. The product page opened that day did not give the diameter in millimeters
-- Capacity is 35–40g. Weight is 700g
-- Espresso sits inside its range. If you compare click size alone, the J-Ultra's published step is finer
-- This page does not state a yen price, and I have not cupped it against the others
-
-How 1Zpresso splits the range is in the [1Zpresso hand grinder lineup](/en/articles/1zpresso-hand-grinder-lineup/).
+The 1Zpresso K-Ultra is not one of these three. I have not used it. Where the maker places it, as one grinder across brew methods, is in the [1Zpresso hand grinder lineup](/en/articles/1zpresso-hand-grinder-lineup/).
 
 [Search for the 1Zpresso K-Ultra on Amazon.co.jp](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=1Zpresso+K-Ultra)
-
-Search results can mix in other model numbers. Match the model name on the product title. Availability on Amazon.co.jp varies by region.
 
 ## Beans after grinding
 

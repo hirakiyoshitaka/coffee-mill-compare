@@ -1,15 +1,15 @@
 ---
 title: "Ba máy xay tay cho khoảng cà phê thong thả, sang hơn một chút"
-description: "Ba máy xay tay có cảm giác cao cấp cho một buổi sáng không vội. Timemore Chestnut S5 Pro là máy người vận hành đang dùng. Comandante C40 và 1Zpresso K-Ultra chưa dùng, đó là phần tóm tắt. Giá chỉ là mức tham khảo."
+description: "Ba máy xay tay có cảm giác cao cấp cho một buổi sáng không vội. Hạng 1 là Timemore Chestnut S5 Pro, hạng 2 là EPEIOS Essence Go. Người vận hành dùng cả hai. Hạng 3 Comandante C40 chưa dùng, đó là phần tóm tắt. Giá chỉ là mức tham khảo."
 category: "mill"
 date: "2026-11-02"
 ---
 
-Ba máy này dành cho buổi sáng không muốn vội, và muốn một máy xay tay dễ chịu hơn một chút. Điểm nhìn là thiết kế và cảm giác cao cấp. Chỉ một máy là đang dùng. Hai máy còn lại không phải ghi chép khi cầm trên tay, mà là bản tóm tắt ngắn từ phần giải thích của hãng.
+Ba máy này dành cho buổi sáng không muốn vội, và muốn một máy xay tay dễ chịu hơn một chút. Điểm nhìn là thiết kế và cảm giác cao cấp. Đang dùng là hạng 1 và hạng 2. Chỉ hạng 3 không phải ghi chép khi cầm trên tay, mà là bản tóm tắt ngắn từ phần giải thích của hãng.
 
 1. Timemore Chestnut S5 Pro. Máy đặt cho buổi sáng ở nhà
-2. Comandante C40 MK4. Tóm tắt đánh giá. Chưa dùng
-3. 1Zpresso K-Ultra. Tóm tắt đánh giá. Chưa dùng
+2. EPEIOS Essence Go. Máy còn lại mà người vận hành có. Cảm nhận viết được chỉ một câu: quay rất nhẹ
+3. Comandante C40 MK4. Tóm tắt đánh giá. Chưa dùng
 
 Đây không phải bảng xếp hạng nếm và chấm điểm. Giá thay đổi.
 
@@ -36,7 +36,19 @@ Nếu muốn bắt đầu buổi sáng thong thả bằng khoảng thời gian �
 
 [Tìm TIMEMORE S5 Pro trên Amazon.co.jp](https://www.amazon.co.jp/s?k=TIMEMORE+S5+Pro&tag=stocknotelife-22)
 
-## 2. Comandante C40 MK4 — tóm tắt đánh giá
+## 2. EPEIOS Essence Go
+
+Hạng 2 là máy còn lại mà người vận hành có, EPEIOS Essence Go.
+
+Cảm nhận viết được chỉ một câu. Nó quay rất nhẹ. Độ nhẹ của tay cầm lúc bắt đầu xay là chỗ khác với S5 Pro.
+
+Tháo ra rồi cho vào hộp riêng là lời của hãng.
+
+{{grinder:epeios-essence-go}}
+
+[Tìm EPEIOS Essence Go trên Amazon.co.jp](https://www.amazon.co.jp/s?k=EPEIOS+Essence+Go+grinder&tag=stocknotelife-22)
+
+## 3. Comandante C40 MK4 — tóm tắt đánh giá
 
 Chưa dùng Comandante C40. Không viết cảm giác khi quay, cũng không viết độ nặng khi cầm trên tay. Tên này được giữ vì thiết kế và cảm giác cao cấp, nên phần này chỉ tóm tắt những gì trang này đã ghi từ trang chính thức mở ngày 31 tháng 10 năm 2026.
 
@@ -50,22 +62,11 @@ Chưa dùng Comandante C40. Không viết cảm giác khi quay, cũng không vi�
 
 Kết quả tìm trộn mẫu khác. Kiểm tra tên hàng là MK4 Nitro Blade.
 
-## 3. 1Zpresso K-Ultra — tóm tắt đánh giá
+## Cũng có thể xem
 
-Cũng chưa dùng 1Zpresso. Không có ghi chép khi quay K-Ultra. Đây cũng là phần tóm tắt. Số liệu là nội dung trang chính thức ngày 31 tháng 10 năm 2026.
-
-- Hãng đặt nó là máy một chiếc đi qua nhiều cách pha
-- Chỉnh bên ngoài. Một vòng 100 nấc, mỗi nấc 20 micron (0,02mm). Sách hướng dẫn nói có thể quay quá một vòng
-- Lưỡi hình bảy cạnh. Trang sản phẩm hôm đó không ghi đường kính bằng milimet
-- Dung tích 35–40g, nặng 700g
-- Espresso cũng nằm trong phạm vi. Nếu chỉ so độ nhỏ của mỗi nấc, số chính thức của J-Ultra cùng hãng nhỏ hơn
-- Trang này không ghi giá yên, và không có lần nếm đối chiếu
-
-Cách chia dòng nằm ở [cách chọn máy xay tay 1Zpresso](/vi/articles/1zpresso-hand-grinder-lineup/).
+1Zpresso K-Ultra không nằm trong ba máy này. Chưa dùng. Chỗ hãng đặt nó, một máy đi qua nhiều cách pha, nằm ở [cách chọn máy xay tay 1Zpresso](/vi/articles/1zpresso-hand-grinder-lineup/).
 
 [Tìm 1Zpresso K-Ultra trên Amazon.co.jp](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=1Zpresso+K-Ultra)
-
-Kết quả tìm có thể lẫn mẫu khác. Đối chiếu tên mẫu trên tên hàng. Giao hàng từ Amazon.co.jp khác nhau theo khu vực.
 
 ## Hạt sau khi xay
 

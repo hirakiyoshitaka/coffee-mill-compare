@@ -66,7 +66,7 @@ date: "2026-10-27"
 
 日本 Amazon（Amazon.co.jp）部分商品可透過 AmazonGlobal 寄送到台灣，運費與關稅於結帳時顯示，收件人需完成 EZ WAY 實名認證。是否可寄送依商品而定，請在結帳頁確認。
 
-想把悠閒的早晨過得講究一點，見[手搖磨豆機最佳3台](/zh-tw/articles/luxury-relaxed-coffee-mill-best3/)。C40 與 K-Ultra 是評測整理，沒用過。
+想把悠閒的早晨過得講究一點，見[手搖磨豆機最佳3台](/zh-tw/articles/luxury-relaxed-coffee-mill-best3/)。第3名 Comandante C40 是評測整理，沒用過。
 
 ## 廣告揭露
 

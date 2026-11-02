@@ -68,7 +68,7 @@ date: "2026-10-27"
 
 - [在 Amazon.co.jp 查看 TIMEMORE 栗子 S5 Pro](https://www.amazon.co.jp/s?k=TIMEMORE+S5+Pro&tag=stocknotelife-22)
 
-想把悠閒的早晨過得講究一點，見[手磨咖啡磨豆機三台](/zh-hk/articles/luxury-relaxed-coffee-mill-best3/)。C40 與 K-Ultra 是評測整理，沒用過。
+想把悠閒的早晨過得講究一點，見[手磨咖啡磨豆機三台](/zh-hk/articles/luxury-relaxed-coffee-mill-best3/)。第3名 Comandante C40 是評測整理，沒用過。
 
 ## 廣告揭露
 
