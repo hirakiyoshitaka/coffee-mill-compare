@@ -16,7 +16,7 @@ export type ArticlePick = {
 };
 
 const PRODUCT_TOKEN =
-  /S5|Essence|V60|HARIO|ハリオ|カリタ|Kalita|Timemore|TIMEMORE|タイムモア|エペイオス|EPEIOS|栗子|Chestnut|デロンギ|ネスプレッソ|ヴァーチュオ|エアロチーノ|マグニフィカ|デディカ|Audible|KINTO|丸山|Fellow|Atmos|Stagg|BALMUDA|ORIGAMI|Chemex|AeroPress|Vertuo|Dedica|Magnifica|Aeroccino|ブラックミラー|Breville|ブレビル|Rivelia|リヴェリア|Eletta|エレッタ|Black Mirror|ピーラー|シーチキン|iwaki|貝印|ブルーボトル/i;
+  /S5|Essence|V60|HARIO|ハリオ|カリタ|Kalita|Timemore|TIMEMORE|タイムモア|エペイオス|EPEIOS|栗子|Chestnut|デロンギ|ネスプレッソ|ヴァーチュオ|エアロチーノ|マグニフィカ|デディカ|Audible|KINTO|丸山|Fellow|Atmos|Stagg|BALMUDA|ORIGAMI|Chemex|AeroPress|Vertuo|Dedica|Magnifica|Aeroccino|ブラックミラー|Breville|ブレビル|Rivelia|リヴェリア|Eletta|エレッタ|Black Mirror|ピーラー|シーチキン|iwaki|貝印|ブルーボトル|SOTO|ソト|Snow\s*Peak|スノーピーク|Helinox|ヘリノックス|Iwatani|イワタニ|岩谷|ST-310|ST-340|MG-143|LV-086|CB-ODX|Chair\s*One|Chair\s*Zero|タフまる/i;
 
 const EMBED_RULES: [RegExp, string][] = [
   [/S5|Chestnut|栗子|タイムモア|Timemore|TIMEMORE|泰摩/i, "timemore-chestnut-s5-pro"],
@@ -198,7 +198,10 @@ function embedPick(id: string, line: number, locale: SiteLocale): ArticlePick | 
 }
 
 export function isHighIntentTitle(title: string): boolean {
-  return /選び方|おすすめ|比較|どっち|ランキング|そろえ方|一段上げ|予算別|ギフト|定期便|通販|頼みたい|How to Choose|Which|\bvs\b|推薦|推荐|比较|对比|怎么选|추천|비교|升級|選ぶ|比べ|挑|so sánh|So sánh|cách chọn|Cách chọn/.test(title);  return /選び方|おすすめ|比較|どっち|ランキング|そろえ方|一段上げ|予算別|ギフト|定期便|通販|頼みたい|How to Choose|Which|\bvs\b|推薦|推荐|比较|对比|怎么选|추천|비교|升級|選ぶ|比べ|挑|วิธีเลือก|เปรียบเทียบ|เทียบ/.test(title);}
+  return /選び方|おすすめ|比較|どっち|ランキング|ベスト|そろえ方|一段上げ|予算別|ギフト|定期便|通販|頼みたい|How to Choose|Which|\bvs\b|\bBest\b|推薦|推荐|比较|对比|怎么选|추천|비교|升級|選ぶ|比べ|挑|so sánh|So sánh|cách chọn|Cách chọn|วิธีเลือก|เปรียบเทียบ|เทียบ/.test(
+    title,
+  );
+}
 
 function collect(markdown: string): { links: RawLink[]; embeds: { id: string; line: number }[] } {
   const links: RawLink[] = [];

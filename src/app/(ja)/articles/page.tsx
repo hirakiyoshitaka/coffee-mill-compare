@@ -1,3 +1,4 @@
+import Link from "next/link";
 import { ArticleList } from "@/components/ArticleList";
 import { Breadcrumb } from "@/components/Breadcrumb";
 import { getAllArticles } from "@/lib/articles";
@@ -5,7 +6,7 @@ import { pageMeta } from "@/lib/seo";
 
 export const metadata = pageMeta({
   title: "読みもの",
-  description: "手挽きコーヒーミルの比べ方と、届く豆の紹介。価格は目安で、記事の冒頭に広告（PR）の表示があります。",
+  description: "手挽きコーヒーミルの比べ方、キャンプギアのベスト3、届く豆の紹介。価格は目安で、記事の冒頭に広告（PR）の表示があります。",
   path: "/articles",
 });
 
@@ -18,7 +19,11 @@ export default function ArticlesPage() {
       <header className="mb-8">
         <h1 className="page-title">読みもの</h1>
         <p className="lede">
-          掲載データにあることだけを書いています。仕様や価格を足したいときは、先にデータを更新します。
+          掲載データと、確認した公式仕様だけを書いています。キャンプギアは
+          <Link href="/camping" className="mx-1 font-bold text-[var(--accent-dark)] underline underline-offset-4">
+            キャンプ
+          </Link>
+          にまとめています。価格は目安です。
         </p>
       </header>
       <ArticleList articles={articles} />

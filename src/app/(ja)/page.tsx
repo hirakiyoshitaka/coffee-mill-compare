@@ -5,9 +5,10 @@ import { BeanDirectoryCard } from "@/components/BeanViews";
 import { GrinderCard } from "@/components/GrinderCard";
 import { StatusBadge } from "@/components/StatusBadge";
 import { beanShops } from "@/data/beans";
-import { categories, categoryHref } from "@/data/categories";
+import { categoryHref, coffeeCategories } from "@/data/categories";
 import { getFeaturedModels } from "@/data/grinders";
-import { getArticle } from "@/lib/articles";
+import { orderCamping } from "@/data/camping";
+import { getArticle, getArticlesByCategory } from "@/lib/articles";
 import { PrNotice } from "@/components/PrNotice";
 import { KitchenList } from "@/components/KitchenList";
 import { getKitchenArticles } from "@/lib/kitchen";
@@ -83,6 +84,10 @@ export default function HomePage() {
           道具
           <small>カテゴリの目次</small>
         </Link>
+        <Link href="/camping">
+          キャンプ
+          <small>ベスト3の入口</small>
+        </Link>
       </nav>
 
       <PrNotice />
@@ -151,6 +156,19 @@ export default function HomePage() {
         <KitchenList articles={kitchen} />
       </section>
 
+      <section className="section-block" id="camping">
+        <div className="section-heading">
+          <h2>キャンプギア</h2>
+          <Link href="/camping" className="text-link">
+            すべて
+          </Link>
+        </div>
+        <p className="section-lead">
+          ソロの朝のコーヒー、鍋が乗るバーナー、背中を預けるチェアを、公式仕様のベスト3で並べたノートです。編集部はこれらの製品を使っていません。
+        </p>
+        <ArticleList articles={orderCamping(getArticlesByCategory("camping"))} />
+      </section>
+
       <section className="section-block" id="categories">
         <div className="section-heading">
           <h2>道具カテゴリ</h2>
@@ -158,9 +176,9 @@ export default function HomePage() {
             一覧
           </Link>
         </div>
-        <p className="section-lead">公開中はミルと豆です。ほかは、比べるページの枠だけ先に置いています。</p>
+        <p className="section-lead">コーヒーの公開中はミルと豆です。キャンプは別の入口です。ほかのコーヒー道具は、比べるページの枠だけ先に置いています。</p>
         <ul className="category-grid">
-          {categories.map((category) => (
+          {coffeeCategories().map((category) => (
             <li key={category.slug}>
               <Link href={categoryHref(category.slug)} className="category-card">
                 <StatusBadge status={category.status} />

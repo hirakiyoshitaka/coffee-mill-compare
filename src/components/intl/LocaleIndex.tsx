@@ -1,7 +1,8 @@
 import type { Metadata } from "next";
 import Link from "next/link";
-import { getSiteUrl, siteConfig, localizedSiteName } from "@/data/site";
+import { getSiteUrl, localizedSiteName } from "@/data/site";
 import { getLocalizedArticles, hreflangOf, translationLocales, type TranslationLocale } from "@/lib/articles";
+import { orderCamping } from "@/data/camping";
 import { chromeDict } from "@/lib/i18n";
 import { LanguageSwitcher } from "@/components/intl/LanguageSwitcher";
 
@@ -29,13 +30,34 @@ export function localeIndexMetadata(locale: TranslationLocale): Metadata {
 export function LocaleIndex({ locale }: { locale: TranslationLocale }) {
   const t = chromeDict[locale];
   const articles = getLocalizedArticles(locale);
+  const camping = orderCamping(articles.filter((article) => article.category === "camping"));
+  const rest = articles.filter((article) => article.category !== "camping");
   return (
     <main className="page-wrap page-narrow">
       <LanguageSwitcher current={locale} paths={indexPaths()} label={t.lang} />
       <h1 className="font-serif text-[1.75rem] leading-snug tracking-wide text-[var(--ink)]">{t.listTitle}</h1>
       <p className="mt-4 text-base leading-relaxed text-stone-600">{t.listLead}</p>
+      {camping.length > 0 ? (
+        <section className="mt-8">
+          <h2 className="font-serif text-xl text-[var(--ink)]">
+            <Link href={`/${locale}/camping/`} className="underline-offset-4 hover:underline">
+              {t.camping}
+            </Link>
+          </h2>
+          <ul className="mt-4 space-y-6">
+            {camping.map((a) => (
+              <li key={a.slug}>
+                <Link href={`/${locale}/articles/${a.slug}/`} className="font-serif text-lg text-[var(--accent)] underline-offset-4 hover:underline">
+                  {a.title}
+                </Link>
+                <p className="mt-1 text-sm leading-relaxed text-stone-600">{a.description}</p>
+              </li>
+            ))}
+          </ul>
+        </section>
+      ) : null}
       <ul className="mt-8 space-y-6">
-        {articles.map((a) => (
+        {rest.map((a) => (
           <li key={a.slug}>
             <Link href={`/${locale}/articles/${a.slug}/`} className="font-serif text-lg text-[var(--accent)] underline-offset-4 hover:underline">
               {a.title}

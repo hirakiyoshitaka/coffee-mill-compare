@@ -191,11 +191,24 @@ export const cardDict: Record<
 /** 翻訳ページのヘッダー・フッター・一覧の文言 */
 export const chromeDict: Record<
   TranslationLocale,
-  { subtitle: string; articles: string; japanese: string; disclosure: string; listTitle: string; listLead: string; footerNote: string; skip: string; nav: string; lang: string }
+  {
+    subtitle: string;
+    articles: string;
+    camping: string;
+    japanese: string;
+    disclosure: string;
+    listTitle: string;
+    listLead: string;
+    footerNote: string;
+    skip: string;
+    nav: string;
+    lang: string;
+  }
 > = {
   "zh-tw": {
     subtitle: "在家煮咖啡的器材筆記",
     articles: "文章",
+    camping: "露營",
     japanese: "日本語版",
     disclosure: "廣告揭露",
     listTitle: "文章列表",
@@ -208,6 +221,7 @@ export const chromeDict: Record<
   "zh-hk": {
     subtitle: "在家沖咖啡的器材筆記",
     articles: "文章",
+    camping: "露營",
     japanese: "日本語版",
     disclosure: "廣告披露",
     listTitle: "文章一覽",
@@ -220,6 +234,7 @@ export const chromeDict: Record<
   "zh-cn": {
     subtitle: "在家喝咖啡的器具笔记",
     articles: "文章",
+    camping: "露营",
     japanese: "日本語版",
     disclosure: "广告说明",
     listTitle: "文章列表",
@@ -232,6 +247,7 @@ export const chromeDict: Record<
   ko: {
     subtitle: "집 커피 도구 노트",
     articles: "글 목록",
+    camping: "캠핑",
     japanese: "日本語版",
     disclosure: "광고 고지",
     listTitle: "글 목록",
@@ -244,6 +260,7 @@ export const chromeDict: Record<
   vi: {
     subtitle: "Ghi chép về đồ pha cà phê tại nhà",
     articles: "Bài viết",
+    camping: "Cắm trại",
     japanese: "Bản tiếng Nhật",
     disclosure: "Công bố quảng cáo",
     listTitle: "Danh sách bài viết",
@@ -256,6 +273,7 @@ export const chromeDict: Record<
   en: {
     subtitle: "Notes on home coffee gear",
     articles: "Articles",
+    camping: "Camping",
     japanese: "日本語版",
     disclosure: "Disclosure",
     listTitle: "Articles",
@@ -268,6 +286,7 @@ export const chromeDict: Record<
   th: {
     subtitle: "บันทึกเครื่องมือกาแฟที่ใช้ที่บ้าน",
     articles: "บทความ",
+    camping: "แคมป์",
     japanese: "日本語版",
     disclosure: "เปิดเผยโฆษณา",
     listTitle: "รายการบทความ",

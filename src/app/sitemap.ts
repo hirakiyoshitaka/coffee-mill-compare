@@ -17,9 +17,9 @@ function abs(path: string): string {
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const updated = new Date(`${siteConfig.legalUpdated}T00:00:00.000Z`);
-  const staticPaths = ["/", "/categories", "/compare", "/articles", "/beans", "/kitchen", "/about", "/privacy", "/disclosure"];
+  const staticPaths = ["/", "/categories", "/compare", "/articles", "/beans", "/kitchen", "/camping", "/about", "/privacy", "/disclosure"];
   const categoryPaths = categories
-    .filter((category) => category.status === "live" && category.slug !== "beans")
+    .filter((category) => category.status === "live" && category.slug !== "beans" && category.slug !== "camping")
     .map((category) => `/categories/${category.slug}`);
   const beanPaths = beanShops.map((shop) => `/beans/${shop.slug}`);
   const brandPaths = brands.map((brand) => `/brands/${brand.slug}`);
@@ -75,6 +75,12 @@ export default function sitemap(): MetadataRoute.Sitemap {
       lastModified: updated,
       changeFrequency: "monthly" as const,
       priority: 0.4,
+    })),
+    ...translationLocales.map((locale) => ({
+      url: abs(`/${locale}/camping`),
+      lastModified: updated,
+      changeFrequency: "weekly" as const,
+      priority: 0.7,
     })),
     ...translationLocales.flatMap((locale) =>
       getLocalizedArticles(locale).map((article) => ({

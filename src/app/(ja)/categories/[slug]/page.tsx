@@ -17,7 +17,7 @@ type Props = { params: Promise<{ slug: string }> };
 export const dynamicParams = false;
 
 export function generateStaticParams() {
-  return categories.map((category) => ({ slug: category.slug }));
+  return categories.filter((category) => category.slug !== "camping").map((category) => ({ slug: category.slug }));
 }
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {

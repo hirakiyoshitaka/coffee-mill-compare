@@ -1,3 +1,4 @@
+import { campingArticleSlugs } from "@/data/camping";
 import { getLocalizedArticles, type ArticleMeta, type TranslationLocale } from "@/lib/articles";
 
 /**
@@ -79,10 +80,14 @@ const NEXT_READS: Record<string, readonly string[]> = {
   ],
 };
 
+const CAMPING_BRIDGE = ["cold-brew-outdoor-coffee", "epeios-essence-go", "french-press-guide"] as const;
+
 export function getNextReads(locale: TranslationLocale, slug: string): ArticleMeta[] {
-  const slugs = NEXT_READS[`${locale}/${slug}`];
-  if (!slugs) return [];
   const bySlug = new Map(getLocalizedArticles(locale).map((article) => [article.slug, article]));
+  const slugs = (campingArticleSlugs as readonly string[]).includes(slug)
+    ? [...campingArticleSlugs.filter((item) => item !== slug), ...CAMPING_BRIDGE]
+    : NEXT_READS[`${locale}/${slug}`];
+  if (!slugs) return [];
   return slugs.flatMap((nextSlug) => {
     if (nextSlug === slug) return [];
     const article = bySlug.get(nextSlug);

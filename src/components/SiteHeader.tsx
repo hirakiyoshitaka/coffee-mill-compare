@@ -6,6 +6,7 @@ const nav = [
   { href: "/beans", label: "豆" },
   { href: "/articles", label: "読みもの" },
   { href: "/kitchen", label: "キッチン" },
+  { href: "/camping", label: "キャンプ" },
 ];
 
 export function SiteHeader() {

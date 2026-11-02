@@ -88,6 +88,15 @@ export const categories: Category[] = [
     planned: ["注文後の焙煎", "豆の選び方", "お試しと定期便", "価格の目安"],
     status: "live",
   },
+  {
+    slug: "camping",
+    shortName: "キャンプ",
+    name: "キャンプギア",
+    summary: "ソロのコーヒー、バーナー、チェアを、公式仕様のベスト3で比べます。",
+    lead: "火のそばで過ごす道具です。最初の三本は、一人の朝のコーヒー、鍋が乗るバーナー、背中を預けるチェア。編集部はこれらの製品を使っていません。",
+    planned: ["運ぶ重さ", "一人分か、車で運ぶか", "公式の仕様", "価格の目安"],
+    status: "live",
+  },
 ];
 
 export function getCategory(slug: string): Category | undefined {
@@ -96,5 +105,11 @@ export function getCategory(slug: string): Category | undefined {
 
 export function categoryHref(slug: string): string {
   if (slug === "beans") return "/beans";
+  if (slug === "camping") return "/camping";
   return `/categories/${slug}`;
+}
+
+/** コーヒー道具の目次。キャンプは別ハブ（/camping）に分ける */
+export function coffeeCategories(): Category[] {
+  return categories.filter((category) => category.slug !== "camping");
 }

@@ -1,7 +1,7 @@
 import Link from "next/link";
 import { Breadcrumb } from "@/components/Breadcrumb";
 import { StatusBadge } from "@/components/StatusBadge";
-import { categories, categoryHref } from "@/data/categories";
+import { categoryHref, coffeeCategories } from "@/data/categories";
 import { pageMeta } from "@/lib/seo";
 import { siteConfig } from "@/data/site";
 
@@ -18,10 +18,14 @@ export default function CategoriesPage() {
       <p className="hero-kicker">{siteConfig.coffeeSectionName}（コーヒー）の目次</p>
       <h1 className="page-title">道具カテゴリ</h1>
       <p className="lede">
-        家のコーヒー道具を、種類ごとに分ける目次です。中身があるのはミルと豆です。準備中のページには、機種名を置いていません。
+        家のコーヒー道具を、種類ごとに分ける目次です。中身があるのはミルと豆です。準備中のページには、機種名を置いていません。キャンプギアは
+        <Link href="/camping" className="mx-1 font-bold text-[var(--accent-dark)] underline underline-offset-4">
+          キャンプ
+        </Link>
+        に分けています。
       </p>
       <ul className="category-grid">
-        {categories.map((category) => (
+        {coffeeCategories().map((category) => (
           <li key={category.slug}>
             <Link href={categoryHref(category.slug)} className="category-card">
               <StatusBadge status={category.status} />
