@@ -54,9 +54,15 @@ function readArticle(fileName: string): Article {
   };
 }
 
+/** content 直下に置いても、draft: true の原稿は一覧・サイトマップ・関連記事に出さない。 */
+function isDraftMarkdown(fileName: string): boolean {
+  const parsed = matter(fs.readFileSync(path.join(contentDir, fileName), "utf8"));
+  return parsed.data.draft === true;
+}
+
 function articleFiles(): string[] {
   if (!fs.existsSync(contentDir)) return [];
-  return fs.readdirSync(contentDir).filter((file) => file.endsWith(".md"));
+  return fs.readdirSync(contentDir).filter((file) => file.endsWith(".md") && !isDraftMarkdown(file));
 }
 
 export function getAllArticles(): ArticleMeta[] {
