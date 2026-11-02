@@ -1,5 +1,5 @@
 ---
-description: サイト運営方針（2026-11-03決定）。記事・導線・多言語・計測は AGENTS.md と同じ判断にする。
+description: サイト運営方針とアフィリエイト運用方針（2026-11-03決定）。記事・導線・多言語・計測・広告は AGENTS.md と同じ判断にする。
 alwaysApply: true
 ---
 
@@ -56,3 +56,17 @@ alwaysApply: true
 - **hreflang:** `src/lib/articles.ts` の `hreflangOf`（ja、zh-TW、zh-HK、zh-CN、ko、th、vi、en）と、同じ slug の `alternates.languages`（`x-default` を含む）を維持する。翻訳記事は `content/<locale>/` に置く。言語を増やすときは、言語切替、hreflang、サイトマップを揃える。
 - **サイトマップ:** `src/app/sitemap.ts` と `src/app/robots.ts` の `sitemap.xml` を、公開している URL と一致させる。
 - **アクセス解析:** 各言語レイアウトにある Vercel Analytics（`@vercel/analytics/react` の `<Analytics />`）を外さない。計測を変えるときは、プライバシーポリシー（`/privacy`）の記載と合わせる。
+
+# アフィリエイト運用方針（2026-11-03決定）
+
+**English summary.** Break-even CPC = reward × approval rate × conversion rate. Judge products in private `hirakiyoshitaka/affiliate-roi` before writing; do not edit `keyword_roi.py` or `kw_seeds.py`. Google ads land on our articles only. SEO is about three articles a week. Never invent experience or affiliate IDs. The owner confirms publishing, ads, and SNS. Full text is in `AGENTS.md`.
+
+この節は `AGENTS.md` の同節の要点です。正本は `AGENTS.md`。変えるときは両方を同時に更新する。
+
+損益分岐CPC = 報酬額 × 承認率 × 成約率。月利益 = 広告クリック数 ×（損益分岐CPC − 実際CPC）。判定は非公開リポジトリ `hirakiyoshitaka/affiliate-roi` の `keyword_roi.py`（`kw_seeds.py` も書き換え禁止）。手順は `products.txt` → Actions「1. キーワード候補を集める」→ キーワードプランナー（日本・日本語）の CSV を `data/` に push →「2. 損益分岐CPCで判定」→ `out/roi_report.md`。どの商品も記事化前にキーワードプランナーで確認する。
+
+**ラインA PPC（Google広告）。** afb のパスワードと口座はオーナーが入力する。リスティング可または条件付き、固定報酬 3,000 円以上、成果条件が軽いもの。損益分岐CPCが入札単価（高額帯）× 1.3 以上で「勝てる」。Googleトレンド・実検索・予測タブで上位 3 案件。リンク先は自サイトの記事（ASP直リンクと薄い中継ページは禁止）。商標・指名は入札しない。除外キーワードと、誇大表現のない文案。少額テストは検索のみ、ディスプレイと検索パートナーはオフ、日本・日本語、手動CPC上限 = 損益分岐 ÷ 1.3、1日 1,000 円、フレーズ一致と完全一致。公開・予算変更・本人確認はオーナー。「特典を選ぶ」は押さない。2週間でクリック 100 回かつ成果 0、または広告費が報酬を超えたら停止。実測成約率で `offers.csv` を更新する。Amazon の有料広告は対象外。楽天・もしもの商標入札は禁止（タイムモアは PPC 不可、SEO で集客）。
+
+**ラインB SEO+SNS。** 週約 10 商品を候補にし（Amazon / 楽天ランキング、A8 / afb / もしもの固定報酬優先、Googleトレンド、X）、「SEO向き」から週約 3 本。月間検索 100 以上（購買意図・伸び注目は 10 以上）。前年比 −30% 以下、5年で右肩下がり、一時的急上昇は除外。SEO想定月収順。固定報酬を料率型より優先。上位が公式・大手ばかりなら後回し、個人ブログや知恵袋があれば狙い目。AI回答が出る語は後回し。型はまとめ「〇〇 おすすめ・比較」、違い「AとBの違い」、レビュー、情報（①〜③へ内部リンク）。1記事の狙い語は 1 つ。冒頭は「PR｜広告を含みます」。タイトルと最初の見出しに狙い語。比較表・選び方・メリット / デメリット・購入ボタン・内部リンク。体験・写真・実測は作り話にせず `【よんぴー実測：〇〇】` `【写真：〇〇】` の空欄。下書きはオーナー確認後に公開。SNSは公開日に 1 投稿、数日後に別切り口で 1 投稿。`#PR`。自分の記事へのリンクのみ（Amazon直リンクと有料宣伝はしない）。投稿案は公開前にオーナー確認。月一でサーチコンソールと ASP を見て、11〜20 位はリライト、成果商品は関連記事を足す、半年集客ゼロはテーマ見直し。
+
+**共通。** 作り話の体験・口コミ・実績は書かない。公開と SNS はオーナー確認後。パスワード・カード・口座・本人確認書類に触らない。各段階の終わりで報告し、OK をもらってから次へ。アフィリエイト ID は捏造しない。
