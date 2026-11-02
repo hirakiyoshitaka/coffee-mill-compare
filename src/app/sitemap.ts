@@ -26,7 +26,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
   const articles = getAllArticles();
 
   return [
-    ...staticPaths.map((path) => ({
+    ...[...staticPaths, "/contact", "/disclaimer"].map((path) => ({
       url: abs(path),
       lastModified: updated,
       changeFrequency: "weekly" as const,

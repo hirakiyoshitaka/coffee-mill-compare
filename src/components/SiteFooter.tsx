@@ -9,6 +9,8 @@ const guides = [
   { href: "/about", label: "運営者情報" },
   { href: "/privacy", label: "プライバシーポリシー" },
   { href: "/disclosure", label: "広告表記" },
+  { href: "/contact", label: "お問い合わせ" },
+  { href: "/disclaimer", label: "免責事項" },
 ];
 
 export function SiteFooter() {
