@@ -448,6 +448,42 @@ a.card-visual { display: block; color: inherit; text-decoration: none; }
 }
 .article-picks .buy-stack { margin-top: 8px; }
 
+.next-read {
+  margin-top: 2.75rem;
+  padding: 18px 18px 8px;
+  border: 1px solid var(--line);
+  background: var(--soft);
+}
+.next-read h2 {
+  margin: 0;
+  font-family: var(--font-serif-jp), "Yu Mincho", serif;
+  font-size: 1.35rem;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+}
+.next-read .fine { margin: 8px 0 0; }
+.next-read ol {
+  list-style: none;
+  margin: 12px 0 0;
+  padding: 0;
+}
+.next-read li + li {
+  margin-top: 14px;
+  padding-top: 14px;
+  border-top: 1px solid var(--line);
+}
+.next-read a {
+  color: var(--accent-dark);
+  font-weight: 700;
+  text-underline-offset: 4px;
+}
+.next-read li p {
+  margin: 4px 0 0;
+  color: var(--muted);
+  font-size: 15px;
+  line-height: 1.7;
+}
+
 .article-index { display: grid; }
 .article-card {
   display: grid;

@@ -18,6 +18,10 @@ date: "2026-11-01"
 - **頁面標示可以放明火再加熱的不鏽鋼** → HARIO V60 金屬咖啡分享壺。實用容量 500mL。微波爐沒有標示
 - **想用公克把量留住** → 壺上的刻度之外，還需要秤。手沖壺、水溫和電子秤見[讓手沖再升級的器具](/zh-tw/articles/hand-drip-upgrade-gear/)。配方裡的 12g、24g，沒辦法只靠壺上的杯數重現
 
+上面先看的是要放 V60、頁面標示蓋著蓋子也能進微波爐的 Range Server。價格和庫存請在商店頁確認。
+
+[在 Amazon.co.jp 搜尋 HARIO V60 Range Server](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=HARIO+V60+%E3%83%AC%E3%83%B3%E3%82%B8%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC)
+
 ## 官方頁面的數字
 
 HARIO 的重量是「含外盒」。Kalita 把本體重量和商品重量分開寫。價格是當天官方頁面上的含稅價，不是 Amazon 賣多少。
@@ -32,6 +36,14 @@ HARIO 的重量是「含外盒」。Kalita 把本體重量和商品重量分開�
 | V60 金屬咖啡分享壺（O-VCSM-50-HSV） | 實用容量 500mL | 本體、蓋子、握把是不鏽鋼。中國製 | 熱水、洗碗機、明火。微波爐、烤箱、感應爐沒有標示 | 4,400 日圓 |
 
 Range Server 頁面上的價格是製造商建議零售價。Kalita 的金額是商品頁上和商品代碼一起出現的價格。金屬壺也是製造商建議零售價。含外盒重量：Range Server 360 和 600 約 300g，800 約 400g，金屬壺約 400g。口徑是 Range Server 85mm、金屬壺 78mm。
+
+表上三條的搜尋頁如下。結果會混進濾杯和馬克杯，請對它是分享壺，以及型號。價格和庫存以商店頁為準。
+
+[在 Amazon.co.jp 搜尋 HARIO V60 Range Server](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=HARIO+V60+%E3%83%AC%E3%83%B3%E3%82%B8%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC)
+
+[在 Amazon.co.jp 搜尋 Kalita 咖啡分享壺](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=%E3%82%AB%E3%83%AA%E3%82%BF+%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC)
+
+[在 Amazon.co.jp 搜尋 HARIO V60 金屬咖啡分享壺](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=HARIO+%E3%83%A1%E3%82%BF%E3%83%AB%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC)
 
 ## 壺口要和濾杯對上
 
@@ -90,16 +102,5 @@ Kalita 的常見問題裡，針對該公司耐熱玻璃的一般說明是：耐�
 - [Kalita 300 Server N](https://www.kalita.co.jp/products/copper/1947)
 - [Kalita 500 Server N](https://www.kalita.co.jp/products/copper/1948)
 - [Kalita 耐熱玻璃的問答](https://www.kalita.co.jp/support/)
-
-## 其他文章
-
-- [讓手沖再升級的器具](/zh-tw/articles/hand-drip-upgrade-gear/)
-- [冷泡・戶外咖啡](/zh-tw/articles/cold-brew-outdoor-coffee/)
-- [法式濾壓壺怎麼挑](/zh-tw/articles/french-press-guide/)
-- [摩卡壺怎麼挑](/zh-tw/articles/moka-pot-guide/)
-- [BALMUDA The Brew 與 TWINBIRD 全自動怎麼挑](/zh-tw/articles/japanese-premium-coffee-makers/)
-- [1Zpresso 手搖磨豆機怎麼挑](/zh-tw/articles/1zpresso-hand-grinder-lineup/)
-- [TIMEMORE 栗子 S5 Pro 評測](/zh-tw/articles/timemore-chestnut-s5-pro/)
-- [Epeios Essence Go 評測](/zh-tw/articles/epeios-essence-go/)
 
 文中的購買連結含廣告（Amazon 聯盟，以及磨豆機與豆子卡片上已設定的連結）。說明見[廣告揭露](/zh-tw/disclosure/)。

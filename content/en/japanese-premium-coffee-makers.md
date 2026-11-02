@@ -19,6 +19,16 @@ All three are **Japan-market models rated AC 100V, 50/60Hz**.
 
 Amazon.co.jp ships many items internationally, and the CM-D457B is listed with international shipping on Amazon Japan. Check the listing for your country, plus import fees.
 
+## The short answer
+
+- **You want to watch a precise pour, and you already grind** → BALMUDA The Brew. Owners on Amazon Japan often mention the design and a clean finish. It has no built-in grinder, and it brews 3 cups.
+- **Beans in, a pot for several people** → TWINBIRD CM-D465B. Kakaku.com and Amazon Japan reviews mention taste more than anything else. It is 42.5cm tall.
+- **The same bean-to-cup idea for one or two people** → TWINBIRD CM-D457B. Same mill and temperatures, in a shorter 3-cup body.
+
+I have not used these machines. The lines above summarize owner reviews that the sections below quote in more detail. If you want to watch it brew, open The Brew listing first and check the current price and stock.
+
+[See BALMUDA The Brew on Amazon Japan](https://www.amazon.co.jp/dp/B09DY6CDHZ?tag=stocknotelife-22)
+
 ## At a glance
 
 | Model | Type | Grinder | Capacity | Brew temp | Price (Japan) |
@@ -29,6 +39,14 @@ Amazon.co.jp ships many items internationally, and the CM-D457B is listed with i
 
 Sources: [Kakaku.com (The Brew)](https://kakaku.com/item/K0001382816/), [Kakaku.com (CM-D465B)](https://kakaku.com/item/K0001203222/), [Kakaku.com (CM-D457B)](https://kakaku.com/item/K0001097505/), [TWINBIRD official store](https://store.twinbird.jp/products/cmd457), and Amazon Japan listings.
 
+Store pages for the three machines. Check the current price and stock on the listing. Links to the makers' own sites, later in the article, are not ads.
+
+[See BALMUDA The Brew on Amazon Japan](https://www.amazon.co.jp/dp/B09DY6CDHZ?tag=stocknotelife-22)
+
+[See TWINBIRD CM-D465B on Amazon Japan](https://www.amazon.co.jp/dp/B081SWNSGW?tag=stocknotelife-22)
+
+[See TWINBIRD CM-D457B on Amazon Japan](https://www.amazon.co.jp/dp/B07HFP6H3L?tag=stocknotelife-22)
+
 ## BALMUDA The Brew: a precision pour-over you'll want on display
 
 Launched in October 2021, The Brew drips water in 0.2ml steps into a dedicated cone dripper and changes temperature for blooming, extraction, and finishing. At the end it adds a **bypass pour** that skips the coffee bed, aiming for a strong cup with a clean finish. There are three modes: Regular, Strong, and Iced. You can watch steam rise as the grounds bloom, which is a big part of its appeal.
@@ -38,7 +56,7 @@ Launched in October 2021, The Brew drips water in 0.2ml steps into a dedicated c
 
 [See BALMUDA The Brew on Amazon Japan](https://www.amazon.co.jp/dp/B09DY6CDHZ?tag=stocknotelife-22) · [BALMUDA official site](https://www.balmuda.com/jp/brew)
 
-No grinder yet? See our [electric grinder buying guide](/en/articles/electric-coffee-grinder-guide/) or [how to choose your first hand grinder](/en/articles/how-to-choose-hand-coffee-mill/).
+No grinder yet? See our [electric grinder buying guide](/en/articles/electric-coffee-grinder-guide/) or [how to choose your first hand grinder](/en/articles/how-to-choose-hand-coffee-mill/). The two hand grinders I use are the [Timemore Chestnut S5 Pro](/en/articles/timemore-chestnut-s5-pro/) and the [EPEIOS Essence Go](/en/articles/epeios-essence-go/). The side-by-side is [Timemore S5 Pro vs EPEIOS Essence Go](/en/articles/timemore-s5-pro-vs-essence-go/). To split 1Zpresso models by the job each one is built for, see the [1Zpresso hand grinder lineup](/en/articles/1zpresso-hand-grinder-lineup/). I have not used a 1Zpresso.
 
 ## TWINBIRD CM-D465B (6-cup): bean-to-cup, guided by a master roaster
 
@@ -64,6 +82,6 @@ Same mill, temperatures, and grind settings as the CM-D465B, with a 450ml capaci
 - Bean-to-cup convenience with pour-over-style results for a household: **TWINBIRD CM-D465B**
 - The same cup for one or two people, in a smaller footprint: **TWINBIRD CM-D457B**
 
-Curious how grind size changes flavor? Read our [coffee grind size guide](/en/articles/coffee-grind-size-guide/).
+Curious how grind size changes flavor? Read our [coffee grind size guide](/en/articles/coffee-grind-size-guide/). A saved ratio needs a [coffee scale](/en/articles/coffee-scale-guide/). A first pour-over, if you would rather brew by hand, is the [beginner pour-over recipe](/en/articles/beginner-hand-drip-recipe/). Espresso with a built-in grinder is a different machine: [Breville vs De'Longhi](/en/articles/breville-vs-delonghi-all-in-one-espresso/) and [Best all-in-one espresso machines of 2026](/en/articles/best-all-in-one-espresso-machines-2026/).
 
 Amazon Japan links on this page are affiliate links. Links to official maker sites are not ads. See our [disclosure](/en/disclosure/).

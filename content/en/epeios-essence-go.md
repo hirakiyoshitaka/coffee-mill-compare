@@ -7,7 +7,39 @@ date: "2026-10-27"
 
 The second hand grinder this site recommends is the EPEIOS Essence Go. If the No.1 [Timemore Chestnut S5 Pro](/en/articles/timemore-chestnut-s5-pro/) is the 48mm grinder that stays on the counter, this one uses a 10-blade burr to lighten the start of the grind, and it comes apart into a carry case. It holds that place because the job is different. It is not second place in a points contest.
 
-The price guide we keep on the site is ¥23,100 including tax, taken from the official listing and updated by hand when that listing changes. The [June 2024 announcement](https://prtimes.jp/main/html/rd/p/000000097.000059893.html) also gives an expected market price of 23,100 yen including tax, and describes the suggested retail price as open. The photo below is the product photo from the EPEIOS site. Check the current store page before you buy. Prices move.
+The price guide we keep on the site is ¥23,100 including tax, taken from the official listing and updated by hand when that listing changes. The [June 2024 announcement](https://prtimes.jp/main/html/rd/p/000000097.000059893.html) also gives an expected market price of 23,100 yen including tax, and describes the suggested retail price as open. Check the current store page before you buy. Prices move.
+
+## The short answer
+
+- **A grinder that stays on the counter for the same pour-over** → [Timemore Chestnut S5 Pro](/en/articles/timemore-chestnut-s5-pro/). Mine is the green one. I use it at home, mostly for pour-over.
+- **A lighter start, and a body that packs into its case** → EPEIOS Essence Go. My one-line take: it just spins so easily.
+- The two do different jobs. The longer side-by-side is [Timemore S5 Pro vs EPEIOS Essence Go](/en/articles/timemore-s5-pro-vs-essence-go/).
+
+Check the current price and stock on the store page.
+
+[Search for the EPEIOS Essence Go on Amazon.co.jp](https://www.amazon.co.jp/s?k=EPEIOS+Essence+Go+grinder&tag=stocknotelife-22)
+
+[Search for the Timemore Chestnut S5 Pro on Amazon.co.jp](https://www.amazon.co.jp/s?k=TIMEMORE+Chestnut+S5+Pro&tag=stocknotelife-22)
+
+## Specs side by side
+
+These figures are the ones already published on the comparison above and on the official pages checked for this review on October 26, 2026. This site has not measured how much force the handle takes.
+
+| | Timemore Chestnut S5 Pro | EPEIOS Essence Go |
+|---|---|---|
+| Burrs | 48mm stainless | 38mm conical, 10-blade outer burr |
+| Adjustment | External dial, about 15 microns per click | 0–80, readable from the outside |
+| Capacity | About 30g | Up to about 30g |
+| Weight | About 910g | About 870g |
+| Who it suits | A counter grinder for a repeatable pour-over | A lighter start, and a body that comes apart into its case |
+
+Check the current price and stock on the store page.
+
+[Search for the EPEIOS Essence Go on Amazon.co.jp](https://www.amazon.co.jp/s?k=EPEIOS+Essence+Go+grinder&tag=stocknotelife-22)
+
+[Search for the Timemore Chestnut S5 Pro on Amazon.co.jp](https://www.amazon.co.jp/s?k=TIMEMORE+Chestnut+S5+Pro&tag=stocknotelife-22)
+
+The card below uses the product photo from the EPEIOS site.
 
 {{grinder:epeios-essence-go}}
 
@@ -57,18 +89,10 @@ The No.1 review is the [Chestnut S5 Pro](/en/articles/timemore-chestnut-s5-pro/)
 
 [View the Coffee Carrot subscription (ad)](https://px.a8.net/svt/ejp?a8mat=4BEQHR+383KII+2CG0+5YJRM)
 
-This review does not include timed cleaning tests. One Amazon review notes that the grinder is not washed with water and needs a brush. For a first hand grinder, see [how to choose](/en/articles/how-to-choose-hand-coffee-mill/). For where to put the 0–80 scale, see the [coffee grind size guide](/en/articles/coffee-grind-size-guide/). This site does not have a recommended number for each brew method on the Essence Go.
+This review does not include timed cleaning tests. One Amazon review notes that the grinder is not washed with water and needs a brush. For a first hand grinder, see [how to choose](/en/articles/how-to-choose-hand-coffee-mill/). For where to put the 0–80 scale, see the [coffee grind size guide](/en/articles/coffee-grind-size-guide/). This site does not have a recommended number for each brew method on the Essence Go. To split another brand by travel, pour-over, and espresso, see the [1Zpresso hand grinder lineup](/en/articles/1zpresso-hand-grinder-lineup/). We have not used a 1Zpresso. A German click grinder set next to the S5 Pro is [Comandante C40 vs Timemore Chestnut S5 Pro](/en/articles/comandante-c40-vs-timemore/). A motor instead of a handle is covered in [hand vs electric coffee grinders](/en/articles/hand-vs-electric-coffee-mill/) and the [electric coffee grinder guide](/en/articles/electric-coffee-grinder-guide/). A drip machine that still needs ground coffee is [Japanese premium coffee makers](/en/articles/japanese-premium-coffee-makers/).
 
 [Search for the EPEIOS Essence Go on Amazon.co.jp](https://www.amazon.co.jp/s?k=EPEIOS+Essence+Go+grinder&tag=stocknotelife-22)
 
 Availability on Amazon.co.jp varies by region, so check the listing and the seller before ordering.
-
-## Read next
-
-- [Timemore S5 Pro vs EPEIOS Essence Go](/en/articles/timemore-s5-pro-vs-essence-go/)
-- [Timemore Chestnut S5 Pro review](/en/articles/timemore-chestnut-s5-pro/)
-- [How to choose your first hand grinder](/en/articles/how-to-choose-hand-coffee-mill/)
-- [Hand vs electric coffee grinders](/en/articles/hand-vs-electric-coffee-mill/)
-- [Coffee grind size guide](/en/articles/coffee-grind-size-guide/)
 
 Some links on this page are ads. See our [disclosure](/en/disclosure/) for details.
