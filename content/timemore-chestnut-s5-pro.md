@@ -76,6 +76,7 @@ date: "2026-10-27"
 
 ## あわせて読みたい
 
+- [ゆとり時間を贅沢にするコーヒーミル ベスト3](/articles/luxury-relaxed-coffee-mill-best3/)
 - [コーヒーミル（手挽き・電動）の記事一覧](/categories/mill/)
 - [タイムモア S5 Pro と エペイオス Essence Go 比較](/articles/timemore-s5-pro-vs-essence-go/)
 - [エペイオス Essence Goレビュー](/articles/epeios-essence-go/)

@@ -94,6 +94,8 @@ The beans I kept on subscription for about a year, because they tasted good, are
 
 ## Read next
 
+- [Three hand grinders for a slow, luxurious coffee](/en/articles/luxury-relaxed-coffee-mill-best3/)
+
 - [Timemore Chestnut S5 Pro review](/en/articles/timemore-chestnut-s5-pro/)
 - [Timemore S5 Pro vs EPEIOS Essence Go](/en/articles/timemore-s5-pro-vs-essence-go/)
 - [1Zpresso hand grinder lineup](/en/articles/1zpresso-hand-grinder-lineup/)

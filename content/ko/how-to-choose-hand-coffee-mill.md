@@ -58,6 +58,8 @@ date: "2026-10-30"
 
 - [珈琲きゃろっと 숍에서 보기](https://px.a8.net/svt/ejp?a8mat=4BEQHR+383KII+2CG0+5YJRM)
 
+여유 있는 아침을 위한 세 대는 [핸드밀 베스트 3](/ko/articles/luxury-relaxed-coffee-mill-best3/)입니다.
+
 ## 구매처
 
 일본 아마존(Amazon.co.jp)은 AmazonGlobal을 통해 한국으로 배송합니다. 다만 배송비와 배송 가능 여부는 상품마다 다르며, 관세·부가세 예상액과 함께 결제 화면에서 확인하세요. 카드에 나오는 금액은 일본 시장(엔) 기준의 참고 가격이고, 한국 판매가가 아닙니다.

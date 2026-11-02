@@ -68,6 +68,8 @@ date: "2026-10-27"
 
 - [Amazon.co.jp에서 타임모어 S5 프로 보기](https://www.amazon.co.jp/s?k=TIMEMORE+S5+Pro&tag=stocknotelife-22)
 
+여유 있는 아침을 위한 세 대는 [핸드밀 베스트 3](/ko/articles/luxury-relaxed-coffee-mill-best3/)입니다. C40과 K-Ultra는 리뷰 정리이고, 쓰지 않았습니다.
+
 ## 광고 고지
 
 이 사이트의 일부 링크는 제휴 마케팅(어필리에이트) 링크입니다. 링크를 통해 구매하시면 사이트가 수수료를 받을 수 있지만, 구매 금액이 늘어나지는 않습니다. 자세한 내용은 [광고 고지](/ko/disclosure/)를 확인하세요.

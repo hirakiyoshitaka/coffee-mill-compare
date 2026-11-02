@@ -62,7 +62,7 @@ J-Ultra は、公式が「1Zpressoでいちばん細かい」とする8ミクロ
 
 ## このサイトが先に勧める手挽き
 
-1Zpressoを順位には入れていません。家のカウンターでドリップの目盛りを残すなら栗子 S5 Pro、軽い力で回したい・分解して持ち出したいなら[エペイオス Essence Go](/articles/epeios-essence-go/)、という役割は変えていません。横並びは[2台の比較](/articles/timemore-s5-pro-vs-essence-go/)と[コーヒーミルおすすめランキング](/articles/coffee-mill-ranking/)、数値は[スペック比較](/compare/)です。はじめての軸（刃の径、重さ、置き場所）は[手挽きミルの選び方](/articles/how-to-choose-hand-coffee-mill/)です。
+1Zpressoを、このサイトが先に勧める順位には入れていません。[ゆとり時間を贅沢にするコーヒーミル ベスト3](/articles/luxury-relaxed-coffee-mill-best3/)では、K-Ultra をレビューまとめとして名前を出しています。使った記録はありません。家のカウンターでドリップの目盛りを残すなら栗子 S5 Pro、軽い力で回したい・分解して持ち出したいなら[エペイオス Essence Go](/articles/epeios-essence-go/)、という役割は変えていません。横並びは[2台の比較](/articles/timemore-s5-pro-vs-essence-go/)と[コーヒーミルおすすめランキング](/articles/coffee-mill-ranking/)、数値は[スペック比較](/compare/)です。はじめての軸（刃の径、重さ、置き場所）は[手挽きミルの選び方](/articles/how-to-choose-hand-coffee-mill/)です。
 
 ドイツ製のクリック方式と比較したい人は[コマンダンテ C40 と栗子 S5 Pro の比較](/articles/comandante-c40-vs-timemore/)へ。
 

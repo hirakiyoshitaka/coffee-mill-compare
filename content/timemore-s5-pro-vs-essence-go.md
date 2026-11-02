@@ -73,6 +73,7 @@ Essence Go は 38mm・10枚刃。公式は、刃の枚数で摩擦を減らし�
 
 ## あわせて読みたい
 
+- [ゆとり時間を贅沢にするコーヒーミル ベスト3](/articles/luxury-relaxed-coffee-mill-best3/)
 - [コーヒーミル（手挽き・電動）の記事一覧](/categories/mill/)
 - [タイムモア栗子 S5 Proレビュー](/articles/timemore-chestnut-s5-pro/)
 - [エペイオス Essence Goレビュー](/articles/epeios-essence-go/)

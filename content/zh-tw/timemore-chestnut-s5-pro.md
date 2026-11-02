@@ -66,6 +66,8 @@ date: "2026-10-27"
 
 日本 Amazon（Amazon.co.jp）部分商品可透過 AmazonGlobal 寄送到台灣，運費與關稅於結帳時顯示，收件人需完成 EZ WAY 實名認證。是否可寄送依商品而定，請在結帳頁確認。
 
+想把悠閒的早晨過得講究一點，見[手搖磨豆機最佳3台](/zh-tw/articles/luxury-relaxed-coffee-mill-best3/)。C40 與 K-Ultra 是評測整理，沒用過。
+
 ## 廣告揭露
 
 本站部分連結為聯盟行銷（Affiliate）連結，透過連結購買時，本站可能獲得分潤，但不會增加您的購買金額。詳細說明請見[廣告揭露](/zh-tw/disclosure/)。

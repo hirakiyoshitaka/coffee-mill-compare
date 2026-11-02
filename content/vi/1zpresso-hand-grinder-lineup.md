@@ -108,6 +108,8 @@ Trang chính thức mở ngày 31 tháng 10 năm 2026.
 
 ## Đọc tiếp
 
+- [Ba máy xay tay cho khoảng cà phê thong thả](/vi/articles/luxury-relaxed-coffee-mill-best3/)
+
 - [Breville và De'Longhi: sáu máy espresso có sẵn máy xay](/vi/articles/breville-vs-delonghi-all-in-one-espresso/)
 - [Cách chọn bình French press](/vi/articles/french-press-guide/)
 

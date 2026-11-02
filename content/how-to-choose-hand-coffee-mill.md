@@ -70,6 +70,7 @@ date: "2026-10-27"
 
 - [コーヒーミル（手挽き・電動）の記事一覧](/categories/mill/)
 - [タイムモア S5 Pro と エペイオス Essence Go 比較](/articles/timemore-s5-pro-vs-essence-go/)
+- [ゆとり時間を贅沢にするコーヒーミル ベスト3](/articles/luxury-relaxed-coffee-mill-best3/)
 - [コーヒーミルおすすめランキング](/articles/coffee-mill-ranking/)
 - [コーヒーミルは手挽きと電動どっち？違い・メリット・向いている人を比較](/articles/hand-vs-electric-coffee-mill/)
 - [コーヒーミルの掃除・お手入れ方法](/articles/coffee-mill-cleaning/)

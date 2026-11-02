@@ -80,6 +80,7 @@ Availability on Amazon.co.jp varies by region, so check the listing and the sell
 
 ## Read next
 
+- [Three hand grinders for a slow, luxurious coffee](/en/articles/luxury-relaxed-coffee-mill-best3/)
 - [Timemore S5 Pro vs EPEIOS Essence Go](/en/articles/timemore-s5-pro-vs-essence-go/)
 - [EPEIOS Essence Go review](/en/articles/epeios-essence-go/)
 - [How to choose your first hand grinder](/en/articles/how-to-choose-hand-coffee-mill/)

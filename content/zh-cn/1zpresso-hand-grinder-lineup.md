@@ -106,6 +106,8 @@ J-Ultra 是 8 微米一格，1Zpresso 称它是全系列最细的。刀盘是带
 
 ## 接着读
 
+- [让从容的时光讲究一点的手摇磨豆机 三台](/zh-cn/articles/luxury-relaxed-coffee-mill-best3/)
+
 - [铂富 vs 德龙：六款带磨豆机的意式咖啡机](/zh-cn/articles/breville-vs-delonghi-all-in-one-espresso/)
 - [巴慕达 The Brew 和双鸟全自动](/zh-cn/articles/japanese-premium-coffee-makers/)
 - [法压壶怎么选](/zh-cn/articles/french-press-guide/)
