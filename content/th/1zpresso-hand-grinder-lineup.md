@@ -104,6 +104,8 @@ J-Ultra คือขั้นละ 8 ไมครอน ที่ 1Zpresso เ�
 
 ## อ่านต่อ
 
+- [เครื่องบดมือ 3 รุ่นสำหรับเวลาดื่มกาแฟแบบช้าและหรูขึ้นนิด](/th/articles/luxury-relaxed-coffee-mill-best3/)
+
 - [Breville เทียบ De'Longhi: เครื่องเอสเปรสโซบดในตัว 6 รุ่น](/th/articles/breville-vs-delonghi-all-in-one-espresso/)
 - [วิธีเลือกเฟรนช์เพรส](/th/articles/french-press-guide/)
 

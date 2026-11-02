@@ -50,7 +50,7 @@ My one-line take: it just spins so easily. EPEIOS says the 10-blade burr is desi
 
 Want them side by side? Read [Timemore S5 Pro vs EPEIOS Essence Go](/en/articles/timemore-s5-pro-vs-essence-go/). The full write-ups are the [Chestnut S5 Pro review](/en/articles/timemore-chestnut-s5-pro/) and the [Essence Go review](/en/articles/epeios-essence-go/). Once the grinder is home, the [coffee grind size guide](/en/articles/coffee-grind-size-guide/) is where to set the dial.
 
-To split 1Zpresso models by the job each one is built for, see the [1Zpresso hand grinder lineup](/en/articles/1zpresso-hand-grinder-lineup/). To set the Comandante C40 MK4 next to the Chestnut S5 Pro, see [Comandante C40 vs Timemore Chestnut S5 Pro](/en/articles/comandante-c40-vs-timemore/). We have not used a C40 or a 1Zpresso.
+To split 1Zpresso models by the job each one is built for, see the [1Zpresso hand grinder lineup](/en/articles/1zpresso-hand-grinder-lineup/). To set the Comandante C40 MK4 next to the Chestnut S5 Pro, see [Comandante C40 vs Timemore Chestnut S5 Pro](/en/articles/comandante-c40-vs-timemore/). We have not used a C40 or a 1Zpresso. For an unhurried morning, see [three hand grinders for a slow, luxurious coffee](/en/articles/luxury-relaxed-coffee-mill-best3/). The C40 there is a review summary. We have not used it.
 
 [Search for the Comandante C40 on Amazon.co.jp](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=%E3%82%B3%E3%83%9E%E3%83%B3%E3%83%80%E3%83%B3%E3%83%86+C40)
 

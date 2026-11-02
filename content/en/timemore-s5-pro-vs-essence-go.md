@@ -18,6 +18,19 @@ The S5 Pro was my very first hand grinder. Mine is the green one, I use it every
 
 My one-line verdict on the Essence Go: it just spins so easily. The lightness of the handle when you start grinding is the difference you notice right away.
 
+## Impressions from actually using it (owner review)
+
+These notes are only about the green Timemore Chestnut S5 Pro, which has a folding handle. They are not about the Essence Go. The beans are from [Coffee Carrot (珈琲きゃろっと)](/beans/coffee-carrot/). That shop page is in Japanese.
+
+- Grinding enough for two cups takes about a minute.
+- It grinds with a light effort. I change the grind by clicking the outer dial, and making the cup stronger or lighter is genuinely easy.
+- The handle folds, so it stores compactly.
+- Taking it apart to clean is very easy.
+- I like the design. It has a solid, premium weight, and it is not too heavy. I like the green.
+- Grinding Coffee Carrot beans with the Timemore makes that coffee time feel like bliss.
+- I have no particular complaints. A finer grind does get reasonably heavier to turn.
+- With some beans, static builds up, and brushing the grounds into the dripper with the included brush is a little tedious.
+
 ## Specs compared (manufacturer figures)
 
 | | Timemore Chestnut S5 Pro | EPEIOS Essence Go |

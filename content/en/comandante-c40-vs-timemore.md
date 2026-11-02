@@ -15,6 +15,19 @@ We have not used a C40. What follows is the product page, FAQ, and manual we ope
 - **A German Nitro Blade, and a routine of counting clicks from zero** → C40 MK4. We have no notes on how it feels in the hand
 - **The lightest possible turning, or a grinder you can take apart and carry** → this is not a contest between these two. That role belongs to the [EPEIOS Essence Go](/en/articles/epeios-essence-go/). The C40 product page we opened did not list a weight in grams, so this page does not compare them by weight
 
+## Impressions from actually using it (owner review)
+
+These notes are only about the green Timemore Chestnut S5 Pro, which has a folding handle. We have not used the C40. The beans are from [Coffee Carrot (珈琲きゃろっと)](/beans/coffee-carrot/). That shop page is in Japanese.
+
+- Grinding enough for two cups takes about a minute.
+- It grinds with a light effort. I change the grind by clicking the outer dial, and making the cup stronger or lighter is genuinely easy.
+- The handle folds, so it stores compactly.
+- Taking it apart to clean is very easy.
+- I like the design. It has a solid, premium weight, and it is not too heavy. I like the green.
+- Grinding Coffee Carrot beans with the Timemore makes that coffee time feel like bliss.
+- I have no particular complaints. A finer grind does get reasonably heavier to turn.
+- With some beans, static builds up, and brushing the grounds into the dripper with the included brush is a little tedious.
+
 ## Where the specs differ
 
 | | Comandante C40 MK4 Nitro Blade | Timemore Chestnut S5 Pro |
@@ -52,7 +65,7 @@ The FAQ warns against removing the three screws that hold the bottom burr. Doing
 - Easy turning, or packing it into a case, comes first → **Essence Go**. Read [Timemore S5 Pro vs EPEIOS Essence Go](/en/articles/timemore-s5-pro-vs-essence-go/)
 - You want 1Zpresso models split into an espresso job and a drip job → the [1Zpresso hand grinder lineup](/en/articles/1zpresso-hand-grinder-lineup/)
 
-Burr size, weight, and where the grinder lives are covered in [how to choose your first hand grinder](/en/articles/how-to-choose-hand-coffee-mill/). This site's first look is still the S5 Pro and the Essence Go. The C40 is not placed in that order.
+Burr size, weight, and where the grinder lives are covered in [how to choose your first hand grinder](/en/articles/how-to-choose-hand-coffee-mill/). The owner's order, on the Japanese ranking, is the Chestnut S5 Pro, then the EPEIOS Essence Go, then the C40. We have not used the C40.
 
 {{grinder:timemore-chestnut-s5-pro}}
 
@@ -80,6 +93,8 @@ The beans I kept on subscription for about a year, because they tasted good, are
 - S5 Pro numbers are what [this site's review](/en/articles/timemore-chestnut-s5-pro/) copied from the official page on October 26, 2026
 
 ## Read next
+
+- [Three hand grinders for a slow, luxurious coffee](/en/articles/luxury-relaxed-coffee-mill-best3/)
 
 - [Timemore Chestnut S5 Pro review](/en/articles/timemore-chestnut-s5-pro/)
 - [Timemore S5 Pro vs EPEIOS Essence Go](/en/articles/timemore-s5-pro-vs-essence-go/)

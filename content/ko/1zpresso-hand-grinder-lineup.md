@@ -106,6 +106,7 @@ J-Ultra는 1Zpresso가 라인업에서 가장 촘촘하다고 부르는 8마이�
 
 ## 함께 보면 좋은 글
 
+- [여유 시간을 조금 더 호화롭게 만드는 핸드밀 베스트 3](/ko/articles/luxury-relaxed-coffee-mill-best3/)
 - [처음 사는 핸드 그라인더](/ko/articles/how-to-choose-hand-coffee-mill/)
 - [타임모어 S5 프로 리뷰](/ko/articles/timemore-chestnut-s5-pro/)
 - [에페이오스 에센스 고 리뷰](/ko/articles/epeios-essence-go/)
