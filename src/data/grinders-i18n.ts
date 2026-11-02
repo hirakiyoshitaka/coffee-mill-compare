@@ -64,6 +64,20 @@ export const grinderTexts: Record<string, Partial<Record<TranslationLocale, Grin
         "영점에서도 버 간격은 약 0.075mm. 힘이 한쪽으로 쏠리면 마찰음이 날 수 있다고 공식이 안내합니다",
       ],
     },
+    vi: {
+      name: "TIMEMORE Chestnut S5 Pro",
+      imageAlt: "TIMEMORE Chestnut S5 Pro màu xanh lá",
+      burrMaterial: "Thép không gỉ 420 TriB-048-I (CNC 5 trục, độ cứng 58HRC)",
+      adjustment: "Vòng chỉnh bên ngoài, 90 nấc mỗi vòng, mỗi nấc 15 micron",
+      priceJpyHint: "Trang chính thức Nhật ghi ¥25,800 (xem ngày 26/10/2026, giá đặt trước. Thuế và hàng còn hay hết, xem trên trang mua)",
+      highlight: "Chiếc máy xay người vận hành dùng mỗi ngày, màu xanh lá (tên chính thức Olive Green). Chủ yếu để pha pour-over. Khoảng 910 g, dùng hằng ngày ở nhà không thấy vướng.",
+      purchaseNote: "Trên trang được liên kết, chọn \"S5 Pro\" và màu xanh lá.",
+      cuppingNotes: ["Máy xay tay đặt lưỡi 48 mm trong thân rộng 56 mm", "Lựa chọn số 1 của trang này cho một chiếc để ở nhà"],
+      caveats: [
+        "Khối lượng chính thức khoảng 910 g. Có tay cầm gập, nhưng trang này không xếp nó là lựa chọn đầu tiên khi đi đường",
+        "Kể cả khi về 0, khe lưỡi vẫn khoảng 0.075 mm. Hãng lưu ý lực không đều có thể gây tiếng cọ",
+      ],
+    },
     en: {
       name: "TIMEMORE Chestnut S5 Pro",
       imageAlt: "TIMEMORE Chestnut S5 Pro in green",
@@ -120,6 +134,16 @@ export const grinderTexts: Record<string, Partial<Record<TranslationLocale, Grin
       cuppingNotes: ["이자키 히데노리 감수, 38mm・10날 핸드 그라인더", "분해해서 전용 케이스에 넣을 수 있다고 공식이 설명합니다"],
       caveats: ["스테디셀러 브랜드와의 비교는 개인의 추출 환경에 따라 다릅니다", "부품・지원 체계는 구매 전 공식 정보를 확인하세요"],
     },
+    vi: {
+      name: "EPEIOS Essence Go",
+      imageAlt: "EPEIOS Essence Go (ảnh sản phẩm trên trang chính thức EPEIOS)",
+      burrMaterial: "Lưỡi nón thép không gỉ (10 cánh, 38 mm)",
+      adjustment: "0–80 mức (số cố định trên trang, theo công bố của hãng)",
+      priceJpyHint: "¥23,100 (đã gồm thuế, số cố định trên trang theo giá hãng công bố; cập nhật tay khi giá đổi)",
+      highlight: "Hãng nói lưỡi 38 mm, 10 cánh được làm để những vòng đầu quay nhẹ, và có hộp đựng riêng. Một câu của người vận hành: \"quay nhẹ thật\".",
+      cuppingNotes: ["Máy xay tay lưỡi 38 mm, 10 cánh, do Hidenori Izaki giám sát", "Hãng mô tả có thể tháo ra và xếp vào hộp riêng"],
+      caveats: ["So với các hãng bán lâu năm thì kết quả tùy cách pha của từng người", "Phụ kiện và hỗ trợ sau bán, xem thông tin chính thức trước khi mua"],
+    },
     en: {
       name: "EPEIOS Essence Go",
       imageAlt: "EPEIOS Essence Go (official EPEIOS product photo)",
@@ -138,6 +162,7 @@ const typeLabels: Record<TranslationLocale, Record<GrinderType, string>> = {
   "zh-hk": { manual: "手磨", electric: "電動", hybrid: "混合式" },
   "zh-cn": { manual: "手摇", electric: "电动", hybrid: "混合式" },
   ko: { manual: "수동", electric: "전동", hybrid: "하이브리드" },
+  vi: { manual: "Quay tay", electric: "Điện", hybrid: "Kết hợp" },
   en: { manual: "Manual", electric: "Electric", hybrid: "Hybrid" },
 };
 

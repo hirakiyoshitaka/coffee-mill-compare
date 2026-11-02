@@ -9,6 +9,7 @@ const fontFamily: Record<TranslationLocale, string> = {
   "zh-hk": "Noto Sans HK",
   "zh-cn": "Noto Sans SC",
   ko: "Noto Sans KR",
+  vi: "Noto Sans",
   en: "Noto Sans",
 };
 

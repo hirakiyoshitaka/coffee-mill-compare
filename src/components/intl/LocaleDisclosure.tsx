@@ -62,6 +62,19 @@ const docs: Record<TranslationLocale, Doc> = {
       { h: "운영", p: [`${siteConfig.operatorName}. 연락처: ${siteConfig.contactEmail}`] },
     ],
   },
+  vi: {
+    title: "Công bố quảng cáo",
+    description: "Cách Hộp dụng cụ cho thời gian ở nhà ghi liên kết tiếp thị liên kết, nhãn PR đầu bài, thứ tự giới thiệu và giá tham khảo.",
+    updated: "Cập nhật lần cuối",
+    sections: [
+      { h: "Nói trước: trang này có quảng cáo", p: ["Trang này có quảng cáo và liên kết tiếp thị liên kết.", "Là thành viên Amazon Associates của Amazon Nhật (Amazon.co.jp), chúng tôi nhận hoa hồng từ các đơn hàng đủ điều kiện.", "Trang có thể nhận thù lao từ liên kết mua hàng. Theo quy định của Nhật về quảng cáo trá hình (Luật Biểu thị giải thưởng, 景品表示法), quảng cáo được ghi rõ: trước phần thân bài có dòng 「Quảng cáo (PR)」, phía trên tiêu đề cũng có PR, và chân mỗi trang có hai câu trên."] },
+      { h: "Liên kết nào là quảng cáo", p: ["Liên kết mua tới Rakuten, Amazon, Yahoo! Shopping, A8.net, cùng HTML dùng cho tiếp thị liên kết, đều là quảng cáo liên kết. Liên kết có rel=\"sponsored noopener\" và target=\"_blank\". Liên kết sản phẩm Amazon gắn thẻ liên kết tag=stocknotelife-22. Ảnh sản phẩm cũng có thể chính là liên kết mua (Amazon). Sản phẩm chưa có địa chỉ thì không hiện nút mua.", "Các chương trình đang tham gia hoặc dự định tham gia:"], list: programs },
+      { h: "Thứ tự không theo thù lao", p: ["Thứ tự bài và phần giới thiệu không xếp theo mức thù lao liên kết. Trang sắp theo nhu cầu sử dụng, thông số, giá tham khảo, và những điểm được nhắc đi nhắc lại trong đánh giá công khai. Điểm hương vị không có trong dữ liệu, hoặc giá thấp nhất bịa ra, trang này không viết."] },
+      { h: "Giá chỉ để tham khảo", p: ["Số tiền là 「giá tham khảo」 của thị trường Nhật (yên). Giá đổi theo cửa hàng, khuyến mãi, tỷ giá và lần điều chỉnh của hãng, không phải giá bán lẻ tại Việt Nam. Khi gửi qua AmazonGlobal, phí vận chuyển và thuế hiện ở trang thanh toán. Số tiền thực tế lấy theo trang cửa hàng."] },
+      { h: "Cách xử lý đánh giá", p: ["Phần đánh giá không chép một bài đăng hay số sao cụ thể. Ban biên tập gom những điểm được nhắc đi nhắc lại trên diễn đàn và bài đánh giá. Trang chỉ viết trải nghiệm cá nhân với đồ đã thực sự dùng."] },
+      { h: "Người vận hành", p: [`${siteConfig.operatorName}. Liên hệ: ${siteConfig.contactEmail}`] },
+    ],
+  },
   en: {
     title: "Advertising Disclosure",
     description: "How Ouchi Dougubako handles affiliate advertising, PR labels, rankings, and reference prices.",

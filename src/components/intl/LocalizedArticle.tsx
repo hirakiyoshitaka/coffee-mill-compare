@@ -46,6 +46,15 @@ const ui: Record<TranslationLocale, { og: string; home: string; pr: string; disc
     others: "다른 글",
     share: "이 글 공유하기",
   },
+  vi: {
+    og: "vi_VN",
+    home: "Bản tiếng Nhật",
+    pr: "Quảng cáo (PR)",
+    disclosure:
+      "Bài này có quảng cáo và liên kết tiếp thị liên kết. Trang là thành viên Amazon Associates (Amazon.co.jp) và có thể nhận hoa hồng khi bạn mua qua một số liên kết, không thêm chi phí cho bạn. Thứ tự giới thiệu không theo mức hoa hồng. Giá chỉ để tham khảo.",
+    others: "Bài khác",
+    share: "Chia sẻ bài này",
+  },
   en: {
     og: "en_US",
     home: "Japanese edition",
