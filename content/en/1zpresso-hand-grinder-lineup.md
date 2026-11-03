@@ -11,21 +11,56 @@ We have not used a 1Zpresso. There are no tasting notes on this page. Every numb
 
 If the grinder is going to live at home for daily pour-over, the one this site still points to first is the [Timemore Chestnut S5 Pro](/en/articles/timemore-chestnut-s5-pro/). Use the 1Zpresso list when you already know which job the grinder has to do.
 
-## The short answer
+## At a glance
 
-- **A lighter bag, and drip for one or two people** → Q2 S. If the gram count matters more than a folding handle, look at the Q Air
-- **A smaller burr, with drip and espresso both adjusted from the outside** → X-Ultra
-- **Pour-over, on a burr the maker describes as producing fewer fines** → ZP6 Special
-- **One grinder that has to cover more than one brew method** → K-Ultra
-- **The finest espresso clicks 1Zpresso publishes** → J-Ultra
+We have not used a 1Zpresso. This table is a review summary of the jobs the maker already separates, not a tasting. The figures match the spec table below and come from official pages opened on October 31, 2026.
+
+| If you need | Open this | One figure to keep |
+| --- | --- | --- |
+| A lighter bag, a folding handle, drip for one or two | Q2 S | 465g. Internal adjustment. Holds 15–20g |
+| The lightest in that same line, and the handle does not need to fold | Q Air | 365g. Holds 15–20g. The maker says the body and catch cup are plastic |
+| A smaller burr, with drip and espresso adjusted from the outside | X-Ultra | External. 12.5 microns per click. 590g |
+| Pour-over, on a burr the maker describes as producing fewer fines | ZP6 Special | 48mm hexagonal burr. 22 microns per click. 700g |
+| One grinder across more than one brew method | K-Ultra | External. 20 microns per click. 700g. That product page did not give a burr diameter |
+| The finest espresso click 1Zpresso publishes | J-Ultra | 8 microns per click. Coated 48mm burr. 670g |
 
 The official chooser still lists the J, JX-Pro S, JE-Plus, and X-Pro S, and it includes a click chart. This page stays with the five lines whose jobs are easiest to tell apart.
 
-If the grinder lives at home for pour-over, this site still points to the Chestnut S5 Pro first. For a lighter bag, start with the Q2 search and match the model name. Check the current price and stock on the store page.
+If the grinder lives at home for pour-over, this site still points to the Chestnut S5 Pro first. That is the one kept on the counter. For a lighter bag, start with the Q2 search and match the model name.
 
+The buttons below are affiliate links. Check the current price and stock on the store page. The first one is the Chestnut S5 Pro, for daily pour-over at home. The rest are search pages for the models in the table. Results mix in other model numbers, so match the name before you order.
+
+<!-- Same Amazon.co.jp URLs as the buttons below, kept as Markdown so the pick list still names them. -->
+<!--
 [Search for the Timemore Chestnut S5 Pro on Amazon.co.jp](https://www.amazon.co.jp/s?k=TIMEMORE+Chestnut+S5+Pro&tag=stocknotelife-22)
-
 [Search for the 1Zpresso Q2 on Amazon.co.jp](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=1Zpresso+Q2)
+[Search for the 1Zpresso X-Ultra on Amazon.co.jp](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=1Zpresso+X-Ultra)
+[Search for the 1Zpresso ZP6 on Amazon.co.jp](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=1Zpresso+ZP6)
+[Search for the 1Zpresso K-Ultra on Amazon.co.jp](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=1Zpresso+K-Ultra)
+[Search for the 1Zpresso J-Ultra on Amazon.co.jp](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=1Zpresso+J-Ultra)
+-->
+
+<div class="cta-after-table">
+<a href="https://www.amazon.co.jp/s?k=TIMEMORE+Chestnut+S5+Pro&amp;tag=stocknotelife-22" class="buy-link">Search for the Timemore Chestnut S5 Pro on Amazon.co.jp</a>
+<a href="https://www.amazon.co.jp/s?tag=stocknotelife-22&amp;k=1Zpresso+Q2" class="buy-link">Search for the 1Zpresso Q2 on Amazon.co.jp</a>
+<a href="https://www.amazon.co.jp/s?tag=stocknotelife-22&amp;k=1Zpresso+X-Ultra" class="buy-link">Search for the 1Zpresso X-Ultra on Amazon.co.jp</a>
+<a href="https://www.amazon.co.jp/s?tag=stocknotelife-22&amp;k=1Zpresso+ZP6" class="buy-link">Search for the 1Zpresso ZP6 on Amazon.co.jp</a>
+<a href="https://www.amazon.co.jp/s?tag=stocknotelife-22&amp;k=1Zpresso+K-Ultra" class="buy-link">Search for the 1Zpresso K-Ultra on Amazon.co.jp</a>
+<a href="https://www.amazon.co.jp/s?tag=stocknotelife-22&amp;k=1Zpresso+J-Ultra" class="buy-link">Search for the 1Zpresso J-Ultra on Amazon.co.jp</a>
+</div>
+
+## Next step
+
+Once the job is clear, these are the same-language pages that pick up from here.
+
+- [Three Hand Grinders for a Slow, Luxurious Coffee](/en/articles/luxury-relaxed-coffee-mill-best3/): first is the Chestnut S5 Pro, second is the EPEIOS Essence Go. I use both. Third is the Comandante C40, a review summary. I have not used it. The K-Ultra is only an also-consider on that page. We have not used it
+- [Timemore Chestnut S5 Pro Review](/en/articles/timemore-chestnut-s5-pro/): the hand grinder this site still points to for daily pour-over at home
+- [EPEIOS Essence Go Review](/en/articles/epeios-essence-go/): when you want light turning, or a grinder you can take apart and carry
+- [Timemore S5 Pro vs EPEIOS Essence Go](/en/articles/timemore-s5-pro-vs-essence-go/): the two I use, side by side
+- [Beginner Pour-Over Recipe](/en/articles/beginner-hand-drip-recipe/): a first V60 cup
+- [How to Choose a Coffee Grind Size](/en/articles/coffee-grind-size-guide/): espresso, moka, pour-over, French press, and cold brew are different sizes
+- [Japanese Craft Coffee Makers](/en/articles/japanese-premium-coffee-makers/): BALMUDA The Brew does not grind. A review summary. We have not used those machines
+- [Breville vs De'Longhi all-in-one espresso machines](/en/articles/breville-vs-delonghi-all-in-one-espresso/): when a machine grinds and brews the shot. A review summary. We have not used those machines
 
 ## Numbers from the official pages
 
@@ -98,19 +133,7 @@ The beans I kept on subscription for about a year, because they tasted good, are
 
 ## Price
 
-The official online shop lists prices in US dollars, before tax. Sales move the numbers. This page does not convert those prices into yen. Check the stock and the amount on the page where you buy.
-
-[Search for the 1Zpresso Q2 on Amazon.co.jp](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=1Zpresso+Q2)
-
-[Search for the 1Zpresso X-Ultra on Amazon.co.jp](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=1Zpresso+X-Ultra)
-
-[Search for the 1Zpresso ZP6 on Amazon.co.jp](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=1Zpresso+ZP6)
-
-[Search for the 1Zpresso K-Ultra on Amazon.co.jp](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=1Zpresso+K-Ultra)
-
-[Search for the 1Zpresso J-Ultra on Amazon.co.jp](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=1Zpresso+J-Ultra)
-
-Search results can mix in other model numbers. Match the model name on the product title before you order. Availability on Amazon.co.jp varies by region, so check the listing and the seller.
+The official online shop lists prices in US dollars, before tax. Sales move the numbers. This page does not convert those prices into yen. Check the stock and the amount on the page where you buy. The Amazon.co.jp search pages for these models are the buttons near the top, and they are repeated after the spec table. Search results can mix in other model numbers. Match the model name on the product title before you order. Availability on Amazon.co.jp varies by region, so check the listing and the seller.
 
 ## Sources
 

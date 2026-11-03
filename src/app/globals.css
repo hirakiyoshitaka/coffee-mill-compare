@@ -599,6 +599,16 @@ a.card-visual { display: block; color: inherit; text-decoration: none; }
 .article-body ol { list-style: decimal; }
 .article-body li { margin: 0.35rem 0; }
 .article-body a { color: var(--accent-dark); text-underline-offset: 4px; }
+.article-body .cta-after-table {
+  display: grid;
+  gap: 10px;
+  margin: 1.2rem 0 1.6rem;
+}
+.article-body a.buy-link,
+.article-body a.buy-link:hover {
+  color: white;
+  text-decoration: none;
+}
 .article-body strong { font-weight: 700; }
 .article-body blockquote {
   margin: 1.2rem 0;

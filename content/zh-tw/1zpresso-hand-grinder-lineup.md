@@ -13,21 +13,57 @@ date: "2026-10-31"
 
 > **給台灣讀者**：官方線上商店的標價是美元、未稅，特價時數字會動。這篇不換算成日圓，也不換算成台幣。Amazon.co.jp 的搜尋連結是日本商店；若標示可透過 AmazonGlobal 寄到台灣，運費與關稅在結帳時顯示，收件人需完成 EZ WAY 實名認證。庫存與金額請看結帳頁。
 
-## 先看結論
+## 先看這張表
 
-- **行李要輕、一兩人份的手沖** → Q2 S。克數比可折搖柄更重要時，看 Q Air
-- **刀盤小一號，手沖和義式都想從外面調** → X-Ultra
-- **手沖，而且官方寫成細粉比其他 1Zpresso 少的那一支** → ZP6 Special
-- **一台要跨過不只一種萃取** → K-Ultra
-- **義式的一格要官方寫成最細的** → J-Ultra
+站長沒有用過 1Zpresso。下面是官方已經分開的角色，是評測整理，不是試喝。數字與後文的規格表相同，都來自 2026 年 10 月 31 日打開的官方頁面。
+
+| 你要的 | 先看 | 先記的一點 |
+| --- | --- | --- |
+| 行李要輕、可折搖柄、一兩人份手沖 | Q2 S | 465g。內調。容量 15–20g |
+| 同一條裡更輕，搖柄可以不折 | Q Air | 365g。容量 15–20g。官方寫本體和接粉杯是塑膠 |
+| 刀盤小一號，手沖和義式都從外面調 | X-Ultra | 外調。一格 12.5 微米。590g |
+| 手沖，官方寫成細粉比其他 1Zpresso 少 | ZP6 Special | 48mm 六角刀。一格 22 微米。700g |
+| 一台要跨過不只一種萃取 | K-Ultra | 外調。一格 20 微米。700g。當天商品頁沒有寫刀盤直徑 |
+| 義式的一格要官方寫成最細 | J-Ultra | 一格 8 微米。有塗層的 48mm。670g |
 
 官方的選購頁還留著 J、JX-Pro S、JE-Plus、X-Pro S，點擊表也在那一頁。這篇只留角色比較分得開的五條。
 
-若磨豆機固定放在家裡手沖，本站仍先指栗子 S5 Pro。行李要輕、先看 Q 系列時，從 Q2 的搜尋頁對型號。價格和庫存以商店頁為準。
+若磨豆機固定放在家裡手沖，本站仍先指栗子 S5 Pro。那一台是站長每天在用的，用法以手沖為主。行李要輕、先看 Q 系列時，從 Q2 的搜尋頁對型號。
 
+以下是廣告連結（Amazon 聯盟）。價格和庫存以商店頁為準。第一顆是家裡手沖仍先開的栗子 S5 Pro。後面是表上各型的搜尋頁，結果會混進其他型號，請對商品名稱。
+
+<!-- Same Amazon.co.jp URLs as the buttons below, kept as Markdown so the pick list still names them. -->
+<!--
 [在 Amazon.co.jp 查看 TIMEMORE 栗子 S5 Pro](https://www.amazon.co.jp/dp/B0HF4LXCCY?tag=stocknotelife-22)
-
 [在 Amazon.co.jp 搜尋 1Zpresso Q2](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=1Zpresso+Q2)
+[在 Amazon.co.jp 搜尋 1Zpresso X-Ultra](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=1Zpresso+X-Ultra)
+[在 Amazon.co.jp 搜尋 1Zpresso ZP6](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=1Zpresso+ZP6)
+[在 Amazon.co.jp 搜尋 1Zpresso K-Ultra](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=1Zpresso+K-Ultra)
+[在 Amazon.co.jp 搜尋 1Zpresso J-Ultra](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=1Zpresso+J-Ultra)
+-->
+
+<div class="cta-after-table">
+<a href="https://www.amazon.co.jp/dp/B0HF4LXCCY?tag=stocknotelife-22" class="buy-link">在 Amazon.co.jp 查看 TIMEMORE 栗子 S5 Pro</a>
+<a href="https://www.amazon.co.jp/s?tag=stocknotelife-22&amp;k=1Zpresso+Q2" class="buy-link">在 Amazon.co.jp 搜尋 1Zpresso Q2</a>
+<a href="https://www.amazon.co.jp/s?tag=stocknotelife-22&amp;k=1Zpresso+X-Ultra" class="buy-link">在 Amazon.co.jp 搜尋 1Zpresso X-Ultra</a>
+<a href="https://www.amazon.co.jp/s?tag=stocknotelife-22&amp;k=1Zpresso+ZP6" class="buy-link">在 Amazon.co.jp 搜尋 1Zpresso ZP6</a>
+<a href="https://www.amazon.co.jp/s?tag=stocknotelife-22&amp;k=1Zpresso+K-Ultra" class="buy-link">在 Amazon.co.jp 搜尋 1Zpresso K-Ultra</a>
+<a href="https://www.amazon.co.jp/s?tag=stocknotelife-22&amp;k=1Zpresso+J-Ultra" class="buy-link">在 Amazon.co.jp 搜尋 1Zpresso J-Ultra</a>
+</div>
+
+## 下一步
+
+角色對上了，接著看同一語系裡接得上的文章。
+
+- [把悠閒時光過得講究一點的手搖磨豆機 最佳3台](/zh-tw/articles/luxury-relaxed-coffee-mill-best3/)：第1名栗子 S5 Pro、第2名 Epeios Essence Go 是站長在用的。第3名 Comandante C40 是評測整理，沒用過。K-Ultra 只出現在那篇的「也可以看看」，沒用過
+- [TIMEMORE 栗子 S5 Pro 評測](/zh-tw/articles/timemore-chestnut-s5-pro/)：放在家裡、每天手沖時，本站仍先指的那一台
+- [Epeios Essence Go 評測](/zh-tw/articles/epeios-essence-go/)：想轉起來輕，或拆開來帶出門
+- [讓手沖再升級的器具](/zh-tw/articles/hand-drip-upgrade-gear/)：細口壺、秤、濾杯
+- [手沖分享壺怎麼挑](/zh-tw/articles/coffee-server-guide/)：濾杯底下的壺
+- [法式濾壓壺怎麼挑](/zh-tw/articles/french-press-guide/)：粗研磨
+- [摩卡壺怎麼挑](/zh-tw/articles/moka-pot-guide/)：爐上的摩卡壺，比義式粗一階
+- [BALMUDA The Brew 與 TWINBIRD 全自動怎麼挑](/zh-tw/articles/japanese-premium-coffee-makers/)：不磨豆的滴濾，粉要另外準備。那三台是評測整理，站長沒有用過
+- [Breville 與 De'Longhi 怎麼挑](/zh-tw/articles/breville-vs-delonghi-all-in-one-espresso/)：改由機器從豆子做到飲品。那六台是評測整理，站長沒有用過
 
 ## 官方頁面的數字
 
@@ -100,19 +136,7 @@ J-Ultra 是官方稱為「1Zpresso 最細」的 8 微米一格。刀盤是有塗
 
 ## 價格
 
-官方線上商店顯示的是美元、未稅。特價會把數字挪走。這篇不寫換算後的日圓或台幣。庫存和金額請看購買那一頁。
-
-[在 Amazon.co.jp 搜尋 1Zpresso Q2](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=1Zpresso+Q2)
-
-[在 Amazon.co.jp 搜尋 1Zpresso X-Ultra](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=1Zpresso+X-Ultra)
-
-[在 Amazon.co.jp 搜尋 1Zpresso ZP6](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=1Zpresso+ZP6)
-
-[在 Amazon.co.jp 搜尋 1Zpresso K-Ultra](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=1Zpresso+K-Ultra)
-
-[在 Amazon.co.jp 搜尋 1Zpresso J-Ultra](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=1Zpresso+J-Ultra)
-
-搜尋結果會混進其他型號。請在商品名稱裡對一下型號，再看能不能寄到你的地區。
+官方線上商店顯示的是美元、未稅。特價會把數字挪走。這篇不寫換算後的日圓或台幣。庫存和金額請看購買那一頁。各型的 Amazon.co.jp 搜尋頁在文首的按鈕，規格表後面也有一次。搜尋結果會混進其他型號。請在商品名稱裡對一下型號，再看能不能寄到你的地區。
 
 ## 資料來源
 
@@ -125,7 +149,5 @@ J-Ultra 是官方稱為「1Zpresso 最細」的 8 微米一格。刀盤是有塗
 - [ZP6 Special](https://1zpresso.coffee/product/zp6-special/)
 - [K-Ultra](https://1zpresso.coffee/product/kultra/)
 - [J-Ultra](https://1zpresso.coffee/j-ultra/)
-
-悠閒早晨的三台見[手搖磨豆機最佳3台](/zh-tw/articles/luxury-relaxed-coffee-mill-best3/)。那篇的第3名是 Comandante C40，屬評測整理。K-Ultra 只在「也可以看看」裡出現，沒用過。
 
 文中的購買連結含廣告（Amazon 聯盟，以及磨豆機與豆子卡片上已設定的連結）。說明見[廣告揭露](/zh-tw/disclosure/)。

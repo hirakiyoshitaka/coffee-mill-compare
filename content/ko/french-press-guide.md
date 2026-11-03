@@ -15,12 +15,49 @@ date: "2026-11-01"
 
 일본 아마존(Amazon.co.jp)은 AmazonGlobal로 한국 배송을 여는 상품이 있습니다. 배송 가능 여부, 배송비, 관세·부가세는 상품마다 다르고 결제 화면에 나옵니다. 유리 제품은 배송이 막히는 경우도 있으니, 결제 전에 그 상품 페이지에서 확인하세요.
 
-## 먼저 결론
+## 먼저 이 표
 
-- **한두 사람분 유리이고, 식기세척기 표시가 있는 일본제** → HARIO 카페프레스 U의 300mL(2잔용). 인원이 늘면 같은 형의 600mL
-- **망을 이중으로 하고 싶을 때** → 하리오르 7. 사양표의 본체는 내열 유리이고, 망과 뚜껑 주변이 스테인리스입니다. 페이지 앞머리의 「올 스테인리스」와 쓰는 말이 다릅니다
-- **제조사가 시간과 물 온도를 공개한 큰 유리** → BODUM 샹보르. 이 글이 연 품번의 용량은 34온스입니다
-- **분쇄도** → 굵게. 이 사이트에서 공식 프렌치프레스 범위까지 확인한 손밀은 [타임모어 S5 프로](/ko/articles/timemore-chestnut-s5-pro/)뿐이고, 눈금의 출발점은 8.0–9.0입니다
+운영자는 여기 적은 프레스를 쓰지 않았습니다. 아래는 공식 페이지의 역할 정리이고, 시음이 아닙니다.
+
+| 먼저 고르는 사람 | 기종 | 용량 |
+| --- | --- | --- |
+| 한두 사람, 식기세척기 표시가 있는 일본제 유리 | HARIO 카페프레스 U（CPU-2-B） | 300mL・2잔용 |
+| 같은 형으로 인원이 늘 때 | HARIO 카페프레스 U（CPU-4-B） | 600mL・4잔용 |
+| 망을 이중으로 보고 싶을 때 | 하리오르 7 | 300mL 또는 600mL. 사양표의 본체는 내열 유리. 페이지 앞머리의 「올 스테인리스」와 쓰는 말이 다름 |
+| 제조사가 시간과 물 온도를 적어 둔 큰 유리 | BODUM 샹보르（1928-16US4） | 34온스. 절차는 물 92–96℃, 4분 |
+
+분쇄는 굵게. 이 사이트에서 공식 프렌치프레스 범위까지 확인한 손밀은 [타임모어 S5 프로](/ko/articles/timemore-chestnut-s5-pro/)뿐이고, 눈금의 출발점은 8.0–9.0입니다. 운영자가 매일 쓰는 것은 그린의 이 S5 프로이고, 용도는 드립이 중심입니다. 프렌치프레스로 내린 기록은 없습니다.
+
+아래는 광고 링크입니다. 가격과 재고는 상점 페이지에서 확인하세요. 검색 결과에는 다른 용량과 티포트가 섞입니다. 품번과 용량을 상품명에서 맞추세요.
+
+<!-- Same Amazon.co.jp URLs as the buttons below, kept as Markdown so the pick list still names them. -->
+<!--
+[Amazon.co.jp에서 HARIO 카페프레스 U 보기](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=HARIO+%E3%82%AB%E3%83%95%E3%82%A7%E3%83%97%E3%83%AC%E3%82%B9)
+[Amazon.co.jp에서 HARIO 하리오르 7 보기](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=%E3%83%8F%E3%83%AA%E3%82%AA%E3%83%BC%E3%83%AB)
+[Amazon.co.jp에서 BODUM 샹보르 보기](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=BODUM+CHAMBORD)
+-->
+
+<div class="cta-after-table">
+<a href="https://www.amazon.co.jp/s?tag=stocknotelife-22&amp;k=HARIO+%E3%82%AB%E3%83%95%E3%82%A7%E3%83%97%E3%83%AC%E3%82%B9" class="buy-link">Amazon.co.jp에서 HARIO 카페프레스 U 보기</a>
+<a href="https://www.amazon.co.jp/s?tag=stocknotelife-22&amp;k=%E3%83%8F%E3%83%AA%E3%82%AA%E3%83%BC%E3%83%AB" class="buy-link">Amazon.co.jp에서 HARIO 하리오르 7 보기</a>
+<a href="https://www.amazon.co.jp/s?tag=stocknotelife-22&amp;k=BODUM+CHAMBORD" class="buy-link">Amazon.co.jp에서 BODUM 샹보르 보기</a>
+</div>
+
+## 다음에 볼 글
+
+같은 언어로, 이어서 보면 좋은 글입니다.
+
+- [여유 시간을 조금 더 호화롭게 만드는 핸드밀 베스트 3](/ko/articles/luxury-relaxed-coffee-mill-best3/): 1위 타임모어 S5 프로, 2위 에페이오스 에센스 고는 운영자가 씁니다. 3위 코만단테 C40은 리뷰 정리이고, 쓰지 않았습니다
+- [타임모어 S5 프로 리뷰](/ko/articles/timemore-chestnut-s5-pro/): 프렌치프레스 눈금 8.0–9.0의 출처. 매일 쓰는 용도는 드립
+- [에페이오스 에센스 고 리뷰](/ko/articles/epeios-essence-go/): 추출 방식별 권장 번호는 그 글의 데이터에 없습니다
+- [타임모어 S5 프로 vs 에페이오스 에센스 고](/ko/articles/timemore-s5-pro-vs-essence-go/): 운영자가 쓰는 두 대를 나란히 둔 글
+- [1Zpresso 핸드밀 라인업](/ko/articles/1zpresso-hand-grinder-lineup/): 한 칸의 폭은 S5 프로의 8.0–9.0과 같은 자가 아닙니다. 리뷰 정리이고, 쓰지 않았습니다
+- [처음 사는 핸드 그라인더](/ko/articles/how-to-choose-hand-coffee-mill/)
+- [핸드밀 vs 전동 그라인더](/ko/articles/hand-vs-electric-coffee-mill/)
+- [모카포트 고르는 법](/ko/articles/moka-pot-guide/): 불 위에 올려 물을 밀어 올리는 다른 기구
+- [커피 서버 고르는 법](/ko/articles/coffee-server-guide/): 드리퍼 아래에서 커피만 받는 용기
+- [발뮤다 더 브루와 트윈버드](/ko/articles/japanese-premium-coffee-makers/): 버튼으로 내리는 드립 머신. 리뷰 정리이고, 쓰지 않았습니다
+- [브레빌 vs 드롱기](/ko/articles/breville-vs-delonghi-all-in-one-espresso/): 그라인더가 들어 있는 에스프레소 머신. 리뷰 정리이고, 쓰지 않았습니다
 
 ## 공식 페이지의 숫자
 
@@ -95,15 +132,4 @@ date: "2026-11-01"
 - [BODUM 샹보르(품번 1928-16US4)](https://www.bodum.com/us/en/1928-16us4-chambord)
 - S5 프로의 프렌치프레스 8.0–9.0은 [리뷰](/ko/articles/timemore-chestnut-s5-pro/)가 공식에서 옮긴 범위
 
-## 함께 보면 좋은 글
-
-- [모카포트 고르는 법](/ko/articles/moka-pot-guide/)
-- [커피 서버 고르는 법](/ko/articles/coffee-server-guide/)
-- [1Zpresso 핸드밀 라인업](/ko/articles/1zpresso-hand-grinder-lineup/)
-- [발뮤다 더 브루와 트윈버드](/ko/articles/japanese-premium-coffee-makers/)
-- [브레빌 vs 드롱기](/ko/articles/breville-vs-delonghi-all-in-one-espresso/)
-- [처음 사는 핸드 그라인더](/ko/articles/how-to-choose-hand-coffee-mill/)
-- [타임모어 S5 프로 리뷰](/ko/articles/timemore-chestnut-s5-pro/)
-- [에페이오스 에센스 고 리뷰](/ko/articles/epeios-essence-go/)
-
-이 글의 구매 링크에는 광고가 포함됩니다(아마존 어소시에이트, 그라인더 카드와 원두 링크에 이미 들어 있는 구매 링크). 자세한 내용은 [광고 고지](/ko/disclosure/)를 보세요.
+이 글의 구매 링크에는 광고가 포함됩니다(아마존 어소시에이트, 그라인더 카드와 원두 링크에 이미 들어 있는 구매 링크). 같은 언어의 다음 글은 앞쪽 「다음에 볼 글」에 모아 두었습니다. 자세한 내용은 [광고 고지](/ko/disclosure/)를 보세요.
