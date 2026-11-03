@@ -30,27 +30,7 @@ date: "2026-10-31"
 
 若磨豆機固定放在家裡手沖，本站仍先指栗子 S5 Pro。那一台是站長每天在用的，用法以手沖為主。行李要輕、先看 Q 系列時，從 Q2 的搜尋頁對型號。
 
-以下是廣告連結（Amazon 聯盟）。價格和庫存以商店頁為準。第一顆是家裡手沖仍先開的栗子 S5 Pro。後面是表上各型的搜尋頁，結果會混進其他型號，請對商品名稱。
-
-<!-- Same Amazon.co.jp URLs as the buttons below, kept as Markdown so the pick list still names them. -->
-<!--
-[在 Amazon.co.jp 查看 TIMEMORE 栗子 S5 Pro](https://www.amazon.co.jp/dp/B0HF4LXCCY?tag=stocknotelife-22)
-[在 Amazon.co.jp 搜尋 1Zpresso Q2](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=1Zpresso+Q2)
-[在 Amazon.co.jp 搜尋 1Zpresso X-Ultra](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=1Zpresso+X-Ultra)
-[在 Amazon.co.jp 搜尋 1Zpresso ZP6](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=1Zpresso+ZP6)
-[在 Amazon.co.jp 搜尋 1Zpresso K-Ultra](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=1Zpresso+K-Ultra)
-[在 Amazon.co.jp 搜尋 1Zpresso J-Ultra](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=1Zpresso+J-Ultra)
--->
-
-<div class="cta-after-table">
-<a href="https://www.amazon.co.jp/dp/B0HF4LXCCY?tag=stocknotelife-22" class="buy-link">在 Amazon.co.jp 查看 TIMEMORE 栗子 S5 Pro</a>
-<a href="https://www.amazon.co.jp/s?tag=stocknotelife-22&amp;k=1Zpresso+Q2" class="buy-link">在 Amazon.co.jp 搜尋 1Zpresso Q2</a>
-<a href="https://www.amazon.co.jp/s?tag=stocknotelife-22&amp;k=1Zpresso+X-Ultra" class="buy-link">在 Amazon.co.jp 搜尋 1Zpresso X-Ultra</a>
-<a href="https://www.amazon.co.jp/s?tag=stocknotelife-22&amp;k=1Zpresso+ZP6" class="buy-link">在 Amazon.co.jp 搜尋 1Zpresso ZP6</a>
-<a href="https://www.amazon.co.jp/s?tag=stocknotelife-22&amp;k=1Zpresso+K-Ultra" class="buy-link">在 Amazon.co.jp 搜尋 1Zpresso K-Ultra</a>
-<a href="https://www.amazon.co.jp/s?tag=stocknotelife-22&amp;k=1Zpresso+J-Ultra" class="buy-link">在 Amazon.co.jp 搜尋 1Zpresso J-Ultra</a>
-</div>
-
+本頁不放 Amazon 購買按鈕。家裡手沖仍先看栗子 S5 Pro 的評測。磨豆機卡片上已設定的樂天或 Shopee 連結才是廣告。
 ## 下一步
 
 角色對上了，接著看同一語系裡接得上的文章。
@@ -79,16 +59,6 @@ date: "2026-10-31"
 出處在文末。Q 系列的旅行文案寫「465g」。同一頁的表把 465g 放在 Q2 S、Q 是 480g、Q Air 是 365g。請用表。官方也寫 Q 和 Q Air 用的是較新、比較好轉的七角刀，和 Q2 S 不是同一支。
 
 表上各型的搜尋頁。結果會混進其他型號，請對商品名稱。價格和庫存以商店頁為準。
-
-[在 Amazon.co.jp 搜尋 1Zpresso Q2](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=1Zpresso+Q2)
-
-[在 Amazon.co.jp 搜尋 1Zpresso X-Ultra](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=1Zpresso+X-Ultra)
-
-[在 Amazon.co.jp 搜尋 1Zpresso ZP6](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=1Zpresso+ZP6)
-
-[在 Amazon.co.jp 搜尋 1Zpresso K-Ultra](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=1Zpresso+K-Ultra)
-
-[在 Amazon.co.jp 搜尋 1Zpresso J-Ultra](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=1Zpresso+J-Ultra)
 
 ## 誰先看哪一台
 
@@ -136,7 +106,7 @@ J-Ultra 是官方稱為「1Zpresso 最細」的 8 微米一格。刀盤是有塗
 
 ## 價格
 
-官方線上商店顯示的是美元、未稅。特價會把數字挪走。這篇不寫換算後的日圓或台幣。庫存和金額請看購買那一頁。各型的 Amazon.co.jp 搜尋頁在文首的按鈕，規格表後面也有一次。搜尋結果會混進其他型號。請在商品名稱裡對一下型號，再看能不能寄到你的地區。
+官方線上商店顯示的是美元、未稅。特價會把數字挪走。這篇不寫換算後的日圓或台幣。庫存和金額請看購買那一頁。
 
 ## 資料來源
 
@@ -150,4 +120,4 @@ J-Ultra 是官方稱為「1Zpresso 最細」的 8 微米一格。刀盤是有塗
 - [K-Ultra](https://1zpresso.coffee/product/kultra/)
 - [J-Ultra](https://1zpresso.coffee/j-ultra/)
 
-文中的購買連結含廣告（Amazon 聯盟，以及磨豆機與豆子卡片上已設定的連結）。說明見[廣告揭露](/zh-tw/disclosure/)。
+本頁不放 Amazon 購買按鈕。磨豆機卡片與珈琲きゃろっと的連結，已設定的才是廣告。說明見[廣告揭露](/zh-tw/disclosure/)。

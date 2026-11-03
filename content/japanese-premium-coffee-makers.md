@@ -5,6 +5,21 @@ category: "coffee-maker"
 date: "2026-11-01"
 ---
 
+<aside class="article-picks" aria-label="おすすめ結論">
+<h2>おすすめ結論</h2>
+<p class="fine">レビューまとめです。運営者はこの3台を使っていません。【体験：要記入】楽天の購入ボタンは、この3台用のアフィリエイトURLが無いので出していません。価格と在庫はリンク先で確認してください。</p>
+<ul>
+<li>抽出を眺めたい、豆は自分で挽く：バルミューダ ザ・ブリュー</li>
+<li>豆から全自動で家族分：ツインバード CM-D465B</li>
+<li>同じ作り方を1〜2人分：ツインバード CM-D457B</li>
+</ul>
+<div class="cta-after-table">
+<a href="https://www.amazon.co.jp/dp/B09DY6CDHZ?tag=stocknotelife-22" class="buy-link">バルミューダ ザ・ブリューをAmazonで見る（広告）</a>
+<a href="https://www.amazon.co.jp/dp/B081SWNSGW?tag=stocknotelife-22" class="buy-link">ツインバード CM-D465BをAmazonで見る（広告）</a>
+<a href="https://www.amazon.co.jp/dp/B07HFP6H3L?tag=stocknotelife-22" class="buy-link">ツインバード CM-D457BをAmazonで見る（広告）</a>
+</div>
+</aside>
+
 ボタンひとつで、ハンドドリップのような一杯を。日本のメーカーは「機械で淹れても、職人の手つきに近づける」ことにこだわったコーヒーメーカーを作ってきました。今回は、デザインと抽出の精密さで選ばれる**バルミューダ ザ・ブリュー**と、カフェ・バッハ店主の田口護氏が監修し、燕三条製の刃を使ったミルを内蔵する**ツインバードの全自動コーヒーメーカー**（6杯用と3杯用）を比べます。
 
 正直にお伝えすると、**運営者はこの3台を使っていません。** メーカー公式の仕様、販売店の表示、価格.comやAmazonに寄せられた購入者の口コミ、実際に試したレビュー動画をもとにまとめています。価格は【2026年11月1日時点】の目安です。変わりやすいので、リンク先で確認してください。
@@ -32,7 +47,9 @@ date: "2026-11-01"
 - **口コミで多い評価**：Amazonでは5点中4.3（166件）。見た目の美しさ、抽出を眺める楽しさ、すっきりした味わいが好評です。
 - **気になる点**：価格.comのレビュー平均は3.45（24件）と、評価が分かれています。ミルはないので別に用意が必要で、抽出量は最大3杯分。保温機能もないため、淹れたらすぐ飲む人向けです。
 
-[バルミューダ ザ・ブリューをAmazonで見る](https://www.amazon.co.jp/dp/B09DY6CDHZ?tag=stocknotelife-22)
+<div class="cta-after-table">
+<a href="https://www.amazon.co.jp/dp/B09DY6CDHZ?tag=stocknotelife-22" class="buy-link">バルミューダ ザ・ブリューをAmazonで見る（広告）</a>
+</div>
 [バルミューダ公式サイトで見る](https://www.balmuda.com/jp/brew)
 
 > 豆を挽く道具もそろえるなら、[電動コーヒーミルの選び方](/articles/electric-coffee-grinder-guide/)や[はじめての手挽きコーヒーミルの選び方](/articles/how-to-choose-hand-coffee-mill/)も参考にしてください。
@@ -44,7 +61,9 @@ date: "2026-11-01"
 - **口コミで多い評価**：価格.comのレビュー平均は4.53（21件）、Amazonは5点中4.4（420件）。味の良さを挙げる声が目立ちます。
 - **気になる点**：高さ42.5cmと背が高く、置き場所を選びます。
 
-[ツインバード CM-D465BをAmazonで見る](https://www.amazon.co.jp/dp/B081SWNSGW?tag=stocknotelife-22)
+<div class="cta-after-table">
+<a href="https://www.amazon.co.jp/dp/B081SWNSGW?tag=stocknotelife-22" class="buy-link">ツインバード CM-D465BをAmazonで見る（広告）</a>
+</div>
 
 ## ツインバード CM-D457B（3杯用）：同じ味の作りを、コンパクトに
 
@@ -53,7 +72,9 @@ CM-D465Bと同じミル・湯温・挽き目で、容量を3杯（450ml）にし
 - **口コミで多い評価**：価格.comのレビュー平均は4.46（40件）、Amazonは5点中4.4（822件）。パナソニックから買い替えた購入者が「肝心なのは味」として高く評価するレビューもあります。
 - **気になる点**：コーヒー店のYouTubeチャンネル「Nif Coffee」の[レビュー動画](https://www.youtube.com/watch?v=TxNSjOgK1K8)では、3杯分を挽くのに約4分16秒かかったこと、水と豆を毎回自分で量る必要があることが指摘されています。価格.comでもミルの手入れを面倒に感じる声があります。
 
-[ツインバード CM-D457BをAmazonで見る](https://www.amazon.co.jp/dp/B07HFP6H3L?tag=stocknotelife-22)
+<div class="cta-after-table">
+<a href="https://www.amazon.co.jp/dp/B07HFP6H3L?tag=stocknotelife-22" class="buy-link">ツインバード CM-D457BをAmazonで見る（広告）</a>
+</div>
 [ツインバード公式ストアで見る](https://store.twinbird.jp/products/cmd457)
 
 ## まとめ
@@ -64,4 +85,12 @@ CM-D465Bと同じミル・湯温・挽き目で、容量を3杯（450ml）にし
 
 ほかの淹れ方も比べたい人は[コーヒーメーカーの選び方](/articles/coffee-maker-guide/)、ラテやエスプレッソ派は[家庭用ラテ・エスプレッソマシン](/articles/home-latte-espresso-machines/)へ。挽き目の違いは[コーヒーの挽き目の選び方](/articles/coffee-grind-size-guide/)で解説しています。
 
-このページのAmazonリンクはアフィリエイトリンクです。メーカー公式サイトへのリンクは広告ではありません。方針は[広告表記](/disclosure/)にまとめています。
+## 購入リンク
+
+<div class="cta-after-table">
+<a href="https://www.amazon.co.jp/dp/B09DY6CDHZ?tag=stocknotelife-22" class="buy-link">バルミューダ ザ・ブリューをAmazonで見る（広告）</a>
+<a href="https://www.amazon.co.jp/dp/B081SWNSGW?tag=stocknotelife-22" class="buy-link">ツインバード CM-D465BをAmazonで見る（広告）</a>
+<a href="https://www.amazon.co.jp/dp/B07HFP6H3L?tag=stocknotelife-22" class="buy-link">ツインバード CM-D457BをAmazonで見る（広告）</a>
+</div>
+
+このページのAmazonリンクはアフィリエイトリンクです。メーカー公式サイトへのリンクは広告ではありません。楽天の購入ボタンは、この3台用のアフィリエイトURLが無いので出していません。方針は[広告表記](/disclosure/)にまとめています。

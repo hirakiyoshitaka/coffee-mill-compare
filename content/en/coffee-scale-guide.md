@@ -26,18 +26,10 @@ Even with the same beans and the same grind setting, small changes in the amount
 - **Mid range**: faster response, water resistance, auto-start timers.
 - **Premium**: flow-rate display, app connectivity, and more.
 
-[Browse coffee scales with timers on Amazon.co.jp](https://www.amazon.co.jp/s?k=coffee+scale+with+timer&tag=stocknotelife-22)
-
-[Browse water-resistant pour-over scales on Amazon.co.jp](https://www.amazon.co.jp/s?k=waterproof+pour+over+coffee+scale&tag=stocknotelife-22)
-
 Check the price and specs on the product page before buying.
 
 ## Pair it with a good grinder
 
 A scale shines alongside a consistent grinder. See [how to choose your first hand grinder](/en/articles/how-to-choose-hand-coffee-mill/), [Timemore S5 Pro vs EPEIOS Essence Go](/en/articles/timemore-s5-pro-vs-essence-go/), or the [coffee grind size guide](/en/articles/coffee-grind-size-guide/).
-
-[Search for the Timemore Chestnut S5 Pro on Amazon.co.jp](https://www.amazon.co.jp/s?k=TIMEMORE+Chestnut+S5+Pro&tag=stocknotelife-22)
-
-[Search for the EPEIOS Essence Go on Amazon.co.jp](https://www.amazon.co.jp/s?k=EPEIOS+Essence+Go+grinder&tag=stocknotelife-22)
 
 Some links on this page are ads. See our [disclosure](/en/disclosure/) for details.

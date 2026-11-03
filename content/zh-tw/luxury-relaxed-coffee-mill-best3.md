@@ -34,8 +34,6 @@ date: "2026-11-02"
 
 {{grinder:timemore-chestnut-s5-pro}}
 
-[在 Amazon.co.jp 搜尋 TIMEMORE S5 Pro](https://www.amazon.co.jp/s?k=TIMEMORE+S5+Pro&tag=stocknotelife-22)
-
 ## 2. Epeios Essence Go
 
 第2名是站長也有的另一台，Epeios Essence Go。
@@ -45,8 +43,6 @@ date: "2026-11-02"
 拆開來放進專用盒，是官方的說明。長文是 [Essence Go 評測](/zh-tw/articles/epeios-essence-go/)。
 
 {{grinder:epeios-essence-go}}
-
-[在 Amazon.co.jp 查看 Epeios Essence Go](https://www.amazon.co.jp/dp/B0D3PZHGBX?tag=stocknotelife-22)
 
 ## 3. Comandante C40 MK4｜評測整理
 
@@ -60,15 +56,11 @@ date: "2026-11-02"
 
 詳細對照是日文的[C40 與栗子 S5 Pro 比較](/articles/comandante-c40-vs-timemore/)。這篇不另寫使用感受。
 
-[在 Amazon.co.jp 搜尋 Comandante C40](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=%E3%82%B3%E3%83%9E%E3%83%B3%E3%83%80%E3%83%B3%E3%83%86+C40)
-
 搜尋結果會混進其他型號。請確認商品名稱是 MK4 的 Nitro Blade。
 
 ## 也可以看看
 
 1Zpresso K-Ultra 不在這三台裡。沒用過。官方把它放在一台涵蓋多種萃取的位置，說明見[1Zpresso 手搖磨豆機怎麼挑](/zh-tw/articles/1zpresso-hand-grinder-lineup/)。
-
-[在 Amazon.co.jp 搜尋 1Zpresso K-Ultra](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=1Zpresso+K-Ultra)
 
 ## 磨完之後的豆子
 

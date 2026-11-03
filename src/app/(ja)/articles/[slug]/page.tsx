@@ -9,6 +9,7 @@ import { categoryHref, getCategory } from "@/data/categories";
 import { formatJaDate, siteConfig } from "@/data/site";
 import { LanguageSwitcher } from "@/components/intl/LanguageSwitcher";
 import { articleLanguageAlternates, articleLocalePaths, getAllArticles, getArticle } from "@/lib/articles";
+import { articleHasQuickPick } from "@/lib/article-picks";
 import { pageMeta } from "@/lib/seo";
 import { GrinderCard } from "@/components/GrinderCard";
 import { ShareButtons } from "@/components/ShareButtons";
@@ -47,6 +48,7 @@ export default async function ArticlePage({ params }: Props) {
   const category = getCategory(article.category);
   const others = getAllArticles().filter((item) => item.slug !== article.slug);
   const related = [...others.filter((item) => item.category === article.category), ...others.filter((item) => item.category !== article.category)];
+  const ownConclusion = articleHasQuickPick(article.content);
   const siteUrl = getSiteUrl();
   const pageUrl = `${siteUrl}/articles/${article.slug}/`;
   const grinderIds = [...new Set([...article.content.matchAll(/\{\{grinder:([a-z0-9-]+)\}\}/g)].map((m) => m[1]))];
@@ -104,8 +106,8 @@ export default async function ArticlePage({ params }: Props) {
       </header>
       <PrNotice />
       <div className="mt-8">
-        <QuickPick title={article.title} markdown={article.content} locale="ja" />
-        <ArticlePicks title={article.title} markdown={article.content} quickPick />
+        {ownConclusion ? null : <QuickPick title={article.title} markdown={article.content} locale="ja" />}
+        {ownConclusion ? null : <ArticlePicks title={article.title} markdown={article.content} quickPick />}
         <ArticleBody markdown={article.content} />
       </div>
       {endModels.length > 0 ? (

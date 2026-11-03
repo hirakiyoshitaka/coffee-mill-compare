@@ -66,7 +66,7 @@ date: "2026-10-27"
 
 일본 아마존(Amazon.co.jp)은 AmazonGlobal을 통해 한국으로 배송합니다. 다만 배송비와 배송 가능 여부는 상품마다 다르며, 관세·부가세 예상액과 함께 결제 화면에서 확인하세요.
 
-- [Amazon.co.jp에서 타임모어 S5 프로 보기](https://www.amazon.co.jp/s?k=TIMEMORE+S5+Pro&tag=stocknotelife-22)
+- [Amazon.co.jp에서 타임모어 S5 프로 보기](https://www.amazon.co.jp/dp/B0HF4LXCCY?tag=stocknotelife-22)
 
 여유 있는 아침을 위한 세 대는 [핸드밀 베스트 3](/ko/articles/luxury-relaxed-coffee-mill-best3/)입니다. 3위 코만단테 C40은 리뷰 정리이고, 쓰지 않았습니다.
 

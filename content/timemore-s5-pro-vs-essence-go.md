@@ -63,7 +63,7 @@ Essence Go は 38mm・10枚刃。公式は、刃の枚数で摩擦を減らし�
 
 掲載している価格の目安は、どちらもおよそ1万円を超えます。価格は変動します。数値の横並びは[スペック比較](/compare/)です。
 
-[タイムモア 栗子 S5 Pro を Amazon で見る（広告）](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=TIMEMORE+%E6%A0%97%E5%AD%90+S5+Pro)
+[タイムモア 栗子 S5 Pro を Amazon で見る（広告）](https://www.amazon.co.jp/dp/B0HF4LXCCY?tag=stocknotelife-22)
 
 [エペイオス Essence Go を Amazon で見る（広告）](https://www.amazon.co.jp/dp/B0D3PZHGBX?tag=stocknotelife-22)
 

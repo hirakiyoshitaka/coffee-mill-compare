@@ -37,16 +37,6 @@ For the [EPEIOS Essence Go](/en/articles/epeios-essence-go/), the published data
 
 The same gap shows up on grinders this site has not used. The [1Zpresso lineup](/en/articles/1zpresso-hand-grinder-lineup/) lists a different step for the Q series, the X-Ultra, the ZP6 Special, the K-Ultra, and the J-Ultra. The [Comandante C40 comparison](/en/articles/comandante-c40-vs-timemore/) does not treat a C40 click as an S5 Pro number. The official pages we opened did not publish microns per click for the C40.
 
-[Search for the 1Zpresso X-Ultra on Amazon.co.jp](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=1Zpresso+X-Ultra)
-
-[Search for the 1Zpresso ZP6 on Amazon.co.jp](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=1Zpresso+ZP6)
-
-[Search for the 1Zpresso K-Ultra on Amazon.co.jp](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=1Zpresso+K-Ultra)
-
-[Search for the 1Zpresso J-Ultra on Amazon.co.jp](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=1Zpresso+J-Ultra)
-
-[Search for the Comandante C40 on Amazon.co.jp](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=%E3%82%B3%E3%83%9E%E3%83%B3%E3%83%80%E3%83%B3%E3%83%86+C40)
-
 ## Setting the dial on a hand grinder
 
 1. If the maker publishes a range for that brew method, start there. If it does not, make the first pour-over a little finer than the middle of the dial, and make the first French press or cold brew on the coarse side.
@@ -84,10 +74,6 @@ The beans I kept on subscription for about a year, because they tasted good, are
 
 This site does not list French press or moka pot models. Check capacity and heat source on the product page. Prices change.
 
-[Browse French presses on Amazon.co.jp](https://www.amazon.co.jp/s?k=french+press+coffee&tag=stocknotelife-22)
-
-[Browse moka pots on Amazon.co.jp](https://www.amazon.co.jp/s?k=moka+pot&tag=stocknotelife-22)
-
 ## Read next
 
 - [How to choose your first hand grinder](/en/articles/how-to-choose-hand-coffee-mill/)
@@ -101,4 +87,4 @@ This site does not list French press or moka pot models. Check capacity and heat
 - [Comandante C40 vs Timemore Chestnut S5 Pro](/en/articles/comandante-c40-vs-timemore/)
 - [Japanese craft coffee makers: BALMUDA The Brew vs TWINBIRD](/en/articles/japanese-premium-coffee-makers/)
 
-Some links on this page are ads (the Amazon Associate links above, and the purchase links already set on the grinder cards). See our [disclosure](/en/disclosure/) for details.
+Purchase links that remain on the grinder cards and the Coffee Carrot button are ads. This English page does not show Amazon purchase buttons. See our [disclosure](/en/disclosure/) for details.

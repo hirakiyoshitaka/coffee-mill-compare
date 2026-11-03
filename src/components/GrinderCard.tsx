@@ -76,7 +76,7 @@ export function GrinderCard({ model: baseModel, variant = "tile", locale = "ja",
     return (
       <aside className="product-card my-8">
         <div className="grid sm:grid-cols-[14rem_minmax(0,1fr)]">
-          <ProductVisual model={model} variant="embed" />
+          <ProductVisual model={model} variant="embed" locale={locale} />
           {body}
         </div>
       </aside>
@@ -85,7 +85,7 @@ export function GrinderCard({ model: baseModel, variant = "tile", locale = "ja",
 
   return (
     <article className="product-card flex h-full flex-col">
-      <ProductVisual model={model} />
+      <ProductVisual model={model} locale={locale} />
       {body}
     </article>
   );

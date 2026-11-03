@@ -35,8 +35,6 @@ Figures that show up often in search sit around 90–96°C, with lighter roasts 
 
 If your kettle can hold a set temperature, start the first cup at a stand-in of 93°C. If the cup is bitter or harsh, lower it. If it is thin, or the acidity is all that is left, raise it. Treat 93°C as a place to start, not as Hario's figure.
 
-[HARIO V60 Drip Kettle Fit on Amazon.co.jp](https://www.amazon.co.jp/dp/B07C9GG9XH?tag=stocknotelife-22)
-
 ## Medium-fine, and a click number that belongs to one grinder
 
 Hario asks for a medium-fine grind. How that grind is usually described, and which way it tends to drift, is the [coffee grind size guide](/en/articles/coffee-grind-size-guide/).
@@ -45,8 +43,6 @@ The only hand grinder whose official range for each brew method this site has ch
 
 The grinder I use every day is that S5 Pro, in green, mostly for pour-over. I have not logged times for this 12g recipe on it. How to choose the grinder is in [how to choose your first hand grinder](/en/articles/how-to-choose-hand-coffee-mill/). If you are still deciding between the two grinders this site actually uses, see [Timemore S5 Pro vs EPEIOS Essence Go](/en/articles/timemore-s5-pro-vs-essence-go/).
 
-[Search for the EPEIOS Essence Go on Amazon.co.jp](https://www.amazon.co.jp/s?k=EPEIOS+Essence+Go+grinder&tag=stocknotelife-22)
-
 {{grinder:timemore-chestnut-s5-pro}}
 
 ## Weighing comes before the rest of the kit
@@ -54,10 +50,6 @@ The grinder I use every day is that S5 Pro, in green, mostly for pour-over. I ha
 1. **Dripper and paper.** This recipe is for the V60 cone and its single large hole. Hario says to rinse the filter so the paper smell comes off.
 2. **A scale.** Guessing at 12g, 24g, and 48g will not get you back to the same cup the next morning. See [how to choose a coffee scale](/en/articles/coffee-scale-guide/).
 3. **A kettle that pours a thin stream.** This recipe assumes you can draw that spiral.
-
-[HARIO V60 Dripper 01 on Amazon.co.jp](https://www.amazon.co.jp/dp/B0BWGTYRTW?tag=stocknotelife-22)
-
-[TIMEMORE Black Mirror Basic 2.0 on Amazon.co.jp](https://www.amazon.co.jp/dp/B07YCSF8VP?tag=stocknotelife-22)
 
 Prices change. We have not used the V60 dripper, the kettle, or the scale linked on this page.
 
@@ -93,4 +85,4 @@ I kept a [Coffee Carrot (珈琲きゃろっと)](/beans/coffee-carrot/) subscrip
 - [Timemore S5 Pro vs EPEIOS Essence Go](/en/articles/timemore-s5-pro-vs-essence-go/)
 - [EPEIOS Essence Go review](/en/articles/epeios-essence-go/)
 
-Some links on this page are ads (the Amazon Associate links above, and the purchase links already set on the grinder card). See our [disclosure](/en/disclosure/) for details.
+Purchase links that remain on the grinder card and the Coffee Carrot button are ads. This English page does not show Amazon purchase buttons. See our [disclosure](/en/disclosure/) for details.

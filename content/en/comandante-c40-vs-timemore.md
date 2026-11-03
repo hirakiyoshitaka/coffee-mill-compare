@@ -75,11 +75,7 @@ Burr size, weight, and where the grinder lives are covered in [how to choose you
 
 The S5 Pro amount, with the date it was seen, is kept on the review. Copying that number onto this page would drift away from the store. A yen price for the C40 was not on the official product page opened on October 31, 2026. This page does not place either grinder inside a beginner budget. Prices and stock move.
 
-[Search for the Comandante C40 on Amazon.co.jp](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=%E3%82%B3%E3%83%9E%E3%83%B3%E3%83%80%E3%83%B3%E3%83%86+C40)
-
-[Search for the Timemore Chestnut S5 Pro on Amazon.co.jp](https://www.amazon.co.jp/s?k=TIMEMORE+Chestnut+S5+Pro&tag=stocknotelife-22)
-
-Other model numbers show up in the same search. On a C40, confirm MK4 and Nitro Blade in the product title. On an S5 Pro, confirm "S5 Pro" and the color. Availability on Amazon.co.jp varies by region, so check the listing and the seller.
+On a C40, confirm MK4 and Nitro Blade in the product title. On an S5 Pro, confirm "S5 Pro" and the color. This English page does not show Amazon purchase buttons.
 
 The beans I kept on subscription for about a year, because they tasted good, are from [Coffee Carrot (珈琲きゃろっと)](/beans/coffee-carrot/). That shop page is in Japanese.
 
@@ -104,4 +100,4 @@ The beans I kept on subscription for about a year, because they tasted good, are
 - [EPEIOS Essence Go review](/en/articles/epeios-essence-go/)
 - [Hand vs electric coffee grinders](/en/articles/hand-vs-electric-coffee-mill/)
 
-Some links on this page are ads (the Amazon Associate links above, and the purchase links already set on the grinder cards). See our [disclosure](/en/disclosure/) for details.
+Purchase links that remain on the grinder cards are ads. This English page does not show Amazon purchase buttons. See our [disclosure](/en/disclosure/) for details.

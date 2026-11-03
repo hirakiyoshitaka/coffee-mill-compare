@@ -34,7 +34,7 @@ Nếu muốn bắt đầu buổi sáng thong thả bằng khoảng thời gian �
 
 {{grinder:timemore-chestnut-s5-pro}}
 
-[Tìm TIMEMORE S5 Pro trên Amazon.co.jp](https://www.amazon.co.jp/s?k=TIMEMORE+S5+Pro&tag=stocknotelife-22)
+[Xem TIMEMORE S5 Pro trên Amazon.co.jp](https://www.amazon.co.jp/dp/B0HF4LXCCY?tag=stocknotelife-22)
 
 ## 2. EPEIOS Essence Go
 
@@ -46,7 +46,7 @@ Tháo ra rồi cho vào hộp riêng là lời của hãng.
 
 {{grinder:epeios-essence-go}}
 
-[Tìm EPEIOS Essence Go trên Amazon.co.jp](https://www.amazon.co.jp/s?k=EPEIOS+Essence+Go+grinder&tag=stocknotelife-22)
+[Xem EPEIOS Essence Go trên Amazon.co.jp](https://www.amazon.co.jp/dp/B0D3PZHGBX?tag=stocknotelife-22)
 
 ## 3. Comandante C40 MK4 — tóm tắt đánh giá
 

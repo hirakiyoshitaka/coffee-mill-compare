@@ -20,8 +20,6 @@ date: "2026-11-01"
 
 上面先看的是一兩人份的 Cafe Press U。價格和庫存請在商店頁確認。
 
-[在 Amazon.co.jp 搜尋 HARIO Cafe Press U](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=HARIO+%E3%82%AB%E3%83%95%E3%82%A7%E3%83%97%E3%83%AC%E3%82%B9)
-
 ## 官方頁面的數字
 
 HARIO 兩款的重量都是「含外盒」，不是壺身本身的克數。建議零售價是含稅的廠商標價，不是 Amazon 賣多少。BODUM 那一頁標的是美元，所以這篇不寫日圓售價。
@@ -38,12 +36,6 @@ HARIO 兩款的重量都是「含外盒」，不是壺身本身的克數。建�
 
 表上三個系列的搜尋頁如下。結果會混進其他容量，請對型號。價格和庫存以商店頁為準。
 
-[在 Amazon.co.jp 搜尋 HARIO Cafe Press U](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=HARIO+%E3%82%AB%E3%83%95%E3%82%A7%E3%83%97%E3%83%AC%E3%82%B9)
-
-[在 Amazon.co.jp 搜尋 HARIO Harior 7](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=%E3%83%8F%E3%83%AA%E3%82%AA%E3%83%BC%E3%83%AB)
-
-[在 Amazon.co.jp 搜尋 BODUM Chambord](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=BODUM+CHAMBORD)
-
 ## 哪一款先看
 
 ### HARIO Cafe Press U
@@ -52,15 +44,11 @@ Cafe Press U 是口徑 90mm 的耐熱玻璃。官方寫：可以萃出咖啡油�
 
 微波爐和明火都沒有標示。請把它當成不能放上火的玻璃。
 
-[在 Amazon.co.jp 搜尋 HARIO Cafe Press U](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=HARIO+%E3%82%AB%E3%83%95%E3%82%A7%E3%83%97%E3%83%AC%E3%82%B9)
-
 ### HARIO Harior 7
 
 Harior 7 的說明文字是「全不鏽鋼」「濾網雙層」。同一頁的規格表則寫：本體是耐熱玻璃「HARIO Glass」，蓋子、旋鈕、握把座、中軸和整組濾網是不鏽鋼。下單前請看規格表裡各零件的材質。雙層濾網是說明文字裡的特徵，本站沒有拆開來數過有幾層。
 
 2 杯用含外盒約 500g，建議零售價含稅 6,600 日圓。4 杯用約 600g，含稅 7,150 日圓。口徑 90mm，原產國日本。熱源標示和 Cafe Press U 一樣，只有熱水和洗碗機。
-
-[在 Amazon.co.jp 搜尋 HARIO Harior 7](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=%E3%83%8F%E3%83%AA%E3%82%AA%E3%83%BC%E3%83%AB)
 
 ### BODUM Chambord
 
@@ -69,8 +57,6 @@ Chambord 是 BODUM 放在法式濾壓玻璃壺系列的產品。2026 年 11 月 
 同一頁對「一杯」的定義是約 4 盎司。34 除以 4 是幾杯，這篇不自己換算。其他型號的容量，請看該型號的頁面。盎司是那一頁用的液量單位，這篇也不換算成毫升。
 
 頁面上的步驟是：粗研磨，每杯（約 4 盎司）平茶匙 1 匙，或 BODUM 勺 1 勺。水溫 92–96℃，上方至少留 2.5cm。用塑膠或木匙攪拌，蓋上壺嘴，等 4 分鐘，再把壓桿慢慢壓下。這是 BODUM 的說明，不是本站計時的萃取紀錄。HARIO 那兩款的頁面沒有寫這個時間和水溫。
-
-[在 Amazon.co.jp 搜尋 BODUM Chambord](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=BODUM+CHAMBORD)
 
 搜尋結果會混進茶壺和其他容量。請用型號和容量對一下商品名稱。
 
@@ -103,4 +89,4 @@ Chambord 是 BODUM 放在法式濾壓玻璃壺系列的產品。2026 年 11 月 
 - [BODUM Chambord（型號 1928-16US4）](https://www.bodum.com/us/en/1928-16us4-chambord)
 - S5 Pro 的法壓 8.0–9.0，是[評測](/zh-tw/articles/timemore-chestnut-s5-pro/)從官方轉載的範圍
 
-文中的購買連結含廣告（Amazon 聯盟，以及磨豆機與豆子卡片上已設定的連結）。說明見[廣告揭露](/zh-tw/disclosure/)。
+本頁不放 Amazon 購買按鈕。磨豆機卡片與珈琲きゃろっと的連結，已設定的才是廣告。說明見[廣告揭露](/zh-tw/disclosure/)。

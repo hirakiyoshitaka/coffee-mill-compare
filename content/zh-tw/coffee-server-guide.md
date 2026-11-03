@@ -20,8 +20,6 @@ date: "2026-11-01"
 
 上面先看的是要放 V60、頁面標示蓋著蓋子也能進微波爐的 Range Server。價格和庫存請在商店頁確認。
 
-[在 Amazon.co.jp 搜尋 HARIO V60 Range Server](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=HARIO+V60+%E3%83%AC%E3%83%B3%E3%82%B8%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC)
-
 ## 官方頁面的數字
 
 HARIO 的重量是「含外盒」。Kalita 把本體重量和商品重量分開寫。價格是當天官方頁面上的含稅價，不是 Amazon 賣多少。
@@ -39,12 +37,6 @@ Range Server 頁面上的價格是製造商建議零售價。Kalita 的金額是
 
 表上三條的搜尋頁如下。結果會混進濾杯和馬克杯，請對它是分享壺，以及型號。價格和庫存以商店頁為準。
 
-[在 Amazon.co.jp 搜尋 HARIO V60 Range Server](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=HARIO+V60+%E3%83%AC%E3%83%B3%E3%82%B8%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC)
-
-[在 Amazon.co.jp 搜尋 Kalita 咖啡分享壺](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=%E3%82%AB%E3%83%AA%E3%82%BF+%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC)
-
-[在 Amazon.co.jp 搜尋 HARIO V60 金屬咖啡分享壺](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=HARIO+%E3%83%A1%E3%82%BF%E3%83%AB%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC)
-
 ## 壺口要和濾杯對上
 
 ### HARIO V60 Range Server
@@ -52,8 +44,6 @@ Range Server 頁面上的價格是製造商建議零售價。Kalita 的金額是
 官方寫：有約略的刻度和杯子標示、蓋著蓋子可以進微波爐、蓋著蓋子也能放上 V60 濾杯，收納方便。01、02、03 哪一個尺寸放得上去，打開的頁面沒有寫號碼。能放的尺寸請在購買頁確認。
 
 熱水、微波爐、洗碗機有標示，烤箱、感應爐、明火沒有。請當成不能把玻璃放上火。HARIO 手沖配方裡的一杯 120mL，是另一份使用說明 PDF 上的數字，和這一頁的「1–3 杯」不是同一頁。不要只靠這台壺的頁面，去換算一杯有幾毫升。
-
-[在 Amazon.co.jp 搜尋 HARIO V60 Range Server](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=HARIO+V60+%E3%83%AC%E3%83%B3%E3%82%B8%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC)
 
 ### Kalita 300 Server N 與 500 Server N
 
@@ -63,15 +53,11 @@ Range Server 頁面上的價格是製造商建議零售價。Kalita 的金額是
 
 Kalita 的常見問題裡，針對該公司耐熱玻璃的一般說明是：耐熱溫差 120℃ 不是「只能用到 120℃」，而是急熱急冷的溫差。這不是本站把 300 Server N 和 500 Server N 的個別試驗結果轉載過來。不要放明火、不要放烤箱、不要空燒，也是那一頁對玻璃的一般文句。
 
-[在 Amazon.co.jp 搜尋 Kalita 咖啡分享壺](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=%E3%82%AB%E3%83%AA%E3%82%BF+%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC)
-
 ### HARIO V60 金屬咖啡分享壺
 
 戶外向的頁面寫：可以放明火再加熱、三角形不容易讓香氣散掉。實用容量 500mL，型號 O-VCSM-50-HSV，含外盒約 400g，建議零售價含稅 4,400 日圓。本體、蓋子、握把是不鏽鋼，原產國中國。
 
 有標示的是熱水、洗碗機、明火。微波爐沒有標示。不要把它當成可以進微波爐的金屬容器。和玻璃的 Range Server 比，再加熱的地方不一樣。
-
-[在 Amazon.co.jp 搜尋 HARIO V60 金屬咖啡分享壺](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=HARIO+%E3%83%A1%E3%82%BF%E3%83%AB%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC)
 
 搜尋結果會混進濾杯和馬克杯。請在商品名稱裡對一下它是分享壺，以及型號。
 
@@ -103,4 +89,4 @@ Kalita 的常見問題裡，針對該公司耐熱玻璃的一般說明是：耐�
 - [Kalita 500 Server N](https://www.kalita.co.jp/products/copper/1948)
 - [Kalita 耐熱玻璃的問答](https://www.kalita.co.jp/support/)
 
-文中的購買連結含廣告（Amazon 聯盟，以及磨豆機與豆子卡片上已設定的連結）。說明見[廣告揭露](/zh-tw/disclosure/)。
+本頁不放 Amazon 購買按鈕。磨豆機卡片與珈琲きゃろっと的連結，已設定的才是廣告。說明見[廣告揭露](/zh-tw/disclosure/)。

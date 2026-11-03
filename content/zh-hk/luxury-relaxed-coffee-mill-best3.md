@@ -34,7 +34,7 @@ date: "2026-11-02"
 
 {{grinder:timemore-chestnut-s5-pro}}
 
-[在 Amazon.co.jp 查看 TIMEMORE 栗子 S5 Pro](https://www.amazon.co.jp/s?k=TIMEMORE+S5+Pro&tag=stocknotelife-22)
+[在 Amazon.co.jp 查看 TIMEMORE 栗子 S5 Pro](https://www.amazon.co.jp/dp/B0HF4LXCCY?tag=stocknotelife-22)
 
 ## 2. Epeios Essence Go
 

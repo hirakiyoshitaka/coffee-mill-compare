@@ -23,7 +23,7 @@ date: "2026-11-01"
 | 放進豆子，人數多 | TWINBIRD CM-D465B | 研磨、悶蒸、注水都在機器裡。6 杯（900mL）。高 42.5cm |
 | 放進豆子，一兩人、機身矮一些 | TWINBIRD CM-D457B | 磨豆、水溫、粗細檔位和上一台同一套。3 杯（450mL）。高 36cm |
 
-想看著它沖的人，先開 The Brew 的商品頁。參考價格在下面這張表，購買按鈕接在表後。
+想看著它沖的人，先看 The Brew。參考價格在下面這張表。本頁不放 Amazon 購買按鈕。
 
 ## 三台對照
 
@@ -35,21 +35,7 @@ date: "2026-11-01"
 
 出處：[價格.com（The Brew）](https://kakaku.com/item/K0001382816/)、[價格.com（CM-D465B）](https://kakaku.com/item/K0001203222/)、[價格.com（CM-D457B）](https://kakaku.com/item/K0001097505/)、[TWINBIRD 官方商店](https://store.twinbird.jp/products/cmd457)，以及 Amazon.co.jp 的商品頁。官方商店與「實售」不是同一種標價，請分開看。官方商店不是廣告。
 
-以下是廣告連結（Amazon 聯盟）。價格和庫存以商店頁為準。各機種的小節裡也留了同一個商品頁。
-
-<!-- Same Amazon.co.jp URLs as the buttons below, kept as Markdown so the pick list still names them. -->
-<!--
-[在 Amazon.co.jp 查看 BALMUDA The Brew](https://www.amazon.co.jp/dp/B09DY6CDHZ?tag=stocknotelife-22)
-[在 Amazon.co.jp 查看 TWINBIRD CM-D465B](https://www.amazon.co.jp/dp/B081SWNSGW?tag=stocknotelife-22)
-[在 Amazon.co.jp 查看 TWINBIRD CM-D457B](https://www.amazon.co.jp/dp/B07HFP6H3L?tag=stocknotelife-22)
--->
-
-<div class="cta-after-table">
-<a href="https://www.amazon.co.jp/dp/B09DY6CDHZ?tag=stocknotelife-22" class="buy-link">在 Amazon.co.jp 查看 BALMUDA The Brew</a>
-<a href="https://www.amazon.co.jp/dp/B081SWNSGW?tag=stocknotelife-22" class="buy-link">在 Amazon.co.jp 查看 TWINBIRD CM-D465B</a>
-<a href="https://www.amazon.co.jp/dp/B07HFP6H3L?tag=stocknotelife-22" class="buy-link">在 Amazon.co.jp 查看 TWINBIRD CM-D457B</a>
-</div>
-
+本頁不放 Amazon 購買按鈕。已登錄的 Amazon 聯盟標籤只有日本的，海外用的標籤沒有收錄。官方商店不是廣告。
 ## 下一步
 
 粉若要另外磨，或想改另一種萃取，同一語系可以接著看這些。
@@ -70,8 +56,6 @@ date: "2026-11-01"
 - **購買者常稱讚的**：Amazon 日本 5 分制 4.3（166 則）。外型、看著萃取的過程、尾韻比較乾淨，這幾點出現得比較多
 - **評價會分開的地方**：價格.com 的平均是 3.45（24 則），並不是一面倒。沒有內建磨豆，最多 3 杯，也沒有保溫。適合沖完就喝的人
 
-[在 Amazon.co.jp 查看 BALMUDA The Brew](https://www.amazon.co.jp/dp/B09DY6CDHZ?tag=stocknotelife-22)
-
 [BALMUDA 官方網站](https://www.balmuda.com/jp/brew)
 
 官方網站不是廣告。The Brew 不磨豆。本站放在家裡、每天手沖用的是狩獵綠的[栗子 S5 Pro](/zh-tw/articles/timemore-chestnut-s5-pro/)。想轉起來輕、或拆開來帶出門，見 [Epeios Essence Go](/zh-tw/articles/epeios-essence-go/)。若要按旅行、手沖、義式把 1Zpresso 分開看，見[1Zpresso 手搖磨豆機怎麼挑](/zh-tw/articles/1zpresso-hand-grinder-lineup/)。刻度不能從 S5 Pro 抄過去。
@@ -83,16 +67,12 @@ TWINBIRD 在新潟燕三條。這台用低速平刀，減少摩擦熱；蓮蓬�
 - **購買者常稱讚的**：價格.com 平均 4.53（21 則），Amazon 日本 5 分制 4.4（420 則）。提到味道的比例比較高
 - **要先量的**：高度 42.5cm，廚櫃下方不一定放得進去
 
-[在 Amazon.co.jp 查看 TWINBIRD CM-D465B](https://www.amazon.co.jp/dp/B081SWNSGW?tag=stocknotelife-22)
-
 ## TWINBIRD CM-D457B（3 杯）：同一套做法，機身矮一截
 
 磨豆、水溫、粗細檔位和 CM-D465B 相同，容量改成 3 杯（450mL），高度 36cm。2018 年上市後一直有人買。2026 年 11 月 1 日，價格.com 咖啡機暢銷排行是 1,105 項裡的第 7 名。這是當天的排名，不是長期名次。
 
 - **購買者常稱讚的**：價格.com 平均 4.46（40 則），Amazon 日本 5 分制 4.4（822 則）。也看得到從 Panasonic 換過來、把「好喝」放在前面的評價
 - **被指出的地方**：咖啡店 YouTube 頻道 Nif Coffee 的[評測影片](https://www.youtube.com/watch?v=TxNSjOgK1K8)裡，磨 3 杯大約花了 4 分 16 秒，水和豆每次都要自己量。價格.com 上也有人覺得磨豆機不好清
-
-[在 Amazon.co.jp 查看 TWINBIRD CM-D457B](https://www.amazon.co.jp/dp/B07HFP6H3L?tag=stocknotelife-22)
 
 [TWINBIRD 官方商店](https://store.twinbird.jp/products/cmd457)
 
@@ -106,4 +86,4 @@ TWINBIRD 在新潟燕三條。這台用低速平刀，減少摩擦熱；蓮蓬�
 
 想自己手沖、再挑濾杯底下的壺，見[讓手沖再升級的器具](/zh-tw/articles/hand-drip-upgrade-gear/)和[手沖分享壺怎麼挑](/zh-tw/articles/coffee-server-guide/)。拿鐵和內建磨豆的義式咖啡機是另一類，見[在家做拿鐵・義式濃縮](/zh-tw/articles/home-latte-espresso-machines/)與[Breville 與 De'Longhi 怎麼挑](/zh-tw/articles/breville-vs-delonghi-all-in-one-espresso/)。
 
-文中的 Amazon 連結含廣告（聯盟標籤 stocknotelife-22）。廠商官方網站不是廣告。說明見[廣告揭露](/zh-tw/disclosure/)。
+本頁不放 Amazon 購買按鈕。廠商官方網站不是廣告。說明見[廣告揭露](/zh-tw/disclosure/)。

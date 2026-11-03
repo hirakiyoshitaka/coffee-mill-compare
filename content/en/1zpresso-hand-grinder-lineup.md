@@ -28,27 +28,7 @@ The official chooser still lists the J, JX-Pro S, JE-Plus, and X-Pro S, and it i
 
 If the grinder lives at home for pour-over, this site still points to the Chestnut S5 Pro first. That is the one kept on the counter. For a lighter bag, start with the Q2 search and match the model name.
 
-The buttons below are affiliate links. Check the current price and stock on the store page. The first one is the Chestnut S5 Pro, for daily pour-over at home. The rest are search pages for the models in the table. Results mix in other model numbers, so match the name before you order.
-
-<!-- Same Amazon.co.jp URLs as the buttons below, kept as Markdown so the pick list still names them. -->
-<!--
-[Search for the Timemore Chestnut S5 Pro on Amazon.co.jp](https://www.amazon.co.jp/s?k=TIMEMORE+Chestnut+S5+Pro&tag=stocknotelife-22)
-[Search for the 1Zpresso Q2 on Amazon.co.jp](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=1Zpresso+Q2)
-[Search for the 1Zpresso X-Ultra on Amazon.co.jp](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=1Zpresso+X-Ultra)
-[Search for the 1Zpresso ZP6 on Amazon.co.jp](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=1Zpresso+ZP6)
-[Search for the 1Zpresso K-Ultra on Amazon.co.jp](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=1Zpresso+K-Ultra)
-[Search for the 1Zpresso J-Ultra on Amazon.co.jp](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=1Zpresso+J-Ultra)
--->
-
-<div class="cta-after-table">
-<a href="https://www.amazon.co.jp/s?k=TIMEMORE+Chestnut+S5+Pro&amp;tag=stocknotelife-22" class="buy-link">Search for the Timemore Chestnut S5 Pro on Amazon.co.jp</a>
-<a href="https://www.amazon.co.jp/s?tag=stocknotelife-22&amp;k=1Zpresso+Q2" class="buy-link">Search for the 1Zpresso Q2 on Amazon.co.jp</a>
-<a href="https://www.amazon.co.jp/s?tag=stocknotelife-22&amp;k=1Zpresso+X-Ultra" class="buy-link">Search for the 1Zpresso X-Ultra on Amazon.co.jp</a>
-<a href="https://www.amazon.co.jp/s?tag=stocknotelife-22&amp;k=1Zpresso+ZP6" class="buy-link">Search for the 1Zpresso ZP6 on Amazon.co.jp</a>
-<a href="https://www.amazon.co.jp/s?tag=stocknotelife-22&amp;k=1Zpresso+K-Ultra" class="buy-link">Search for the 1Zpresso K-Ultra on Amazon.co.jp</a>
-<a href="https://www.amazon.co.jp/s?tag=stocknotelife-22&amp;k=1Zpresso+J-Ultra" class="buy-link">Search for the 1Zpresso J-Ultra on Amazon.co.jp</a>
-</div>
-
+This English page does not show Amazon purchase buttons. The grinders this site actually uses still have Rakuten and Shopee links on their cards, where those URLs are already on file.
 ## Next step
 
 Once the job is clear, these are the same-language pages that pick up from here.
@@ -76,16 +56,6 @@ Once the job is clear, these are the same-language pages that pick up from here.
 Sources are at the end of the page. The Q Series travel copy says "465g." On the same page, the table assigns 465g to the Q2 S, 480g to the Q, and 365g to the Q Air. Use the table. The maker also says the Q and the Q Air use a newer heptagonal burr, described as easier to turn, and that this burr is not the one in the Q2 S.
 
 Search pages for the models in the table. Results mix in other model numbers, so match the name before you order. Check the current price and stock on the store page.
-
-[Search for the 1Zpresso Q2 on Amazon.co.jp](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=1Zpresso+Q2)
-
-[Search for the 1Zpresso X-Ultra on Amazon.co.jp](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=1Zpresso+X-Ultra)
-
-[Search for the 1Zpresso ZP6 on Amazon.co.jp](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=1Zpresso+ZP6)
-
-[Search for the 1Zpresso K-Ultra on Amazon.co.jp](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=1Zpresso+K-Ultra)
-
-[Search for the 1Zpresso J-Ultra on Amazon.co.jp](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=1Zpresso+J-Ultra)
 
 ## Who each one is for
 
@@ -121,8 +91,6 @@ The J-Ultra is the 8-micron step that 1Zpresso calls the finest in its range. Th
 
 For a German click grinder set next to the S5 Pro, read [Comandante C40 vs Timemore Chestnut S5 Pro](/en/articles/comandante-c40-vs-timemore/).
 
-[Search for the Comandante C40 on Amazon.co.jp](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=%E3%82%B3%E3%83%9E%E3%83%B3%E3%83%80%E3%83%B3%E3%83%86+C40)
-
 {{grinder:timemore-chestnut-s5-pro}}
 
 {{grinder:epeios-essence-go}}
@@ -133,7 +101,7 @@ The beans I kept on subscription for about a year, because they tasted good, are
 
 ## Price
 
-The official online shop lists prices in US dollars, before tax. Sales move the numbers. This page does not convert those prices into yen. Check the stock and the amount on the page where you buy. The Amazon.co.jp search pages for these models are the buttons near the top, and they are repeated after the spec table. Search results can mix in other model numbers. Match the model name on the product title before you order. Availability on Amazon.co.jp varies by region, so check the listing and the seller.
+The official online shop lists prices in US dollars, before tax. Sales move the numbers. This page does not convert those prices into yen. Check the stock and the amount on the page where you buy.
 
 ## Sources
 
@@ -147,4 +115,4 @@ Official pages opened on October 31, 2026.
 - [K-Ultra](https://1zpresso.coffee/product/kultra/)
 - [J-Ultra](https://1zpresso.coffee/j-ultra/)
 
-Some links on this page are ads (the Amazon Associate links above, and the purchase links already set on the grinder cards). See our [disclosure](/en/disclosure/) for details.
+Purchase links that remain on the grinder cards and the Coffee Carrot button are ads. This English page does not show Amazon purchase buttons. See our [disclosure](/en/disclosure/) for details.

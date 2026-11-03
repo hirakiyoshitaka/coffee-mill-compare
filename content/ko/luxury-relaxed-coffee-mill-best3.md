@@ -34,7 +34,7 @@ date: "2026-11-02"
 
 {{grinder:timemore-chestnut-s5-pro}}
 
-[Amazon.co.jp에서 타임모어 S5 프로 보기](https://www.amazon.co.jp/s?k=TIMEMORE+S5+Pro&tag=stocknotelife-22)
+[Amazon.co.jp에서 타임모어 S5 프로 보기](https://www.amazon.co.jp/dp/B0HF4LXCCY?tag=stocknotelife-22)
 
 ## 2. 에페이오스 에센스 고
 

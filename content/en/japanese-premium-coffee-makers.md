@@ -27,8 +27,6 @@ Amazon.co.jp ships many items internationally, and the CM-D457B is listed with i
 
 I have not used these machines. The lines above summarize owner reviews that the sections below quote in more detail. If you want to watch it brew, open The Brew listing first and check the current price and stock.
 
-[See BALMUDA The Brew on Amazon Japan](https://www.amazon.co.jp/dp/B09DY6CDHZ?tag=stocknotelife-22)
-
 ## At a glance
 
 | Model | Type | Grinder | Capacity | Brew temp | Price (Japan) |
@@ -39,13 +37,7 @@ I have not used these machines. The lines above summarize owner reviews that the
 
 Sources: [Kakaku.com (The Brew)](https://kakaku.com/item/K0001382816/), [Kakaku.com (CM-D465B)](https://kakaku.com/item/K0001203222/), [Kakaku.com (CM-D457B)](https://kakaku.com/item/K0001097505/), [TWINBIRD official store](https://store.twinbird.jp/products/cmd457), and Amazon Japan listings.
 
-Store pages for the three machines. Check the current price and stock on the listing. Links to the makers' own sites, later in the article, are not ads.
-
-[See BALMUDA The Brew on Amazon Japan](https://www.amazon.co.jp/dp/B09DY6CDHZ?tag=stocknotelife-22)
-
-[See TWINBIRD CM-D465B on Amazon Japan](https://www.amazon.co.jp/dp/B081SWNSGW?tag=stocknotelife-22)
-
-[See TWINBIRD CM-D457B on Amazon Japan](https://www.amazon.co.jp/dp/B07HFP6H3L?tag=stocknotelife-22)
+This English page does not show Amazon purchase buttons. The only Amazon associate tag on file is for Amazon.co.jp. Links to the makers' own sites are not ads.
 
 ## BALMUDA The Brew: a precision pour-over you'll want on display
 
@@ -54,7 +46,7 @@ Launched in October 2021, The Brew drips water in 0.2ml steps into a dedicated c
 - **What owners like**: 4.3 out of 5 on Amazon Japan (166 ratings). Owners praise the design, the pleasure of watching it brew, and the clean taste.
 - **What to weigh**: Kakaku.com owner reviews average 3.45 (24 reviews), so opinions are mixed. It has no grinder, brews 3 cups max, and has no warming plate.
 
-[See BALMUDA The Brew on Amazon Japan](https://www.amazon.co.jp/dp/B09DY6CDHZ?tag=stocknotelife-22) · [BALMUDA official site](https://www.balmuda.com/jp/brew)
+[BALMUDA official site](https://www.balmuda.com/jp/brew)
 
 No grinder yet? See our [electric grinder buying guide](/en/articles/electric-coffee-grinder-guide/) or [how to choose your first hand grinder](/en/articles/how-to-choose-hand-coffee-mill/). The two hand grinders I use are the [Timemore Chestnut S5 Pro](/en/articles/timemore-chestnut-s5-pro/) and the [EPEIOS Essence Go](/en/articles/epeios-essence-go/). The side-by-side is [Timemore S5 Pro vs EPEIOS Essence Go](/en/articles/timemore-s5-pro-vs-essence-go/). To split 1Zpresso models by the job each one is built for, see the [1Zpresso hand grinder lineup](/en/articles/1zpresso-hand-grinder-lineup/). I have not used a 1Zpresso.
 
@@ -65,8 +57,6 @@ TWINBIRD is based in Tsubame-Sanjo. Its fully automatic maker uses a slow flat b
 - **What owners like**: 4.53 on Kakaku.com (21 reviews) and 4.4 out of 5 on Amazon Japan (420 ratings). Taste is the most common praise.
 - **What to weigh**: at 42.5cm tall it needs clearance under cabinets.
 
-[See TWINBIRD CM-D465B on Amazon Japan](https://www.amazon.co.jp/dp/B081SWNSGW?tag=stocknotelife-22)
-
 ## TWINBIRD CM-D457B (3-cup): the same approach, smaller
 
 Same mill, temperatures, and grind settings as the CM-D465B, with a 450ml capacity and a 36cm height. It has sold steadily since 2018 and ranked #7 of 1,105 coffee makers on Kakaku.com's best-seller list on November 1, 2026.
@@ -74,7 +64,7 @@ Same mill, temperatures, and grind settings as the CM-D465B, with a 450ml capaci
 - **What owners like**: 4.46 on Kakaku.com (40 reviews) and 4.4 out of 5 on Amazon Japan (822 ratings). One owner who switched from Panasonic wrote that taste is what matters, and rated it above their old machine.
 - **What to weigh**: in a [video review by Nif Coffee](https://www.youtube.com/watch?v=TxNSjOgK1K8), a Japanese roaster's channel, grinding 3 cups took about 4 min 16 s, and you have to measure water and beans yourself each time. Some Kakaku.com owners also find the mill tedious to clean.
 
-[See TWINBIRD CM-D457B on Amazon Japan](https://www.amazon.co.jp/dp/B07HFP6H3L?tag=stocknotelife-22) · [TWINBIRD official store (Japan)](https://store.twinbird.jp/products/cmd457)
+[TWINBIRD official store (Japan)](https://store.twinbird.jp/products/cmd457)
 
 ## Which one?
 
@@ -84,4 +74,4 @@ Same mill, temperatures, and grind settings as the CM-D465B, with a 450ml capaci
 
 Curious how grind size changes flavor? Read our [coffee grind size guide](/en/articles/coffee-grind-size-guide/). A saved ratio needs a [coffee scale](/en/articles/coffee-scale-guide/). A first pour-over, if you would rather brew by hand, is the [beginner pour-over recipe](/en/articles/beginner-hand-drip-recipe/). Espresso with a built-in grinder is a different machine: [Breville vs De'Longhi](/en/articles/breville-vs-delonghi-all-in-one-espresso/) and [Best all-in-one espresso machines of 2026](/en/articles/best-all-in-one-espresso-machines-2026/).
 
-Amazon Japan links on this page are affiliate links. Links to official maker sites are not ads. See our [disclosure](/en/disclosure/).
+This English page does not show Amazon purchase buttons. Links to official maker sites are not ads. See our [disclosure](/en/disclosure/).

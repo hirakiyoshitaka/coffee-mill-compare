@@ -5,6 +5,15 @@ category: "espresso-machine"
 date: "2026-11-01"
 ---
 
+<aside class="article-picks" aria-label="おすすめ結論">
+<h2>おすすめ結論</h2>
+<p class="fine">レビューまとめです。運営者はこの6台を使っていません。【体験：要記入】日本のAmazonで商品ページまで特定できているのはリヴェリアだけです。エレッタ エクスプロアは検索のままです。ブレビル3台は日本の正規販売が無く、公式サイトだけを置いています。楽天の購入ボタンは、この機種用のアフィリエイトURLが無いので出していません。</p>
+<div class="cta-after-table">
+<a href="https://www.amazon.co.jp/dp/B0F1FBXFBL?tag=stocknotelife-22" class="buy-link">リヴェリアをAmazonで見る（広告）</a>
+<a href="https://www.amazon.co.jp/s?k=%E3%83%87%E3%83%AD%E3%83%B3%E3%82%AE+%E3%82%A8%E3%83%AC%E3%83%83%E3%82%BF+%E3%82%A8%E3%82%AF%E3%82%B9%E3%83%97%E3%83%AD%E3%82%A2&amp;tag=stocknotelife-22" class="buy-link">エレッタ エクスプロアをAmazonで探す（広告）</a>
+</div>
+</aside>
+
 豆を入れるだけで、挽きたてのエスプレッソやカフェラテができる。グラインダー内蔵のエスプレッソマシンは、コーヒー好きにとって憧れの一台です。欧米でとくに人気が高いのが、オーストラリア発のブレビル（英国・欧州では「Sage」ブランド）と、イタリアのデロンギです。
 
 2つのブランドは考え方が違います。**ブレビルはポルタフィルター（抽出ハンドル）を使う本格派**で、粉の量やタンピング、ミルクの泡立てを機械が手伝ってくれます。**デロンギの上位機は全自動**で、画面のメニューを押すだけでドリンクができあがります。ラ・スペシャリスタ・タッチだけは、ブレビルに近いガイド付きの本格派です。
@@ -69,7 +78,9 @@ date: "2026-11-01"
 - **海外レビューの評価**：BBC Good Foodは4.5/5で、つやのあるクレマの濃厚なエスプレッソと評価。Balance Journalは挽き目の安定感と、メニュー画面の充実ぶりを評価しています。
 - **気になる点**：奥行きが大きいこと。Balance Journalは7.5/10で、ホットもコールドも日常的に飲む家庭でこそ価値がある、としています。
 
-[エレッタ エクスプロアをAmazonで探す](https://www.amazon.co.jp/s?k=デロンギ+エレッタ+エクスプロア&tag=stocknotelife-22)
+<div class="cta-after-table">
+<a href="https://www.amazon.co.jp/s?k=%E3%83%87%E3%83%AD%E3%83%B3%E3%82%AE+%E3%82%A8%E3%83%AC%E3%83%83%E3%82%BF+%E3%82%A8%E3%82%AF%E3%82%B9%E3%83%97%E3%83%AD%E3%82%A2&amp;tag=stocknotelife-22" class="buy-link">エレッタ エクスプロアをAmazonで探す（広告）</a>
+</div>
 
 ### リヴェリア：豆を気分で切り替えられる全自動
 
@@ -78,7 +89,9 @@ date: "2026-11-01"
 - **海外レビューの評価**：The Guardianは「1,000ポンド以下で最高の全自動」に選び、コーヒーの味、操作画面、ホッパー交換を高く評価。英Coffee Machine Reviewsも総合1位にしています。
 - **気になる点**：The Guardianはグラインダーの音と、ミルクの泡質にまだ改善の余地があると指摘。コールドブリューには対応していません。
 
-[リヴェリアをAmazonで見る](https://www.amazon.co.jp/dp/B0F1FBXFBL?tag=stocknotelife-22)
+<div class="cta-after-table">
+<a href="https://www.amazon.co.jp/dp/B0F1FBXFBL?tag=stocknotelife-22" class="buy-link">リヴェリアをAmazonで見る（広告）</a>
+</div>
 
 ### ラ・スペシャリスタ・タッチ：デロンギ流のガイド付き本格派
 
@@ -101,4 +114,11 @@ date: "2026-11-01"
 
 英語版では、6台それぞれの長所と短所をまとめた[購入ガイド（英語）](/en/articles/best-all-in-one-espresso-machines-2026/)も公開しています。
 
-このページのAmazonリンクはアフィリエイトリンクです。ブレビル公式へのリンクは広告ではありません。方針は[広告表記](/disclosure/)にまとめています。
+## 購入リンク
+
+<div class="cta-after-table">
+<a href="https://www.amazon.co.jp/dp/B0F1FBXFBL?tag=stocknotelife-22" class="buy-link">リヴェリアをAmazonで見る（広告）</a>
+<a href="https://www.amazon.co.jp/s?k=%E3%83%87%E3%83%AD%E3%83%B3%E3%82%AE+%E3%82%A8%E3%83%AC%E3%83%83%E3%82%BF+%E3%82%A8%E3%82%AF%E3%82%B9%E3%83%97%E3%83%AD%E3%82%A2&amp;tag=stocknotelife-22" class="buy-link">エレッタ エクスプロアをAmazonで探す（広告）</a>
+</div>
+
+このページのAmazonリンクはアフィリエイトリンクです。ブレビル公式へのリンクは広告ではありません。楽天の購入ボタンは、この機種用のアフィリエイトURLが無いので出していません。方針は[広告表記](/disclosure/)にまとめています。

@@ -28,19 +28,7 @@ date: "2026-11-01"
 | 家裡菜單不同，豆倉要能換 | De'Longhi Rivelia | 全自動，兩個可更換的豆倉。這篇有 Amazon.co.jp 的商品頁 |
 | 導引式沖煮把手，又是 De'Longhi | La Specialista Touch | 和 Barista Touch Impress 最接近。撰文時沒有確認到日本正規銷售 |
 
-Breville／Sage 的官方頁在後文，不是廣告。這篇對到 Amazon.co.jp 的是下面兩台 De'Longhi。以下是廣告連結（Amazon 聯盟）。請對型號。價格和庫存以商店頁為準。
-
-<!-- Same Amazon.co.jp URLs as the buttons below, kept as Markdown so the pick list still names them. -->
-<!--
-[在 Amazon.co.jp 搜尋 De'Longhi Eletta Explore](https://www.amazon.co.jp/s?k=デロンギ+エレッタ+エクスプロア&tag=stocknotelife-22)
-[在 Amazon.co.jp 查看 Rivelia](https://www.amazon.co.jp/dp/B0F1FBXFBL?tag=stocknotelife-22)
--->
-
-<div class="cta-after-table">
-<a href="https://www.amazon.co.jp/s?k=デロンギ+エレッタ+エクスプロア&amp;tag=stocknotelife-22" class="buy-link">在 Amazon.co.jp 搜尋 De'Longhi Eletta Explore</a>
-<a href="https://www.amazon.co.jp/dp/B0F1FBXFBL?tag=stocknotelife-22" class="buy-link">在 Amazon.co.jp 查看 Rivelia</a>
-</div>
-
+Breville／Sage 的官方頁在後文，不是廣告。本頁不放 Amazon 購買按鈕。
 ## 下一步
 
 六台都是評測整理。同一語系裡，接著可以看這些。
@@ -66,7 +54,7 @@ Breville／Sage 的官方頁在後文，不是廣告。這篇對到 Amazon.co.jp
 
 出處：Breville 美國官方、美國販售頁（Macy's、Sur La Table）、[Crema Karma 的規格比較](https://cremakarma.com/breville-barista-express-impress-vs-oracle-jet/)、[Sage 英國官方](https://www.sageappliances.com/en-gb/product/bes882)、[The Guardian](https://www.theguardian.com/thefilter/2026/apr/05/best-bean-cup-coffee-machines-tested-uk)、[BBC Good Food](https://www.bbcgoodfood.com/review/best-delonghi-coffee-machine)、[價格.com（Eletta Explore）](https://kakaku.com/item/K0001646793/)、De'Longhi 官方樂天市場店。英文版另記了部分美國通路看到的 De'Longhi 標價（Eletta Explore 約 1,865 美元、Rivelia 約 1,300 美元），那是看到的售價，不是定價，購買前請再查。
 
-表內有 Amazon.co.jp 連結的，是 Eletta Explore 與 Rivelia，按鈕在文首的對照之後。各機種的小節裡也留了同一個連結。請對型號。價格和庫存以商店頁為準。
+Eletta Explore 與 Rivelia 的規格在表裡。本頁不放 Amazon 購買按鈕。請在官方或商店頁對型號、價格和庫存。
 
 ## 哪一邊比較近
 
@@ -116,8 +104,6 @@ Breville／Sage 的官方頁在後文，不是廣告。這篇對到 Amazon.co.jp
 - **媒體測到的**：BBC Good Food 4.5／5，描述是克麗瑪有光澤、濃度夠的義式濃縮。Balance Journal 肯定研磨的穩定，以及選單在他們用過的 De'Longhi 裡算完整
 - **被指出的地方**：縱深大。Balance Journal 給 7.5／10，並認為只有冷熱都常喝的家庭，才對得上這個價格
 
-[在 Amazon.co.jp 搜尋 De'Longhi Eletta Explore](https://www.amazon.co.jp/s?k=デロンギ+エレッタ+エクスプロア&tag=stocknotelife-22)
-
 搜尋結果會混進其他機種。請對型號。廠商頁：[De'Longhi 美國](https://www.delonghi.com/en-us)、[De'Longhi 英國](https://www.delonghi.com/en-gb)。官方頁不是廣告。
 
 ### Rivelia：豆倉可以換
@@ -126,8 +112,6 @@ Bean Switch 是兩個 250g 豆倉，幾秒就能換，低因和一般豆、或�
 
 - **媒體測到的**：The Guardian 把它選為 1,000 英鎊以下的全自動首選，肯定咖啡、操作畫面和可換豆倉。英國 Coffee Machine Reviews 把它放在全自動的第一
 - **被指出的地方**：The Guardian 寫磨豆的聲音、以及奶泡仍有改善空間。它不做冷萃
-
-[在 Amazon.co.jp 查看 Rivelia](https://www.amazon.co.jp/dp/B0F1FBXFBL?tag=stocknotelife-22)
 
 ### La Specialista Touch：De'Longhi 的導引式半自動
 
@@ -152,4 +136,4 @@ Bean Switch 是兩個 250g 豆倉，幾秒就能換，低因和一般豆、或�
 
 英文另有一篇依飲用方式整理優缺的選購說明：[Best all-in-one espresso machines of 2026](/en/articles/best-all-in-one-espresso-machines-2026/)。那一頁是英文，沒有繁體中文版。
 
-文中的 Amazon 連結含廣告（聯盟標籤 stocknotelife-22）。Breville、Sage、De'Longhi 官方網站不是廣告。說明見[廣告揭露](/zh-tw/disclosure/)。
+本頁不放 Amazon 購買按鈕。Breville、Sage、De'Longhi 官方網站不是廣告。說明見[廣告揭露](/zh-tw/disclosure/)。

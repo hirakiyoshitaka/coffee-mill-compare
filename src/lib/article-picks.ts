@@ -3,7 +3,7 @@ import { grinderBuyProps, type BuyLink } from "@/components/BuyButtons";
 import { getBeanShop } from "@/data/beans";
 import { getModel } from "@/data/grinders";
 import { localizeModel } from "@/data/grinders-i18n";
-import { isHttpUrl } from "@/lib/affiliate";
+import { isHttpUrl, isJpTaggedAmazonUrl } from "@/lib/affiliate";
 import { cardDict, type SiteLocale } from "@/lib/i18n";
 
 export type ArticlePick = {
@@ -282,7 +282,7 @@ export function buildArticlePicks(markdown: string, title: string, locale: SiteL
   const embedIds = embeds.map((embed) => embed.id);
   const hasMillEmbed = embedIds.some((id) => id === "timemore-chestnut-s5-pro" || id === "epeios-essence-go");
   const deduped = preferTextLinks(links).filter((link) => !(hasMillEmbed && isRedundantMillBrowse(link.label)));
-  const kept = deduped;
+  const kept = deduped.filter((link) => !((locale === "en" || locale === "zh-tw") && isJpTaggedAmazonUrl(link.href)));
   const embedLine = new Map(embeds.map((embed) => [embed.id, embed.line]));
   const used = new Set<string>();
   const picks: ArticlePick[] = [];

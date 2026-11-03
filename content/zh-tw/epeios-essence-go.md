@@ -35,7 +35,7 @@ date: "2026-10-27"
 
 星等為投稿者或 Amazon 顯示，非本站評分。
 
-2026 年 10 月 26 日查看 Amazon.co.jp 商品頁（[ASIN B0D3PZHGBX](https://www.amazon.co.jp/dp/B0D3PZHGBX?tag=stocknotelife-22)），評價為 4.3 / 5 顆星，共 125 則全球評分。Amazon 註明這不是單純平均值。
+2026 年 10 月 26 日查看 Amazon.co.jp 商品頁（ASIN B0D3PZHGBX），評價為 4.3 / 5 顆星，共 125 則全球評分。Amazon 註明這不是單純平均值。
 
 同頁日本買家評論（摘要翻譯）：
 
@@ -53,7 +53,7 @@ date: "2026-10-27"
 
 ## 購買管道
 
-上方 Amazon.co.jp 連結的商品，若標示可透過 AmazonGlobal 寄送，即可寄到台灣；運費與關稅於結帳時顯示，收件人需完成 EZ WAY 實名認證。是否可寄送依商品而定，請在結帳頁確認。
+本頁不放 Amazon 購買按鈕。若從日本商店透過 AmazonGlobal 寄到台灣，運費與關稅於結帳時顯示，收件人需完成 EZ WAY 實名認證。是否可寄送依商品而定。
 
 ## 廣告揭露
 

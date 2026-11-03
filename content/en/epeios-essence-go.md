@@ -17,10 +17,6 @@ The price guide we keep on the site is ¥23,100 including tax, taken from the of
 
 Check the current price and stock on the store page.
 
-[Search for the EPEIOS Essence Go on Amazon.co.jp](https://www.amazon.co.jp/s?k=EPEIOS+Essence+Go+grinder&tag=stocknotelife-22)
-
-[Search for the Timemore Chestnut S5 Pro on Amazon.co.jp](https://www.amazon.co.jp/s?k=TIMEMORE+Chestnut+S5+Pro&tag=stocknotelife-22)
-
 ## Specs side by side
 
 These figures are the ones already published on the comparison above and on the official pages checked for this review on October 26, 2026. This site has not measured how much force the handle takes.
@@ -34,10 +30,6 @@ These figures are the ones already published on the comparison above and on the 
 | Who it suits | A counter grinder for a repeatable pour-over | A lighter start, and a body that comes apart into its case |
 
 Check the current price and stock on the store page.
-
-[Search for the EPEIOS Essence Go on Amazon.co.jp](https://www.amazon.co.jp/s?k=EPEIOS+Essence+Go+grinder&tag=stocknotelife-22)
-
-[Search for the Timemore Chestnut S5 Pro on Amazon.co.jp](https://www.amazon.co.jp/s?k=TIMEMORE+Chestnut+S5+Pro&tag=stocknotelife-22)
 
 The card below uses the product photo from the EPEIOS site.
 
@@ -67,7 +59,7 @@ EPEIOS says the 10 blades cut friction and lighten the start of the grind. This 
 
 The stars below are the reviewer's or Amazon's. This site has not re-scored them.
 
-On the Amazon.co.jp product page opened on October 26, 2026 ([ASIN B0D3PZHGBX](https://www.amazon.co.jp/dp/B0D3PZHGBX?tag=stocknotelife-22)), the rating showed 4.3 out of 5 stars, with 125 global ratings. Amazon notes that this figure is not a simple average. This site did not recount the reviews. The Japanese reviews on that page included these:
+On the Amazon.co.jp product page opened on October 26, 2026 (ASIN B0D3PZHGBX), the rating showed 4.3 out of 5 stars, with 125 global ratings. Amazon notes that this figure is not a simple average. This site did not recount the reviews. The Japanese reviews on that page included these:
 
 - March 8, 2026, 5 stars, "a grinder with good value." The reviewer likes the finish, the external scale, and a light grind feel even with a light roast, and says it takes longer because of that. The grind is even and extraction stays stable
 - February 1, 2026, 4 stars, "it grinds with a little force." The body of the review says "it is a bit heavy, but it grinds very lightly"
@@ -85,13 +77,9 @@ Buy buttons appear on the product card when an affiliate URL is set. Our policy 
 
 The No.1 review is the [Chestnut S5 Pro](/en/articles/timemore-chestnut-s5-pro/). For beans, start with [Coffee Carrot (珈琲きゃろっと)](/beans/coffee-carrot/). That shop page is in Japanese. I kept their subscription for about a year.
 
-[Search for the Timemore Chestnut S5 Pro on Amazon.co.jp](https://www.amazon.co.jp/s?k=TIMEMORE+Chestnut+S5+Pro&tag=stocknotelife-22)
-
 [View the Coffee Carrot subscription (ad)](https://px.a8.net/svt/ejp?a8mat=4BEQHR+383KII+2CG0+5YJRM)
 
 This review does not include timed cleaning tests. One Amazon review notes that the grinder is not washed with water and needs a brush. For a first hand grinder, see [how to choose](/en/articles/how-to-choose-hand-coffee-mill/). For where to put the 0–80 scale, see the [coffee grind size guide](/en/articles/coffee-grind-size-guide/). This site does not have a recommended number for each brew method on the Essence Go. To split another brand by travel, pour-over, and espresso, see the [1Zpresso hand grinder lineup](/en/articles/1zpresso-hand-grinder-lineup/). We have not used a 1Zpresso. A German click grinder set next to the S5 Pro is [Comandante C40 vs Timemore Chestnut S5 Pro](/en/articles/comandante-c40-vs-timemore/). A motor instead of a handle is covered in [hand vs electric coffee grinders](/en/articles/hand-vs-electric-coffee-mill/) and the [electric coffee grinder guide](/en/articles/electric-coffee-grinder-guide/). A drip machine that still needs ground coffee is [Japanese premium coffee makers](/en/articles/japanese-premium-coffee-makers/).
-
-[Search for the EPEIOS Essence Go on Amazon.co.jp](https://www.amazon.co.jp/s?k=EPEIOS+Essence+Go+grinder&tag=stocknotelife-22)
 
 Availability on Amazon.co.jp varies by region, so check the listing and the seller before ordering.
 

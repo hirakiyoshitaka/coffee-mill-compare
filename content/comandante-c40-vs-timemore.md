@@ -77,7 +77,7 @@ S5 Pro の金額は、レビューに見た日付つきで残しています。�
 
 [コマンダンテ C40 を Amazon で探す（広告）](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=%E3%82%B3%E3%83%9E%E3%83%B3%E3%83%80%E3%83%B3%E3%83%86+C40)
 
-[タイムモア 栗子 S5 Pro を Amazon で見る（広告）](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=TIMEMORE+%E6%A0%97%E5%AD%90+S5+Pro)
+[タイムモア 栗子 S5 Pro を Amazon で見る（広告）](https://www.amazon.co.jp/dp/B0HF4LXCCY?tag=stocknotelife-22)
 
 検索結果には別の型番が混ざります。C40 は MK4 の Nitro Blade か、S5 Pro は「S5 Pro」と色を、商品名で確認してください。
 

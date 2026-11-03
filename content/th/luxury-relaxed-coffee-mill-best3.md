@@ -34,7 +34,7 @@ date: "2026-11-02"
 
 {{grinder:timemore-chestnut-s5-pro}}
 
-[ค้นหา TIMEMORE S5 Pro บน Amazon.co.jp](https://www.amazon.co.jp/s?k=TIMEMORE+S5+Pro&tag=stocknotelife-22)
+[ดู TIMEMORE S5 Pro บน Amazon.co.jp](https://www.amazon.co.jp/dp/B0HF4LXCCY?tag=stocknotelife-22)
 
 ## 2. EPEIOS Essence Go
 
@@ -46,7 +46,7 @@ date: "2026-11-02"
 
 {{grinder:epeios-essence-go}}
 
-[ค้นหา EPEIOS Essence Go บน Amazon.co.jp](https://www.amazon.co.jp/s?k=EPEIOS+Essence+Go+grinder&tag=stocknotelife-22)
+[ดู EPEIOS Essence Go บน Amazon.co.jp](https://www.amazon.co.jp/dp/B0D3PZHGBX?tag=stocknotelife-22)
 
 ## 3. Comandante C40 MK4 — สรุปรีวิว
 
