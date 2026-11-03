@@ -4,129 +4,116 @@
 This version has breaking changes — APIs, conventions, and file structure may all differ from your training data. Read the relevant guide in `node_modules/next/dist/docs/` before writing any code. Heed deprecation notices.
 <!-- END:nextjs-agent-rules -->
 
-# サイト運営方針（2026-11-03決定）
+# 役割（2026-11-03決定）
 
-**English summary.** Target at least ¥200,000 per month with a global, micro-niche site: first-person “best 3” rankings and comparisons, written in each market’s language (ja, en, zh-tw, zh-hk, zh-cn, ko, th, vi, and others) for North America, Europe, Asia, and Australia, linking to that country’s Amazon. Theme: things a 58-year-old office worker actually used that improved quality of life. Photos and personal impressions only for products the operator uses; label everything else a review roundup and never pretend to have used it. Do not copy third-party text or photos, invent affiliate IDs, or send paid-ad traffic straight to Amazon. Specs come from official sources only. Prioritize premium coffee machines, portable power stations, Japanese knives, and work-from-home furniture (kitchen and home pay about 5% in the UK and Europe). Defer PCs, TVs, and games. Keep the existing affiliate, disclosure, hreflang, sitemap, and analytics rules.
+- **Grok（かーそ）** は PR を作る。
+- **Muse** は PR をレビューする。自動マージしてよいのは、誤字、リンク切れ、レイアウト崩れの小さな修正だけである。記事、購入リンク、言語、アクセス解析、アフィリエイト ID、方針ファイル（`AGENTS.md`、`.cursor/rules/strategy.mdc`）に触れる PR は、小さな修正であっても、オーナーの OK のあとでだけマージする。
+- **Codex** は読み取り専用で監査する。
+- **Claude** は戦略を担当する。push と merge はしない。
+- **オーナー** が決定する。Muse の範囲の外の push と merge、投稿、支払い、アカウント操作はオーナーが行う。
+
+# サイト運営方針（2026-11-03改定）
+
+この改定は、2026-11-03に決めた多ジャンル方針を上書きする。ゴルフ、在宅ワーク、日本製包丁、ポータブル電源、キャンプのハブは、これ以降扱わない。
 
 この節が Codex、Muse、Cursor、Claude Code の共通方針です。方針の正本はこの `AGENTS.md` です。Claude Code は `CLAUDE.md` の `@AGENTS.md` から読みます。Cursor は `.cursor/rules/strategy.mdc` に同じ方針を置きます。方針を変えるときは、この節と `strategy.mdc` の写しを同時に更新し、上の Next.js 向け注記と `CLAUDE.md` の参照は残してください。
 
-記事、導線、多言語、計測、データに触れる作業は、この方針に合わせてください。
+記事、購入リンク、言語、計測、アフィリエイト ID、方針に触れる作業は、この方針に合わせる。
 
 ## 目標
 
-月¥200,000以上。読者は世界向け（北米・欧州・アジア・オーストラリア）で、各市場の言語で書く（ja、en、zh-tw、zh-hk、zh-cn、ko、th、vi ほか）。購入導線は、その市場の Amazon につなぐ。
+3か月で勝ちパターンを見つける。月¥200,000は、1年から1年半で到達する目標である。
 
-## 構造
+## 範囲
 
-マイクロ特化型にする。テーマは「58歳の会社員が実際に使ってQOLが上がったもの」。ジャンルごとのハブ（コーヒー、ゴルフ、在宅ワーク、キッチン、キャンプなど）を置く。
+コーヒーだけを扱う。キャンプはジャンルにしない。外で淹れるコーヒーは、コーヒーの中の題材として扱う。
 
-## 記事の形
+ゴルフ、在宅ワーク、日本製包丁、ポータブル電源の記事とハブは、新しく作らない。
 
-生活感と人のぬくもりのある「ベスト3」ランキングと比較記事を軸にする。運営者の一人称で書き、購買意欲につなげる。
+## 記事
 
-## 一次情報
+新しい記事は日本語だけ書く。新しい翻訳は作らない。
 
-運営者が使っているものには、写真と感想を入れる。対象は次のとおり。
+同じ狙い語の記事が既にあるときは、新しい記事を足さず、その記事を改善する。
 
-- Timemore S5 Pro
-- EPEIOS Essence Go
-- Nikon COOLSHOT 手ブレ補正最上位
-- 折りたたみ昇降デスク
-- 細口ドリップポット
-- 珈琲きゃろっとの豆
+売り切れの商品は掲載しない。「1万円以下」のような安さを切り口にしない。
 
-使っていないものは「レビューまとめ」と明記する。使ったふりをしない。手元にない製品を、使った体験として書かない。写真も、運営者が撮ったものか、掲載が許された公式素材に限る。
+体験、レビュー、実測は作り話にしない。未測定の実測と、まだ無い写真は、`【よんぴー実測：〇〇】` と `【写真：〇〇】` の空欄のままにする。第三者の文章と写真はコピーしない。スペックは公式情報だけを使う。公式に無い数値、味の点数、架空の価格は書かない。
 
-## 禁止
+写真は、運営者が撮ったものか、掲載が許された公式素材に限る。
 
-- 第三者の文章・写真をコピーしない。
-- アフィリエイト ID を捏造しない。
-- 有料広告から Amazon へ直接送客しない。
-- スペックは公式情報のみを使う。公式に無い数値、味の点数、架空の最安値は書かない。
+note の記事から、このサイトへリンクしない。
 
-## 優先ジャンル（調査結果）
+DNS は変更しない。サイトは Vercel に置いたままにする。
 
-先に扱うのは、高級コーヒーマシン、ポータブル電源、日本製包丁、在宅ワーク家具。キッチン・ホーム系は英国と欧州で報酬率5%と有利なため、ここを厚くする。PC・テレビ・ゲームは後回し。
+## 一人称で書いてよいもの
 
-## 既存の規約
+一人称の体験を書いてよいのは、次だけである。
 
-既存のアフィリエイトリンク、広告表記、hreflang、サイトマップ、アクセス解析の規約を守る。実装や記事を変えても、次は崩さない。
+- タイモア S3
+- エペイオス Essence Go
+- 珈琲きゃろっと（定期便を約1年）
 
-- **アフィリエイトリンク:** 空の URL や HTML には購入ボタンを出さない。Amazon のアソシエイトタグは、いま入っている `tag=stocknotelife-22` だけを使う。リンクの `rel` は `sponsored nofollow noopener`、`target` は `_blank` とする（`src/lib/affiliate.ts`）。楽天市場、Amazon、Yahoo!ショッピング、A8.net、もしもアフィリエイトなど、既にある経路を別サービスへ勝手に置き換えない。
-- **広告表記:** 記事タイトル上と本文前の「PR」、フッター、`/disclosure`（広告表記）を維持する。購入リンクがあるページでは、広告であることを先に示す。景品表示法上のステルスマーケティング規制に沿う。
-- **hreflang:** `src/lib/articles.ts` の `hreflangOf`（ja、zh-TW、zh-HK、zh-CN、ko、th、vi、en）と、同じ slug の `alternates.languages`（`x-default` を含む）を維持する。翻訳記事は `content/<locale>/` に置く。言語を増やすときは、言語切替、hreflang、サイトマップを揃える。
+運営者が持っている手挽きミルは、タイモア 栗子 S3 である。
+
+これ以外は「レビューまとめ」と明記する。使ったふりをしない。手元にない製品を、使った体験として書かない。
+
+細口ドリップポットを一人称の対象に加えるかは、未決である。決まるまで、使った体験としては書かない。
+
+## 公開中の S5 Pro の記述
+
+公開中のサイトにある、一人称の S5 Pro の文章は誤りである。運営者が使っているのはタイモア S3 であり、その文章は事実と食い違っている。
+
+修正は、S3 に直すか、「レビューまとめ」に改める。別 PR の最優先とし、方針ファイルの変更とは分けて行う。方針の書き換えでは記事を変えない。
+
+S5 Pro を、運営者が使っている機種として新しく書かない。
+
+## 計測
+
+Cloudflare Web Analytics と Vercel Analytics の両方を残す。これ以外のアクセス解析は足さない。
+
+残すものは、各言語レイアウトの Vercel Analytics（`@vercel/analytics/react` の `<Analytics />`）と、Cloudflare Web Analytics（`src/components/CloudflareBeacon.tsx` の `<CloudflareBeacon />`）である。
+
+計測の記載を変えるときは、プライバシーポリシー（`/privacy`）と合わせ、オーナーの OK を得る。
+
+## リンク、広告表記、言語、サイトマップ
+
+- **アフィリエイトリンク:** 空の URL や HTML には購入ボタンを出さない。リンクの `rel` は `sponsored nofollow noopener`、`target` は `_blank` とする（`src/lib/affiliate.ts`）。使う ID は、サイトに既にあるものだけである。Amazon のアソシエイトタグは、入っている `tag=stocknotelife-22` だけを使う。ID を新しく作らない。捏造しない。行き先だけ差し替えて、既存の ID を使い回さない。楽天市場、Amazon、Yahoo!ショッピング、A8.net、もしもアフィリエイトなど、既にある経路を別サービスへ勝手に置き換えない。
+- **広告表記:** 記事タイトル上と本文前の「PR」、フッター、`/disclosure`（広告表記）を維持する。購入リンクがあるページでは、広告であることを先に示す。景品表示法上のステルスマーケティング規制に沿う。有料広告から Amazon へ直接送客しない。
+- **言語:** 既存の `hreflang`（`src/lib/articles.ts` の `hreflangOf`。ja、zh-TW、zh-HK、zh-CN、ko、th、vi、en）と、同じ slug の `alternates.languages`（`x-default` を含む）は、公開中のページに合わせて維持する。翻訳記事の置き場は `content/<locale>/` のままとする。新しい翻訳と言語の追加はしない。
 - **サイトマップ:** `src/app/sitemap.ts` と `src/app/robots.ts` の `sitemap.xml` を、公開している URL と一致させる。
-- **アクセス解析:** 各言語レイアウトにある Vercel Analytics（`@vercel/analytics/react` の `<Analytics />`）を外さない。計測を変えるときは、プライバシーポリシー（`/privacy`）の記載と合わせる。
 
-# アフィリエイト運用方針（2026-11-03決定）
+## 優先順位
 
-**English summary.** Break-even CPC is reward × approval rate × conversion rate; monthly profit is ad clicks × (break-even CPC − actual CPC). Judge every product in the private repo `hirakiyoshitaka/affiliate-roi` before writing (`keyword_roi.py` and `kw_seeds.py` stay unchanged). Line A is a small Google Search test that lands on our own articles; the owner publishes, changes the budget, and completes identity checks. Line B is SEO plus SNS, about three articles a week, with drafts and posts confirmed by the owner. Do not invent experience, reviews, results, or affiliate IDs, and do not touch passwords, cards, bank accounts, or identity documents. Report at the end of each stage and wait for OK.
+1. 方針の書き換え。対象は `AGENTS.md` と `.cursor/rules/strategy.mdc` だけとする。
+2. 公開中の一人称 S5 Pro の文章を、S3 に直すか「レビューまとめ」に改める。別 PR で行い、フォローアップの最優先とする。
+3. オーナーが自分のミルを実測し、写真を撮る。
+4. 定期便の記事を1本にまとめ、本命は珈琲きゃろっとにする。
+5. 楽天のリンクを、オーナーが作ったものに差し替える。差し替えまで、既存の楽天リンクの ID を使い回して行き先だけ変えない。
+6. サーチコンソールのデータが2週間分たまってから、11〜20位の記事を直す。
 
-この節の正本もこの `AGENTS.md` です。Cursor 向けの要点は `.cursor/rules/strategy.mdc` に置きます。方針を変えるときは、この節とその写しを同時に更新してください。
+2以降は、それぞれの内容に触れる PR を、オーナーの OK のあとでマージする。
 
-## 全体
+# アフィリエイト運用方針（2026-11-03改定）
+
+この節の正本もこの `AGENTS.md` です。Cursor 向けの写しは `.cursor/rules/strategy.mdc` に置きます。方針を変えるときは、この節とその写しを同時に更新してください。
+
+## 判定用ファイル
 
 損益分岐CPC = 報酬額 × 承認率 × 成約率。月利益 = 広告クリック数 ×（損益分岐CPC − 実際CPC）。
 
 判定は、非公開リポジトリ `hirakiyoshitaka/affiliate-roi` の `keyword_roi.py` で行う。`keyword_roi.py` と `kw_seeds.py` は書き換えない。
 
-手順は次のとおり。
+## ID とリンク
 
-1. `products.txt` を用意する。
-2. Actions「1. キーワード候補を集める」を実行する。
-3. キーワードプランナー（日本・日本語）の CSV を `data/` に push する。
-4. Actions「2. 損益分岐CPCで判定」を実行する。
-5. `out/roi_report.md` を見る。
+サイトに既にあるアフィリエイト ID だけを使う。新しい ID を作らない。捏造しない。行き先だけ差し替えて、ID を使い回さない。
 
-どの商品も、記事にする前に必ずキーワードプランナーで確認する。
+楽天リンクをオーナーの作ったリンクへ差し替える作業は、上の優先順位の5である。オーナーのリンクが用意されるまで、楽天の行き先を作り替えない。
 
-## ラインA PPC（Google広告）
+## 秘密情報
 
-1. **afb登録。** 運営者情報、プライバシーポリシー、問い合わせを整備する。パスワードと口座はオーナーが入力する。
-2. **案件選定。** リスティング可、または条件付き。固定報酬は 3,000 円以上。成果条件が軽いものを選ぶ。損益分岐CPCが入札単価（高額帯）× 1.3 以上なら「勝てる」。Googleトレンド、実検索、予測タブで確認し、上位 3 案件に絞る。
-3. **広告のリンク先。** 自サイトの記事にする。ASP の直リンクと、薄い中継ページは使わない。商標・指名ワードは入札しない。除外キーワードを入れ、誇大表現のない広告文案にする。
-4. **少額テスト。** 検索キャンペーンのみ。ディスプレイと検索パートナーはオフ。地域は日本、言語は日本語。手動 CPC の上限は損益分岐 ÷ 1.3。1 日 1,000 円。マッチタイプはフレーズ一致と完全一致。公開ボタン、予算の変更、本人確認はオーナーが行う。「特典を選ぶ」は押さない。2 週間でクリック 100 回かつ成果 0 なら停止する。広告費が報酬を上回ったら停止する。実測の成約率で `offers.csv` を更新する。Amazon は有料広告経由が対象外。楽天・もしもは商標入札をしない（例: タイムモアは PPC 不可。集客は SEO）。
+パスワード、API キー、Cookie、メールアドレスを書かない。カード、口座、本人確認書類も書かない。
 
-## ラインB SEO+SNS
+## 広告と投稿
 
-週に約 10 商品を候補にする。出どころは、Amazon と楽天のランキング、A8・afb・もしも（固定報酬を優先）、Googleトレンド、X。
-
-判定結果の「SEO向き」から、次の条件で残す。
-
-- 月間検索は 100 以上。購買意図がある語、伸びが注目できる語は 10 以上でもよい。
-- 前年比 −30% 以下は除外する。
-- SEO 想定月収の高い順に並べる。
-- 報酬は固定報酬を料率型より優先する。
-- トレンド 5 年で右肩下がり、または一時的な急上昇は除外する。
-- 検索上位が公式や大手ばかりなら後回しにする。個人ブログや知恵袋があれば狙い目にする。
-- AI 回答が出る語は後回しにする。
-
-記事の型は次の 4 つ。
-
-1. まとめ: 「〇〇 おすすめ・比較」
-2. 違い: 「AとBの違い」
-3. レビュー
-4. 情報（早見表など）。①〜③へ内部リンクする。
-
-1 記事のメインの狙い語は 1 つ。週に約 3 本。
-
-記事では、次を守る。
-
-- 冒頭に「PR｜広告を含みます」と書く。
-- タイトルと最初の見出しに狙い語を入れる。
-- 比較表、選び方、メリット / デメリット、購入ボタンを置く。
-- 内部リンクを入れる。
-- 体験談、写真、実測値は作り話にしない。未記入は `【よんぴー実測：〇〇】` と `【写真：〇〇】` の空欄のままにする。
-- 下書きをオーナーに確認してもらい、その後に公開する。
-
-SNS は、公開日に 1 投稿し、数日後に別の切り口で 1 投稿する。`#PR` を付ける。リンクは自分の記事だけにする。Amazon への直リンクと有料宣伝はしない。投稿案は公開前にオーナーが確認する。
-
-月に一度、サーチコンソールと ASP レポートを指標にする。順位が 11〜20 位の記事はリライトする。成果が出た商品は関連記事を足す。半年、集客がゼロのテーマは見直す。
-
-## 共通
-
-- 作り話の体験、口コミ、実績は書かない。
-- 公開と SNS 投稿は、オーナーの確認の後にする。
-- パスワード、カード、口座、本人確認書類には触らない。
-- 各段階の終わりで報告し、OK をもらってから次へ進む。
-- アフィリエイト ID は捏造しない。
+広告の入稿、予算、支払い、アカウント操作、投稿はオーナーが行う。有料広告から Amazon へ直接送客しない。商標と指名の語は入札しない。楽天・もしもの商標入札もしない。
