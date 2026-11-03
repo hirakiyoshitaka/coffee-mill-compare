@@ -34,8 +34,6 @@ If you want that unhurried morning to start with this kind of coffee time, look 
 
 {{grinder:timemore-chestnut-s5-pro}}
 
-[Search for the Timemore Chestnut S5 Pro on Amazon.co.jp](https://www.amazon.co.jp/s?k=TIMEMORE+Chestnut+S5+Pro&tag=stocknotelife-22)
-
 ## 2. EPEIOS Essence Go
 
 Second is the other grinder I own, the EPEIOS Essence Go.
@@ -45,8 +43,6 @@ The only impression I can write is one line. It just spins so easily. The lightn
 Coming apart into a dedicated case is the maker's description. The longer pages are the [Essence Go review](/en/articles/epeios-essence-go/) and [Timemore S5 Pro vs EPEIOS Essence Go](/en/articles/timemore-s5-pro-vs-essence-go/).
 
 {{grinder:epeios-essence-go}}
-
-[Search for the EPEIOS Essence Go on Amazon.co.jp](https://www.amazon.co.jp/s?k=EPEIOS+Essence+Go+grinder&tag=stocknotelife-22)
 
 ## 3. Comandante C40 MK4 — review summary
 
@@ -60,15 +56,11 @@ I have not used a Comandante C40. I am not writing how it turns, or how it feels
 
 The longer comparison is [Comandante C40 vs Timemore Chestnut S5 Pro](/en/articles/comandante-c40-vs-timemore/).
 
-[Search for the Comandante C40 on Amazon.co.jp](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=%E3%82%B3%E3%83%9E%E3%83%B3%E3%83%80%E3%83%B3%E3%83%86+C40)
-
 Search results mix in other model numbers. Check that the title says MK4 and Nitro Blade.
 
 ## Also consider
 
 The 1Zpresso K-Ultra is not one of these three. I have not used it. Where the maker places it, as one grinder across brew methods, is in the [1Zpresso hand grinder lineup](/en/articles/1zpresso-hand-grinder-lineup/).
-
-[Search for the 1Zpresso K-Ultra on Amazon.co.jp](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=1Zpresso+K-Ultra)
 
 ## Beans after grinding
 

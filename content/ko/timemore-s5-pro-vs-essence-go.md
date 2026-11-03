@@ -71,7 +71,7 @@ S5 프로는 48mm 버와 90클릭 외부 다이얼이라, 간격을 잘게 나�
 
 일본 아마존(Amazon.co.jp)은 AmazonGlobal을 통해 한국으로 배송합니다. 다만 배송비와 배송 가능 여부는 상품마다 다르며, 관세·부가세 예상액과 함께 결제 화면에서 확인하세요. 카드에 나오는 금액은 일본 시장(엔) 기준의 참고 가격입니다. 재고와 판매자는 주문 전에 상품 페이지에서 확인하세요.
 
-- [Amazon.co.jp에서 타임모어 S5 프로 보기](https://www.amazon.co.jp/s?k=TIMEMORE+S5+Pro&tag=stocknotelife-22)
+- [Amazon.co.jp에서 타임모어 S5 프로 보기](https://www.amazon.co.jp/dp/B0HF4LXCCY?tag=stocknotelife-22)
 - [Amazon.co.jp에서 에페이오스 에센스 고 보기](https://www.amazon.co.jp/dp/B0D3PZHGBX?tag=stocknotelife-22)
 
 ## 광고 고지

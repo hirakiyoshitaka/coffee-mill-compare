@@ -31,3 +31,11 @@ export function isHttpUrl(value: string | undefined): value is string {
 }
 
 export const affiliateRel = REL;
+
+/** リポジトリに入っている Amazon アソシエイトタグは、日本のこれだけ。 */
+export const jpAmazonAssociateTag = "stocknotelife-22";
+
+export function isJpTaggedAmazonUrl(href: string | undefined): boolean {
+  if (!href) return false;
+  return /amazon\.co\.jp/i.test(href) && new RegExp(`(?:[?&])tag=${jpAmazonAssociateTag}(?:&|$)`).test(href);
+}

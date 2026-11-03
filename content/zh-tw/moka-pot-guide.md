@@ -18,8 +18,6 @@ date: "2026-11-01"
 
 瓦斯或電熱爐、先看八角形鋁壺時，從 Moka Express 的搜尋頁對材質和杯數。價格和庫存以商店頁為準。這篇不寫日圓售價。
 
-[在 Amazon.co.jp 搜尋 Bialetti Moka Express](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=%E3%83%93%E3%82%A2%E3%83%AC%E3%83%83%E3%83%86%E3%82%A3+%E3%83%A2%E3%82%AB%E3%82%A8%E3%82%AD%E3%82%B9%E3%83%97%E3%83%AC%E3%82%B9)
-
 ## 一杯不是馬克杯
 
 2026 年 11 月 1 日打開的 Bialetti 美國頁面寫：摩卡壺的 cup 是一杯義式濃縮（約 2 盎司），不是馬克杯。3 杯是 4.4 盎司，這種總量和「杯數乘 2」對不上的列也排在一起。請用頁面上印的總量，不要自己乘。盎司換算成毫升的數字，這篇不寫。
@@ -36,12 +34,6 @@ date: "2026-11-01"
 
 表上三個系列的搜尋頁如下。結果會混進其他系列和替換墊圈，請對鋁或不鏽鋼，以及幾杯。
 
-[在 Amazon.co.jp 搜尋 Bialetti Moka Express](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=%E3%83%93%E3%82%A2%E3%83%AC%E3%83%83%E3%83%86%E3%82%A3+%E3%83%A2%E3%82%AB%E3%82%A8%E3%82%AD%E3%82%B9%E3%83%97%E3%83%AC%E3%82%B9)
-
-[在 Amazon.co.jp 搜尋 Bialetti Venus](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=%E3%83%93%E3%82%A2%E3%83%AC%E3%83%83%E3%83%86%E3%82%A3+%E3%83%B4%E3%82%A3%E3%83%BC%E3%83%8A%E3%82%B9)
-
-[在 Amazon.co.jp 搜尋 Bialetti Brikka](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=%E3%83%93%E3%82%A2%E3%83%AC%E3%83%83%E3%83%86%E3%82%A3+%E3%83%96%E3%83%AA%E3%83%83%E3%82%AB)
-
 ## 萃取步驟只轉載官方的注意
 
 義大利文 Moka Express 頁面上的步驟是：常溫水加到安全閥的高度。頁面寫，超過閥門會變得水水的。咖啡粉用摩卡研磨，不要過細。粉槽裝滿，但不要壓粉。火開小。開始咕嚕咕嚕就把壺離火。清洗只用清水，不用清潔劑，也不用洗碗機。本站沒有照這個步驟沖煮的紀錄。
@@ -52,19 +44,13 @@ date: "2026-11-01"
 
 官方有從 1933 年延續的八角形說明。頁面也寫了設計沿革；這篇採用的是材質、安全閥、熱源、洗法和杯數盎司。廚房如果是感應爐，沒有感應板就不在那一頁的對應表裡。感應板對應到幾杯，這篇沒有打開，所以不寫。
 
-[在 Amazon.co.jp 搜尋 Bialetti Moka Express](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=%E3%83%93%E3%82%A2%E3%83%AC%E3%83%83%E3%83%86%E3%82%A3+%E3%83%A2%E3%82%AB%E3%82%A8%E3%82%AD%E3%82%B9%E3%83%97%E3%83%AC%E3%82%B9)
-
 ### Bialetti Venus
 
 Venus 是美國頁寫成 18/10 不鏽鋼、瓦斯、電熱爐、感應爐都不必加轉接板的系列。頁面上的尺寸是 4 杯、6 杯、10 杯。不是 Moka Express 那種從 1 杯到 18 杯的表。
 
-[在 Amazon.co.jp 搜尋 Bialetti Venus](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=%E3%83%93%E3%82%A2%E3%83%AC%E3%83%83%E3%83%86%E3%82%A3+%E3%83%B4%E3%82%A3%E3%83%BC%E3%83%8A%E3%82%B9)
-
 ### Bialetti Brikka
 
 Brikka Induction 的美國頁面說明了做出克麗瑪，以及鋁和鋼的雙層鍋爐。「感應爐上唯一能做出真正義式濃縮的爐上器具」這一類最高級說法，是頁面的宣傳文，這篇的結論不採用。打開的頁面容量是 4 杯、約 5.4 盎司（咖啡加克麗瑪）。其他杯數請看該型號的頁面。
-
-[在 Amazon.co.jp 搜尋 Bialetti Brikka](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=%E3%83%93%E3%82%A2%E3%83%AC%E3%83%83%E3%83%86%E3%82%A3+%E3%83%96%E3%83%AA%E3%83%83%E3%82%AB)
 
 搜尋結果會混進其他系列和替換墊圈。請在商品名稱裡對一下是鋁還是不鏽鋼，以及幾杯。
 
@@ -94,4 +80,4 @@ Brikka Induction 的美國頁面說明了做出克麗瑪，以及鋁和鋼的雙
 - [Brikka Induction](https://www.bialetti.com/us_en/brikka-4-cup-induction-moka-pot-rich-espresso-with-crema.html)
 - S5 Pro 的摩卡 1.0–3.0，是[評測](/zh-tw/articles/timemore-chestnut-s5-pro/)從官方轉載的範圍
 
-文中的購買連結含廣告（Amazon 聯盟，以及磨豆機與豆子卡片上已設定的連結）。說明見[廣告揭露](/zh-tw/disclosure/)。
+本頁不放 Amazon 購買按鈕。磨豆機卡片與珈琲きゃろっと的連結，已設定的才是廣告。說明見[廣告揭露](/zh-tw/disclosure/)。

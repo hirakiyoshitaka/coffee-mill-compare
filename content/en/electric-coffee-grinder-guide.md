@@ -31,20 +31,12 @@ If you make pour-over every day, start with a flat or conical burr grinder for a
 - **Mid range**: where the go-to burr grinders sit. The realistic choice for daily pour-over.
 - **Premium**: models focused on grind uniformity and low fines.
 
-You can compare models on Amazon. Always confirm the price and specs on the product page before buying.
-
-[Browse flat burr electric grinders on Amazon.co.jp](https://www.amazon.co.jp/s?k=flat+burr+electric+coffee+grinder&tag=stocknotelife-22)
-
-[Browse conical burr electric grinders on Amazon.co.jp](https://www.amazon.co.jp/s?k=conical+burr+electric+coffee+grinder&tag=stocknotelife-22)
+Always confirm the price and specs on the product page before buying. This English page does not show Amazon purchase buttons.
 
 ## Or consider a hand grinder
 
 If you want silence, no power cord, and enjoy the grinding itself, a hand grinder is worth considering. See [hand vs electric grinders](/en/articles/hand-vs-electric-coffee-mill/), [how to choose your first hand grinder](/en/articles/how-to-choose-hand-coffee-mill/), and [Timemore S5 Pro vs EPEIOS Essence Go](/en/articles/timemore-s5-pro-vs-essence-go/).
 
-[Search for the Timemore Chestnut S5 Pro on Amazon.co.jp](https://www.amazon.co.jp/s?k=TIMEMORE+Chestnut+S5+Pro&tag=stocknotelife-22)
-
-[Search for the EPEIOS Essence Go on Amazon.co.jp](https://www.amazon.co.jp/s?k=EPEIOS+Essence+Go+grinder&tag=stocknotelife-22)
-
 Comparing espresso machines with a built-in grinder? See [Breville vs De'Longhi all-in-one espresso machines](/en/articles/breville-vs-delonghi-all-in-one-espresso/).
 
-Some links on this page are ads. See our [disclosure](/en/disclosure/) for details.
+This English page does not show Amazon purchase buttons. See our [disclosure](/en/disclosure/) for how other pages label ads.

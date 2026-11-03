@@ -63,10 +63,6 @@ There's only about 40g between them, and neither is a lightweight. The real diff
 
 {{grinder:epeios-essence-go}}
 
-[Search for the Timemore Chestnut S5 Pro on Amazon.co.jp](https://www.amazon.co.jp/s?k=TIMEMORE+Chestnut+S5+Pro&tag=stocknotelife-22)
-
-[Search for the EPEIOS Essence Go on Amazon.co.jp](https://www.amazon.co.jp/s?k=EPEIOS+Essence+Go+grinder&tag=stocknotelife-22)
-
 Availability on Amazon.co.jp varies by region, so check the listing (and the seller) before ordering.
 
 The longer write-ups are the [Chestnut S5 Pro review](/en/articles/timemore-chestnut-s5-pro/) and the [Essence Go review](/en/articles/epeios-essence-go/). For where to set either dial, see the [coffee grind size guide](/en/articles/coffee-grind-size-guide/).

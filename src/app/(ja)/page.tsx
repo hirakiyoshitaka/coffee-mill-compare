@@ -16,12 +16,48 @@ const heroImage =
   "https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd?auto=format&fit=crop&w=1400&q=80";
 
 const reviewSlugs = [
-  "timemore-chestnut-s5-pro",
-  "epeios-essence-go",
+  "coffee-mill-ranking",
+  "how-to-choose-hand-coffee-mill",
+  "japanese-premium-coffee-makers",
+  "coffee-maker-guide",
   "home-latte-espresso-machines",
-  "hand-drip-upgrade-gear",
-  "cold-brew-outdoor-coffee",
+  "breville-vs-delonghi-all-in-one-espresso",
   "coffee-bean-subscription",
+  "first-beans-after-hand-mill",
+] as const;
+
+const leadPaths = [
+  {
+    href: "/articles/coffee-mill-ranking/",
+    kicker: "コーヒーミル",
+    title: "手挽きのおすすめ",
+    text: "1位はタイムモア栗子 S5 Pro、2位はエペイオス Essence Go。3位のコマンダンテ C40 はレビューまとめで、使っていません。",
+    links: [
+      { href: "/articles/how-to-choose-hand-coffee-mill/", label: "選び方" },
+      { href: "/articles/luxury-relaxed-coffee-mill-best3/", label: "ベスト3" },
+    ],
+  },
+  {
+    href: "/articles/japanese-premium-coffee-makers/",
+    kicker: "コーヒーメーカー",
+    title: "比較記事から入る",
+    text: "日本ブランド3台、家でラテ、タイプの選び方、ブレビルとデロンギ。売り切れの機種は載せていません。使った感想は未記入です。【体験：要記入】",
+    links: [
+      { href: "/articles/coffee-maker-guide/", label: "選び方" },
+      { href: "/articles/home-latte-espresso-machines/", label: "家でラテ" },
+      { href: "/articles/breville-vs-delonghi-all-in-one-espresso/", label: "ブレビルとデロンギ" },
+    ],
+  },
+  {
+    href: "/articles/coffee-bean-subscription/",
+    kicker: "豆",
+    title: "お試しと定期便",
+    text: "定期便の比較と、最初の一袋。運営者が続けていた記録があるのは珈琲きゃろっとの定期便だけです。",
+    links: [
+      { href: "/articles/first-beans-after-hand-mill/", label: "最初の一袋" },
+      { href: "/beans/coffee-carrot/", label: "きゃろっとのお試し" },
+    ],
+  },
 ] as const;
 
 export default function HomePage() {
@@ -39,17 +75,20 @@ export default function HomePage() {
     <main className="page-wrap">
       <section className="hero">
         <div>
-          <p className="hero-kicker">先に置くのは、2台と1店</p>
-          <h1>家のコーヒーを、条件から選ぶ。</h1>
+          <p className="hero-kicker">先に開くのは、3つの読みもの</p>
+          <h1>家のコーヒーを、記事から選ぶ。</h1>
           <p className="hero-description">
-            おうち時間の道具箱が勧める手挽きは、タイムモア栗子 S5 Pro と、エペイオス Essence Go です。豆は、運営者が定期便を1年ほど続けていた珈琲きゃろっとから開きます。価格は目安です。
+            手挽きミル、コーヒーメーカー、豆のお試しと定期便。売り切れの商品は置いていません。使っていない機械の体験は書きません。【体験：要記入】
           </p>
           <div className="hero-actions">
-            <Link href="#picks" className="hero-cta">
-              おすすめの2台を見る
+            <Link href="/articles/coffee-mill-ranking/" className="hero-cta">
+              ミルのおすすめを読む
             </Link>
-            <Link href="/beans/coffee-carrot" className="text-link">
-              きゃろっとの豆を見る
+            <Link href="/articles/japanese-premium-coffee-makers/" className="text-link">
+              コーヒーメーカーを読む
+            </Link>
+            <Link href="/articles/coffee-bean-subscription/" className="text-link">
+              豆のお試し・定期便
             </Link>
           </div>
           <p className="ad-note">購入リンクを置いた場合は広告です。空のリンクはボタンを出しません。</p>
@@ -67,17 +106,17 @@ export default function HomePage() {
       </section>
 
       <nav className="path-links" aria-label="入口">
-        <Link href="/categories/mill">
+        <Link href="/articles/coffee-mill-ranking/">
           ミル
-          <small>おすすめ2台</small>
+          <small>おすすめランキング</small>
         </Link>
-        <Link href="/beans/coffee-carrot">
+        <Link href="/articles/coffee-maker-guide/">
+          メーカー
+          <small>選び方と比較</small>
+        </Link>
+        <Link href="/articles/coffee-bean-subscription/">
           豆
-          <small>きゃろっとの定期便</small>
-        </Link>
-        <Link href="/articles">
-          読みもの
-          <small>比べ方のノート</small>
+          <small>お試しと定期便</small>
         </Link>
         <Link href="/categories">
           道具
@@ -86,6 +125,32 @@ export default function HomePage() {
       </nav>
 
       <PrNotice />
+      <section className="section-block" id="start">
+        <div className="section-heading">
+          <h2>先に読む</h2>
+        </div>
+        <ul className="article-index">
+          {leadPaths.map((item, index) => (
+            <li key={item.href}>
+              <Link href={item.href} className="article-card">
+                <span className="article-number">{String(index + 1).padStart(2, "0")}</span>
+                <span>
+                  <span className="category">{item.kicker}</span>
+                  <h3>{item.title}</h3>
+                  <p>{item.text}</p>
+                </span>
+              </Link>
+              <p className="hero-actions">
+                {item.links.map((link) => (
+                  <Link key={link.href} href={link.href} className="text-link">
+                    {link.label}
+                  </Link>
+                ))}
+              </p>
+            </li>
+          ))}
+        </ul>
+      </section>
       <section className="section-block" id="picks">
         <div className="section-heading">
           <h2>おすすめの手挽き</h2>

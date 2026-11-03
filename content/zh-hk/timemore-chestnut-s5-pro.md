@@ -66,7 +66,7 @@ date: "2026-10-27"
 
 日本 Amazon（Amazon.co.jp）可透過 AmazonGlobal 寄送到香港，但並非所有商品都可寄送，運費亦因商品而異，請在結帳頁確認。文中價格均為日本市場價格（日圓），並非香港售價。
 
-- [在 Amazon.co.jp 查看 TIMEMORE 栗子 S5 Pro](https://www.amazon.co.jp/s?k=TIMEMORE+S5+Pro&tag=stocknotelife-22)
+- [在 Amazon.co.jp 查看 TIMEMORE 栗子 S5 Pro](https://www.amazon.co.jp/dp/B0HF4LXCCY?tag=stocknotelife-22)
 
 想把悠閒的早晨過得講究一點，見[手磨咖啡磨豆機三台](/zh-hk/articles/luxury-relaxed-coffee-mill-best3/)。第3名 Comandante C40 是評測整理，沒用過。
 

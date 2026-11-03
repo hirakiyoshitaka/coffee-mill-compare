@@ -34,7 +34,7 @@ date: "2026-11-02"
 
 {{grinder:timemore-chestnut-s5-pro}}
 
-[タイムモア 栗子 S5 Pro を Amazon で見る（広告）](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=TIMEMORE+%E6%A0%97%E5%AD%90+S5+Pro)
+[タイムモア 栗子 S5 Pro を Amazon で見る（広告）](https://www.amazon.co.jp/dp/B0HF4LXCCY?tag=stocknotelife-22)
 
 ## 2. エペイオス Essence Go
 

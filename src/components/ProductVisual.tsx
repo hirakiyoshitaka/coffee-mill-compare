@@ -1,10 +1,11 @@
 import Image from "next/image";
 import { affiliateRel, isHttpUrl } from "@/lib/affiliate";
 import type { GrinderModel } from "@/data/grinders";
+import type { SiteLocale } from "@/lib/i18n";
 
 type Variant = "card" | "embed" | "compact";
 
-export function ProductVisual({ model, variant = "card" }: { model: GrinderModel; variant?: Variant }) {
+export function ProductVisual({ model, variant = "card", locale = "ja" }: { model: GrinderModel; variant?: Variant; locale?: SiteLocale }) {
   if (!model.imageUrl) {
     return (
       <div
@@ -27,10 +28,12 @@ export function ProductVisual({ model, variant = "card" }: { model: GrinderModel
         ? "(min-width: 640px) 14rem, 100vw"
         : "(min-width: 1100px) 30vw, (min-width: 720px) 45vw, 100vw";
   const rakutenHosted = /^https:\/\/(?:[\w.-]+\.)?(?:rakuten\.co\.jp|r10s\.jp)\//i.test(model.imageUrl ?? "");
+  const allowJpAmazon = locale !== "en" && locale !== "zh-tw";
   // 楽天の商品画像は楽天の購入リンクへ。それ以外の写真は、Amazon の購入リンクがあればそちらを優先する。
+  // 英語と繁體中文（台灣）は、海外の Amazon タグが無いので日本タグの画像リンクを出さない。
   const imageLinkUrl = rakutenHosted
     ? model.rakutenUrl
-    : isHttpUrl(model.amazonUrl)
+    : allowJpAmazon && isHttpUrl(model.amazonUrl)
       ? model.amazonUrl
       : model.rakutenUrl;
   const linked = isHttpUrl(imageLinkUrl);

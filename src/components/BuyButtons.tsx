@@ -2,6 +2,9 @@ import type { GrinderModel } from "@/data/grinders";
 import { cardDict, type SiteLocale } from "@/lib/i18n";
 import { affiliateRel, isHttpUrl, prepareAffiliateHtml } from "@/lib/affiliate";
 
+/** 海外向けの Amazon タグがリポジトリに無い言語。日本タグのボタンは出さない。 */
+const localesWithoutOverseasAmazon = new Set<SiteLocale>(["en", "zh-tw"]);
+
 export type BuyLink = {
   href?: string;
   label: string;
@@ -25,7 +28,7 @@ export function grinderBuyProps(model: Pick<GrinderModel, "name" | "rakutenUrl" 
     locale,
     links: [
       { href: model.rakutenUrl, label: d.rakuten },
-      { href: model.amazonUrl, label: d.amazon },
+      { href: localesWithoutOverseasAmazon.has(locale) ? undefined : model.amazonUrl, label: d.amazon },
       { href: model.yahooUrl, label: d.yahoo },
       { href: model.shopeeMyUrl, label: d.shopeeMy },
     ],

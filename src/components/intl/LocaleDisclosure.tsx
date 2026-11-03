@@ -15,8 +15,8 @@ const docs: Record<TranslationLocale, Doc> = {
     description: "居家時光工具箱的聯盟行銷廣告、文章開頭的 PR 標示、排名與參考價格的原則。",
     updated: "最後更新",
     sections: [
-      { h: "先告訴你：這裡有廣告", p: ["本站含廣告與聯盟行銷連結。", "本站為 Amazon 日本（Amazon.co.jp）的聯盟會員，透過合格銷售取得收入。", "本站可能從商品購買連結獲得報酬。依照日本《景品表示法》的隱性行銷規範，我們會清楚標示廣告：文章本文前會寫「廣告（PR）」，標題上方也會顯示 PR，每頁頁尾也放有上面兩句。"] },
-      { h: "哪些連結是廣告", p: ["前往樂天市場、Amazon、Yahoo!購物、A8.net 的購買連結，以及聯盟行銷用的 HTML，都是聯盟廣告。連結會加上 rel=\"sponsored noopener\" 與 target=\"_blank\"。Amazon 商品連結附有聯盟標籤 tag=stocknotelife-22。商品照片本身也可能是購買連結（Amazon）。沒有設定網址的商品，不會顯示購買按鈕。", "已參加或預計參加的計畫如下："], list: programs },
+      { h: "先告訴你：這裡有廣告", p: ["本站含廣告與聯盟行銷連結。", "繁體中文（台灣）頁面不放 Amazon 購買按鈕。已登錄的 Amazon 聯盟標籤只有日本的 tag=stocknotelife-22，海外用的 Amazon 標籤沒有收錄，所以不另造、也不把日本標籤放在這些頁面上。", "本站可能從商品購買連結獲得報酬。依照日本《景品表示法》的隱性行銷規範，我們會清楚標示廣告：文章本文前會寫「廣告（PR）」，標題上方也會顯示 PR，每頁頁尾也放有上面兩句。"] },
+      { h: "哪些連結是廣告", p: ["前往樂天市場、A8.net 的購買連結，以及已收錄的 Shopee 馬來西亞連結，都是聯盟廣告。連結會加上 rel=\"sponsored noopener\" 與 target=\"_blank\"。沒有設定網址的商品，不會顯示購買按鈕。", "已參加或預計參加的計畫如下："], list: programs },
       { h: "排名不看報酬", p: ["文章的排序與推薦，不是依聯盟報酬高低決定，而是依用途、規格、參考價格，以及社群中反覆出現的評論重點整理。資料中沒有的風味分數或虛構的最低價，我們不寫。"] },
       { h: "價格僅供參考", p: ["金額為日本市場的「參考價格」（日圓），會因商店、促銷、匯率與廠商調價而變動，並非台灣售價。透過 AmazonGlobal 寄送時，運費與關稅會在結帳時顯示。實際金額以商店頁面為準。"] },
       { h: "評論的處理方式", p: ["評論欄不是轉載特定貼文或星等，而是編輯部整理論壇與評測中反覆出現的重點。"] },
@@ -121,8 +121,8 @@ const docs: Record<TranslationLocale, Doc> = {
     description: "How Ouchi Dougubako handles affiliate advertising, PR labels, rankings, and reference prices.",
     updated: "Last updated",
     sections: [
-      { h: "Up front: this site has ads", p: ["This site contains ads and affiliate links.", "As an Amazon Associate (Amazon.co.jp), we earn from qualifying purchases.", "We may earn a commission from product links, at no extra cost to you. In line with Japan's rules on stealth marketing, every article is labeled as advertising before the main text, and a PR mark appears above the title."] },
-      { h: "Which links are ads", p: ["Purchase links to Rakuten, Amazon.co.jp, Yahoo! Shopping, A8.net, and Shopee (via Involve Asia) are affiliate links. They carry rel=\"sponsored noopener\" and open in a new tab. Amazon.co.jp links include the associate tag stocknotelife-22. Links to Amazon.com in our English articles are plain search links with no affiliate tag; we currently earn nothing from them.", "Programs we take part in or plan to join:"], list: [...programs, "Involve Asia (Shopee Malaysia)"] },
+      { h: "Up front: this site has ads", p: ["This site contains ads and affiliate links.", "English pages do not show Amazon purchase buttons. The only Amazon associate tag on file is stocknotelife-22 for Amazon.co.jp. No overseas Amazon tag is on file, so none is invented and the Japan tag is not used on these pages.", "We may earn a commission from product links, at no extra cost to you. In line with Japan's rules on stealth marketing, every article is labeled as advertising before the main text, and a PR mark appears above the title."] },
+      { h: "Which links are ads", p: ["Purchase links to Rakuten, A8.net, and Shopee (via Involve Asia), where a URL is already on file, are affiliate links. They carry rel=\"sponsored noopener\" and open in a new tab. Products with no URL do not get a buy button.", "Programs we take part in or plan to join:"], list: [...programs, "Involve Asia (Shopee Malaysia)"] },
       { h: "Rankings aren't for sale", p: ["Our order and recommendations are not based on commission rates. They are based on use case, specs, reference prices, and points that come up repeatedly in public reviews. We don't make up flavor scores or lowest prices."] },
       { h: "Prices are for reference", p: ["Prices are Japanese market estimates in yen unless stated otherwise. They change with stores, sales, exchange rates, and manufacturer price changes. Shipping, duties, and availability in your country are shown by the store at checkout."] },
       { h: "How we handle reviews", p: ["Review summaries condense points that come up repeatedly in forums and reviews; they are not copies of individual posts or star ratings. We only describe personal use for gear we actually use."] },
