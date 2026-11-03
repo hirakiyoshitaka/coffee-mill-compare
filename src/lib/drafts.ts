@@ -8,6 +8,7 @@ import type { Article } from "@/lib/articles";
  * 日本語だけの下書き。content/drafts に置き、公開一覧・サイトマップ・ナビには出さない。
  * 各ファイルは draft: true。実測が入るまで /drafts/ の noindex ページとしてだけ開く。
  * ゴルフと浄水は公開カテゴリを増やさない。名前だけ下書きページに出す。
+ * 英語の下書きは content/en/drafts（src/lib/en-drafts.ts）。このディレクトリには混ぜない。
  */
 const draftsDir = path.join(process.cwd(), "content", "drafts");
 
