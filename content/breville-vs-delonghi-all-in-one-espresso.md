@@ -7,10 +7,13 @@ date: "2026-11-01"
 
 <aside class="article-picks" aria-label="おすすめ結論">
 <h2>おすすめ結論</h2>
-<p class="fine">レビューまとめです。運営者はこの6台を使っていません。【体験：要記入】日本のAmazonで商品ページまで特定できているのはリヴェリアだけです。エレッタ エクスプロアは検索のままです。ブレビル3台は日本の正規販売が無く、公式サイトだけを置いています。楽天の購入ボタンは、この機種用のアフィリエイトURLが無いので出していません。</p>
+<p class="fine">レビューまとめです。運営者はこの6台を使っていません。【体験：要記入】日本のAmazonで商品ページまで特定できているのはリヴェリアだけです。エレッタ エクスプロアは検索のままです。楽天のボタンは、栗子 S5 Pro と同じ楽天アフィリエイトIDで、リヴェリア、エレッタ エクスプロア、バリスタエクスプレス インプレスの楽天市場ページへつなぎます。バリスタエクスプレス インプレスのページは米国からの個人輸入です。オラクル ジェット、バリスタタッチ インプレス、ラ・スペシャリスタ・タッチは、その機種の楽天市場の商品ページを特定できなかったので出していません。</p>
 <div class="cta-after-table">
 <a href="https://www.amazon.co.jp/dp/B0F1FBXFBL?tag=stocknotelife-22" class="buy-link">リヴェリアをAmazonで見る（広告）</a>
+<a href="https://hb.afl.rakuten.co.jp/ichiba/58d84d03.7b0724e9.58d84d04.7cac0326/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdelonghi%2F0132250246%2F&amp;link_type=hybrid_url&amp;ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJoeWJyaWRfdXJsIiwic2l6ZSI6IjI0MHgyNDAiLCJuYW0iOjEsIm5hbXAiOiJyaWdodCIsImNvbSI6MSwiY29tcCI6ImRvd24iLCJwcmljZSI6MSwiYm9yIjoxLCJjb2wiOjEsImJidG4iOjEsInByb2QiOjAsImFtcCI6ZmFsc2V9" class="buy-link">リヴェリアを楽天で見る（広告）</a>
 <a href="https://www.amazon.co.jp/s?k=%E3%83%87%E3%83%AD%E3%83%B3%E3%82%AE+%E3%82%A8%E3%83%AC%E3%83%83%E3%82%BF+%E3%82%A8%E3%82%AF%E3%82%B9%E3%83%97%E3%83%AD%E3%82%A2&amp;tag=stocknotelife-22" class="buy-link">エレッタ エクスプロアをAmazonで探す（広告）</a>
+<a href="https://hb.afl.rakuten.co.jp/ichiba/58d84d03.7b0724e9.58d84d04.7cac0326/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdelonghi%2F0132250044%2F&amp;link_type=hybrid_url&amp;ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJoeWJyaWRfdXJsIiwic2l6ZSI6IjI0MHgyNDAiLCJuYW0iOjEsIm5hbXAiOiJyaWdodCIsImNvbSI6MSwiY29tcCI6ImRvd24iLCJwcmljZSI6MSwiYm9yIjoxLCJjb2wiOjEsImJidG4iOjEsInByb2QiOjAsImFtcCI6ZmFsc2V9" class="buy-link">エレッタ エクスプロアを楽天で見る（広告）</a>
+<a href="https://hb.afl.rakuten.co.jp/ichiba/58d84d03.7b0724e9.58d84d04.7cac0326/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffounder%2Faj0000358%2F&amp;link_type=hybrid_url&amp;ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJoeWJyaWRfdXJsIiwic2l6ZSI6IjI0MHgyNDAiLCJuYW0iOjEsIm5hbXAiOiJyaWdodCIsImNvbSI6MSwiY29tcCI6ImRvd24iLCJwcmljZSI6MSwiYm9yIjoxLCJjb2wiOjEsImJidG4iOjEsInByb2QiOjAsImFtcCI6ZmFsc2V9" class="buy-link">バリスタエクスプレス インプレスを楽天で見る（広告）</a>
 </div>
 </aside>
 
@@ -69,6 +72,11 @@ date: "2026-11-01"
 
 [バリスタエクスプレス インプレスをブレビル米国公式で見る](https://www.breville.com/en-us/product/bes876)
 
+<div class="cta-after-table">
+<a href="https://hb.afl.rakuten.co.jp/ichiba/58d84d03.7b0724e9.58d84d04.7cac0326/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffounder%2Faj0000358%2F&amp;link_type=hybrid_url&amp;ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJoeWJyaWRfdXJsIiwic2l6ZSI6IjI0MHgyNDAiLCJuYW0iOjEsIm5hbXAiOiJyaWdodCIsImNvbSI6MSwiY29tcCI6ImRvd24iLCJwcmljZSI6MSwiYm9yIjoxLCJjb2wiOjEsImJidG4iOjEsInByb2QiOjAsImFtcCI6ZmFsc2V9" class="buy-link">バリスタエクスプレス インプレスを楽天で見る（広告）</a>
+</div>
+<p class="fine">この楽天のページは、米国からの個人輸入です。電圧と保証は、上の「日本で買う方へ」とリンク先で確認してください。</p>
+
 ## デロンギの3台
 
 ### エレッタ エクスプロア：ホットもアイスもコールドブリューも1台で
@@ -80,6 +88,7 @@ date: "2026-11-01"
 
 <div class="cta-after-table">
 <a href="https://www.amazon.co.jp/s?k=%E3%83%87%E3%83%AD%E3%83%B3%E3%82%AE+%E3%82%A8%E3%83%AC%E3%83%83%E3%82%BF+%E3%82%A8%E3%82%AF%E3%82%B9%E3%83%97%E3%83%AD%E3%82%A2&amp;tag=stocknotelife-22" class="buy-link">エレッタ エクスプロアをAmazonで探す（広告）</a>
+<a href="https://hb.afl.rakuten.co.jp/ichiba/58d84d03.7b0724e9.58d84d04.7cac0326/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdelonghi%2F0132250044%2F&amp;link_type=hybrid_url&amp;ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJoeWJyaWRfdXJsIiwic2l6ZSI6IjI0MHgyNDAiLCJuYW0iOjEsIm5hbXAiOiJyaWdodCIsImNvbSI6MSwiY29tcCI6ImRvd24iLCJwcmljZSI6MSwiYm9yIjoxLCJjb2wiOjEsImJidG4iOjEsInByb2QiOjAsImFtcCI6ZmFsc2V9" class="buy-link">エレッタ エクスプロアを楽天で見る（広告）</a>
 </div>
 
 ### リヴェリア：豆を気分で切り替えられる全自動
@@ -91,6 +100,7 @@ date: "2026-11-01"
 
 <div class="cta-after-table">
 <a href="https://www.amazon.co.jp/dp/B0F1FBXFBL?tag=stocknotelife-22" class="buy-link">リヴェリアをAmazonで見る（広告）</a>
+<a href="https://hb.afl.rakuten.co.jp/ichiba/58d84d03.7b0724e9.58d84d04.7cac0326/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdelonghi%2F0132250246%2F&amp;link_type=hybrid_url&amp;ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJoeWJyaWRfdXJsIiwic2l6ZSI6IjI0MHgyNDAiLCJuYW0iOjEsIm5hbXAiOiJyaWdodCIsImNvbSI6MSwiY29tcCI6ImRvd24iLCJwcmljZSI6MSwiYm9yIjoxLCJjb2wiOjEsImJidG4iOjEsInByb2QiOjAsImFtcCI6ZmFsc2V9" class="buy-link">リヴェリアを楽天で見る（広告）</a>
 </div>
 
 ### ラ・スペシャリスタ・タッチ：デロンギ流のガイド付き本格派
@@ -118,7 +128,10 @@ date: "2026-11-01"
 
 <div class="cta-after-table">
 <a href="https://www.amazon.co.jp/dp/B0F1FBXFBL?tag=stocknotelife-22" class="buy-link">リヴェリアをAmazonで見る（広告）</a>
+<a href="https://hb.afl.rakuten.co.jp/ichiba/58d84d03.7b0724e9.58d84d04.7cac0326/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdelonghi%2F0132250246%2F&amp;link_type=hybrid_url&amp;ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJoeWJyaWRfdXJsIiwic2l6ZSI6IjI0MHgyNDAiLCJuYW0iOjEsIm5hbXAiOiJyaWdodCIsImNvbSI6MSwiY29tcCI6ImRvd24iLCJwcmljZSI6MSwiYm9yIjoxLCJjb2wiOjEsImJidG4iOjEsInByb2QiOjAsImFtcCI6ZmFsc2V9" class="buy-link">リヴェリアを楽天で見る（広告）</a>
 <a href="https://www.amazon.co.jp/s?k=%E3%83%87%E3%83%AD%E3%83%B3%E3%82%AE+%E3%82%A8%E3%83%AC%E3%83%83%E3%82%BF+%E3%82%A8%E3%82%AF%E3%82%B9%E3%83%97%E3%83%AD%E3%82%A2&amp;tag=stocknotelife-22" class="buy-link">エレッタ エクスプロアをAmazonで探す（広告）</a>
+<a href="https://hb.afl.rakuten.co.jp/ichiba/58d84d03.7b0724e9.58d84d04.7cac0326/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdelonghi%2F0132250044%2F&amp;link_type=hybrid_url&amp;ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJoeWJyaWRfdXJsIiwic2l6ZSI6IjI0MHgyNDAiLCJuYW0iOjEsIm5hbXAiOiJyaWdodCIsImNvbSI6MSwiY29tcCI6ImRvd24iLCJwcmljZSI6MSwiYm9yIjoxLCJjb2wiOjEsImJidG4iOjEsInByb2QiOjAsImFtcCI6ZmFsc2V9" class="buy-link">エレッタ エクスプロアを楽天で見る（広告）</a>
+<a href="https://hb.afl.rakuten.co.jp/ichiba/58d84d03.7b0724e9.58d84d04.7cac0326/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffounder%2Faj0000358%2F&amp;link_type=hybrid_url&amp;ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJoeWJyaWRfdXJsIiwic2l6ZSI6IjI0MHgyNDAiLCJuYW0iOjEsIm5hbXAiOiJyaWdodCIsImNvbSI6MSwiY29tcCI6ImRvd24iLCJwcmljZSI6MSwiYm9yIjoxLCJjb2wiOjEsImJidG4iOjEsInByb2QiOjAsImFtcCI6ZmFsc2V9" class="buy-link">バリスタエクスプレス インプレスを楽天で見る（広告）</a>
 </div>
 
-このページのAmazonリンクはアフィリエイトリンクです。ブレビル公式へのリンクは広告ではありません。楽天の購入ボタンは、この機種用のアフィリエイトURLが無いので出していません。方針は[広告表記](/disclosure/)にまとめています。
+このページのAmazonリンクと楽天リンクはアフィリエイトリンクです。ブレビル公式へのリンクは広告ではありません。楽天のIDは、栗子 S5 Pro の購入リンクと同じものを使っています。オラクル ジェット、バリスタタッチ インプレス、ラ・スペシャリスタ・タッチの楽天ボタンは出していません。方針は[広告表記](/disclosure/)にまとめています。

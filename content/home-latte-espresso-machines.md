@@ -7,7 +7,7 @@ date: "2026-10-28"
 
 <aside class="article-picks" aria-label="おすすめ結論">
 <h2>おすすめ結論</h2>
-<p class="fine">レビューまとめです。運営者はこの4つを使っていません。【体験：要記入】楽天の購入ボタンは、この機種用のアフィリエイトURLが無いので出していません。価格と在庫はリンク先で確認してください。</p>
+<p class="fine">レビューまとめです。運営者はこの4つを使っていません。【体験：要記入】楽天のボタンは、栗子 S5 Pro と同じ楽天アフィリエイトIDで、各機種の楽天市場の商品ページへつなぎます。価格と在庫はリンク先で確認してください。</p>
 <ul>
 <li>手軽さ：ヴァーチュオ ポップ プラス ＋ エアロチーノ4</li>
 <li>ラテアートも自分で：デディカ アルテ</li>
@@ -15,9 +15,13 @@ date: "2026-10-28"
 </ul>
 <div class="cta-after-table">
 <a href="https://www.amazon.co.jp/dp/B0DL5M3WLK?tag=stocknotelife-22" class="buy-link">ヴァーチュオ ポップ プラスをAmazonで見る（広告）</a>
+<a href="https://hb.afl.rakuten.co.jp/ichiba/58d84d03.7b0724e9.58d84d04.7cac0326/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnespresso%2Fgdv6%2F&amp;link_type=hybrid_url&amp;ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJoeWJyaWRfdXJsIiwic2l6ZSI6IjI0MHgyNDAiLCJuYW0iOjEsIm5hbXAiOiJyaWdodCIsImNvbSI6MSwiY29tcCI6ImRvd24iLCJwcmljZSI6MSwiYm9yIjoxLCJjb2wiOjEsImJidG4iOjEsInByb2QiOjAsImFtcCI6ZmFsc2V9" class="buy-link">ヴァーチュオ ポップ プラスを楽天で見る（広告）</a>
 <a href="https://www.amazon.co.jp/dp/B0BYHB9YYW?tag=stocknotelife-22" class="buy-link">デディカ アルテをAmazonで見る（広告）</a>
+<a href="https://hb.afl.rakuten.co.jp/ichiba/58d84d03.7b0724e9.58d84d04.7cac0326/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdelonghi%2F0132106265%2F&amp;link_type=hybrid_url&amp;ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJoeWJyaWRfdXJsIiwic2l6ZSI6IjI0MHgyNDAiLCJuYW0iOjEsIm5hbXAiOiJyaWdodCIsImNvbSI6MSwiY29tcCI6ImRvd24iLCJwcmljZSI6MSwiYm9yIjoxLCJjb2wiOjEsImJidG4iOjEsInByb2QiOjAsImFtcCI6ZmFsc2V9" class="buy-link">デディカ アルテを楽天で見る（広告）</a>
 <a href="https://www.amazon.co.jp/dp/B088HJCVDX?tag=stocknotelife-22" class="buy-link">マグニフィカSをAmazonで見る（広告）</a>
+<a href="https://hb.afl.rakuten.co.jp/ichiba/58d84d03.7b0724e9.58d84d04.7cac0326/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdelonghi%2F0132213169%2F&amp;link_type=hybrid_url&amp;ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJoeWJyaWRfdXJsIiwic2l6ZSI6IjI0MHgyNDAiLCJuYW0iOjEsIm5hbXAiOiJyaWdodCIsImNvbSI6MSwiY29tcCI6ImRvd24iLCJwcmljZSI6MSwiYm9yIjoxLCJjb2wiOjEsImJidG4iOjEsInByb2QiOjAsImFtcCI6ZmFsc2V9" class="buy-link">マグニフィカSを楽天で見る（広告）</a>
 <a href="https://www.amazon.co.jp/s?k=%E3%82%A8%E3%82%A2%E3%83%AD%E3%83%81%E3%83%BC%E3%83%8E4+%E3%83%AA%E3%83%95%E3%83%AC%E3%83%83%E3%82%B7%E3%83%A5&amp;tag=stocknotelife-22" class="buy-link">エアロチーノ4 リフレッシュをAmazonで探す（広告）</a>
+<a href="https://hb.afl.rakuten.co.jp/ichiba/58d84d03.7b0724e9.58d84d04.7cac0326/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnespresso%2F4194-jp%2F&amp;link_type=hybrid_url&amp;ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJoeWJyaWRfdXJsIiwic2l6ZSI6IjI0MHgyNDAiLCJuYW0iOjEsIm5hbXAiOiJyaWdodCIsImNvbSI6MSwiY29tcCI6ImRvd24iLCJwcmljZSI6MSwiYm9yIjoxLCJjb2wiOjEsImJidG4iOjEsInByb2QiOjAsImFtcCI6ZmFsc2V9" class="buy-link">エアロチーノ4 リフレッシュを楽天で見る（広告）</a>
 </div>
 </aside>
 
@@ -45,6 +49,7 @@ date: "2026-10-28"
 
 <div class="cta-after-table">
 <a href="https://www.amazon.co.jp/dp/B0DL5M3WLK?tag=stocknotelife-22" class="buy-link">ヴァーチュオ ポップ プラスをAmazonで見る（広告）</a>
+<a href="https://hb.afl.rakuten.co.jp/ichiba/58d84d03.7b0724e9.58d84d04.7cac0326/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnespresso%2Fgdv6%2F&amp;link_type=hybrid_url&amp;ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJoeWJyaWRfdXJsIiwic2l6ZSI6IjI0MHgyNDAiLCJuYW0iOjEsIm5hbXAiOiJyaWdodCIsImNvbSI6MSwiY29tcCI6ImRvd24iLCJwcmljZSI6MSwiYm9yIjoxLCJjb2wiOjEsImJidG4iOjEsInByb2QiOjAsImFtcCI6ZmFsc2V9" class="buy-link">ヴァーチュオ ポップ プラスを楽天で見る（広告）</a>
 </div>
 
 ## 約4万円：デロンギ デディカ アルテ EC885J
@@ -56,6 +61,7 @@ date: "2026-10-28"
 
 <div class="cta-after-table">
 <a href="https://www.amazon.co.jp/dp/B0BYHB9YYW?tag=stocknotelife-22" class="buy-link">デディカ アルテをAmazonで見る（広告）</a>
+<a href="https://hb.afl.rakuten.co.jp/ichiba/58d84d03.7b0724e9.58d84d04.7cac0326/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdelonghi%2F0132106265%2F&amp;link_type=hybrid_url&amp;ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJoeWJyaWRfdXJsIiwic2l6ZSI6IjI0MHgyNDAiLCJuYW0iOjEsIm5hbXAiOiJyaWdodCIsImNvbSI6MSwiY29tcCI6ImRvd24iLCJwcmljZSI6MSwiYm9yIjoxLCJjb2wiOjEsImJidG4iOjEsInByb2QiOjAsImFtcCI6ZmFsc2V9" class="buy-link">デディカ アルテを楽天で見る（広告）</a>
 </div>
 
 ## 約7万円：デロンギ マグニフィカS ECAM22112B
@@ -68,6 +74,7 @@ date: "2026-10-28"
 
 <div class="cta-after-table">
 <a href="https://www.amazon.co.jp/dp/B088HJCVDX?tag=stocknotelife-22" class="buy-link">マグニフィカSをAmazonで見る（広告）</a>
+<a href="https://hb.afl.rakuten.co.jp/ichiba/58d84d03.7b0724e9.58d84d04.7cac0326/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdelonghi%2F0132213169%2F&amp;link_type=hybrid_url&amp;ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJoeWJyaWRfdXJsIiwic2l6ZSI6IjI0MHgyNDAiLCJuYW0iOjEsIm5hbXAiOiJyaWdodCIsImNvbSI6MSwiY29tcCI6ImRvd24iLCJwcmljZSI6MSwiYm9yIjoxLCJjb2wiOjEsImJidG4iOjEsInByb2QiOjAsImFtcCI6ZmFsc2V9" class="buy-link">マグニフィカSを楽天で見る（広告）</a>
 </div>
 
 ## ラテにするなら：ネスプレッソ エアロチーノ4 リフレッシュ
@@ -80,6 +87,7 @@ date: "2026-10-28"
 
 <div class="cta-after-table">
 <a href="https://www.amazon.co.jp/s?k=%E3%82%A8%E3%82%A2%E3%83%AD%E3%83%81%E3%83%BC%E3%83%8E4+%E3%83%AA%E3%83%95%E3%83%AC%E3%83%83%E3%82%B7%E3%83%A5&amp;tag=stocknotelife-22" class="buy-link">エアロチーノ4 リフレッシュをAmazonで探す（広告）</a>
+<a href="https://hb.afl.rakuten.co.jp/ichiba/58d84d03.7b0724e9.58d84d04.7cac0326/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnespresso%2F4194-jp%2F&amp;link_type=hybrid_url&amp;ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJoeWJyaWRfdXJsIiwic2l6ZSI6IjI0MHgyNDAiLCJuYW0iOjEsIm5hbXAiOiJyaWdodCIsImNvbSI6MSwiY29tcCI6ImRvd24iLCJwcmljZSI6MSwiYm9yIjoxLCJjb2wiOjEsImJidG4iOjEsInByb2QiOjAsImFtcCI6ZmFsc2V9" class="buy-link">エアロチーノ4 リフレッシュを楽天で見る（広告）</a>
 </div>
 
 ## どれを選ぶ？
@@ -96,12 +104,16 @@ date: "2026-10-28"
 
 <div class="cta-after-table">
 <a href="https://www.amazon.co.jp/dp/B0DL5M3WLK?tag=stocknotelife-22" class="buy-link">ヴァーチュオ ポップ プラスをAmazonで見る（広告）</a>
+<a href="https://hb.afl.rakuten.co.jp/ichiba/58d84d03.7b0724e9.58d84d04.7cac0326/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnespresso%2Fgdv6%2F&amp;link_type=hybrid_url&amp;ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJoeWJyaWRfdXJsIiwic2l6ZSI6IjI0MHgyNDAiLCJuYW0iOjEsIm5hbXAiOiJyaWdodCIsImNvbSI6MSwiY29tcCI6ImRvd24iLCJwcmljZSI6MSwiYm9yIjoxLCJjb2wiOjEsImJidG4iOjEsInByb2QiOjAsImFtcCI6ZmFsc2V9" class="buy-link">ヴァーチュオ ポップ プラスを楽天で見る（広告）</a>
 <a href="https://www.amazon.co.jp/dp/B0BYHB9YYW?tag=stocknotelife-22" class="buy-link">デディカ アルテをAmazonで見る（広告）</a>
+<a href="https://hb.afl.rakuten.co.jp/ichiba/58d84d03.7b0724e9.58d84d04.7cac0326/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdelonghi%2F0132106265%2F&amp;link_type=hybrid_url&amp;ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJoeWJyaWRfdXJsIiwic2l6ZSI6IjI0MHgyNDAiLCJuYW0iOjEsIm5hbXAiOiJyaWdodCIsImNvbSI6MSwiY29tcCI6ImRvd24iLCJwcmljZSI6MSwiYm9yIjoxLCJjb2wiOjEsImJidG4iOjEsInByb2QiOjAsImFtcCI6ZmFsc2V9" class="buy-link">デディカ アルテを楽天で見る（広告）</a>
 <a href="https://www.amazon.co.jp/dp/B088HJCVDX?tag=stocknotelife-22" class="buy-link">マグニフィカSをAmazonで見る（広告）</a>
+<a href="https://hb.afl.rakuten.co.jp/ichiba/58d84d03.7b0724e9.58d84d04.7cac0326/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdelonghi%2F0132213169%2F&amp;link_type=hybrid_url&amp;ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJoeWJyaWRfdXJsIiwic2l6ZSI6IjI0MHgyNDAiLCJuYW0iOjEsIm5hbXAiOiJyaWdodCIsImNvbSI6MSwiY29tcCI6ImRvd24iLCJwcmljZSI6MSwiYm9yIjoxLCJjb2wiOjEsImJidG4iOjEsInByb2QiOjAsImFtcCI6ZmFsc2V9" class="buy-link">マグニフィカSを楽天で見る（広告）</a>
 <a href="https://www.amazon.co.jp/s?k=%E3%82%A8%E3%82%A2%E3%83%AD%E3%83%81%E3%83%BC%E3%83%8E4+%E3%83%AA%E3%83%95%E3%83%AC%E3%83%83%E3%82%B7%E3%83%A5&amp;tag=stocknotelife-22" class="buy-link">エアロチーノ4 リフレッシュをAmazonで探す（広告）</a>
+<a href="https://hb.afl.rakuten.co.jp/ichiba/58d84d03.7b0724e9.58d84d04.7cac0326/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnespresso%2F4194-jp%2F&amp;link_type=hybrid_url&amp;ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJoeWJyaWRfdXJsIiwic2l6ZSI6IjI0MHgyNDAiLCJuYW0iOjEsIm5hbXAiOiJyaWdodCIsImNvbSI6MSwiY29tcCI6ImRvd24iLCJwcmljZSI6MSwiYm9yIjoxLCJjb2wiOjEsImJidG4iOjEsInByb2QiOjAsImFtcCI6ZmFsc2V9" class="buy-link">エアロチーノ4 リフレッシュを楽天で見る（広告）</a>
 </div>
 
-このページのAmazonリンクはアフィリエイトリンクです。楽天の購入ボタンは、この機種用のアフィリエイトURLが無いので出していません。方針は[広告表記](/disclosure/)にまとめています。
+このページのAmazonリンクと楽天リンクはアフィリエイトリンクです。楽天のIDは、栗子 S5 Pro の購入リンクと同じものを使っています。方針は[広告表記](/disclosure/)にまとめています。
 
 ## あわせて読みたい
 

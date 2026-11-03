@@ -7,7 +7,7 @@ date: "2026-11-01"
 
 <aside class="article-picks" aria-label="おすすめ結論">
 <h2>おすすめ結論</h2>
-<p class="fine">レビューまとめです。運営者はこの3台を使っていません。【体験：要記入】楽天の購入ボタンは、この3台用のアフィリエイトURLが無いので出していません。価格と在庫はリンク先で確認してください。</p>
+<p class="fine">レビューまとめです。運営者はこの3台を使っていません。【体験：要記入】楽天のボタンは、栗子 S5 Pro と同じ楽天アフィリエイトIDで、各機種の楽天市場の商品ページへつなぎます。価格と在庫はリンク先で確認してください。</p>
 <ul>
 <li>抽出を眺めたい、豆は自分で挽く：バルミューダ ザ・ブリュー</li>
 <li>豆から全自動で家族分：ツインバード CM-D465B</li>
@@ -15,8 +15,11 @@ date: "2026-11-01"
 </ul>
 <div class="cta-after-table">
 <a href="https://www.amazon.co.jp/dp/B09DY6CDHZ?tag=stocknotelife-22" class="buy-link">バルミューダ ザ・ブリューをAmazonで見る（広告）</a>
+<a href="https://hb.afl.rakuten.co.jp/ichiba/58d84d03.7b0724e9.58d84d04.7cac0326/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fa-price%2F4560330110160%2F&amp;link_type=hybrid_url&amp;ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJoeWJyaWRfdXJsIiwic2l6ZSI6IjI0MHgyNDAiLCJuYW0iOjEsIm5hbXAiOiJyaWdodCIsImNvbSI6MSwiY29tcCI6ImRvd24iLCJwcmljZSI6MSwiYm9yIjoxLCJjb2wiOjEsImJidG4iOjEsInByb2QiOjAsImFtcCI6ZmFsc2V9" class="buy-link">バルミューダ ザ・ブリューを楽天で見る（広告）</a>
 <a href="https://www.amazon.co.jp/dp/B081SWNSGW?tag=stocknotelife-22" class="buy-link">ツインバード CM-D465BをAmazonで見る（広告）</a>
+<a href="https://hb.afl.rakuten.co.jp/ichiba/58d84d03.7b0724e9.58d84d04.7cac0326/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftonya%2F304529%2F&amp;link_type=hybrid_url&amp;ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJoeWJyaWRfdXJsIiwic2l6ZSI6IjI0MHgyNDAiLCJuYW0iOjEsIm5hbXAiOiJyaWdodCIsImNvbSI6MSwiY29tcCI6ImRvd24iLCJwcmljZSI6MSwiYm9yIjoxLCJjb2wiOjEsImJidG4iOjEsInByb2QiOjAsImFtcCI6ZmFsc2V9" class="buy-link">ツインバード CM-D465Bを楽天で見る（広告）</a>
 <a href="https://www.amazon.co.jp/dp/B07HFP6H3L?tag=stocknotelife-22" class="buy-link">ツインバード CM-D457BをAmazonで見る（広告）</a>
+<a href="https://hb.afl.rakuten.co.jp/ichiba/58d84d03.7b0724e9.58d84d04.7cac0326/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftwinbird%2F44571%2F&amp;link_type=hybrid_url&amp;ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJoeWJyaWRfdXJsIiwic2l6ZSI6IjI0MHgyNDAiLCJuYW0iOjEsIm5hbXAiOiJyaWdodCIsImNvbSI6MSwiY29tcCI6ImRvd24iLCJwcmljZSI6MSwiYm9yIjoxLCJjb2wiOjEsImJidG4iOjEsInByb2QiOjAsImFtcCI6ZmFsc2V9" class="buy-link">ツインバード CM-D457Bを楽天で見る（広告）</a>
 </div>
 </aside>
 
@@ -49,6 +52,7 @@ date: "2026-11-01"
 
 <div class="cta-after-table">
 <a href="https://www.amazon.co.jp/dp/B09DY6CDHZ?tag=stocknotelife-22" class="buy-link">バルミューダ ザ・ブリューをAmazonで見る（広告）</a>
+<a href="https://hb.afl.rakuten.co.jp/ichiba/58d84d03.7b0724e9.58d84d04.7cac0326/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fa-price%2F4560330110160%2F&amp;link_type=hybrid_url&amp;ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJoeWJyaWRfdXJsIiwic2l6ZSI6IjI0MHgyNDAiLCJuYW0iOjEsIm5hbXAiOiJyaWdodCIsImNvbSI6MSwiY29tcCI6ImRvd24iLCJwcmljZSI6MSwiYm9yIjoxLCJjb2wiOjEsImJidG4iOjEsInByb2QiOjAsImFtcCI6ZmFsc2V9" class="buy-link">バルミューダ ザ・ブリューを楽天で見る（広告）</a>
 </div>
 [バルミューダ公式サイトで見る](https://www.balmuda.com/jp/brew)
 
@@ -63,6 +67,7 @@ date: "2026-11-01"
 
 <div class="cta-after-table">
 <a href="https://www.amazon.co.jp/dp/B081SWNSGW?tag=stocknotelife-22" class="buy-link">ツインバード CM-D465BをAmazonで見る（広告）</a>
+<a href="https://hb.afl.rakuten.co.jp/ichiba/58d84d03.7b0724e9.58d84d04.7cac0326/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftonya%2F304529%2F&amp;link_type=hybrid_url&amp;ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJoeWJyaWRfdXJsIiwic2l6ZSI6IjI0MHgyNDAiLCJuYW0iOjEsIm5hbXAiOiJyaWdodCIsImNvbSI6MSwiY29tcCI6ImRvd24iLCJwcmljZSI6MSwiYm9yIjoxLCJjb2wiOjEsImJidG4iOjEsInByb2QiOjAsImFtcCI6ZmFsc2V9" class="buy-link">ツインバード CM-D465Bを楽天で見る（広告）</a>
 </div>
 
 ## ツインバード CM-D457B（3杯用）：同じ味の作りを、コンパクトに
@@ -74,6 +79,7 @@ CM-D465Bと同じミル・湯温・挽き目で、容量を3杯（450ml）にし
 
 <div class="cta-after-table">
 <a href="https://www.amazon.co.jp/dp/B07HFP6H3L?tag=stocknotelife-22" class="buy-link">ツインバード CM-D457BをAmazonで見る（広告）</a>
+<a href="https://hb.afl.rakuten.co.jp/ichiba/58d84d03.7b0724e9.58d84d04.7cac0326/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftwinbird%2F44571%2F&amp;link_type=hybrid_url&amp;ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJoeWJyaWRfdXJsIiwic2l6ZSI6IjI0MHgyNDAiLCJuYW0iOjEsIm5hbXAiOiJyaWdodCIsImNvbSI6MSwiY29tcCI6ImRvd24iLCJwcmljZSI6MSwiYm9yIjoxLCJjb2wiOjEsImJidG4iOjEsInByb2QiOjAsImFtcCI6ZmFsc2V9" class="buy-link">ツインバード CM-D457Bを楽天で見る（広告）</a>
 </div>
 [ツインバード公式ストアで見る](https://store.twinbird.jp/products/cmd457)
 
@@ -89,8 +95,11 @@ CM-D465Bと同じミル・湯温・挽き目で、容量を3杯（450ml）にし
 
 <div class="cta-after-table">
 <a href="https://www.amazon.co.jp/dp/B09DY6CDHZ?tag=stocknotelife-22" class="buy-link">バルミューダ ザ・ブリューをAmazonで見る（広告）</a>
+<a href="https://hb.afl.rakuten.co.jp/ichiba/58d84d03.7b0724e9.58d84d04.7cac0326/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fa-price%2F4560330110160%2F&amp;link_type=hybrid_url&amp;ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJoeWJyaWRfdXJsIiwic2l6ZSI6IjI0MHgyNDAiLCJuYW0iOjEsIm5hbXAiOiJyaWdodCIsImNvbSI6MSwiY29tcCI6ImRvd24iLCJwcmljZSI6MSwiYm9yIjoxLCJjb2wiOjEsImJidG4iOjEsInByb2QiOjAsImFtcCI6ZmFsc2V9" class="buy-link">バルミューダ ザ・ブリューを楽天で見る（広告）</a>
 <a href="https://www.amazon.co.jp/dp/B081SWNSGW?tag=stocknotelife-22" class="buy-link">ツインバード CM-D465BをAmazonで見る（広告）</a>
+<a href="https://hb.afl.rakuten.co.jp/ichiba/58d84d03.7b0724e9.58d84d04.7cac0326/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftonya%2F304529%2F&amp;link_type=hybrid_url&amp;ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJoeWJyaWRfdXJsIiwic2l6ZSI6IjI0MHgyNDAiLCJuYW0iOjEsIm5hbXAiOiJyaWdodCIsImNvbSI6MSwiY29tcCI6ImRvd24iLCJwcmljZSI6MSwiYm9yIjoxLCJjb2wiOjEsImJidG4iOjEsInByb2QiOjAsImFtcCI6ZmFsc2V9" class="buy-link">ツインバード CM-D465Bを楽天で見る（広告）</a>
 <a href="https://www.amazon.co.jp/dp/B07HFP6H3L?tag=stocknotelife-22" class="buy-link">ツインバード CM-D457BをAmazonで見る（広告）</a>
+<a href="https://hb.afl.rakuten.co.jp/ichiba/58d84d03.7b0724e9.58d84d04.7cac0326/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftwinbird%2F44571%2F&amp;link_type=hybrid_url&amp;ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJoeWJyaWRfdXJsIiwic2l6ZSI6IjI0MHgyNDAiLCJuYW0iOjEsIm5hbXAiOiJyaWdodCIsImNvbSI6MSwiY29tcCI6ImRvd24iLCJwcmljZSI6MSwiYm9yIjoxLCJjb2wiOjEsImJidG4iOjEsInByb2QiOjAsImFtcCI6ZmFsc2V9" class="buy-link">ツインバード CM-D457Bを楽天で見る（広告）</a>
 </div>
 
-このページのAmazonリンクはアフィリエイトリンクです。メーカー公式サイトへのリンクは広告ではありません。楽天の購入ボタンは、この3台用のアフィリエイトURLが無いので出していません。方針は[広告表記](/disclosure/)にまとめています。
+このページのAmazonリンクと楽天リンクはアフィリエイトリンクです。メーカー公式サイトへのリンクは広告ではありません。楽天のIDは、栗子 S5 Pro の購入リンクと同じものを使っています。方針は[広告表記](/disclosure/)にまとめています。
