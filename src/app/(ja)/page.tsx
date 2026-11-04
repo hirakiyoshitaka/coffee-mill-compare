@@ -41,7 +41,7 @@ const leadPaths = [
     href: "/articles/japanese-premium-coffee-makers/",
     kicker: "コーヒーメーカー",
     title: "比較記事から入る",
-    text: "日本ブランド3台、家でラテ、タイプの選び方、ブレビルとデロンギ。売り切れの機種は載せていません。使った感想は未記入です。【体験：要記入】",
+    text: "日本ブランド3台、家でラテ、タイプの選び方、ブレビルとデロンギ。売り切れの機種は載せていません。運営者はこの機種を使っていません。公式の仕様と公開レビューのまとめです。",
     links: [
       { href: "/articles/coffee-maker-guide/", label: "選び方" },
       { href: "/articles/home-latte-espresso-machines/", label: "家でラテ" },
@@ -78,7 +78,7 @@ export default function HomePage() {
           <p className="hero-kicker">先に開くのは、3つの読みもの</p>
           <h1>家のコーヒーを、記事から選ぶ。</h1>
           <p className="hero-description">
-            手挽きミル、コーヒーメーカー、豆のお試しと定期便。売り切れの商品は置いていません。使っていない機械の体験は書きません。【体験：要記入】
+            手挽きミル、コーヒーメーカー、豆のお試しと定期便。売り切れの商品は置いていません。使っていない機械の体験は書きません。
           </p>
           <div className="hero-actions">
             <Link href="/articles/coffee-mill-ranking/" className="hero-cta">
