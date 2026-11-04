@@ -38,7 +38,7 @@ date: "2026-11-01"
 
 電子レンジと直火には印がありません。ガラスを火にかけない、という前提で見てください。
 
-[HARIO カフェプレス・UをAmazonで探す（広告）](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=HARIO+%E3%82%AB%E3%83%95%E3%82%A7%E3%83%97%E3%83%AC%E3%82%B9)
+[HARIO カフェプレス・U（CPU-2-B、300mL）をAmazonで見る（広告）](https://www.amazon.co.jp/dp/B09VT6KTKJ?tag=stocknotelife-22)
 
 ### HARIO ハリオール・7
 
@@ -46,7 +46,7 @@ date: "2026-11-01"
 
 2杯用の箱込み重量は約500g、希望小売価格は税込¥6,600です。4杯用は約600g、税込¥7,150です。口径は90mm、原産国は日本製です。使える熱源の印はカフェプレス・Uと同じで、熱湯と食洗機だけに付いていました。
 
-[HARIO ハリオール・7をAmazonで探す（広告）](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=%E3%83%8F%E3%83%AA%E3%82%AA%E3%83%BC%E3%83%AB)
+[HARIO ハリオール・7（THSV-2-HSV、300mL）をAmazonで見る（広告）](https://www.amazon.co.jp/dp/B09VT7FBZY?tag=stocknotelife-22)
 
 ### BODUM CHAMBORD
 
@@ -56,9 +56,9 @@ date: "2026-11-01"
 
 手順としてページに書いてあるのは次です。粗挽きを、カップ（約4オンス）あたりすりきり小さじ1、またはボダムのスクープ1。湯は92–96℃で、上に最低2.5cm空ける。プラスチックか木のスプーンで混ぜ、注ぎ口を閉じて4分待ち、プランジャーをゆっくり下げる。これはボダムの説明であり、当サイトが計った抽出記録ではありません。ハリオの2機種のページには、この分数と湯温はありませんでした。
 
-[BODUM CHAMBORDをAmazonで探す（広告）](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=BODUM+CHAMBORD)
+[BODUM シャンボール 1000mL（1928-16）をAmazonで見る（広告）](https://www.amazon.co.jp/dp/B00008XEWG?tag=stocknotelife-22)
 
-検索結果にティーポットや別容量が混ざります。品番と容量を商品名で照合してください。
+2026年11月4日に在庫を確認した商品ページです。品番は1928-16、パート番号は1928-16US4です。別容量は、その品番のページで確認してください。
 
 ## 挽き目は粗く。クリックはミルごとに別
 
