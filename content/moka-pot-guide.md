@@ -56,11 +56,11 @@ date: "2026-11-01"
 
 モカエキスプレスのリンクはイタリアカラーの3カップ、ブリッカのリンクは品番0007328の4カップです。このブリッカはインダクション用ではありません。ヴィーナスは検索結果です。ステンレスか、杯数かは商品名で照合してください。
 
-## 粉は細かい側。毎日なら手挽き以外も見る
+## 粉は細かい側。ふだんなら手挽き以外も見る
 
-モカの粉は、ドリップより細かい側です。このサイトで、公式のモカ範囲まで確認している手挽きは[栗子 S5 Pro](/articles/timemore-chestnut-s5-pro/)だけで、目安は 1.0–3.0 です。出典はレビュー側にあります。運営者の使い方はドリップ中心で、このミルでモカポットを淹れた記録はありません。
+モカの粉は、ドリップより細かい側です。このサイトで、公式のモカ範囲まで確認している手挽きは[栗子 S5 Pro](/articles/timemore-chestnut-s5-pro/)だけで、目安は 1.0–3.0 です。出典はレビュー側にあります。運営者がふだん使っているのはタイムモア栗子 S3 で、1回に約30g、2〜3杯分です。モカポットを淹れた記録はありません。栗子 S5 Pro は使っていません。
 
-[Essence Go](/articles/epeios-essence-go/)に、モカ用の推奨番号は掲載していません。毎日細かく挽く負荷は、ポットが小さくても残ります。毎日なら[電動コーヒーミルの選び方](/articles/electric-coffee-grinder-guide/)も見てください。マシンでショットを出す場合は[家でラテ・エスプレッソ](/articles/home-latte-espresso-machines/)です。ミルクを足す器具は[ミルクフォーマーの選び方](/articles/milk-frother-guide/)です。
+[Essence Go](/articles/epeios-essence-go/)に、モカ用の推奨番号は掲載していません。ふだん細かく挽く負荷は、ポットが小さくても残ります。ふだんなら[電動コーヒーミルの選び方](/articles/electric-coffee-grinder-guide/)も見てください。マシンでショットを出す場合は[家でラテ・エスプレッソ](/articles/home-latte-espresso-machines/)です。ミルクを足す器具は[ミルクフォーマーの選び方](/articles/milk-frother-guide/)です。
 
 {{grinder:timemore-chestnut-s5-pro}}
 

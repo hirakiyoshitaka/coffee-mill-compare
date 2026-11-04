@@ -1,40 +1,33 @@
 ---
 title: "Ba máy xay tay cho khoảng cà phê thong thả, sang hơn một chút"
-description: "Ba máy xay tay có cảm giác cao cấp cho một buổi sáng không vội. Hạng 1 là Timemore Chestnut S5 Pro, hạng 2 là EPEIOS Essence Go. Người vận hành dùng cả hai. Hạng 3 Comandante C40 chưa dùng, đó là phần tóm tắt. Giá chỉ là mức tham khảo."
+description: "Ba máy xay tay có cảm giác cao cấp cho một buổi sáng không vội. Hạng 1 là Timemore Chestnut S3, hạng 2 là EPEIOS Essence Go. Người vận hành dùng cả hai. Không dùng Chestnut S5 Pro. Hạng 3 Comandante C40 chưa dùng, đó là phần tóm tắt. Giá chỉ là mức tham khảo."
 category: "mill"
 date: "2026-11-02"
 ---
 
 Ba máy này dành cho buổi sáng không muốn vội, và muốn một máy xay tay dễ chịu hơn một chút. Điểm nhìn là thiết kế và cảm giác cao cấp. Đang dùng là hạng 1 và hạng 2. Chỉ hạng 3 không phải ghi chép khi cầm trên tay, mà là bản tóm tắt ngắn từ phần giải thích của hãng.
 
-1. Timemore Chestnut S5 Pro. Máy đặt cho buổi sáng ở nhà
+1. Timemore Chestnut S3. Máy người vận hành dùng mỗi ngày, khoảng 30g mỗi lần, cho 2–3 tách
 2. EPEIOS Essence Go. Máy còn lại mà người vận hành có. Cảm nhận viết được chỉ một câu: quay rất nhẹ
 3. Comandante C40 MK4. Tóm tắt đánh giá. Chưa dùng
 
 Đây không phải bảng xếp hạng nếm và chấm điểm. Giá thay đổi.
 
-## 1. Timemore Chestnut S5 Pro
+## 1. Timemore Chestnut S3
 
-Máy dùng cho buổi sáng là màu xanh lá, tay cầm gập. Thích thiết kế. Có độ nặng chắc, cảm giác cao cấp, và không quá nặng. Thích màu này.
+Người vận hành dùng mỗi ngày là TIMEMORE Chestnut S3. Mỗi lần xay khoảng 30g, cho 2–3 tách. Không dùng Chestnut S5 Pro.
 
 ### Cảm nhận khi thực sự dùng (bài của người vận hành)
 
 Hạt là [Coffee Carrot (珈琲きゃろっと)](/beans/coffee-carrot/). Trang cửa hàng bằng tiếng Nhật.
 
-- Xay đủ cho hai tách mất khoảng một phút.
-- Xay nhẹ. Xoay núm bên ngoài từng nấc để đổi độ mịn, và chỉnh đậm hơn hay nhạt hơn thật sự dễ.
-- Tay cầm gập được, nên cất gọn.
-- Tháo ra để vệ sinh cũng rất dễ.
-- Thiết kế đẹp, có độ nặng chắc và cảm giác cao cấp, không quá nặng. Thích màu xanh lá.
-- Thời gian cà phê khi xay hạt Coffee Carrot bằng Timemore là một khoảng hạnh phúc.
-- Không có điều gì đặc biệt không hài lòng. Xay mịn hơn thì quay nặng hơn một mức.
-- Tùy hạt, có tĩnh điện, và dùng chổi đi kèm để đưa bột vào phễu lọc hơi phiền một chút.
+Người vận hành dùng mỗi ngày là TIMEMORE Chestnut S3. Mỗi lần xay khoảng 30g, cho 2–3 tách. Không dùng Chestnut S5 Pro.
 
 Nếu muốn bắt đầu buổi sáng thong thả bằng khoảng thời gian ấy, hãy xem máy này trước.
 
-{{grinder:timemore-chestnut-s5-pro}}
+{{grinder:timemore-chestnut-s3}}
 
-[Xem TIMEMORE S5 Pro trên Amazon.co.jp](https://www.amazon.co.jp/dp/B0HF4LXCCY?tag=stocknotelife-22)
+[Xem TIMEMORE Chestnut S3 trên Amazon.co.jp](https://www.amazon.co.jp/dp/B0CMZCK9PR?tag=stocknotelife-22)
 
 ## 2. EPEIOS Essence Go
 

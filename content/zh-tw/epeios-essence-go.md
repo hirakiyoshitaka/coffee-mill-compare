@@ -5,7 +5,7 @@ category: "mill"
 date: "2026-10-27"
 ---
 
-本站推薦的第二台是 Epeios Essence Go。如果說 No.1 的栗子 S5 Pro 是放在家裡吧台的 48mm，那這台就是用 10 爪刀盤讓起轉變輕、還能拆開收進專用收納盒的手搖磨豆機。它不是跑分第二名，而是角色不同。
+本站推薦的第二台是 Epeios Essence Go。如果說 No.1 的栗子 S3 是放在家裡每天用的一台，那這台就是用 10 爪刀盤讓起轉變輕、還能拆開收進專用收納盒的手搖磨豆機。它不是跑分第二名，而是角色不同。
 
 日本官方發表時的市場預估價格為 23,100 日圓（含日本消費稅，2024 年 6 月[新聞稿](https://prtimes.jp/main/html/rd/p/000000097.000059893.html)）。在台灣購買的實際價格依通路而異。下方照片為 EPEIOS 官方產品照。
 
@@ -59,4 +59,4 @@ date: "2026-10-27"
 
 本站部分連結為聯盟行銷（Affiliate）連結，透過連結購買時，本站可能獲得分潤，但不會增加您的購買金額。詳細說明請見[廣告揭露](/zh-tw/disclosure/)。
 
-No.1 評測請看：[栗子 S5 Pro](/zh-tw/articles/timemore-chestnut-s5-pro/)。這台沒有依萃取方式公布的建議刻度。法壓與摩卡壺的器具，見[法式濾壓壺怎麼挑](/zh-tw/articles/french-press-guide/)和[摩卡壺怎麼挑](/zh-tw/articles/moka-pot-guide/)。手沖時接咖啡的壺，見[手沖分享壺怎麼挑](/zh-tw/articles/coffee-server-guide/)。若要按旅行、手沖、義式把另一個牌子分開看，見[1Zpresso 手搖磨豆機怎麼挑](/zh-tw/articles/1zpresso-hand-grinder-lineup/)。
+No.1 是栗子 S3。S5 Pro 的評測整理：[栗子 S5 Pro](/zh-tw/articles/timemore-chestnut-s5-pro/)。這台沒有依萃取方式公布的建議刻度。法壓與摩卡壺的器具，見[法式濾壓壺怎麼挑](/zh-tw/articles/french-press-guide/)和[摩卡壺怎麼挑](/zh-tw/articles/moka-pot-guide/)。手沖時接咖啡的壺，見[手沖分享壺怎麼挑](/zh-tw/articles/coffee-server-guide/)。若要按旅行、手沖、義式把另一個牌子分開看，見[1Zpresso 手搖磨豆機怎麼挑](/zh-tw/articles/1zpresso-hand-grinder-lineup/)。

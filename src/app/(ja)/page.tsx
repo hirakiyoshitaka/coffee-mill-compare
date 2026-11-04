@@ -31,7 +31,7 @@ const leadPaths = [
     href: "/articles/coffee-mill-ranking/",
     kicker: "コーヒーミル",
     title: "手挽きのおすすめ",
-    text: "1位はタイムモア栗子 S5 Pro、2位はエペイオス Essence Go。3位のコマンダンテ C40 はレビューまとめで、使っていません。",
+    text: "1位はタイムモア栗子 S3、2位はエペイオス Essence Go。3位のコマンダンテ C40 はレビューまとめで、使っていません。",
     links: [
       { href: "/articles/how-to-choose-hand-coffee-mill/", label: "選び方" },
       { href: "/articles/luxury-relaxed-coffee-mill-best3/", label: "ベスト3" },
@@ -159,7 +159,7 @@ export default function HomePage() {
           </Link>
         </div>
         <p className="section-lead">
-          No.1 は栗子 S5 Pro、No.2 はエペイオス Essence Go です。点数競技ではなく、このサイトが家に置くならこの2台、という選択です。栗子 S5 Pro の写真はグリーンです。Essence Go は製品名のカードです。楽天のページでは、型番「S5 Pro」と色「グリーン」を選んでください。
+          No.1 は栗子 S3、No.2 はエペイオス Essence Go です。運営者がふだん使っているのは栗子 S3 で、1回に約30g、2〜3杯分です。栗子 S3 の実機写真は未掲載です。栗子 S5 Pro は使っていません。
         </p>
         <ul className="picks-grid">
           {models.map((model) => (

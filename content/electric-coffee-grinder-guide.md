@@ -7,9 +7,9 @@ date: "2026-10-29"
 
 「電動コーヒーミル おすすめ」で探すと候補が多すぎて迷います。この記事は、どれを買うかを決めるための基準をまとめたものです。
 
-先にお断りすると、運営者が使っているのは手挽きの[タイムモア栗子 S5 Pro](/articles/timemore-chestnut-s5-pro/)と[エペイオス Essence Go](/articles/epeios-essence-go/)で、電動ミルは使っていません。ここでは体験談は書かず、選び方だけを書きます。
+先にお断りすると、運営者が使っているのは手挽きのタイムモア栗子 S3 と[エペイオス Essence Go](/articles/epeios-essence-go/)で、電動ミルは使っていません。栗子 S3 はふだん使い、1回に約30g、2〜3杯分です。栗子 S5 Pro は使っていません。ここでは体験談は書かず、選び方だけを書きます。
 
-[タイムモア 栗子 S5 Pro を Amazon で見る（広告）](https://www.amazon.co.jp/dp/B0HF4LXCCY?tag=stocknotelife-22)
+[タイムモア 栗子 S3 を Amazon で見る（広告）](https://www.amazon.co.jp/dp/B0CMZCK9PR?tag=stocknotelife-22)
 
 [エペイオス Essence Go を Amazon で見る（広告）](https://www.amazon.co.jp/dp/B0D3PZHGBX?tag=stocknotelife-22)
 
@@ -19,7 +19,7 @@ date: "2026-10-29"
 - **臼式（フラット）**：2枚の平らな刃で挽きます。粒がそろいやすく、ドリップ向けの価格帯に多い方式です。
 - **コーン式（コニカル）**：円すい形の刃で挽きます。回転がゆっくりで熱を持ちにくいとされます。
 
-ハンドドリップを毎日するなら、粒をそろえやすい臼式かコーン式から選ぶのが基本です。
+ハンドドリップをふだんするなら、粒をそろえやすい臼式かコーン式から選ぶのが基本です。
 
 ## 刃の方式の比較表
 

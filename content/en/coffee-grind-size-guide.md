@@ -7,7 +7,7 @@ date: "2026-10-31"
 
 Grind size changes how much of the coffee touches the water. Finer grounds give up flavor more readily. Coarser grounds give up less. That is the usual account of extraction. This guide is a starting point for each brew method. This site has not measured particle size. The look-and-feel comparisons below are descriptions people commonly use. They are not measurements from this site.
 
-The grinder I use every day is the green [Timemore Chestnut S5 Pro](/en/articles/timemore-chestnut-s5-pro/), mostly for pour-over. I have not written a tasting log that compares French press, cold brew, espresso, and moka pot side by side.
+The hand grinder I use every day is the Timemore Chestnut S3. I grind about 30g at a time, for 2–3 cups. I do not use the Chestnut S5 Pro. I have not written a tasting log that compares French press, cold brew, espresso, and moka pot side by side.
 
 Choosing the grinder itself — burr size, weight, and whether it stays at home — is covered in [how to choose your first hand grinder](/en/articles/how-to-choose-hand-coffee-mill/). This page is about where to set the dial on the grinder you already have. A [coffee scale](/en/articles/coffee-scale-guide/) is what keeps the dose matched to that setting.
 

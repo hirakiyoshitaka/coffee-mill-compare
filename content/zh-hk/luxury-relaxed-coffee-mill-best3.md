@@ -1,40 +1,33 @@
 ---
 title: "讓悠閒時光講究一點的手磨咖啡磨豆機 三台"
-description: "給想把早晨咖啡過得從容一點的人。第1名是 TIMEMORE 栗子 S5 Pro，第2名是 Epeios Essence Go，兩台站長都在用。第3名 Comandante C40 沒用過，是評測整理。價格為概略。"
+description: "給想把早晨咖啡過得從容一點的人。第1名是 TIMEMORE 栗子 S3，第2名是 Epeios Essence Go，兩台站長都在用。栗子 S5 Pro 沒有在用。第3名 Comandante C40 沒用過，是評測整理。價格為概略。"
 category: "mill"
 date: "2026-11-02"
 ---
 
-這三台，是給不想趕的早晨、想用手感好一點的手磨的人。看的是設計和高級感。站長在用的是前兩台。只有第3名不是使用心得，而是把官方說明收成短短的評測整理。
+這三台，是給不想趕的早晨、想用手感好一點的手磨的人。看的是設計和高級感。站長在用的是前兩台（栗子 S3 與 Essence Go）。栗子 S5 Pro 沒有在用。只有第3名不是使用心得，而是把官方說明收成短短的評測整理。
 
-1. TIMEMORE 栗子 S5 Pro。放在家裡早晨的那一台
+1. TIMEMORE 栗子 S3。站長每天用的那一台。一次大約 30g、2–3 杯
 2. Epeios Essence Go。站長也有的另一台。寫得出的感受只有一句：轉起來真的很輕
 3. Comandante C40 MK4。評測整理。沒用過
 
 這不是用分數比味道的名次。價格會變。
 
-## 1. TIMEMORE 栗子 S5 Pro
+## 1. TIMEMORE 栗子 S3
 
-早晨放在家裡的，是可折疊手柄的綠色。設計好看，有扎實的高級感，重量又不會太重。我喜歡這個顏色。
+站長每天用的是 TIMEMORE 栗子 S3。一次大約磨 30g，做 2–3 杯。沒有寫顏色和重量的感想。沒有在用栗子 S5 Pro。
 
 ### 實際用過的感想（站長評測）
 
 豆子是[珈琲きゃろっと](/beans/coffee-carrot/)（頁面為日文）。
 
-- 磨兩杯的份量，大約要 1 分鐘。
-- 磨起來不費力。外側刻度可以一格一格轉，粗細很好改，要濃一點或淡一點也真的很容易調。
-- 手柄可折疊，收納得很緊湊。
-- 清潔時拆開也很簡單。
-- 設計好看，有扎實的高級感，重量不會太重。我喜歡這個綠色。
-- 用 Timemore 磨珈琲きゃろっと的豆子，那段咖啡時間讓人覺得幸福。
-- 沒有特別不滿意的地方。磨細的時候，轉起來會變得比較費力。
-- 有些豆子會產生靜電，用附屬的刷子把粉掃進濾杯，有點麻煩。
+站長每天用的是 TIMEMORE 栗子 S3。一次大約磨 30g，做 2–3 杯。沒有在用栗子 S5 Pro。
 
 想用這樣的咖啡時間，慢慢開始一天的人，先看這台。長文是[栗子 S5 Pro 評測](/zh-hk/articles/timemore-chestnut-s5-pro/)。
 
-{{grinder:timemore-chestnut-s5-pro}}
+{{grinder:timemore-chestnut-s3}}
 
-[在 Amazon.co.jp 查看 TIMEMORE 栗子 S5 Pro](https://www.amazon.co.jp/dp/B0HF4LXCCY?tag=stocknotelife-22)
+[在 Amazon.co.jp 查看 TIMEMORE 栗子 S3](https://www.amazon.co.jp/dp/B0CMZCK9PR?tag=stocknotelife-22)
 
 ## 2. Epeios Essence Go
 

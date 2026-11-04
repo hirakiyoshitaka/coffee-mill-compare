@@ -73,7 +73,7 @@ date: "2026-11-01"
 
 스테인리스 망이 달린 카라페로, 서버 안에서 추출하는 타입은 다른 도구입니다. KINTO SCS가 그 예이고, 운영자는 쓰지 않았습니다. 이 글의 서버와 하는 일이 다릅니다.
 
-갓 갈아서 쓰려면, 집에 두는 쪽은 [타임모어 S5 프로](/ko/articles/timemore-chestnut-s5-pro/), 가볍게 돌리는 쪽은 [에센스 고](/ko/articles/epeios-essence-go/)입니다. S5 프로 공식의 핸드드립 눈금은 5.0–8.0이고, 출처는 그 리뷰이며 출발점입니다. 운영자는 그린(공식 영문명 Olive Green) S5 프로를 쓰고, 용도는 드립이 중심입니다. 처음 고르는 네 가지(날, 조절, 무게, 두는 곳)는 [처음 사는 핸드 그라인더](/ko/articles/how-to-choose-hand-coffee-mill/)에, 두 대의 역할 차이는 [S5 프로 vs 에센스 고](/ko/articles/timemore-s5-pro-vs-essence-go/)에 있습니다.
+갓 갈아서 쓰려면, 집에 두는 쪽은 [타임모어 S5 프로](/ko/articles/timemore-chestnut-s5-pro/), 가볍게 돌리는 쪽은 [에센스 고](/ko/articles/epeios-essence-go/)입니다. S5 프로 공식의 핸드드립 눈금은 5.0–8.0이고, 출처는 그 리뷰이며 출발점입니다. 운영자가 매일 쓰는 핸드밀은 타임모어 밤 S3입니다. 한 번에 약 30g, 2–3잔분입니다. S5 프로는 쓰지 않습니다. 처음 고르는 네 가지(날, 조절, 무게, 두는 곳)는 [처음 사는 핸드 그라인더](/ko/articles/how-to-choose-hand-coffee-mill/)에, 두 대의 역할 차이는 [S5 프로 vs 에센스 고](/ko/articles/timemore-s5-pro-vs-essence-go/)에 있습니다.
 
 {{grinder:timemore-chestnut-s5-pro}}
 

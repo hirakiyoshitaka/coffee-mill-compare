@@ -67,7 +67,7 @@ date: "2026-11-01"
 
 ステンレスの網が付いたカラフェで、サーバーの中で抽出するタイプは別の道具です。KINTO SCS は[水出し・アウトドアの記事](/articles/cold-brew-outdoor-coffee/)で紹介していて、運営者は使っていません。この記事のサーバーとは仕事が違います。
 
-挽きたてにする手挽きは、家に置くなら[栗子 S5 Pro](/articles/timemore-chestnut-s5-pro/)、軽い力で回すなら[Essence Go](/articles/epeios-essence-go/)です。順番は[コーヒーミルおすすめランキング](/articles/coffee-mill-ranking/)、選び方の4点は[はじめての手挽きコーヒーミルの選び方](/articles/how-to-choose-hand-coffee-mill/)です。ドリップの粗さは[挽き目の記事](/articles/coffee-grind-size-guide/)です。
+挽きたてにする手挽きは、家に置くならタイムモア栗子 S3（ふだん、1回に約30g、2〜3杯分）、軽い力で回すなら[Essence Go](/articles/epeios-essence-go/)です。栗子 S5 Pro は使っていません。順番は[コーヒーミルおすすめランキング](/articles/coffee-mill-ranking/)、選び方の4点は[はじめての手挽きコーヒーミルの選び方](/articles/how-to-choose-hand-coffee-mill/)です。ドリップの粗さは[挽き目の記事](/articles/coffee-grind-size-guide/)です。
 
 {{grinder:timemore-chestnut-s5-pro}}
 

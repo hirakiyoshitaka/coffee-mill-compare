@@ -5,7 +5,7 @@ category: "mill"
 date: "2026-10-30"
 ---
 
-The first question when buying a coffee grinder is usually "hand or electric?" My first grinder was a manual one, the [Timemore Chestnut S5 Pro](/en/articles/timemore-chestnut-s5-pro/), and I use it for pour-over every day. I don't own an electric grinder, so I'll describe that side in general terms only.
+The first question when buying a coffee grinder is usually "hand or electric?" The hand grinder I use every day is the Timemore Chestnut S3. I grind about 30g at a time, for 2–3 cups. I do not use the Chestnut S5 Pro. I don't own an electric grinder, so I'll describe that side in general terms only.
 
 ## The differences at a glance
 
