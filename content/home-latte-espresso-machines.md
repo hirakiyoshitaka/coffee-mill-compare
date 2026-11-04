@@ -17,7 +17,7 @@ date: "2026-10-28"
 <a href="https://www.amazon.co.jp/dp/B0DL5M3WLK?tag=stocknotelife-22" class="buy-link">ヴァーチュオ ポップ プラスをAmazonで見る（広告）</a>
 <a href="https://www.amazon.co.jp/dp/B0BYHB9YYW?tag=stocknotelife-22" class="buy-link">デディカ アルテをAmazonで見る（広告）</a>
 <a href="https://www.amazon.co.jp/dp/B088HJCVDX?tag=stocknotelife-22" class="buy-link">マグニフィカSをAmazonで見る（広告）</a>
-<a href="https://www.amazon.co.jp/s?k=%E3%82%A8%E3%82%A2%E3%83%AD%E3%83%81%E3%83%BC%E3%83%8E4+%E3%83%AA%E3%83%95%E3%83%AC%E3%83%83%E3%82%B7%E3%83%A5&amp;tag=stocknotelife-22" class="buy-link">エアロチーノ4 リフレッシュをAmazonで探す（広告）</a>
+<a href="https://www.amazon.co.jp/dp/B09VKMF9CS?tag=stocknotelife-22" class="buy-link">エアロチーノ4 リフレッシュ（4194-JP）をAmazonで見る（広告）</a>
 </div>
 </aside>
 
@@ -79,7 +79,7 @@ date: "2026-10-28"
 - 100Vの家電なので、海外で使う場合は同じく注意が必要です。
 
 <div class="cta-after-table">
-<a href="https://www.amazon.co.jp/s?k=%E3%82%A8%E3%82%A2%E3%83%AD%E3%83%81%E3%83%BC%E3%83%8E4+%E3%83%AA%E3%83%95%E3%83%AC%E3%83%83%E3%82%B7%E3%83%A5&amp;tag=stocknotelife-22" class="buy-link">エアロチーノ4 リフレッシュをAmazonで探す（広告）</a>
+<a href="https://www.amazon.co.jp/dp/B09VKMF9CS?tag=stocknotelife-22" class="buy-link">エアロチーノ4 リフレッシュ（4194-JP）をAmazonで見る（広告）</a>
 </div>
 
 ## どれを選ぶ？
@@ -98,7 +98,7 @@ date: "2026-10-28"
 <a href="https://www.amazon.co.jp/dp/B0DL5M3WLK?tag=stocknotelife-22" class="buy-link">ヴァーチュオ ポップ プラスをAmazonで見る（広告）</a>
 <a href="https://www.amazon.co.jp/dp/B0BYHB9YYW?tag=stocknotelife-22" class="buy-link">デディカ アルテをAmazonで見る（広告）</a>
 <a href="https://www.amazon.co.jp/dp/B088HJCVDX?tag=stocknotelife-22" class="buy-link">マグニフィカSをAmazonで見る（広告）</a>
-<a href="https://www.amazon.co.jp/s?k=%E3%82%A8%E3%82%A2%E3%83%AD%E3%83%81%E3%83%BC%E3%83%8E4+%E3%83%AA%E3%83%95%E3%83%AC%E3%83%83%E3%82%B7%E3%83%A5&amp;tag=stocknotelife-22" class="buy-link">エアロチーノ4 リフレッシュをAmazonで探す（広告）</a>
+<a href="https://www.amazon.co.jp/dp/B09VKMF9CS?tag=stocknotelife-22" class="buy-link">エアロチーノ4 リフレッシュ（4194-JP）をAmazonで見る（広告）</a>
 </div>
 
 このページのAmazonリンクはアフィリエイトリンクです。楽天の購入ボタンは、この機種用のアフィリエイトURLが無いので出していません。方針は[広告表記](/disclosure/)にまとめています。
