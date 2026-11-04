@@ -83,7 +83,7 @@ export const categories: Category[] = [
     slug: "beans",
     shortName: "豆",
     name: "豆の店",
-    summary: "5店の焙煎と、お試し・定期便の目安を紹介しています。",
+    summary: "4店の焙煎と、お試し・定期便の目安を紹介しています。",
     lead: "家に届く焙煎豆を、店の焙煎と豆の選び方から紹介します。金額があるものは目安です。",
     planned: ["注文後の焙煎", "豆の選び方", "お試しと定期便", "価格の目安"],
     status: "live",

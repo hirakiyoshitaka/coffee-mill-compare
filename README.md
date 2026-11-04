@@ -90,7 +90,7 @@ date: "2026-10-25"
 {{bean:coffee-carrot}}
 ```
 
-使える ID は `coffee-carrot`、`doi-coffee`、`leo-specialty-coffee`、`lab-cafe`、`sawai-coffee` です。
+使える ID は `coffee-carrot`、`leo-specialty-coffee`、`lab-cafe`、`sawai-coffee` です。
 
 ## 豆の購入リンク
 

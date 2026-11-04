@@ -1,6 +1,6 @@
 ---
 title: "スペシャルティコーヒー豆の通販ショップ比較｜丸山珈琲・ブルーボトル・LEO・珈琲きゃろっと、焙煎家の想いを家で味わう"
-description: "スペシャルティコーヒー豆を通販で買える店を紹介します。丸山珈琲のドリップバッグ（Amazon）、ブルーボトルコーヒー、LEO SPECIALTY COFFEE、珈琲きゃろっと、土居珈琲、澤井珈琲。口コミは2026年10月27日時点のAmazonの表示を要約したものです。運営者の体験は珈琲きゃろっとの定期便だけです。"
+description: "スペシャルティコーヒー豆を通販で買える店を紹介します。丸山珈琲のドリップバッグ（Amazon）、ブルーボトルコーヒー、LEO SPECIALTY COFFEE、珈琲きゃろっと、澤井珈琲。口コミは2026年10月27日時点のAmazonの表示を要約したものです。運営者の体験は珈琲きゃろっとの定期便だけです。"
 category: "beans"
 date: "2026-10-27"
 ---
@@ -57,11 +57,9 @@ date: "2026-10-27"
 
 [LEO SPECIALTY COFFEEの定期便を見る（広告）](https://px.a8.net/svt/ejp?a8mat=4BEPQ4+36WPAY+5XNE+5YJRM)
 
-## 土居珈琲・澤井珈琲
+## 澤井珈琲
 
-量をしっかり頼みたい、お試しセットから始めたい人は、[土居珈琲](/beans/doi-coffee/)と[澤井珈琲](/beans/sawai-coffee/)のページもどうぞ。店ごとの比較は[手挽きミルを買ったら最初に頼みたい豆](/articles/first-beans-after-hand-mill/)にもまとめています。
-
-[土居珈琲を Amazon で探す（広告）](https://www.amazon.co.jp/s?k=土居珈琲&tag=stocknotelife-22)
+量をしっかり頼みたい、お試しセットから始めたい人は、[澤井珈琲](/beans/sawai-coffee/)のページもどうぞ。店ごとの比較は[手挽きミルを買ったら最初に頼みたい豆](/articles/first-beans-after-hand-mill/)にもまとめています。
 
 [澤井珈琲を Amazon で探す（広告）](https://www.amazon.co.jp/s?k=澤井珈琲&tag=stocknotelife-22)
 

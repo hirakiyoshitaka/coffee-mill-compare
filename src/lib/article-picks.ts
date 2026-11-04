@@ -23,7 +23,6 @@ const EMBED_RULES: [RegExp, string][] = [
   [/Essence\s*Go|エペイオス|EPEIOS|Epeios/i, "epeios-essence-go"],
   [/きゃろっと|Coffee\s*Carrot|coffeecarrot/i, "coffee-carrot"],
   [/LEO\s*SPECIALTY/i, "leo-specialty-coffee"],
-  [/土居珈琲/i, "doi-coffee"],
   [/ラボカフェ/i, "lab-cafe"],
   [/澤井珈琲/i, "sawai-coffee"],
 ];
