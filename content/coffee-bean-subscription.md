@@ -50,9 +50,7 @@ date: "2026-10-28"
 
 ## 定期便の前に、お試しから始めるなら
 
-定期便に決める前に、お試しセットで店の味を知るのもよい方法です。[土居珈琲](/beans/doi-coffee/)や[澤井珈琲](/beans/sawai-coffee/)のページ、[スペシャルティコーヒー豆の通販ショップ比較](/articles/specialty-coffee-beans-shops/)もどうぞ。
-
-[土居珈琲を Amazon で探す（広告）](https://www.amazon.co.jp/s?k=土居珈琲&tag=stocknotelife-22)
+定期便に決める前に、お試しセットで店の味を知るのもよい方法です。[澤井珈琲](/beans/sawai-coffee/)のページと、[スペシャルティコーヒー豆の通販ショップ比較](/articles/specialty-coffee-beans-shops/)もどうぞ。
 
 [澤井珈琲を Amazon で探す（広告）](https://www.amazon.co.jp/s?k=澤井珈琲&tag=stocknotelife-22)
 

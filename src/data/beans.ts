@@ -73,33 +73,6 @@ export const beanShops: BeanShop[] = [
     position: "このサイトで最初に開く店です。運営者自身が、定期便を1年ほど続けていた店です。",
   },
   {
-    slug: "doi-coffee",
-    name: "土居珈琲",
-    area: "大阪・堺",
-    officialUrl: "https://www.doicoffee.com/",
-    rakutenShopUrl: "https://www.rakuten.co.jp/doicoffee/",
-    a8Url: "",
-    rakutenUrl: "",
-    amazonUrl: "https://www.amazon.co.jp/s?k=土居珈琲&tag=stocknotelife-22",
-    summary: "1971年から続く店で、注文ごとに生豆を小型の焙煎機で焙いています。",
-    story: [
-      "大阪・堺の土居珈琲です。1971年に始まっています。注文のたびに、生豆から小型の焙煎機で焙煎します。",
-      "創業者の氏名や言葉は、このサイトの材料にないので書いていません。",
-    ],
-    roasting: ["注文ごとに、生豆の状態から小型の焙煎機で焙煎します。"],
-    selection: [
-      "豆は農園単位で選ばれています。例として挙がっているのは、グァテマラのカペティロ農園と、ハワイコナです。この2つだけを扱っている、とは書いていません。",
-    ],
-    offers: [
-      {
-        id: "trial",
-        name: "お試しセット",
-        note: "お試しセットはあります。中身と金額は、このサイトの掲載データにはありません。",
-      },
-    ],
-    position: "農園の名前まで見てから頼みたいときの候補です。楽天の店舗ページや、Amazonでの検索結果からも探せます。",
-  },
-  {
     slug: "leo-specialty-coffee",
     name: "LEO SPECIALTY COFFEE",
     officialUrl: "https://leo-specialty-coffee.com/",

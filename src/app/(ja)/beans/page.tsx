@@ -10,7 +10,7 @@ import { pageMeta } from "@/lib/seo";
 export const metadata = pageMeta({
   title: "豆の店",
   description:
-    "珈琲きゃろっと、土居珈琲、LEO SPECIALTY COFFEE、ラボカフェ、澤井珈琲。焙煎と豆の選び方、お試しと定期便の目安を紹介します。",
+    "珈琲きゃろっと、LEO SPECIALTY COFFEE、ラボカフェ、澤井珈琲。焙煎と豆の選び方、お試しと定期便の目安を紹介します。",
   path: "/beans",
 });
 
@@ -23,7 +23,7 @@ export default function BeansPage() {
       <p className="hero-kicker">家に届く豆</p>
       <h1 className="page-title">豆の店</h1>
       <p className="lede">
-        5店を、焙煎の仕方と豆の選び方から紹介しています。店主の言葉の引用や、訪れた感想は載せていません。金額があるものは目安です。贈り物の分け方は
+        4店を、焙煎の仕方と豆の選び方から紹介しています。店主の言葉の引用や、訪れた感想は載せていません。金額があるものは目安です。贈り物の分け方は
         <Link href="/articles/coffee-gift-guide" className="mx-1 font-bold text-[var(--accent-dark)] underline underline-offset-4">
           コーヒー好きへのギフト
         </Link>
@@ -33,7 +33,7 @@ export default function BeansPage() {
         </Link>
         です。
       </p>
-      <p className="fine">{priceAsOfLabel}。5店が同じ等級、という意味にはしていません。</p>
+      <p className="fine">{priceAsOfLabel}。4店が同じ等級、という意味にはしていません。</p>
       <div className="mt-8">
         <PrNotice />
       </div>
