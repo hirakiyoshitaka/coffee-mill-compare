@@ -29,6 +29,8 @@ export const cardDict: Record<
     external: string;
     rakuten: string;
     amazon: string;
+    /** 英語ページの amazon.com。未設定の言語では出さない */
+    amazonCom?: string;
     yahoo: string;
     shopeeMy: string;
     review: string;
@@ -162,6 +164,7 @@ export const cardDict: Record<
     external: "External site",
     rakuten: "View on Rakuten (Japan)",
     amazon: "Check price on Amazon.co.jp",
+    amazonCom: "Check price on Amazon.com",
     yahoo: "Check price on Yahoo! Shopping (Japan)",
     shopeeMy: "View on Shopee (Malaysia)",
     review: "Read the review",
