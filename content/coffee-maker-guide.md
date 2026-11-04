@@ -7,11 +7,11 @@ date: "2026-10-30"
 
 <aside class="article-picks" aria-label="おすすめ結論">
 <h2>おすすめ結論</h2>
-<p class="fine">機種まで見るなら、下の3本です。この記事の購入ボタンは、1台に決まらないときの検索です。運営者はコーヒーメーカーを使っていません。【体験：要記入】楽天の購入ボタンは、この検索用のアフィリエイトURLが無いので出していません。価格と在庫はリンク先で確認してください。</p>
+<p class="fine">機種まで見るなら、下の3本です。購入ボタンは、2026年11月4日に在庫を確認した商品ページです。ミル付き全自動はツインバード CM-D465B（6杯）、ステンレスの魔法瓶サーバーはタイガー ACT-E040WM（クリームホワイト）です。運営者はコーヒーメーカーを使っていません。【体験：要記入】楽天の購入ボタンは、この2台用のアフィリエイトURLが無いので出していません。価格と在庫はリンク先で確認してください。</p>
 <p><a href="/articles/japanese-premium-coffee-makers/">日本ブランド3台の比較</a> · <a href="/articles/home-latte-espresso-machines/">家でラテ・エスプレッソ</a> · <a href="/articles/breville-vs-delonghi-all-in-one-espresso/">ブレビルとデロンギ</a></p>
 <div class="cta-after-table">
-<a href="https://www.amazon.co.jp/s?tag=stocknotelife-22&amp;k=%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC+%E3%83%9F%E3%83%AB%E4%BB%98%E3%81%8D+%E5%85%A8%E8%87%AA%E5%8B%95" class="buy-link">ミル付き全自動コーヒーメーカーを Amazon で探す（広告）</a>
-<a href="https://www.amazon.co.jp/s?tag=stocknotelife-22&amp;k=%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC+%E3%82%B9%E3%83%86%E3%83%B3%E3%83%AC%E3%82%B9+%E4%BF%9D%E6%B8%A9" class="buy-link">ステンレス保温のコーヒーメーカーを Amazon で探す（広告）</a>
+<a href="https://www.amazon.co.jp/dp/B081SWNSGW?tag=stocknotelife-22" class="buy-link">ツインバード CM-D465BをAmazonで見る（広告）</a>
+<a href="https://www.amazon.co.jp/dp/B08GKHMRS1?tag=stocknotelife-22" class="buy-link">タイガー ACT-E040WM（クリームホワイト）をAmazonで見る（広告）</a>
 </div>
 </aside>
 
@@ -46,8 +46,8 @@ date: "2026-10-30"
 - **それ以上**：蒸らし・温度設定など細かく調整できる上位機。
 
 <div class="cta-after-table">
-<a href="https://www.amazon.co.jp/s?tag=stocknotelife-22&amp;k=%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC+%E3%83%9F%E3%83%AB%E4%BB%98%E3%81%8D+%E5%85%A8%E8%87%AA%E5%8B%95" class="buy-link">ミル付き全自動コーヒーメーカーを Amazon で探す（広告）</a>
-<a href="https://www.amazon.co.jp/s?tag=stocknotelife-22&amp;k=%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC+%E3%82%B9%E3%83%86%E3%83%B3%E3%83%AC%E3%82%B9+%E4%BF%9D%E6%B8%A9" class="buy-link">ステンレス保温のコーヒーメーカーを Amazon で探す（広告）</a>
+<a href="https://www.amazon.co.jp/dp/B081SWNSGW?tag=stocknotelife-22" class="buy-link">ツインバード CM-D465BをAmazonで見る（広告）</a>
+<a href="https://www.amazon.co.jp/dp/B08GKHMRS1?tag=stocknotelife-22" class="buy-link">タイガー ACT-E040WM（クリームホワイト）をAmazonで見る（広告）</a>
 </div>
 
 価格と仕様は購入前に商品ページで確認してください。
@@ -57,8 +57,8 @@ date: "2026-10-30"
 ## 購入リンク
 
 <div class="cta-after-table">
-<a href="https://www.amazon.co.jp/s?tag=stocknotelife-22&amp;k=%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC+%E3%83%9F%E3%83%AB%E4%BB%98%E3%81%8D+%E5%85%A8%E8%87%AA%E5%8B%95" class="buy-link">ミル付き全自動コーヒーメーカーを Amazon で探す（広告）</a>
-<a href="https://www.amazon.co.jp/s?tag=stocknotelife-22&amp;k=%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC+%E3%82%B9%E3%83%86%E3%83%B3%E3%83%AC%E3%82%B9+%E4%BF%9D%E6%B8%A9" class="buy-link">ステンレス保温のコーヒーメーカーを Amazon で探す（広告）</a>
+<a href="https://www.amazon.co.jp/dp/B081SWNSGW?tag=stocknotelife-22" class="buy-link">ツインバード CM-D465BをAmazonで見る（広告）</a>
+<a href="https://www.amazon.co.jp/dp/B08GKHMRS1?tag=stocknotelife-22" class="buy-link">タイガー ACT-E040WM（クリームホワイト）をAmazonで見る（広告）</a>
 </div>
 
 ## あわせて読みたい
