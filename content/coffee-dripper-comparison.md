@@ -30,9 +30,9 @@ date: "2026-10-30"
 2. 専用ペーパーフィルターが手に入りやすいか
 3. 手持ちのサーバーやマグに載るか
 
-[円すい型ドリッパー（ハリオ V60）を Amazon で探す（広告）](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=%E3%83%8F%E3%83%AA%E3%82%AA+V60+%E3%83%89%E3%83%AA%E3%83%83%E3%83%91%E3%83%BC)
+[ハリオ V60 透過ドリッパー01 クリア（VDR-01-T）を Amazon で見る（広告）](https://www.amazon.co.jp/dp/B0BWGTYRTW?tag=stocknotelife-22)
 
-[ウェーブ型ドリッパー（カリタ）を Amazon で探す（広告）](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=%E3%82%AB%E3%83%AA%E3%82%BF+%E3%82%A6%E3%82%A7%E3%83%BC%E3%83%96+%E3%83%89%E3%83%AA%E3%83%83%E3%83%91%E3%83%BC)
+[カリタ ウェーブドリッパー ガラス 185（WDG-185）を Amazon で見る（広告）](https://www.amazon.co.jp/dp/B004W5KPSQ?tag=stocknotelife-22)
 
 [円すい型ペーパーフィルターを Amazon で探す（広告）](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC+%E3%83%9A%E3%83%BC%E3%83%91%E3%83%BC%E3%83%95%E3%82%A3%E3%83%AB%E3%82%BF%E3%83%BC+%E5%86%86%E3%81%99%E3%81%84)
 
