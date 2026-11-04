@@ -2,13 +2,14 @@ import type { Metadata } from "next";
 import { Breadcrumb } from "@/components/Breadcrumb";
 import { KitchenList } from "@/components/KitchenList";
 import { PrNotice } from "@/components/PrNotice";
-import { getKitchenArticles } from "@/lib/kitchen";
+import { getKitchenArticles, kitchenPublic } from "@/lib/kitchen";
 import { pageMeta } from "@/lib/seo";
 
 export const metadata: Metadata = pageMeta({
   title: "キッチン・ストック",
   description: "帰宅後のごはん、作り置き、ストック食品と台所道具を、使う場面・一食量・置き場所から選ぶノート。",
   path: "/kitchen",
+  noindex: !kitchenPublic,
 });
 
 export default function KitchenIndexPage() {

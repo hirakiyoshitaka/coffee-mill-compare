@@ -1,4 +1,5 @@
 import Link from "next/link";
+import { kitchenPublic } from "@/lib/kitchen";
 
 const nav = [
   { href: "/categories", label: "道具" },
@@ -6,7 +7,7 @@ const nav = [
   { href: "/beans", label: "豆" },
   { href: "/articles", label: "読みもの" },
   { href: "/kitchen", label: "キッチン" },
-];
+].filter((item) => kitchenPublic || item.href !== "/kitchen");
 
 export function SiteHeader() {
   return (
