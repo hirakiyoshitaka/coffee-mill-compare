@@ -53,7 +53,7 @@ S5 Pro の公式の推奨範囲は、エスプレッソ 0–2.0、モカ 1.0–3
 
 毎日ショットを挽くなら、[電動コーヒーミルの選び方](/articles/electric-coffee-grinder-guide/)へ。音と置き場所はそちらの基準です。手挽きと電動の手間の違いは[比較記事](/articles/hand-vs-electric-coffee-mill/)にあります。1Zpressoがエスプレッソ向けに置いている J-Ultra の公式の刻みは[1Zpressoの選び方](/articles/1zpresso-hand-grinder-lineup/)に、公開ページの数字だけを転記しています。運営者は使っていません。推奨クリック番号は、そちらの記事でも転記していません。
 
-[1Zpresso J-Ultra を Amazon で探す（広告）](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=1Zpresso+J-Ultra)
+[1Zpresso J-Ultra を Amazon で見る（広告）](https://www.amazon.co.jp/dp/B0CKYDV932?tag=stocknotelife-22)
 
 マシンを先に選ぶなら[家でラテ・エスプレッソ](/articles/home-latte-espresso-machines/)です。デロンギのセミオートは粉が要ります。カプセルのヴァーチュオと、豆から挽く全自動は、手挽きを前提にしません。ミルク側は[ミルクフォーマーの選び方](/articles/milk-frother-guide/)です。
 
@@ -67,7 +67,7 @@ S5 Pro の公式の推奨範囲は、エスプレッソ 0–2.0、モカ 1.0–3
 
 [細挽きと書かれた手挽きコーヒーミルを Amazon で探す（広告）](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=%E6%89%8B%E6%8C%BD%E3%81%8D+%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%83%9F%E3%83%AB+%E3%82%A8%E3%82%B9%E3%83%97%E3%83%AC%E3%83%83%E3%82%BD+%E7%B4%B0%E6%8C%BD%E3%81%8D)
 
-[モカポットを Amazon で探す（広告）](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=%E3%83%A2%E3%82%AB%E3%83%9D%E3%83%83%E3%83%88)
+[ビアレッティ モカエキスプレス イタリア 3カップを Amazon で見る（広告）](https://www.amazon.co.jp/dp/B071Z2XTNP?tag=stocknotelife-22)
 
 モカポットの杯数（マグカップではなくエスプレッソ杯）と、直火かIHかは[モカポットの選び方](/articles/moka-pot-guide/)に分けました。価格は変動します。
 
