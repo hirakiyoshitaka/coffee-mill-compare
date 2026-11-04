@@ -92,6 +92,39 @@ export const grinderModels: Record<string, GrinderModel> = {
       "ゼロ点でも刃のすき間は約0.075mm。偏った力では摩擦音が出ることがある、と公式が注意しています",
     ],
   },
+  /**
+   * 栗子 S3。比較表・トップのおすすめ順には入れない。
+   * 購入ボタンは Amazon の商品ページだけ。楽天・Yahoo・Shopee は空。
+   */
+  "timemore-chestnut-s3": {
+    id: "timemore-chestnut-s3",
+    brandSlug: "timemore",
+    name: "TIMEMORE 栗子 S3",
+    shortLabel: "栗子 S3",
+    placeholderNote: "【写真：栗子 S3 の実機】",
+    type: "manual",
+    burrMaterial: "SUS420 S2C890（6軸CNC、硬度58HRC）",
+    adjustment: "外ダイヤル 0.015mm/click、90クリック/回転（米国公式の比較表）",
+    priceJpyHint:
+      "Amazon.co.jp の S3 Black は 2026年11月4日に ¥18,240（税込。取り消し線は ¥22,800）で在庫あり。日本公式は同日 ¥26,000 と ¥22,800 の併記",
+    highlight:
+      "運営者は毎日使っています。1回に挽くのは30gで、2〜3杯になります。色、時間、目盛りの実感は未記入です。",
+    purchaseNote:
+      "このリンクは S3 Black（ASIN B0CMZCK9PR）です。同じページに S3 Green と ESP Black も並びます。商品名が栗子 S3 であることを確認してください。",
+    reviewSlug: "timemore-chestnut-s3",
+    rakutenUrl: "",
+    amazonUrl: "https://www.amazon.co.jp/dp/B0CMZCK9PR?tag=stocknotelife-22",
+    yahooUrl: "",
+    moshimoHtml: "",
+    cuppingNotes: [
+      "公式の刃は S2C890。外ダイヤルは 0.015mm/click",
+      "運営者が毎日使い、1回30gを2〜3杯にしている。味の実測は未記入",
+    ],
+    caveats: [
+      "米国公式は、ゼロで刃のすき間が 0.075mm、ハンドルを押すとこすれることがある、と注記しています",
+      "重量・外形・手持ちの色は未記入です。2026年11月4日の公式商品ページ本文では、重量の数字を確認できませんでした",
+    ],
+  },
   /** EPEIOS: 比較対象は Essence Go のみ固定。価格・スペックは静的（公式 URL の定期同期なし・要更新時は手動で編集）。 */
   "epeios-essence-go": {
     id: "epeios-essence-go",
