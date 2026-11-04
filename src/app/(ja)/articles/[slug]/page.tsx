@@ -8,7 +8,7 @@ import { PrNotice } from "@/components/PrNotice";
 import { categoryHref, getCategory } from "@/data/categories";
 import { formatJaDate, siteConfig } from "@/data/site";
 import { LanguageSwitcher } from "@/components/intl/LanguageSwitcher";
-import { articleLanguageAlternates, articleLocalePaths, getAllArticles, getArticle } from "@/lib/articles";
+import { articleLanguageAlternates, articleLocalePaths, articleModified, getAllArticles, getArticle, getArticlesByCategory } from "@/lib/articles";
 import { articleHasQuickPick } from "@/lib/article-picks";
 import { pageMeta } from "@/lib/seo";
 import { GrinderCard } from "@/components/GrinderCard";
@@ -46,8 +46,9 @@ export default async function ArticlePage({ params }: Props) {
   if (!article) notFound();
 
   const category = getCategory(article.category);
-  const others = getAllArticles().filter((item) => item.slug !== article.slug);
-  const related = [...others.filter((item) => item.category === article.category), ...others.filter((item) => item.category !== article.category)];
+  const related = getArticlesByCategory(article.category)
+    .filter((item) => item.slug !== article.slug)
+    .slice(0, 6);
   const ownConclusion = articleHasQuickPick(article.content);
   const siteUrl = getSiteUrl();
   const pageUrl = `${siteUrl}/articles/${article.slug}/`;
@@ -68,7 +69,7 @@ export default async function ArticlePage({ params }: Props) {
     headline: article.title,
     description: article.description,
     datePublished: article.date,
-    dateModified: article.date,
+    dateModified: articleModified(article),
     mainEntityOfPage: pageUrl,
     image: `${siteUrl}/images/og-default.jpg`,
     inLanguage: "ja",

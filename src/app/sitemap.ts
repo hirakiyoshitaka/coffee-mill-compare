@@ -4,7 +4,7 @@ import { categories } from "@/data/categories";
 import { brands } from "@/data/grinders";
 import { getSiteUrl, siteConfig } from "@/data/site";
 import { getKitchenArticles } from "@/lib/kitchen";
-import { getAllArticles, getLocalizedArticles, translationLocales } from "@/lib/articles";
+import { articleModified, getAllArticles, getLocalizedArticles, translationLocales } from "@/lib/articles";
 
 export const dynamic = "force-static";
 
@@ -52,7 +52,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     })),
     ...articles.map((article) => ({
       url: abs(`/articles/${article.slug}`),
-      lastModified: new Date(`${article.date}T00:00:00.000Z`),
+      lastModified: new Date(`${articleModified(article)}T00:00:00.000Z`),
       changeFrequency: "monthly" as const,
       priority: 0.8,
     })),
@@ -79,7 +79,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     ...translationLocales.flatMap((locale) =>
       getLocalizedArticles(locale).map((article) => ({
         url: abs(`/${locale}/articles/${article.slug}`),
-        lastModified: new Date(`${article.date}T00:00:00.000Z`),
+        lastModified: new Date(`${articleModified(article)}T00:00:00.000Z`),
         changeFrequency: "monthly" as const,
         priority: 0.6,
       })),

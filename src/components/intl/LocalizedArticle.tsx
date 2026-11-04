@@ -131,6 +131,7 @@ export function LocalizedArticle({ locale, slug }: { locale: TranslationLocale; 
     headline: article.title,
     description: article.description,
     datePublished: article.date,
+    ...(article.updated ? { dateModified: article.updated } : {}),
     inLanguage: hreflangOf[locale],
     author: { "@type": "Organization", name: siteConfig.operatorName },
     publisher: { "@type": "Organization", name: localizedSiteName[locale] },
