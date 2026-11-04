@@ -3,6 +3,7 @@ import Link from "next/link";
 const nav = [
   { href: "/categories", label: "道具" },
   { href: "/compare", label: "ミル比較" },
+  { href: "/mill-diagnosis", label: "ミル診断" },
   { href: "/beans", label: "豆" },
   { href: "/articles", label: "読みもの" },
   { href: "/kitchen", label: "キッチン" },
