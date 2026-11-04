@@ -11,6 +11,26 @@
       ],
       "destination": "https://ouchi-dougubako.com/$1",
       "permanent": true
+    },
+    {
+      "source": "/camping",
+      "destination": "/articles/cold-brew-outdoor-coffee/",
+      "permanent": true
+    },
+    {
+      "source": "/camping/",
+      "destination": "/articles/cold-brew-outdoor-coffee/",
+      "permanent": true
+    },
+    {
+      "source": "/en/camping",
+      "destination": "/en/articles/epeios-essence-go/",
+      "permanent": true
+    },
+    {
+      "source": "/en/camping/",
+      "destination": "/en/articles/epeios-essence-go/",
+      "permanent": true
     }
   ]
 }
