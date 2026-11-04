@@ -190,7 +190,7 @@ function embedPick(id: string, line: number, locale: SiteLocale): ArticlePick | 
   }
   const shop = getBeanShop(id);
   if (!shop) return undefined;
-  const props = shopBuyProps(shop);
+  const props = shopBuyProps(shop, locale);
   const links = httpLinks(props.links);
   if (links.length === 0) return undefined;
   return { key: `embed:${id}`, name: shop.name, line, source: "embed", links };

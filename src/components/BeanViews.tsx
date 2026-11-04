@@ -1,15 +1,18 @@
 import Link from "next/link";
 import { BuyButtons } from "@/components/BuyButtons";
 import { PrNotice } from "@/components/PrNotice";
+import { shopeeTwAffiliateUrl } from "@/config/shopee-tw";
 import { priceAsOfLabel, type BeanShop } from "@/data/beans";
+import type { SiteLocale } from "@/lib/i18n";
 
-export function shopBuyProps(shop: BeanShop) {
+export function shopBuyProps(shop: BeanShop, locale?: SiteLocale) {
   return {
     name: shop.name,
     links: [
       { href: shop.a8Url, label: "ショップで見る" },
       { href: shop.rakutenUrl, label: "楽天市場で見る" },
       { href: shop.amazonUrl, label: "Amazonで探す" },
+      { href: locale === "zh-tw" ? shopeeTwAffiliateUrl(shop.slug) : undefined, label: "在 Shopee（台灣）查看" },
     ],
   };
 }
@@ -84,7 +87,7 @@ export function BeanDirectoryCard({ shop }: { shop: BeanShop }) {
   );
 }
 
-export function BeanEmbed({ shop }: { shop: BeanShop }) {
+export function BeanEmbed({ shop, locale }: { shop: BeanShop; locale?: SiteLocale }) {
   return (
     <aside className="shop-card my-8">
       <p className="pick-label">{placeLabel(shop)}</p>
@@ -100,7 +103,7 @@ export function BeanEmbed({ shop }: { shop: BeanShop }) {
         ))}
       </ul>
       <p className="fine">{priceAsOfLabel}</p>
-      <BuyButtons {...shopBuyProps(shop)} />
+      <BuyButtons {...shopBuyProps(shop, locale)} locale={locale} />
       <p>
         <Link className="text-link" href={`/beans/${shop.slug}`}>
           こだわりを読む

@@ -1,4 +1,5 @@
 import type { GrinderModel } from "@/data/grinders";
+import { shopeeTwAffiliateUrl } from "@/config/shopee-tw";
 import { cardDict, type SiteLocale } from "@/lib/i18n";
 import { affiliateRel, isHttpUrl, prepareAffiliateHtml } from "@/lib/affiliate";
 
@@ -18,7 +19,7 @@ type Props = {
   locale?: SiteLocale;
 };
 
-export function grinderBuyProps(model: Pick<GrinderModel, "name" | "rakutenUrl" | "amazonUrl" | "yahooUrl" | "shopeeMyUrl" | "moshimoHtml" | "purchaseNote">, locale: SiteLocale = "ja", noteLocalized = false): Props {
+export function grinderBuyProps(model: Pick<GrinderModel, "id" | "name" | "rakutenUrl" | "amazonUrl" | "yahooUrl" | "shopeeMyUrl" | "moshimoHtml" | "purchaseNote">, locale: SiteLocale = "ja", noteLocalized = false): Props {
   const d = cardDict[locale];
   return {
     name: model.name,
@@ -31,6 +32,7 @@ export function grinderBuyProps(model: Pick<GrinderModel, "name" | "rakutenUrl" 
       { href: localesWithoutOverseasAmazon.has(locale) ? undefined : model.amazonUrl, label: d.amazon },
       { href: model.yahooUrl, label: d.yahoo },
       { href: model.shopeeMyUrl, label: d.shopeeMy },
+      { href: locale === "zh-tw" ? shopeeTwAffiliateUrl(model.id) : undefined, label: d.shopeeTw ?? "在 Shopee（台灣）查看" },
     ],
   };
 }

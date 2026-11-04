@@ -31,6 +31,8 @@ export const cardDict: Record<
     amazon: string;
     yahoo: string;
     shopeeMy: string;
+    /** 繁體中文（台灣）の Shopee。未設定の言語では出さない */
+    shopeeTw?: string;
     review: string;
     brandPage: (brand: string) => string;
   }
@@ -69,6 +71,7 @@ export const cardDict: Record<
     amazon: "在 Amazon.co.jp 查看價格",
     yahoo: "在 Yahoo!購物（日本）查看價格",
     shopeeMy: "在 Shopee（馬來西亞）查看",
+    shopeeTw: "在 Shopee（台灣）查看",
     review: "閱讀評測",
     brandPage: (b) => `${b} 品牌頁（日文）`,
   },
