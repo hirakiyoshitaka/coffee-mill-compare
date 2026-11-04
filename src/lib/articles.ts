@@ -9,6 +9,8 @@ export type ArticleMeta = {
   description: string;
   category: string;
   date: string;
+  /** 任意の更新日（YYYY-MM-DD）。無い記事には付けない。 */
+  updated?: string;
 };
 
 export type Article = ArticleMeta & {
@@ -24,14 +26,44 @@ function requiredString(value: unknown, fileName: string, field: string): string
   return value.trim();
 }
 
-function asDateString(value: unknown, fileName: string): string {
+function parseYmd(value: unknown): string | undefined {
   if (value instanceof Date && !Number.isNaN(value.getTime())) {
     return value.toISOString().slice(0, 10);
   }
   if (typeof value === "string" && /^\d{4}-\d{2}-\d{2}$/.test(value.trim())) {
     return value.trim();
   }
-  throw new Error(`${fileName} の date は YYYY-MM-DD で書いてください`);
+  return undefined;
+}
+
+function asDateString(value: unknown, fileName: string): string {
+  const date = parseYmd(value);
+  if (!date) throw new Error(`${fileName} の date は YYYY-MM-DD で書いてください`);
+  return date;
+}
+
+function optionalUpdated(value: unknown, fileName: string): string | undefined {
+  if (value == null) return undefined;
+  const updated = parseYmd(value);
+  if (!updated) throw new Error(`${fileName} の updated は YYYY-MM-DD で書いてください`);
+  return updated;
+}
+
+/** `updated` があるときそれ、無いときは公開日 `date`。 */
+export function articleModified(article: Pick<ArticleMeta, "date" | "updated">): string {
+  return article.updated ?? article.date;
+}
+
+function metaOf(article: Article): ArticleMeta {
+  const meta: ArticleMeta = {
+    slug: article.slug,
+    title: article.title,
+    description: article.description,
+    category: article.category,
+    date: article.date,
+  };
+  if (article.updated) meta.updated = article.updated;
+  return meta;
 }
 
 function readArticle(fileName: string): Article {
@@ -44,12 +76,14 @@ function readArticle(fileName: string): Article {
   if (!getCategory(category)) {
     throw new Error(`${fileName} の category「${category}」はカテゴリ一覧にありません`);
   }
+  const updated = optionalUpdated(parsed.data.updated, fileName);
   return {
     slug,
     title,
     description,
     category,
     date: asDateString(parsed.data.date, fileName),
+    ...(updated ? { updated } : {}),
     content: parsed.content.trim(),
   };
 }
@@ -63,7 +97,7 @@ export function getAllArticles(): ArticleMeta[] {
   return articleFiles()
     .map((file) => readArticle(file))
     .sort((a, b) => (a.date === b.date ? a.slug.localeCompare(b.slug, "ja") : a.date < b.date ? 1 : -1))
-    .map(({ slug, title, description, category, date }) => ({ slug, title, description, category, date }));
+    .map(metaOf);
 }
 
 export function getArticle(slug: string): Article | undefined {
@@ -93,12 +127,14 @@ function readLocalizedArticle(locale: TranslationLocale, fileName: string): Arti
   const parsed = matter(fs.readFileSync(path.join(localeDir(locale), fileName), "utf8"));
   const category = requiredString(parsed.data.category, label, "category");
   if (!getCategory(category)) throw new Error(`${label} の category「${category}」はカテゴリ一覧にありません`);
+  const updated = optionalUpdated(parsed.data.updated, label);
   return {
     slug: fileName.replace(/\.md$/, ""),
     title: requiredString(parsed.data.title, label, "title"),
     description: requiredString(parsed.data.description, label, "description"),
     category,
     date: asDateString(parsed.data.date, label),
+    ...(updated ? { updated } : {}),
     content: parsed.content.trim(),
   };
 }
@@ -113,7 +149,7 @@ export function getLocalizedArticles(locale: TranslationLocale): ArticleMeta[] {
   return localizedFiles(locale)
     .map((file) => readLocalizedArticle(locale, file))
     .sort((a, b) => (a.date === b.date ? a.slug.localeCompare(b.slug) : a.date < b.date ? 1 : -1))
-    .map(({ slug, title, description, category, date }) => ({ slug, title, description, category, date }));
+    .map(metaOf);
 }
 
 export function getLocalizedArticle(locale: TranslationLocale, slug: string): Article | undefined {
