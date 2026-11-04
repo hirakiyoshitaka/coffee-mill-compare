@@ -7,6 +7,8 @@ date: "2026-10-26"
 
 朝のコーヒーは、私の小さな贅沢です。58歳の会社員で、出かける前に、急がず少し良い道具で淹れたいと思っています。手挽きを並べるときに見ているのは、デザインと高級感です。
 
+このページは、予算を問わず先に見る順番です。高級な手挽きだけを比べるなら、[高級手挽きコーヒーミル おすすめベスト3](/articles/luxury-relaxed-coffee-mill-best3/)です。
+
 私の順番は、この3台です。
 
 1. タイムモア栗子 S5 Pro。家の朝に置いている1位です。使っているのは、折りたたみハンドルのグリーンです
@@ -92,7 +94,7 @@ Essence Go は 870g、栗子 S5 Pro の公式値は約 910g です。2台の差�
 
 ## あわせて読みたい
 
-- [ゆとり時間を贅沢にするコーヒーミル ベスト3](/articles/luxury-relaxed-coffee-mill-best3/)
+- [高級手挽きコーヒーミル おすすめベスト3](/articles/luxury-relaxed-coffee-mill-best3/)（高級な手挽きだけ）
 - [コーヒーミル（手挽き・電動）の記事一覧](/categories/mill/)
 - [タイムモア S5 Pro と エペイオス Essence Go 比較](/articles/timemore-s5-pro-vs-essence-go/)
 - [はじめての手挽きコーヒーミルの選び方](/articles/how-to-choose-hand-coffee-mill/)
