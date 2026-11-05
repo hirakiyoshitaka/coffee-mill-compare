@@ -66,7 +66,14 @@ function metaOf(article: Article): ArticleMeta {
   return meta;
 }
 
-function readArticle(fileName: string): Article {
+/** `draft: true` の日本語記事は、一覧・サイトマップ・静的ページに出さない。 */
+function draftFlag(value: unknown, fileName: string): boolean {
+  if (value === undefined || value === false) return false;
+  if (value === true) return true;
+  throw new Error(`${fileName} の draft は true か false で書いてください`);
+}
+
+function readArticle(fileName: string): Article & { draft: boolean } {
   const slug = fileName.replace(/\.md$/, "");
   const raw = fs.readFileSync(path.join(contentDir, fileName), "utf8");
   const parsed = matter(raw);
@@ -84,6 +91,7 @@ function readArticle(fileName: string): Article {
     category,
     date: asDateString(parsed.data.date, fileName),
     ...(updated ? { updated } : {}),
+    draft: draftFlag(parsed.data.draft, fileName),
     content: parsed.content.trim(),
   };
 }
@@ -96,6 +104,7 @@ function articleFiles(): string[] {
 export function getAllArticles(): ArticleMeta[] {
   return articleFiles()
     .map((file) => readArticle(file))
+    .filter((article) => !article.draft)
     .sort((a, b) => (a.date === b.date ? a.slug.localeCompare(b.slug, "ja") : a.date < b.date ? 1 : -1))
     .map(metaOf);
 }
@@ -103,7 +112,9 @@ export function getAllArticles(): ArticleMeta[] {
 export function getArticle(slug: string): Article | undefined {
   const fileName = `${slug}.md`;
   if (!articleFiles().includes(fileName)) return undefined;
-  return readArticle(fileName);
+  const { draft, ...article } = readArticle(fileName);
+  if (draft) return undefined;
+  return article;
 }
 
 export function getArticlesByCategory(category: string): ArticleMeta[] {
