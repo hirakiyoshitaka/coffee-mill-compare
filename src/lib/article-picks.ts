@@ -138,7 +138,10 @@ function shopAction(locale: SiteLocale): string {
 function actionLabel(href: string, label: string, locale: SiteLocale): string {
   if (/未照合/.test(label)) return "Amazonで商品名を検索";
   if (/料金|利用条件/.test(label)) return "Amazonで料金・利用条件を確認";
-  if (/px\.a8\.net/i.test(href)) return shopAction(locale);
+  if (/px\.a8\.net/i.test(href)) {
+    if (locale === "ja" && /お試しセット/.test(label)) return "お試しセットを見る";
+    return shopAction(locale);
+  }
   if (/afl\.rakuten\.co\.jp|rakuten\.co\.jp/i.test(href)) return cardDict[locale].rakuten;
   if (/invl\.me/i.test(href)) return cardDict[locale].shopeeMy;
   if (/amazon\.co\.jp\/(?:s\?|b\/)/i.test(href)) return searchAction(locale);
