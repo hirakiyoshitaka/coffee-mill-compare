@@ -460,10 +460,11 @@ export function assertMillDiagnosis(): Record<ProductId, number> {
     }
     if (product.buy.kind === "model") {
       const model = diagnosisModel(product.buy.modelId);
-      if (!isJpTaggedAmazonUrl(model.amazonUrl)) {
+      const amazonUrl = model.amazonUrl ?? "";
+      if (!isJpTaggedAmazonUrl(amazonUrl)) {
         throw new Error(`${product.name} の Amazon リンクに tag=stocknotelife-22 がありません`);
       }
-      if (model.amazonUrl.includes(soldOutAsin) || model.id.includes("s5")) {
+      if (amazonUrl.includes(soldOutAsin) || model.id.includes("s5")) {
         throw new Error("売り切れの栗子 S5 Pro が診断の候補に入っています");
       }
     }
