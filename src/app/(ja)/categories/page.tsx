@@ -18,7 +18,11 @@ export default function CategoriesPage() {
       <p className="hero-kicker">{siteConfig.coffeeSectionName}（コーヒー）の目次</p>
       <h1 className="page-title">道具カテゴリ</h1>
       <p className="lede">
-        家のコーヒー道具を、種類ごとに分ける目次です。中身があるのはミルと豆です。準備中のページには、機種名を置いていません。
+        家のコーヒー道具を、種類ごとに分ける目次です。中身があるのはミルと豆です。準備中のページには、機種名を置いていません。手挽きを5問で1台に決めるときは
+        <Link href="/mill-diagnosis/" className="mx-1 text-link">
+          ミル選びの診断
+        </Link>
+        を使います。
       </p>
       <ul className="category-grid">
         {categories.map((category) => (

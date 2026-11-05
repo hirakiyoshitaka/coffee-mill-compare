@@ -17,7 +17,7 @@ function abs(path: string): string {
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const updated = new Date(`${siteConfig.legalUpdated}T00:00:00.000Z`);
-  const staticPaths = ["/", "/categories", "/compare", "/articles", "/beans", "/kitchen", "/about", "/privacy", "/disclosure"].filter(
+  const staticPaths = ["/", "/categories", "/compare", "/mill-diagnosis", "/articles", "/beans", "/kitchen", "/about", "/privacy", "/disclosure"].filter(
     (path) => kitchenPublic || path !== "/kitchen",
   );
   const categoryPaths = categories
