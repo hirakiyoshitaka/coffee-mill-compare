@@ -47,7 +47,15 @@ date: "2026-10-28"
 - **想帶出門**：AeroPress ＋ 隨行杯
 - **不用濾紙，在家外出都能用**：KINTO SCS
 
-想在戶外享受現磨咖啡，有一台手搖磨豆機會更方便。站長覺得「轉起來非常輕順」的 [Essence Go](/zh-tw/articles/epeios-essence-go/) 可以參考。想讓在家手沖更完整，請看[讓手沖再升級的器具](/zh-tw/articles/hand-drip-upgrade-gear/)。KINTO SCS 是在壺裡直接萃取；濾杯底下只負責接咖啡的分享壺是另一種器具，見[手沖分享壺怎麼挑](/zh-tw/articles/coffee-server-guide/)。金屬分享壺的明火標示也在那一篇，站長沒有用過那些壺。
+## 在外面現磨的話
+
+站長平時用的手搖磨豆機是 Timemore 栗子 S3，一次大約 30g、2～3 杯。
+
+在戶外喝現磨時，這篇另外介紹轉起來比較輕的手搖磨豆機。站長覺得「轉起來非常輕順」的是 Epeios Essence Go。可拆開收進專用收納盒，是官方的說明。露營時的研磨時間和重量，本站沒有量過。
+
+<p><strong>指南：</strong> <a class="text-link" href="/zh-tw/articles/epeios-essence-go/">閱讀 Epeios Essence Go 評測</a></p>
+
+想讓在家手沖更完整，請看[讓手沖再升級的器具](/zh-tw/articles/hand-drip-upgrade-gear/)。KINTO SCS 是在壺裡直接萃取；濾杯底下只負責接咖啡的分享壺是另一種器具，見[手沖分享壺怎麼挑](/zh-tw/articles/coffee-server-guide/)。金屬分享壺的明火標示也在那一篇，站長沒有用過那些壺。
 
 ## 購買管道
 
