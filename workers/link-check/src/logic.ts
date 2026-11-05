@@ -1,6 +1,20 @@
+import { AMAZON_PAAPI_ENABLED, amazonStockHook } from "./amazon";
+import { decideFetch, fetchBlockedReason, stripTrackingParams } from "./policy";
+import {
+  checkRakutenStock,
+  createRakutenPacer,
+  rakutenItemCodeFromUrl,
+  rakutenSecretsReady,
+  type Fetcher,
+  type RakutenPacer,
+  type RakutenSecrets,
+} from "./rakuten";
+
+export type { Fetcher, RakutenSecrets };
+
 export type BuyLink = { url: string; pages: string[] };
 
-export type IssueKind = "dead" | "amazon_unavailable" | "amazon_no_offer" | "blocked" | "fetch_failed";
+export type IssueKind = "dead" | "blocked" | "fetch_failed" | "rakuten_unavailable" | "rakuten_api_error";
 
 export type Issue = {
   url: string;
@@ -17,6 +31,9 @@ export type Report = {
   pageErrors: number;
   uniqueLinks: number;
   ok: number;
+  skipped: number;
+  amazonDisabled: number;
+  rakutenUnchecked: number;
   issues: Issue[];
   truncated: boolean;
 };
@@ -36,13 +53,22 @@ export const LIMITS: Limits = {
 };
 
 const BUY_HOST =
-  /(?:^|\.)(?:amazon\.(?:com|co\.jp|co\.uk|de|fr|ca|com\.au)|amzn\.(?:to|asia|com)|rakuten\.co\.jp|afl\.rakuten\.co\.jp|px\.a8\.net|moshimo\.com|valuecommerce\.com|invl\.me|shopee\.(?:tw|com\.my|sg|co\.th|vn|ph|co\.id)|shp\.ee|shopping\.yahoo\.co\.jp)$/i;
-
-const AMAZON_HOST = /(?:^|\.)(?:amazon\.(?:com|co\.jp|co\.uk|de|fr|ca|com\.au)|amzn\.(?:to|asia|com))$/i;
+  /(?:^|\.)(?:amazon\.(?:com|co\.jp|co\.uk|de|fr|ca|com\.au)|amzn\.(?:to|asia|com)|rakuten\.co\.jp|afl\.rakuten\.co\.jp|px\.a8\.net|a8\.net|moshimo\.com|valuecommerce\.com|invl\.me|shopee\.(?:tw|com\.my|sg|co\.th|vn|ph|co\.id)|shp\.ee|shopping\.yahoo\.co\.jp)$/i;
 
 const USER_AGENT = "Mozilla/5.0 (compatible; OuchiDougubakoLinkCheck/1.0; +https://ouchi-dougubako.com)";
 
-export type Fetcher = (input: string, init?: RequestInit) => Promise<Response>;
+export type LinkCheckResult =
+  | { outcome: "ok" }
+  | { outcome: "skipped"; reason: string }
+  | { outcome: "amazon_disabled" }
+  | { outcome: "rakuten_unchecked" }
+  | { outcome: "issue"; kind: IssueKind; status?: number; detail: string };
+
+export type CheckContext = {
+  pacer?: RakutenPacer;
+  rakuten?: RakutenSecrets;
+  origin?: string;
+};
 
 function hostname(href: string): string | undefined {
   try {
@@ -55,11 +81,6 @@ function hostname(href: string): string | undefined {
 export function isBuyUrl(href: string): boolean {
   const host = hostname(href);
   return host ? BUY_HOST.test(host) : false;
-}
-
-export function isAmazonUrl(href: string): boolean {
-  const host = hostname(href);
-  return host ? AMAZON_HOST.test(host) : false;
 }
 
 function decodeEntities(value: string): string {
@@ -115,43 +136,13 @@ function isRecord(value: unknown): value is Record<string, unknown> {
   return typeof value === "object" && value !== null && !Array.isArray(value);
 }
 
-export function classifyFetched(input: { url: string; status: number; finalUrl: string; body: string }): { ok: true } | { ok: false; kind: IssueKind; detail: string } {
-  const { status, finalUrl, body } = input;
+export function classifyStatus(status: number): { ok: true } | { ok: false; kind: IssueKind; detail: string } {
   if (status === 404 || status === 410) return { ok: false, kind: "dead", detail: `HTTP ${status}` };
   if (status === 401 || status === 403 || status === 429 || status === 503) return { ok: false, kind: "blocked", detail: `HTTP ${status}` };
   if (status >= 500 || status === 0) return { ok: false, kind: "fetch_failed", detail: `HTTP ${status}` };
   if (status >= 400) return { ok: false, kind: "dead", detail: `HTTP ${status}` };
-  if (/\/(?:errors\/|gp\/errors|404)|sorry\.html/i.test(finalUrl)) return { ok: false, kind: "dead", detail: `landed on ${finalUrl}` };
-
-  const amazon = isAmazonUrl(input.url) || isAmazonUrl(finalUrl);
-  if (!amazon) return { ok: true };
-
-  const sample = body.slice(0, 300_000);
-  if (/robot check|type the characters you see|enter the characters you see|api-services-support@amazon\.com|to discuss automated access|captcha-delivery|validateCaptcha/i.test(sample)) {
-    return { ok: false, kind: "blocked", detail: "Amazon bot check" };
-  }
-  const signal = amazonOfferSignal(sample);
-  if (signal) return { ok: false, kind: signal.kind, detail: signal.detail };
-  return { ok: true };
-}
-
-function amazonOfferSignal(body: string): { kind: "amazon_unavailable" | "amazon_no_offer"; detail: string } | null {
-  const rules: [RegExp, "amazon_unavailable" | "amazon_no_offer", string][] = [
-    [/schema\.org\/(?:OutOfStock|SoldOut|Discontinued)/i, "amazon_unavailable", "schema.org availability"],
-    [/currently unavailable/i, "amazon_unavailable", "currently unavailable"],
-    [/we don['’]t know when or if this item will be back in stock/i, "amazon_unavailable", "no restock date"],
-    [/temporarily out of stock/i, "amazon_unavailable", "temporarily out of stock"],
-    [/この商品は現在お取り扱いできません/, "amazon_unavailable", "この商品は現在お取り扱いできません"],
-    [/現在在庫切れ/, "amazon_unavailable", "現在在庫切れ"],
-    [/一時的に在庫切れ/, "amazon_unavailable", "一時的に在庫切れ"],
-    [/no featured offers available/i, "amazon_no_offer", "no featured offers"],
-    [/unavailable from the seller/i, "amazon_no_offer", "unavailable from the seller"],
-    [/出品者が見つかりません/, "amazon_no_offer", "出品者が見つかりません"],
-  ];
-  for (const [pattern, kind, detail] of rules) {
-    if (pattern.test(body)) return { kind, detail };
-  }
-  return null;
+  if (status >= 200 && status < 300) return { ok: true };
+  return { ok: false, kind: "fetch_failed", detail: `HTTP ${status}` };
 }
 
 function sameOrigin(origin: string, url: string): boolean {
@@ -178,16 +169,36 @@ async function mapPool<T, R>(items: T[], limit: number, fn: (item: T) => Promise
   return results;
 }
 
-async function readText(fetchImpl: Fetcher, url: string, timeoutMs: number): Promise<Response> {
-  return fetchImpl(url, {
-    method: "GET",
-    redirect: "follow",
-    headers: { "user-agent": USER_AGENT, accept: "text/html,application/xhtml+xml,application/xml" },
-    signal: AbortSignal.timeout(timeoutMs),
-  });
+function safeErrorDetail(error: unknown): string {
+  const message = error instanceof Error ? error.message : "fetch failed";
+  const cleaned = message.replace(/https?:\/\/\S+/gi, "[url]").trim();
+  return (cleaned || "fetch failed").slice(0, 180);
 }
 
-export async function collectFromSitemap(origin: string, fetchImpl: Fetcher, limits: Limits): Promise<{ links: BuyLink[]; pagesFetched: number; pageErrors: number; truncated: boolean }> {
+async function readText(fetchImpl: Fetcher, url: string, timeoutMs: number): Promise<Response> {
+  let current = url;
+  for (let hop = 0; hop < 4; hop += 1) {
+    if (fetchBlockedReason(current)) throw new Error("refusing to fetch a blocked URL");
+    const res = await fetchImpl(current, {
+      method: "GET",
+      redirect: "manual",
+      headers: { "user-agent": USER_AGENT, accept: "text/html,application/xhtml+xml,application/xml" },
+      signal: AbortSignal.timeout(timeoutMs),
+    });
+    if (res.status < 300 || res.status >= 400) return res;
+    const location = res.headers.get("location");
+    await res.body?.cancel();
+    if (!location) throw new Error("redirect had no location");
+    current = new URL(location, current).href;
+  }
+  throw new Error("too many redirects");
+}
+
+export async function collectFromSitemap(
+  origin: string,
+  fetchImpl: Fetcher,
+  limits: Limits,
+): Promise<{ links: BuyLink[]; pagesFetched: number; pageErrors: number; truncated: boolean }> {
   const root = origin.replace(/\/+$/, "");
   const sitemapUrl = `${root}/sitemap.xml`;
   const sitemap = await readText(fetchImpl, sitemapUrl, limits.timeoutMs);
@@ -239,23 +250,104 @@ export async function collectFromSitemap(origin: string, fetchImpl: Fetcher, lim
   return { links, pagesFetched, pageErrors, truncated };
 }
 
-export async function checkBuyLink(url: string, fetchImpl: Fetcher, timeoutMs: number): Promise<{ ok: true } | { ok: false; kind: IssueKind; status?: number; detail: string }> {
+async function inspectLink(url: string, fetchImpl: Fetcher, timeoutMs: number, ctx: CheckContext, pacer: RakutenPacer, hops: number): Promise<LinkCheckResult> {
+  if (hops > 3) return { outcome: "issue", kind: "fetch_failed", detail: "too many redirects" };
+  const decision = decideFetch(url, rakutenItemCodeFromUrl(url));
+  if (decision.action === "skip") return { outcome: "skipped", reason: decision.reason };
+  if (decision.action === "amazon_disabled") {
+    const hook = amazonStockHook(url);
+    if (hook.fetched !== false || hook.enabled !== false || AMAZON_PAAPI_ENABLED) {
+      return { outcome: "issue", kind: "fetch_failed", detail: "Amazon fetch is disabled" };
+    }
+    return { outcome: "amazon_disabled" };
+  }
+  if (decision.action === "rakuten_api") {
+    if (!rakutenSecretsReady(ctx.rakuten)) return { outcome: "rakuten_unchecked" };
+    const checked = await checkRakutenStock({
+      itemCode: decision.itemCode,
+      applicationId: ctx.rakuten.applicationId,
+      accessKey: ctx.rakuten.accessKey,
+      origin: ctx.origin,
+      fetchImpl,
+      timeoutMs,
+      pacer,
+    });
+    if (checked.ok) return { outcome: "ok" };
+    return { outcome: "issue", kind: checked.kind, status: checked.status, detail: checked.detail };
+  }
+  return probePlain(decision.url, fetchImpl, timeoutMs, ctx, pacer, hops);
+}
+
+async function probePlain(
+  cleanUrl: string,
+  fetchImpl: Fetcher,
+  timeoutMs: number,
+  ctx: CheckContext,
+  pacer: RakutenPacer,
+  hops: number,
+): Promise<LinkCheckResult> {
+  const target = stripTrackingParams(cleanUrl);
+  if (fetchBlockedReason(target)) return { outcome: "issue", kind: "fetch_failed", detail: "refusing to fetch a blocked URL" };
+
+  for (const method of ["HEAD", "GET"] as const) {
+    let res: Response;
+    try {
+      res = await fetchImpl(target, {
+        method,
+        redirect: "manual",
+        headers: { "user-agent": USER_AGENT, accept: "text/html,application/xhtml+xml" },
+        signal: AbortSignal.timeout(timeoutMs),
+      });
+    } catch (error) {
+      if (method === "HEAD") continue;
+      return { outcome: "issue", kind: "fetch_failed", detail: safeErrorDetail(error) };
+    }
+
+    if (res.status >= 300 && res.status < 400) {
+      const location = res.headers.get("location");
+      await res.body?.cancel();
+      if (!location) return { outcome: "issue", kind: "fetch_failed", detail: "redirect had no location" };
+      let next = "";
+      try {
+        next = new URL(location, target).href;
+      } catch {
+        return { outcome: "issue", kind: "fetch_failed", detail: "redirect had no location" };
+      }
+      return inspectLink(next, fetchImpl, timeoutMs, ctx, pacer, hops + 1);
+    }
+
+    if ((res.status === 405 || res.status === 501) && method === "HEAD") {
+      await res.body?.cancel();
+      continue;
+    }
+
+    await res.body?.cancel();
+    const judged = classifyStatus(res.status);
+    if (judged.ok) return { outcome: "ok" };
+    return { outcome: "issue", kind: judged.kind, status: res.status, detail: judged.detail };
+  }
+
+  return { outcome: "issue", kind: "fetch_failed", detail: "HEAD and GET failed" };
+}
+
+export async function checkBuyLink(url: string, fetchImpl: Fetcher, timeoutMs: number, ctx: CheckContext = {}): Promise<LinkCheckResult> {
+  const pacer = ctx.pacer ?? createRakutenPacer();
   try {
-    const res = await readText(fetchImpl, url, timeoutMs);
-    const finalUrl = res.url || url;
-    const amazon = isAmazonUrl(url) || isAmazonUrl(finalUrl);
-    const body = amazon ? (await res.text()).slice(0, 300_000) : "";
-    if (!amazon) await res.body?.cancel();
-    const judged = classifyFetched({ url, status: res.status, finalUrl, body });
-    if (judged.ok) return { ok: true };
-    return { ok: false, kind: judged.kind, status: res.status, detail: judged.detail };
+    return await inspectLink(url, fetchImpl, timeoutMs, ctx, pacer, 0);
   } catch (error) {
-    const message = error instanceof Error ? error.message : "fetch failed";
-    return { ok: false, kind: "fetch_failed", detail: message.slice(0, 200) };
+    return { outcome: "issue", kind: "fetch_failed", detail: safeErrorDetail(error) };
   }
 }
 
-export async function buildReport(input: { origin: string; linkSourceUrl?: string; fetchImpl: Fetcher; limits?: Limits; now?: Date }): Promise<Report> {
+export async function buildReport(input: {
+  origin: string;
+  linkSourceUrl?: string;
+  fetchImpl: Fetcher;
+  limits?: Limits;
+  now?: Date;
+  rakuten?: RakutenSecrets;
+  pacer?: RakutenPacer;
+}): Promise<Report> {
   const limits = input.limits ?? LIMITS;
   const sourceUrl = input.linkSourceUrl?.trim() ?? "";
   let source: Report["source"] = "sitemap";
@@ -266,6 +358,7 @@ export async function buildReport(input: { origin: string; linkSourceUrl?: strin
 
   if (sourceUrl) {
     if (!/^https:\/\//i.test(sourceUrl)) throw new Error("LINK_SOURCE_URL must be https");
+    if (fetchBlockedReason(sourceUrl)) throw new Error("LINK_SOURCE_URL is a host this checker does not fetch");
     source = "json";
     const res = await readText(input.fetchImpl, sourceUrl, limits.timeoutMs);
     if (!res.ok) throw new Error(`link source HTTP ${res.status}`);
@@ -290,12 +383,36 @@ export async function buildReport(input: { origin: string; linkSourceUrl?: strin
   }
 
   const urls = [...pagesByUrl.keys()];
-  const checked = await mapPool(urls, limits.concurrency, async (url) => ({ url, result: await checkBuyLink(url, input.fetchImpl, limits.timeoutMs) }));
+  const pacer = input.pacer ?? createRakutenPacer();
+  const checked = await mapPool(urls, limits.concurrency, async (url) => ({
+    url,
+    result: await checkBuyLink(url, input.fetchImpl, limits.timeoutMs, {
+      pacer,
+      rakuten: input.rakuten,
+      origin: input.origin,
+    }),
+  }));
+
   const issues: Issue[] = [];
   let ok = 0;
+  let skipped = 0;
+  let amazonDisabled = 0;
+  let rakutenUnchecked = 0;
   for (const item of checked) {
-    if (item.result.ok) {
+    if (item.result.outcome === "ok") {
       ok += 1;
+      continue;
+    }
+    if (item.result.outcome === "skipped") {
+      skipped += 1;
+      continue;
+    }
+    if (item.result.outcome === "amazon_disabled") {
+      amazonDisabled += 1;
+      continue;
+    }
+    if (item.result.outcome === "rakuten_unchecked") {
+      rakutenUnchecked += 1;
       continue;
     }
     issues.push({
@@ -314,6 +431,9 @@ export async function buildReport(input: { origin: string; linkSourceUrl?: strin
     pageErrors,
     uniqueLinks: urls.length,
     ok,
+    skipped,
+    amazonDisabled,
+    rakutenUnchecked,
     issues,
     truncated,
   };

@@ -1,7 +1,7 @@
 {
   "name": "ouchi-link-check",
   "private": true,
-  "description": "Cron Worker that reports dead buy links and Amazon unavailable signals. Deploy is manual.",
+  "description": "Reports broken plain buy links. Does not fetch affiliate redirects or Amazon. Deploy and cron stay off until the owner says OK.",
   "scripts": {
     "dev": "wrangler dev",
     "deploy": "wrangler deploy",

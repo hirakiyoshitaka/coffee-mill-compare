@@ -4,8 +4,12 @@ export interface Env {
   SITE_ORIGIN: string;
   /** https URL of `{ "links": [{ "url", "page" }] }`. Empty reads the sitemap. */
   LINK_SOURCE_URL?: string;
-  /** Empty disables GET /run. Set with `wrangler secret put RUN_KEY` and remove this var. */
+  /** Empty disables GET /run. Set with `wrangler secret put RUN_KEY`. Do not commit the value. */
   RUN_KEY?: string;
+  /** `wrangler secret put RAKUTEN_APP_ID`. Never commit this. */
+  RAKUTEN_APP_ID?: string;
+  /** `wrangler secret put RAKUTEN_ACCESS_KEY`. Never commit this. */
+  RAKUTEN_ACCESS_KEY?: string;
   REPORTS?: {
     put(key: string, value: string): Promise<void>;
   };
@@ -13,7 +17,7 @@ export interface Env {
 
 function summarize(report: Report): void {
   console.log(
-    `link-check ${report.checkedAt} source=${report.source} pages=${report.pagesFetched} pageErrors=${report.pageErrors} links=${report.uniqueLinks} ok=${report.ok} issues=${report.issues.length} truncated=${report.truncated}`,
+    `link-check ${report.checkedAt} source=${report.source} pages=${report.pagesFetched} pageErrors=${report.pageErrors} links=${report.uniqueLinks} ok=${report.ok} skipped=${report.skipped} amazonDisabled=${report.amazonDisabled} rakutenUnchecked=${report.rakutenUnchecked} issues=${report.issues.length} truncated=${report.truncated}`,
   );
   for (const issue of report.issues) {
     console.log(`link-check issue ${issue.kind} ${issue.status ?? "-"} ${issue.url} ${issue.detail}`);
@@ -32,7 +36,15 @@ async function store(env: Env, report: Report): Promise<void> {
 async function run(env: Env): Promise<Report> {
   const origin = env.SITE_ORIGIN?.trim();
   if (!origin) throw new Error("SITE_ORIGIN is empty");
-  return buildReport({ origin, linkSourceUrl: env.LINK_SOURCE_URL, fetchImpl: fetch });
+  return buildReport({
+    origin,
+    linkSourceUrl: env.LINK_SOURCE_URL,
+    fetchImpl: fetch,
+    rakuten: {
+      applicationId: env.RAKUTEN_APP_ID,
+      accessKey: env.RAKUTEN_ACCESS_KEY,
+    },
+  });
 }
 
 const worker = {
@@ -49,7 +61,7 @@ const worker = {
 
   async fetch(request: Request, env: Env): Promise<Response> {
     const url = new URL(request.url);
-    if (url.pathname !== "/run") return new Response("link-check cron worker", { status: 200 });
+    if (url.pathname !== "/run") return new Response("link-check worker", { status: 200 });
     const key = env.RUN_KEY?.trim() ?? "";
     if (!key || url.searchParams.get("key") !== key) return new Response("not found", { status: 404 });
     try {
