@@ -9,7 +9,7 @@ The fastest way to make your pour-over taste the same every day is to weigh your
 
 ## Why you need a scale
 
-Even with the same beans and the same grind setting, small changes in the amount of coffee or water change the taste. Fix a ratio, say 15g of coffee to 240g of water, and you'll get close to the same cup every morning. I keep my grinder on one setting for daily pour-over, and that only works because the amounts are consistent too.
+Even with the same beans and the same grind setting, small changes in the amount of coffee or water change the taste. Fix a ratio, say 15g of coffee to 240g of water, and you'll get close to the same cup every morning. I keep my grinder on one setting for the pour-over I usually make, and that only works because the amounts are consistent too.
 
 ## Six things to check
 

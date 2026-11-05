@@ -67,7 +67,7 @@ Kalita 的常見問題裡，針對該公司耐熱玻璃的一般說明是：耐�
 
 不鏽鋼濾網裝在壺上、在壺裡直接萃取的，是另一種道具。KINTO SCS 在[冷泡・戶外咖啡](/zh-tw/articles/cold-brew-outdoor-coffee/)裡介紹過，站長沒有用過。它和這篇的分享壺做的事不一樣。
 
-想現磨的話，放在家裡用的是[栗子 S5 Pro](/zh-tw/articles/timemore-chestnut-s5-pro/)，想轉起來比較輕的是 [Essence Go](/zh-tw/articles/epeios-essence-go/)。S5 Pro 官方的手沖刻度是 5.0–8.0，出處在那篇評測，只是起點。站長每天用的是 TIMEMORE 栗子 S3。一次大約磨 30g，做 2–3 杯。沒有在用栗子 S5 Pro。
+想現磨的話，平常在家用的是栗子 S3，想轉起來比較輕的是 [Essence Go](/zh-tw/articles/epeios-essence-go/)。S5 Pro 官方的手沖刻度是 5.0–8.0，出處在那篇評測，只是起點。站長平常用的是 TIMEMORE 栗子 S3。一次大約磨 30g，做 2–3 杯。沒有在用栗子 S5 Pro。
 
 {{grinder:timemore-chestnut-s5-pro}}
 

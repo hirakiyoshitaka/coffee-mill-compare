@@ -5,7 +5,7 @@ category: "mill"
 date: "2026-10-27"
 ---
 
-추천 두 번째는 에페이오스 에센스 고입니다. No.1 타임모어 S5 프로가 집 카운터에 두는 48mm라면, 이쪽은 10날 버로 갈기 시작할 때의 무게감을 줄이고, 분해해 케이스에 넣을 수 있는 수동 그라인더입니다. 점수 경쟁의 2위가 아닙니다.
+추천 두 번째는 에페이오스 에센스 고입니다. No.1은 타임모어 밤 S3입니다. 운영자가 평소에 쓰고, 한 번에 약 30g, 2–3잔분입니다. 이쪽은 10날 버로 갈기 시작할 때의 무게감을 줄이고, 분해해 케이스에 넣을 수 있는 수동 그라인더입니다. 점수 경쟁의 2위가 아닙니다. S5 프로는 쓰지 않습니다.
 
 일본 발표(2024년 6월, [PR TIMES](https://prtimes.jp/main/html/rd/p/000000097.000059893.html)) 기준 일본 시장 예상가는 23,100엔(세금 포함)입니다. 실제 가격은 판매처에서 확인하세요. 아래 사진은 EPEIOS 공식 제품 사진입니다.
 
@@ -59,4 +59,4 @@ S5 프로를 집에 두었다면, 또 한 대는 케이스에 들어가고 눈�
 
 이 사이트의 일부 링크는 제휴 마케팅(어필리에이트) 링크입니다. 링크를 통해 구매하시면 사이트가 수수료를 받을 수 있지만, 구매 금액이 늘어나지는 않습니다. 자세한 내용은 [광고 고지](/ko/disclosure/)를 확인하세요.
 
-No.1 리뷰: [타임모어 S5 프로](/ko/articles/timemore-chestnut-s5-pro/). 이 그라인더에는 추출 방식별 권장 눈금이 없습니다. 프렌치프레스와 모카포트는 [프렌치프레스 고르는 법](/ko/articles/french-press-guide/), [모카포트 고르는 법](/ko/articles/moka-pot-guide/)에 있습니다. 핸드드립 때 커피를 받는 서버는 [커피 서버 고르는 법](/ko/articles/coffee-server-guide/)입니다. 여행·드립·에스프레소로 역할을 나눈 비교는 [1Zpresso 핸드밀 라인업](/ko/articles/1zpresso-hand-grinder-lineup/)에 있습니다. 운영자는 1Zpresso를 쓰지 않았습니다.
+No.1은 밤 S3입니다. S5 프로는 리뷰 정리입니다. [타임모어 S5 프로](/ko/articles/timemore-chestnut-s5-pro/). 이 그라인더에는 추출 방식별 권장 눈금이 없습니다. 프렌치프레스와 모카포트는 [프렌치프레스 고르는 법](/ko/articles/french-press-guide/), [모카포트 고르는 법](/ko/articles/moka-pot-guide/)에 있습니다. 핸드드립 때 커피를 받는 서버는 [커피 서버 고르는 법](/ko/articles/coffee-server-guide/)입니다. 여행·드립·에스프레소로 역할을 나눈 비교는 [1Zpresso 핸드밀 라인업](/ko/articles/1zpresso-hand-grinder-lineup/)에 있습니다. 운영자는 1Zpresso를 쓰지 않았습니다.

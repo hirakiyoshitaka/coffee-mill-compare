@@ -9,7 +9,7 @@ date: "2026-10-31"
 
 We have not used a 1Zpresso. There are no tasting notes on this page. Every number is what the official page showed when we opened it on October 31, 2026. Those pages get revised, so open the same page again before you order.
 
-If the grinder is going to live at home for daily pour-over, the one this site points to first is the Timemore Chestnut S3. I use it every day and grind about 30g at a time, for 2–3 cups. I do not use the Chestnut S5 Pro. Use the 1Zpresso list when you already know which job the grinder has to do.
+If the grinder is going to live at home for pour-over, the one this site points to first is the Timemore Chestnut S3. I usually use it and grind about 30g at a time, for 2–3 cups. I do not use the Chestnut S5 Pro. Use the 1Zpresso list when you already know which job the grinder has to do.
 
 ## At a glance
 
@@ -26,15 +26,15 @@ We have not used a 1Zpresso. This table is a review summary of the jobs the make
 
 The official chooser still lists the J, JX-Pro S, JE-Plus, and X-Pro S, and it includes a click chart. This page stays with the five lines whose jobs are easiest to tell apart.
 
-If the grinder lives at home for pour-over, this site still points to the Chestnut S5 Pro first. That is the one kept on the counter. For a lighter bag, start with the Q2 search and match the model name.
+If the grinder lives at home for pour-over, this site points to the Chestnut S3 first. That is the one I usually use, about 30g at a time, for 2–3 cups. I do not use the Chestnut S5 Pro. For a lighter bag, start with the Q2 search and match the model name.
 
-This English page does not show Amazon purchase buttons. The grinders this site actually uses still have Rakuten and Shopee links on their cards, where those URLs are already on file.
+This English page does not show Amazon purchase buttons. A grinder card shows a Rakuten or Shopee link only when that URL is already on file.
 ## Next step
 
 Once the job is clear, these are the same-language pages that pick up from here.
 
 - [Three Hand Grinders for a Slow, Luxurious Coffee](/en/articles/luxury-relaxed-coffee-mill-best3/): first is the Chestnut S3, second is the EPEIOS Essence Go. I use both. I do not use the Chestnut S5 Pro. Third is the Comandante C40, a review summary. I have not used it. The K-Ultra is only an also-consider on that page. We have not used it
-- [Timemore Chestnut S5 Pro Review](/en/articles/timemore-chestnut-s5-pro/): the hand grinder this site still points to for daily pour-over at home
+- [Timemore Chestnut S5 Pro Review](/en/articles/timemore-chestnut-s5-pro/): a review summary. I do not use it. The grinder I usually use at home is the Chestnut S3
 - [EPEIOS Essence Go Review](/en/articles/epeios-essence-go/): when you want light turning, or a grinder you can take apart and carry
 - [Timemore S5 Pro vs EPEIOS Essence Go](/en/articles/timemore-s5-pro-vs-essence-go/): a spec comparison. I use the Chestnut S3, not the S5 Pro
 - [Beginner Pour-Over Recipe](/en/articles/beginner-hand-drip-recipe/): a first V60 cup
@@ -87,11 +87,11 @@ The J-Ultra is the 8-micron step that 1Zpresso calls the finest in its range. Th
 
 ## The hand grinders this site recommends first
 
-1Zpresso is not in this site's first order of picks. The [three hand grinders for a slow, luxurious coffee](/en/articles/luxury-relaxed-coffee-mill-best3/) are the Chestnut S5 Pro, the EPEIOS Essence Go, and the Comandante C40. The K-Ultra is only an also-consider on that page. We have not used it. Those roles stay as they are: the Chestnut S5 Pro when you want a pour-over setting that lives on the counter, and the [EPEIOS Essence Go](/en/articles/epeios-essence-go/) when you want light turning or a grinder you can take apart and carry. The side-by-side is [Timemore S5 Pro vs EPEIOS Essence Go](/en/articles/timemore-s5-pro-vs-essence-go/). The four things to check on a first grinder — burr size, adjustment, weight, and where it lives — are in [how to choose your first hand grinder](/en/articles/how-to-choose-hand-coffee-mill/). A drip machine that does not grind, such as BALMUDA The Brew, still needs grounds from somewhere. See [Japanese premium coffee makers](/en/articles/japanese-premium-coffee-makers/). We have not used those machines.
+1Zpresso is not in this site's first order of picks. The [three hand grinders for a slow, luxurious coffee](/en/articles/luxury-relaxed-coffee-mill-best3/) are the Chestnut S3, the EPEIOS Essence Go, and the Comandante C40. The K-Ultra is only an also-consider on that page. We have not used it. Those roles stay as they are: the Chestnut S3 when you want the grinder that stays at home. I usually use it, about 30g at a time, for 2–3 cups. I do not use the Chestnut S5 Pro. The [EPEIOS Essence Go](/en/articles/epeios-essence-go/) is the one when you want light turning or a grinder you can take apart and carry. The side-by-side is [Timemore S5 Pro vs EPEIOS Essence Go](/en/articles/timemore-s5-pro-vs-essence-go/). The four things to check on a first grinder — burr size, adjustment, weight, and where it lives — are in [how to choose your first hand grinder](/en/articles/how-to-choose-hand-coffee-mill/). A drip machine that does not grind, such as BALMUDA The Brew, still needs grounds from somewhere. See [Japanese premium coffee makers](/en/articles/japanese-premium-coffee-makers/). We have not used those machines.
 
 For a German click grinder set next to the S5 Pro, read [Comandante C40 vs Timemore Chestnut S5 Pro](/en/articles/comandante-c40-vs-timemore/).
 
-{{grinder:timemore-chestnut-s5-pro}}
+{{grinder:timemore-chestnut-s3}}
 
 {{grinder:epeios-essence-go}}
 

@@ -38,7 +38,7 @@ Breville／Sage 的官方頁在後文，不是廣告。本頁不放 Amazon 購�
 - [BALMUDA The Brew 與 TWINBIRD 全自動怎麼挑](/zh-tw/articles/japanese-premium-coffee-makers/)：滴濾，不是義式。評測整理，站長沒有用過
 - [1Zpresso 手搖磨豆機怎麼挑](/zh-tw/articles/1zpresso-hand-grinder-lineup/)：手搖再填粉時，義式刻度分最細的是 J-Ultra。評測整理，站長沒有用過，這篇也不抄建議刻度
 - [把悠閒時光過得講究一點的手搖磨豆機 最佳3台](/zh-tw/articles/luxury-relaxed-coffee-mill-best3/)：第1名栗子 S3、第2名 Epeios Essence Go 是站長在用的。栗子 S5 Pro 沒有在用。第3名 Comandante C40 是評測整理
-- [TIMEMORE 栗子 S5 Pro 評測](/zh-tw/articles/timemore-chestnut-s5-pro/)：本站對過官方義式範圍的手搖只有這台。站長沒有用栗子 S5 Pro。站長每天用的是 TIMEMORE 栗子 S3。一次大約磨 30g，做 2–3 杯。沒有在用栗子 S5 Pro。沒有用它打這六台的義式
+- [TIMEMORE 栗子 S5 Pro 評測](/zh-tw/articles/timemore-chestnut-s5-pro/)：本站對過官方義式範圍的手搖只有這台。站長沒有用栗子 S5 Pro。站長平常用的是 TIMEMORE 栗子 S3。一次大約磨 30g，做 2–3 杯。沒有在用栗子 S5 Pro。沒有用它打這六台的義式
 - [法式濾壓壺怎麼挑](/zh-tw/articles/french-press-guide/)：粗研磨，在壺裡浸泡再壓下來
 
 ## 六台對照
@@ -130,7 +130,7 @@ Bean Switch 是兩個 250g 豆倉，幾秒就能換，低因和一般豆、或�
 
 ## 磨豆若要另外準備
 
-這六台都內建磨豆。若改成手搖再填粉，本站對過官方義式範圍的手搖只有[栗子 S5 Pro](/zh-tw/articles/timemore-chestnut-s5-pro/)，建議刻度 0–2.0，只是起點。站長每天用的是 TIMEMORE 栗子 S3。一次大約磨 30g，做 2–3 杯。沒有在用栗子 S5 Pro。沒有用它打這六台的義式。想轉起來輕、或拆開來帶出門，見 [Epeios Essence Go](/zh-tw/articles/epeios-essence-go/)。1Zpresso 把義式刻度分最細的是 J-Ultra，見[1Zpresso 手搖磨豆機怎麼挑](/zh-tw/articles/1zpresso-hand-grinder-lineup/)。那一篇沒有抄建議刻度，這篇也不抄。
+這六台都內建磨豆。若改成手搖再填粉，本站對過官方義式範圍的手搖只有[栗子 S5 Pro](/zh-tw/articles/timemore-chestnut-s5-pro/)，建議刻度 0–2.0，只是起點。站長平常用的是 TIMEMORE 栗子 S3。一次大約磨 30g，做 2–3 杯。沒有在用栗子 S5 Pro。沒有用它打這六台的義式。想轉起來輕、或拆開來帶出門，見 [Epeios Essence Go](/zh-tw/articles/epeios-essence-go/)。1Zpresso 把義式刻度分最細的是 J-Ultra，見[1Zpresso 手搖磨豆機怎麼挑](/zh-tw/articles/1zpresso-hand-grinder-lineup/)。那一篇沒有抄建議刻度，這篇也不抄。
 
 粗研磨、在壺裡浸泡再壓下來的做法，見[法式濾壓壺怎麼挑](/zh-tw/articles/french-press-guide/)。滴濾咖啡機（BALMUDA、TWINBIRD）不是義式，見[BALMUDA The Brew 與 TWINBIRD 全自動怎麼挑](/zh-tw/articles/japanese-premium-coffee-makers/)。
 

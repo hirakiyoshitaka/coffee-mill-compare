@@ -72,7 +72,7 @@ Kết quả tìm sẽ lẫn ấm trà và dung tích khác. Đối chiếu mã h
 
 Bột mịn dễ lọt lưới và đọng dưới đáy tách. Đó là cách nói thông thường, không phải kết quả thử của trang này.
 
-Trong khoảng gợi ý chính thức của Chestnut S5 Pro, French press là 8.0–9.0. Đây là điểm bắt đầu do hãng đưa. Bài tiếng Nhật đã dẫn cùng khoảng đó. Bản tiếng Việt chưa có bài đánh giá riêng. Mang số 8 này sang số 「8」 của một máy xay khác thì hai thước không trùng. Người vận hành dùng mỗi ngày là TIMEMORE Chestnut S3. Mỗi lần xay khoảng 30g, cho 2–3 tách. Không dùng Chestnut S5 Pro. Chưa có nhật ký pha French press.
+Trong khoảng gợi ý chính thức của Chestnut S5 Pro, French press là 8.0–9.0. Đây là điểm bắt đầu do hãng đưa. Bài tiếng Nhật đã dẫn cùng khoảng đó. Bản tiếng Việt chưa có bài đánh giá riêng. Mang số 8 này sang số 「8」 của một máy xay khác thì hai thước không trùng. Người vận hành dùng thường ngày là TIMEMORE Chestnut S3. Mỗi lần xay khoảng 30g, cho 2–3 tách. Không dùng Chestnut S5 Pro. Chưa có nhật ký pha French press.
 
 Tài liệu đã đăng của Epeios Essence Go không có số nấc gợi ý theo từng cách pha. Bản tiếng Việt cũng chưa có bài đánh giá riêng cho máy đó. Độ rộng mỗi nấc của các mẫu 1Zpresso không cùng thước với 8.0–9.0. Cách tách các mẫu nằm ở [Cách chọn máy xay tay 1Zpresso](/vi/articles/1zpresso-hand-grinder-lineup/). Trang này chưa dùng 1Zpresso.
 
