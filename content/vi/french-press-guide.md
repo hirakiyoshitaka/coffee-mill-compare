@@ -88,7 +88,7 @@ Hạt là chuyện khác, và cũng không phải hạt dành riêng cho French 
 
 ### 珈琲きゃろっと
 
-[Xem gói đăng ký 珈琲きゃろっと (quảng cáo)](https://px.a8.net/svt/ejp?a8mat=4BEQHR+383KII+2CG0+5YJRM)
+[Xem gói đăng ký 珈琲きゃろっと (quảng cáo)](https://px.a8.net/svt/ejp?a8mat=4BEQHR+383LAA+2CG0+5YJRM)
 
 ## Nguồn
 

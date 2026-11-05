@@ -97,7 +97,7 @@ For a German click grinder set next to the S5 Pro, read [Comandante C40 vs Timem
 
 The beans I kept on subscription for about a year, because they tasted good, are from [Coffee Carrot (珈琲きゃろっと)](/beans/coffee-carrot/). That shop page is in Japanese.
 
-[View the Coffee Carrot subscription (ad)](https://px.a8.net/svt/ejp?a8mat=4BEQHR+383KII+2CG0+5YJRM)
+[View the Coffee Carrot subscription (ad)](https://px.a8.net/svt/ejp?a8mat=4BEQHR+383LAA+2CG0+5YJRM)
 
 ## Price
 

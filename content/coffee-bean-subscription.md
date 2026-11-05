@@ -28,7 +28,7 @@ date: "2026-10-28"
 
 定期便の料金や回数の条件は、申し込む前に公式サイトで確認してください。
 
-[珈琲きゃろっとの定期便を見る（広告）](https://px.a8.net/svt/ejp?a8mat=4BEQHR+383KII+2CG0+5YJRM)
+[珈琲きゃろっとの定期便を見る（広告）](https://px.a8.net/svt/ejp?a8mat=4BEQHR+383LAA+2CG0+5YJRM)
 
 ## LEO SPECIALTY COFFEE：毎月2種類を飲み比べ
 
@@ -40,13 +40,13 @@ date: "2026-10-28"
 - Qグレーダーの資格を持つ人が豆を選び、焙煎の前と後にハンドピックをして、焙煎後1週間以内に発送します。
 - 定期便は単品より20%お得、とされています。
 
-[LEO SPECIALTY COFFEEの定期便を見る（広告）](https://px.a8.net/svt/ejp?a8mat=4BEPQ4+36WPAY+5XNE+5YJRM)
+[LEO SPECIALTY COFFEEの定期便を見る（広告）](https://px.a8.net/svt/ejp?a8mat=4BEPQ4+36WQ2Q+5XNE+5YJRM)
 
 ## ブルーボトルコーヒー：カフェの豆を家で
 
 アメリカ・オークランドで生まれ、日本にもカフェを持つブルーボトルコーヒー。公式オンラインストアで、豆や定期便を扱っています。内容と料金はストアで確認してください（運営者は未利用）。
 
-[ブルーボトルコーヒー公式オンラインストアで定期便を見る（広告）](https://px.a8.net/svt/ejp?a8mat=4BEPQ4+36B9P6+5UFU+5YJRM)
+[ブルーボトルコーヒー公式オンラインストアで定期便を見る（広告）](https://px.a8.net/svt/ejp?a8mat=4BEPQ4+36BAGY+5UFU+5YJRM)
 
 ## 定期便の前に、お試しから始めるなら
 

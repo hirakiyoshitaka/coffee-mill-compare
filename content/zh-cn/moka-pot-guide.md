@@ -74,7 +74,7 @@ Epeios Essence Go 没有刊出摩卡用的建议刻度，简体中文版也还�
 
 豆子是另一件事。运营者曾经连续订阅大约一年、因为好喝而留下的，是北海道惠庭的 [珈琲きゃろっと](https://coffeecarrot.jp/)。店铺页面是日文，写的是手冲向，没有写成摩卡用的代磨。本站没有核实能否寄到中国大陆。其他豆子店的使用经历，这里不写。
 
-[查看珈琲きゃろっと的订阅（广告）](https://px.a8.net/svt/ejp?a8mat=4BEQHR+383KII+2CG0+5YJRM)
+[查看珈琲きゃろっと的订阅（广告）](https://px.a8.net/svt/ejp?a8mat=4BEQHR+383LAA+2CG0+5YJRM)
 
 ## 来源
 

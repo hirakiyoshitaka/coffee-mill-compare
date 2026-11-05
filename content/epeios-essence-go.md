@@ -57,7 +57,7 @@ No.1 はタイムモア栗子 S3 です。順番は[ランキング](/articles/c
 
 [タイムモア 栗子 S3 を Amazon で見る（広告）](https://www.amazon.co.jp/dp/B0CMZCK9PR?tag=stocknotelife-22)
 
-[珈琲きゃろっとの定期便を見る（広告）](https://px.a8.net/svt/ejp?a8mat=4BEQHR+383KII+2CG0+5YJRM)
+[珈琲きゃろっとの定期便を見る（広告）](https://px.a8.net/svt/ejp?a8mat=4BEQHR+383LAA+2CG0+5YJRM)
 
 2台で迷ったら[S5 Pro と Essence Go の比較](/articles/timemore-s5-pro-vs-essence-go/)もどうぞ。粉と油分の手入れの整理は[コーヒーミルの掃除・お手入れ方法](/articles/coffee-mill-cleaning/)です。このレビューでは掃除の実測は書いていません。
 

@@ -102,7 +102,7 @@ date: "2026-10-27"
 
 道具がそろったら、最初の一杯の粉量と蒸らしは[はじめてのハンドドリップの淹れ方](/articles/beginner-hand-drip-recipe/)に、ハリオが公開している V60 の基本レシピを12gで計算して置いています。運営者が測った秒数ではありません。ドリッパーの下に置く容器の杯数と熱源は[コーヒーサーバーの選び方](/articles/coffee-server-guide/)です。あとは豆です。運営者は[珈琲きゃろっと](/beans/coffee-carrot/)の定期便を約1年続けていて、美味しかったそうです。ほかの店は[スペシャルティコーヒー豆の通販ショップ比較](/articles/specialty-coffee-beans-shops/)にまとめています。
 
-[珈琲きゃろっとの定期便を見る（広告）](https://px.a8.net/svt/ejp?a8mat=4BEQHR+383KII+2CG0+5YJRM)ミルをもっと比べたい人は[手挽きミルのランキング](/articles/coffee-mill-ranking/)もどうぞ。慣れてきたら、次の一歩として[ハンドドリップを一段上げる道具](/articles/hand-drip-upgrade-gear/)も紹介しています。
+[珈琲きゃろっとの定期便を見る（広告）](https://px.a8.net/svt/ejp?a8mat=4BEQHR+383LAA+2CG0+5YJRM)ミルをもっと比べたい人は[手挽きミルのランキング](/articles/coffee-mill-ranking/)もどうぞ。慣れてきたら、次の一歩として[ハンドドリップを一段上げる道具](/articles/hand-drip-upgrade-gear/)も紹介しています。
 
 このページのAmazonリンクはアフィリエイトリンクです。方針は[広告表記](/disclosure/)にまとめています。
 

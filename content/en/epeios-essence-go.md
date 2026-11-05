@@ -77,7 +77,7 @@ Buy buttons appear on the product card when an affiliate URL is set. Our policy 
 
 The No.1 is the Chestnut S3. The ranking is on the Japanese [coffee mill ranking](/articles/coffee-mill-ranking/). For beans, start with [Coffee Carrot (珈琲きゃろっと)](/beans/coffee-carrot/). That shop page is in Japanese. I kept their subscription for about a year.
 
-[View the Coffee Carrot subscription (ad)](https://px.a8.net/svt/ejp?a8mat=4BEQHR+383KII+2CG0+5YJRM)
+[View the Coffee Carrot subscription (ad)](https://px.a8.net/svt/ejp?a8mat=4BEQHR+383LAA+2CG0+5YJRM)
 
 This review does not include timed cleaning tests. One Amazon review notes that the grinder is not washed with water and needs a brush. For a first hand grinder, see [how to choose](/en/articles/how-to-choose-hand-coffee-mill/). For where to put the 0–80 scale, see the [coffee grind size guide](/en/articles/coffee-grind-size-guide/). This site does not have a recommended number for each brew method on the Essence Go. To split another brand by travel, pour-over, and espresso, see the [1Zpresso hand grinder lineup](/en/articles/1zpresso-hand-grinder-lineup/). We have not used a 1Zpresso. A German click grinder set next to the S5 Pro is [Comandante C40 vs Timemore Chestnut S5 Pro](/en/articles/comandante-c40-vs-timemore/). A motor instead of a handle is covered in [hand vs electric coffee grinders](/en/articles/hand-vs-electric-coffee-mill/) and the [electric coffee grinder guide](/en/articles/electric-coffee-grinder-guide/). A drip machine that still needs ground coffee is [Japanese premium coffee makers](/en/articles/japanese-premium-coffee-makers/).
 

@@ -59,7 +59,7 @@ date: "2026-11-02"
 
 用 Timemore 磨的豆子，是定期購的[珈琲きゃろっと](/beans/coffee-carrot/)。磨這些豆子的時間，就是那段幸福。商店頁是日文。
 
-[查看珈琲きゃろっと定期購（廣告）](https://px.a8.net/svt/ejp?a8mat=4BEQHR+383KII+2CG0+5YJRM)
+[查看珈琲きゃろっと定期購（廣告）](https://px.a8.net/svt/ejp?a8mat=4BEQHR+383LAA+2CG0+5YJRM)
 
 部分連結為廣告。說明見[廣告揭露](/zh-tw/disclosure/)。
 

@@ -73,7 +73,7 @@ Essence Go は 870g、栗子 S5 Pro の公式値は約 910g です。2台の差�
 
 挽いたあとは、定期便で買っている[珈琲きゃろっと](/beans/coffee-carrot/)です。この豆を栗子 S3 で挽いています。1回に約30g、2〜3杯分です。店の一覧は[豆の店](/beans/)にあります。
 
-[珈琲きゃろっとの定期便を見る（広告）](https://px.a8.net/svt/ejp?a8mat=4BEQHR+383KII+2CG0+5YJRM)
+[珈琲きゃろっとの定期便を見る（広告）](https://px.a8.net/svt/ejp?a8mat=4BEQHR+383LAA+2CG0+5YJRM)
 
 購入リンクを置いた場合、それは広告です。未設定の機種にはボタンが出ません。方針は[広告表記](/disclosure/)です。
 

@@ -68,7 +68,7 @@ The moves below are general guidance. They are not the result of a tasting this 
 
 The beans I kept on subscription for about a year, because they tasted good, are from [Coffee Carrot (珈琲きゃろっと)](/beans/coffee-carrot/). That shop page is in Japanese.
 
-[View the Coffee Carrot subscription (ad)](https://px.a8.net/svt/ejp?a8mat=4BEQHR+383KII+2CG0+5YJRM)
+[View the Coffee Carrot subscription (ad)](https://px.a8.net/svt/ejp?a8mat=4BEQHR+383LAA+2CG0+5YJRM)
 
 ## Finding a brewer
 

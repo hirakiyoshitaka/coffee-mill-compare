@@ -68,7 +68,7 @@ Brikka Induction 的美國頁面說明了做出克麗瑪，以及鋁和鋼的雙
 
 站長喝的豆子，是訂了大約一年的[珈琲きゃろっと](/beans/coffee-carrot/)定期配送，覺得好喝。店家頁面是日文，寫的是手沖向，沒有寫成摩卡用的代磨。
 
-[查看珈琲きゃろっと的定期配送](https://px.a8.net/svt/ejp?a8mat=4BEQHR+383KII+2CG0+5YJRM)
+[查看珈琲きゃろっと的定期配送](https://px.a8.net/svt/ejp?a8mat=4BEQHR+383LAA+2CG0+5YJRM)
 
 ## 資料來源
 

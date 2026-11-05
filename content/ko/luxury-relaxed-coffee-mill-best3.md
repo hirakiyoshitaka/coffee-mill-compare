@@ -65,7 +65,7 @@ date: "2026-11-02"
 
 타임모어로 가는 원두는 정기 배송으로 사는 [珈琲きゃろっと](/beans/coffee-carrot/)입니다. 이 원두를 가는 시간이 행복 그 자체입니다. 가게 페이지는 일본어입니다.
 
-[珈琲きゃろっと 정기 배송 보기(광고)](https://px.a8.net/svt/ejp?a8mat=4BEQHR+383KII+2CG0+5YJRM)
+[珈琲きゃろっと 정기 배송 보기(광고)](https://px.a8.net/svt/ejp?a8mat=4BEQHR+383LAA+2CG0+5YJRM)
 
 일부 링크는 광고입니다. 자세한 내용은 [광고 고지](/ko/disclosure/)를 보세요.
 

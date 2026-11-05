@@ -74,7 +74,7 @@ S5 Pro の金額は、レビューに見た日付つきで残しています。�
 
 豆は、運営者が定期便を1年ほど続けておいしかった[珈琲きゃろっと](/beans/coffee-carrot/)です。ほかの店は[最初に頼みたい豆](/articles/first-beans-after-hand-mill/)です。
 
-[珈琲きゃろっとの定期便を見る（広告）](https://px.a8.net/svt/ejp?a8mat=4BEQHR+383KII+2CG0+5YJRM)
+[珈琲きゃろっとの定期便を見る（広告）](https://px.a8.net/svt/ejp?a8mat=4BEQHR+383LAA+2CG0+5YJRM)
 
 ## 出典
 

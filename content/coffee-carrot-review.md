@@ -23,7 +23,7 @@ date: "2026-10-29"
 
 定期便の料金や回数の条件は変わることがあるので、申し込む前に公式サイトで確認してください。
 
-[珈琲きゃろっとの定期便を見る（広告）](https://px.a8.net/svt/ejp?a8mat=4BEQHR+383KII+2CG0+5YJRM)
+[珈琲きゃろっとの定期便を見る（広告）](https://px.a8.net/svt/ejp?a8mat=4BEQHR+383LAA+2CG0+5YJRM)
 
 ## 向いている人
 
