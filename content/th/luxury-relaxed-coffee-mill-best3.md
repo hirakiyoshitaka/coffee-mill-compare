@@ -65,7 +65,7 @@ date: "2026-11-02"
 
 เมล็ดที่บดด้วย Timemore คือ [Coffee Carrot (珈琲きゃろっと)](/beans/coffee-carrot/) ที่ซื้อแบบสมัครสมาชิก เวลาบดเมล็ดนี้คือช่วงที่สุข หน้าร้านเป็นภาษาญี่ปุ่น
 
-[ดูการสมัคร Coffee Carrot (โฆษณา)](https://px.a8.net/svt/ejp?a8mat=4BEQHR+383KII+2CG0+5YJRM)
+[ดูการสมัคร Coffee Carrot (โฆษณา)](https://px.a8.net/svt/ejp?a8mat=4BEQHR+383LAA+2CG0+5YJRM)
 
 ลิงก์บางส่วนเป็นโฆษณา รายละเอียดอยู่ที่ [เปิดเผยโฆษณา](/th/disclosure/)
 

@@ -78,7 +78,7 @@ date: "2026-11-01"
 
 運営者は[珈琲きゃろっと](/beans/coffee-carrot/)の定期便を1年ほど続けていて、おいしかった、とのことです。プレス専用の銘柄指定ではありません。ほかの店は[手挽きミルを買ったら最初に頼みたい豆](/articles/first-beans-after-hand-mill/)です。
 
-[珈琲きゃろっとの定期便を見る（広告）](https://px.a8.net/svt/ejp?a8mat=4BEQHR+383KII+2CG0+5YJRM)
+[珈琲きゃろっとの定期便を見る（広告）](https://px.a8.net/svt/ejp?a8mat=4BEQHR+383LAA+2CG0+5YJRM)
 
 ## 出典
 

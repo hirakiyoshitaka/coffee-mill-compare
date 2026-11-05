@@ -13,7 +13,7 @@ date: "2026-10-27"
 
 運営者は、[珈琲きゃろっと](/beans/coffee-carrot/)の定期便を約1年続けていて、美味しかったそうです。派手な言葉より、「1年続いた」という事実が、いちばん正直な推薦だと思っています。北海道・恵庭の店で、注文を受けてから焙煎するのが特徴です。くわしくは[店のページ](/beans/coffee-carrot/)へ。
 
-[珈琲きゃろっとの定期便を見る（広告）](https://px.a8.net/svt/ejp?a8mat=4BEQHR+383KII+2CG0+5YJRM)
+[珈琲きゃろっとの定期便を見る（広告）](https://px.a8.net/svt/ejp?a8mat=4BEQHR+383LAA+2CG0+5YJRM)
 
 ## 丸山珈琲：軽井沢から届く、ドリップバッグという入口
 
@@ -49,13 +49,13 @@ date: "2026-10-27"
 
 アメリカ・オークランドで生まれ、日本にも多くのカフェを持つブルーボトルコーヒー。オンラインストアでは豆や定期便を扱っています。カフェで飲んだあの一杯を家でも、という人にとって、うれしい選択肢です。
 
-[ブルーボトルコーヒー公式オンラインストアで豆と定期便を見る（広告）](https://px.a8.net/svt/ejp?a8mat=4BEPQ4+36B9P6+5UFU+5YJRM)
+[ブルーボトルコーヒー公式オンラインストアで豆と定期便を見る（広告）](https://px.a8.net/svt/ejp?a8mat=4BEPQ4+36BAGY+5UFU+5YJRM)
 
 ## LEO SPECIALTY COFFEE：グレーダーの目と、手で選ぶ豆
 
 [LEO SPECIALTY COFFEE](/beans/leo-specialty-coffee/)は、国際資格のコーヒーグレーダーが豆を選び、欠点豆を焙煎の前と後に手で取り除いてから届ける店です。一粒ずつ人の目と手を通る、その手間のかけ方にこそ、この店の想いが表れていると思います。定期便では、毎月ちがう2種類の豆が届きます。
 
-[LEO SPECIALTY COFFEEの定期便を見る（広告）](https://px.a8.net/svt/ejp?a8mat=4BEPQ4+36WPAY+5XNE+5YJRM)
+[LEO SPECIALTY COFFEEの定期便を見る（広告）](https://px.a8.net/svt/ejp?a8mat=4BEPQ4+36WQ2Q+5XNE+5YJRM)
 
 ## 澤井珈琲
 

@@ -65,7 +65,7 @@ ZP6 Special も使っていません。48mmの六角ステンレス刃で、公�
 
 ふだんの豆は、定期便を約1年続けている[珈琲きゃろっと](/beans/coffee-carrot/)です。上の3台でこの豆を挽いた記録はありません。
 
-[珈琲きゃろっとの定期便を見る（広告）](https://px.a8.net/svt/ejp?a8mat=4BEQHR+383KII+2CG0+5YJRM)
+[珈琲きゃろっとの定期便を見る（広告）](https://px.a8.net/svt/ejp?a8mat=4BEQHR+383LAA+2CG0+5YJRM)
 
 購入リンクは広告です。方針は[広告表記](/disclosure/)です。
 

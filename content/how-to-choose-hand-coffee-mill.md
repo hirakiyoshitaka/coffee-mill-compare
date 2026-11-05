@@ -60,7 +60,7 @@ date: "2026-10-27"
 
 ミルを置いたら、次は豆です。運営者は[珈琲きゃろっと](/beans/coffee-carrot/)の定期便を1年ほど続けていて、本当においしかった、とのことです。ほかの店は[最初に頼みたい豆](/articles/first-beans-after-hand-mill/)にまとめています。
 
-[珈琲きゃろっとの定期便を見る（広告）](https://px.a8.net/svt/ejp?a8mat=4BEQHR+383KII+2CG0+5YJRM)
+[珈琲きゃろっとの定期便を見る（広告）](https://px.a8.net/svt/ejp?a8mat=4BEQHR+383LAA+2CG0+5YJRM)
 
 購入ボタンは、アフィリエイトの URL を入れたときだけ出ます。方針は[広告表記](/disclosure/)です。
 

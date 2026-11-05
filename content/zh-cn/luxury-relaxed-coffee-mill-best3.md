@@ -65,7 +65,7 @@ date: "2026-11-02"
 
 用泰摩磨的豆子，是订阅的[珈琲きゃろっと](/beans/coffee-carrot/)。磨这些豆子的时间，就是那段幸福。商店页是日文。
 
-[查看珈琲きゃろっと订阅（广告）](https://px.a8.net/svt/ejp?a8mat=4BEQHR+383KII+2CG0+5YJRM)
+[查看珈琲きゃろっと订阅（广告）](https://px.a8.net/svt/ejp?a8mat=4BEQHR+383LAA+2CG0+5YJRM)
 
 部分链接是广告。说明见[广告说明](/zh-cn/disclosure/)。
 

@@ -38,7 +38,7 @@ export const beanShops: BeanShop[] = [
     name: "珈琲きゃろっと",
     area: "北海道・恵庭",
     officialUrl: "https://coffeecarrot.jp/",
-    a8Url: "https://px.a8.net/svt/ejp?a8mat=4BEQHR+383KII+2CG0+5YJRM",
+    a8Url: "https://px.a8.net/svt/ejp?a8mat=4BEQHR+383LAA+2CG0+5YJRM",
     rakutenUrl: "",
     summary: "注文を受けてから、国際的な資格を持つロースターが焙煎する店です。",
     ownerExperience: [
@@ -76,7 +76,7 @@ export const beanShops: BeanShop[] = [
     slug: "leo-specialty-coffee",
     name: "LEO SPECIALTY COFFEE",
     officialUrl: "https://leo-specialty-coffee.com/",
-    a8Url: "https://px.a8.net/svt/ejp?a8mat=4BEPQ4+36WPAY+5XNE+5YJRM",
+    a8Url: "https://px.a8.net/svt/ejp?a8mat=4BEPQ4+36WQ2Q+5XNE+5YJRM",
     rakutenUrl: "",
     summary: "国際資格のコーヒーグレーダーが豆を選び、欠点豆を手で除いてから届ける店です。",
     story: [

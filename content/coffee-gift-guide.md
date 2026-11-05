@@ -56,7 +56,7 @@ date: "2026-10-30"
 
 カフェの豆を家でも、という相手向けの候補です。内容と料金はストア側の表示が正です。運営者は利用していません。
 
-[ブルーボトルコーヒー公式オンラインストアで豆と定期便を見る（広告）](https://px.a8.net/svt/ejp?a8mat=4BEPQ4+36B9P6+5UFU+5YJRM)
+[ブルーボトルコーヒー公式オンラインストアで豆と定期便を見る（広告）](https://px.a8.net/svt/ejp?a8mat=4BEPQ4+36BAGY+5UFU+5YJRM)
 
 [コーヒー豆のギフトを Amazon で探す（広告）](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E8%B1%86+%E3%82%AE%E3%83%95%E3%83%88+%E3%81%8A%E6%AD%B3%E6%9A%AE)
 
