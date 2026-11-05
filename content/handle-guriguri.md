@@ -10,7 +10,7 @@ draft: true
 
 値は、まだ入れていません。測った値は【よんぴー実測：〇〇】、写真は【写真：〇〇】の空欄です。味の点数と価格は書きません。
 
-機種の説明は、既存のレビューを開きます。[エペイオス Essence Go のレビュー](/articles/epeios-essence-go/)です。栗子 S3 のレビューページは、このサイトにはまだありません。
+機種の説明は、既存のレビューを開きます。[タイムモア栗子 S3](/articles/timemore-chestnut-s3/)と[エペイオス Essence Go](/articles/epeios-essence-go/)です。
 
 ## 測り方
 
