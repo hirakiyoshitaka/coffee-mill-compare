@@ -73,7 +73,7 @@ date: "2026-10-31"
 
 ## 豆
 
-運営者は[珈琲きゃろっと](/beans/coffee-carrot/)の定期便を1年ほど続けていて、おいしかった、とのことです。このレシピ専用の銘柄指定ではありません。ほかの店は[手挽きミルを買ったら最初に頼みたい豆](/articles/first-beans-after-hand-mill/)と[スペシャルティコーヒー豆の通販ショップ比較](/articles/specialty-coffee-beans-shops/)です。
+私は、[珈琲きゃろっと](/beans/coffee-carrot/)の定期便「くるべさ」を約1年続けました。美味しかったです。このレシピ専用の銘柄指定ではありません。下の購入ボタンはお試しセットです。まずはお試しセットから見てください。私はお試しセットを飲んでいません。ほかの店は[手挽きミルを買ったら最初に頼みたい豆](/articles/first-beans-after-hand-mill/)と[スペシャルティコーヒー豆の通販ショップ比較](/articles/specialty-coffee-beans-shops/)です。
 
 {{bean:coffee-carrot}}
 

@@ -9,7 +9,7 @@ export function shopBuyProps(shop: BeanShop, locale?: SiteLocale) {
   return {
     name: shop.name,
     links: [
-      { href: shop.a8Url, label: "ショップで見る" },
+      { href: shop.a8Url, label: shop.a8Label ?? "ショップで見る" },
       { href: shop.rakutenUrl, label: "楽天市場で見る" },
       { href: shop.amazonUrl, label: "Amazonで探す" },
       { href: locale === "zh-tw" ? shopeeTwAffiliateUrl(shop.slug) : undefined, label: "在 Shopee（台灣）查看" },
