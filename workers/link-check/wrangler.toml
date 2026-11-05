@@ -1,0 +1,24 @@
+# Link checker for おうち時間の道具箱. Not deployed by the repo change that added this folder.
+# Replace the placeholders, then deploy yourself. See README.md.
+name = "ouchi-link-check"
+main = "src/index.ts"
+compatibility_date = "2026-11-04"
+
+# Daily at 18:00 UTC. Change the expression before deploy if you want another hour.
+[triggers]
+crons = ["0 18 * * *"]
+
+[vars]
+# Public site origin, no trailing slash. Buy links are read from {SITE_ORIGIN}/sitemap.xml.
+SITE_ORIGIN = "https://ouchi-dougubako.com"
+# Optional https URL of { "links": [ { "url": "https://...", "page": "https://..." } ] }.
+# Leave empty to read buy links from the sitemap pages instead.
+LINK_SOURCE_URL = ""
+# Leave empty. GET /run stays disabled until you set a secret. See README.md.
+RUN_KEY = ""
+
+# After `npx wrangler kv namespace create LINK_REPORTS`, uncomment and paste the id.
+# While this block is commented out, the report is written only to Worker logs.
+# [[kv_namespaces]]
+# binding = "REPORTS"
+# id = "REPLACE_WITH_KV_NAMESPACE_ID"
