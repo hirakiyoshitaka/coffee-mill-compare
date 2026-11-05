@@ -1,4 +1,5 @@
 import type { GrinderModel } from "@/data/grinders";
+import { shopeeTwAffiliateUrl } from "@/config/shopee-tw";
 import { englishHandGrinderAmazonUrl } from "@/config/us-amazon";
 import { cardDict, type SiteLocale } from "@/lib/i18n";
 import { affiliateRel, isHttpUrl, prepareAffiliateHtml } from "@/lib/affiliate";
@@ -34,6 +35,7 @@ export function grinderBuyProps(model: Pick<GrinderModel, "id" | "type" | "name"
       { href: amazonCom, label: d.amazonCom ?? "Check price on Amazon.com" },
       { href: model.yahooUrl, label: d.yahoo },
       { href: model.shopeeMyUrl, label: d.shopeeMy },
+      { href: locale === "zh-tw" ? shopeeTwAffiliateUrl(model.id) : undefined, label: d.shopeeTw ?? "在 Shopee（台灣）查看" },
     ],
   };
 }

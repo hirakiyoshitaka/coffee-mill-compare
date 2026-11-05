@@ -45,7 +45,7 @@ export function ArticleBody({ markdown, locale = "ja", reviewHref }: { markdown:
       if (!shop) {
         throw new Error(`記事中の豆の店ID「${id}」がデータにありません`);
       }
-      nodes.push(<BeanEmbed key={`bean-${id}-${index}`} shop={shop} />);
+      nodes.push(<BeanEmbed key={`bean-${id}-${index}`} shop={shop} locale={locale} />);
       continue;
     }
 
