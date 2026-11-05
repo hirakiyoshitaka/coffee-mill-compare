@@ -59,7 +59,7 @@ The 1Zpresso K-Ultra is not one of these three. I have not used it. Where the ma
 
 The beans I grind on the Timemore are from [Coffee Carrot (珈琲きゃろっと)](/beans/coffee-carrot/), the subscription I buy. I grind them on the Chestnut S3, about 30g at a time, for 2–3 cups. The shop page is in Japanese.
 
-[View the Coffee Carrot subscription (ad)](https://px.a8.net/svt/ejp?a8mat=4BEQHR+383LAA+2CG0+5YJRM)
+Coffee Carrot ships only within Japan.
 
 Some links on this page are ads. See our [disclosure](/en/disclosure/) for details.
 

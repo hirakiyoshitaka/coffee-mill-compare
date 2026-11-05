@@ -156,19 +156,25 @@ function httpLinks(links: BuyLink[]): BuyLink[] {
   });
 }
 
-function embedUrls(id: string): string[] {
+function embedUrls(id: string, locale?: SiteLocale): string[] {
   const model = getModel(id);
   if (model) return [model.amazonUrl, model.rakutenUrl, model.shopeeMyUrl, model.yahooUrl].filter((url): url is string => Boolean(url));
   const shop = getBeanShop(id);
-  if (shop) return [shop.a8Url, shop.rakutenUrl, shop.amazonUrl].filter((url): url is string => Boolean(url));
+  if (shop) {
+    // 日本語以外のページでは A8 の URL を豆の店の埋め込み対象に含めない（国内のみ発送の店があるため）。
+    const urls = locale !== undefined && locale !== "ja"
+      ? [shop.rakutenUrl, shop.amazonUrl]
+      : [shop.a8Url, shop.rakutenUrl, shop.amazonUrl];
+    return urls.filter((url): url is string => Boolean(url));
+  }
   return [];
 }
 
-function resolveEmbed(label: string, href: string, embedIds: string[]): string | undefined {
+function resolveEmbed(label: string, href: string, embedIds: string[], locale?: SiteLocale): string | undefined {
   const asin = asinOf(href);
   if (asin) {
     for (const id of embedIds) {
-      if (embedUrls(id).some((url) => asinOf(url) === asin)) return id;
+      if (embedUrls(id, locale).some((url) => asinOf(url) === asin)) return id;
     }
   }
   let blob = `${label} ${href}`;
@@ -287,13 +293,14 @@ export function buildArticlePicks(markdown: string, title: string, locale: SiteL
     (id) => id === "timemore-chestnut-s5-pro" || id === "timemore-chestnut-s3" || id === "epeios-essence-go",
   );
   const deduped = preferTextLinks(links).filter((link) => !(hasMillEmbed && isRedundantMillBrowse(link.label)));
-  const kept = deduped.filter((link) => !((locale === "en" || locale === "zh-tw") && isJpTaggedAmazonUrl(link.href)));
+  const kept = deduped.filter((link) => !((locale === "en" || locale === "zh-tw") && isJpTaggedAmazonUrl(link.href)))
+    .filter((link) => locale === "ja" || !/px\.a8\.net/i.test(link.href));
   const embedLine = new Map(embeds.map((embed) => [embed.id, embed.line]));
   const used = new Set<string>();
   const picks: ArticlePick[] = [];
 
   for (const link of kept) {
-    const embedId = resolveEmbed(link.label, link.href, embedIds);
+    const embedId = resolveEmbed(link.label, link.href, embedIds, locale);
     if (embedId) {
       if (used.has(embedId)) continue;
       used.add(embedId);
