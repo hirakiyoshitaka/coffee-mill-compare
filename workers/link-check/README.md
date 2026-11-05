@@ -1,110 +1,90 @@
-# 購入リンクの死活チェック（Cloudflare Worker）
+# 購入リンクの確認（Cloudflare Worker）
 
-公開サイトの購入リンクを読み、404 などの切れたリンクと、Amazon の「取り扱いなし / 出品なし」をレポートします。サイト本体、DNS、計測、アフィリエイト ID は変えません。
+公開サイトの購入リンクを読んで、切れている普通のリンクをレポートします。サイト本体、DNS、計測、アフィリエイト ID は変えません。
 
-**このフォルダをリポジトリに追加した時点では、デプロイしていません。** デプロイと Cron の有効化はオーナーが行います。
+**まだデプロイしていません。** Cron も `wrangler.toml` に入れていません。ワーカーの公開と Cron の開始は、社長の OK を待ってからにします。
 
-## 何を見るか
+## 何を取りに行かないか
 
-1. `LINK_SOURCE_URL` が空なら、`SITE_ORIGIN/sitemap.xml` のページを取得する。サイトマップ索引なら、同じオリジンの子サイトマップも読む。
-2. 各ページの購入リンクを集める。対象は、既知の購入先ホスト（Amazon、楽天アフィリエイト、A8.net、もしも、ValueCommerce、Involve Asia の `invl.me`、Shopee、Yahoo!ショッピング）と、`class="buy-link"` の http(s) リンク。
-3. 別オリジンのサイトマップ URL はページとして取得しない。
-4. 各リンクを GET し、次をレポートする。
-   - `dead` … HTTP 404 / 410、その他の 4xx（拒否・制限を除く）、エラーページへの着地
-   - `fetch_failed` … タイムアウト、接続失敗、HTTP 5xx（503 を除く。503 は `blocked`）
-   - `amazon_unavailable` … 「Currently unavailable」「現在在庫切れ」「この商品は現在お取り扱いできません」、schema.org の OutOfStock / SoldOut / Discontinued など
-   - `amazon_no_offer` … 「No featured offers available」「出品者が見つかりません」など
-   - `blocked` … 401 / 403 / 429 / 503、または Amazon のロボット確認。売り切れとは分けて出る
+次の URL は取得しません。
 
-Amazon はデータセンターからの取得を止めることがあります。`blocked` は在庫切れではありません。レポートは確認用で、ページの自動非公開はしません。
+- `px.a8.net`（`a8.net` の他のホストも）
+- 楽天アフィリエイト（`afl.rakuten`、`hb.afl.rakuten` など）
+- `invl.me`
+- もしも（`af.moshimo.com` や `moshimo.com`）
+- `tag=` の付いた URL
+- Amazon のページ（`amazon.*` と、そこへ送る `amzn.to` など）
+- 楽天の商品ページそのもの
 
-`LINK_SOURCE_URL` に JSON を置く場合の形:
+バリューコマースと `shp.ee` も、同じ種類の飛び先なので取りません。
+
+Amazon の在庫を見る公式の PA-API は、関数だけ残して止めてあります。売上 3 件のあと、社長の OK が出てからだけ有効にします。今は Amazon へリクエストしません。
+
+## 楽天の在庫
+
+楽天の在庫だけ、公式の商品検索 API を使います。
+
+`https://openapi.rakuten.co.jp/ichibams/api/IchibaItem/Search/20260701`
+
+アプリ ID とアクセスキーは、環境の秘密情報 `RAKUTEN_APP_ID` と `RAKUTEN_ACCESS_KEY` から読みます。コードや `wrangler.toml` には書きません。アフィリエイト ID は送りません。リクエストは 1 秒に 1 回までです。
+
+鍵がまだ無いときは、楽天のページも API も呼びません。在庫は未確認のままです。
+
+商品コードは `item.rakuten.co.jp/店/商品` の形から取ります。楽天アフィリエイトの URL に `pc` で商品ページが入っているときも、その文字列から店と商品を読みます。飛び先そのものは取りに行きません。
+
+## 普通のリンク
+
+上に当てはまらないリンクは、`utm_` や `tag` などの計測パラメータを外してから HEAD します。HEAD が使えないときは GET します。飛び先が Amazon やアフィリエイトのホストなら、そこへは進みません。
+
+`LINK_SOURCE_URL` が空なら、`SITE_ORIGIN/sitemap.xml` の同じサイトのページから購入リンクを集めます。別のサイトのサイトマップ URL はページとして取りません。
+
+## レポート
+
+- `dead` … HTTP 404 / 410 など
+- `fetch_failed` … タイムアウトや HTTP 5xx（503 を除く）
+- `blocked` … 401 / 403 / 429 / 503
+- `rakuten_unavailable` … 公式 API で在庫なし、または商品が無い
+- `rakuten_api_error` … 公式 API が失敗した
+
+飛ばしたもの、Amazon の未確認、楽天の鍵待ちは、問題の件数には入れません。ページの自動非公開はしません。
+
+JSON でリンクを渡すときの形です。購入先のホスト以外は無視します。
 
 ```json
 {
   "links": [
-    { "url": "https://www.amazon.co.jp/dp/B0HF4LXCCY?tag=stocknotelife-22", "page": "https://ouchi-dougubako.com/articles/timemore-chestnut-s5-pro/" }
+    { "url": "https://shop.example/items/kettle?utm_source=news", "page": "https://ouchi-dougubako.com/articles/example/" }
   ]
 }
 ```
 
-購入先ホスト以外の URL は無視します。
+## テスト
 
-## デプロイ手順（オーナー）
-
-1. Cloudflare アカウントで、このフォルダをワーカーとして置く権限があることを確認する。
-2. このフォルダで依存関係を入れる。
-
-   ```bash
-   cd workers/link-check
-   npm install
-   npx wrangler login
-   ```
-
-3. `wrangler.toml` のプレースホルダを確認する。
-   - `SITE_ORIGIN` は公開サイトのオリジン（末尾スラッシュなし）。今の初期値は `https://ouchi-dougubako.com`。
-   - Cron は毎日 18:00 UTC。時刻を変えるなら `crons` を書き換えてからデプロイする。
-   - `LINK_SOURCE_URL` は空のままで、サイトマップから読む。
-   - `RUN_KEY` は空のままにする。空のあいだ `GET /run` は 404 で、外部からチェックを起動できない。
-4. ログだけで足りるなら、KV のブロックはコメントのままにする。レポートは Worker のログに出る。
-5. KV にも残す場合:
-
-   ```bash
-   npx wrangler kv namespace create LINK_REPORTS
-   ```
-
-   表示された id を `wrangler.toml` の `REPLACE_WITH_KV_NAMESPACE_ID` に入れ、`[[kv_namespaces]]` の3行のコメントを外す。binding 名は `REPORTS` のままにする。
-6. デプロイする。
-
-   ```bash
-   npx wrangler deploy
-   ```
-
-   これで Cron Trigger が有効になる。手動ではデプロイしないこと。アカウントと支払いの操作はオーナーが行う。
-7. ログを見る。
-
-   ```bash
-   npx wrangler tail
-   ```
-
-   要約は `link-check <時刻> source=sitemap ... issues=<件数>`。問題は `link-check issue <kind> ...`。
-8. KV を有効にした場合、最新は `report:latest`、日付ごとは `report:YYYY-MM-DD`。
-
-   ```bash
-   npx wrangler kv key get report:latest --namespace-id REPLACE_WITH_KV_NAMESPACE_ID
-   ```
-
-## 手元で一度だけ動かす
-
-本番の Cron を待たずに試すとき:
+ネットワークは使いません。リポジトリのルートで実行します。
 
 ```bash
-npx wrangler dev
-```
-
-別の端末で、開発用の Cron を撃つ（Wrangler が案内するローカル URL に合わせる）:
-
-```bash
-curl "http://localhost:8787/cdn-cgi/handler/scheduled"
-```
-
-`wrangler dev` は `SITE_ORIGIN` の公開ページと、そこから見つかった購入リンクへ実際に GET する。
-
-ブラウザから手動実行したいときだけ、空の `RUN_KEY` 行を `wrangler.toml` から消し、秘密として入れる。
-
-```bash
-npx wrangler secret put RUN_KEY
-npx wrangler deploy
-```
-
-その後の起動は `GET /run?key=...`。キーはリポジトリに書かない。
-
-## ロジックの確認
-
-ネットワークを使わない自己チェック:
-
-```bash
+npx --yes tsx workers/link-check/src/policy.test.ts
 npx --yes tsx workers/link-check/src/self-check.ts
 ```
 
-リポジトリのルートで実行する。
+## 公開するとき
+
+公開と Cron は、社長の OK が出てからです。OK の前に `wrangler deploy` しないでください。
+
+OK のあとで社長が行うことは、次のとおりです。
+
+1. このフォルダで依存関係を入れる。
+2. `npx wrangler login` は社長が自分で行う。
+3. 楽天の鍵は、次で秘密情報として入れる。ファイルには書かない。
+
+   ```bash
+   npx wrangler secret put RAKUTEN_APP_ID
+   npx wrangler secret put RAKUTEN_ACCESS_KEY
+   ```
+
+4. Cron を始めるときだけ、`wrangler.toml` にトリガーを足す。今は入っていません。
+5. そのあとで `npx wrangler deploy` する。
+
+`RUN_KEY` が空のあいだ、外から `GET /run` では動きません。鍵を入れるときも、リポジトリには書きません。
+
+ログだけで足りるあいだ、KV のブロックはコメントのままにします。レポートは Worker のログに出ます。
