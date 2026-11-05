@@ -6,7 +6,7 @@ import { ArticlePicks } from "@/components/ArticlePicks";
 import { Breadcrumb } from "@/components/Breadcrumb";
 import { PrNotice } from "@/components/PrNotice";
 import { formatJaDate, getSiteUrl, siteConfig } from "@/data/site";
-import { getKitchenArticle, getKitchenArticles } from "@/lib/kitchen";
+import { getKitchenArticle, getKitchenArticles, kitchenPublic } from "@/lib/kitchen";
 import { pageMeta } from "@/lib/seo";
 
 type Props = { params: Promise<{ slug: string }> };
@@ -27,6 +27,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     path: `/kitchen/${article.slug}`,
     type: "article",
     publishedTime: article.date,
+    noindex: !kitchenPublic,
   });
   const image = { url: article.ogImage, width: 1200, height: 630 };
   meta.openGraph = { ...meta.openGraph, images: [image] };

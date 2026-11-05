@@ -15,9 +15,9 @@ date: "2026-10-30"
 | 金属 | 油分が残り、コクが出やすい | 使ったあと洗う | 最初に買い、消耗は少ない |
 | 布（ネル） | まろやかになりやすい | 洗ったあと水などに浸して保存する。におい移りに注意 | 長く使える一方、管理が要る |
 
-「すっきり」「コク」「まろやか」は、抽出の一般論として言われる傾向です。豆、[挽き目](/articles/coffee-grind-size-guide/)、湯温でも味は変わります。挽きたてにするなら、先に見る手挽きは[栗子 S5 Pro](/articles/timemore-chestnut-s5-pro/)と[Essence Go](/articles/epeios-essence-go/)です。順番は[コーヒーミルおすすめランキング](/articles/coffee-mill-ranking/)、数値は[スペック比較](/compare/)です。
+「すっきり」「コク」「まろやか」は、抽出の一般論として言われる傾向です。豆、[挽き目](/articles/coffee-grind-size-guide/)、湯温でも味は変わります。挽きたてにするなら、先に見る手挽きはタイムモア栗子 S3 と[Essence Go](/articles/epeios-essence-go/)です。運営者がふだん使っているのは栗子 S3 で、1回に約30g、2〜3杯分です。順番は[コーヒーミルおすすめランキング](/articles/coffee-mill-ranking/)、数値は[スペック比較](/compare/)です。
 
-[タイムモア 栗子 S5 Pro を Amazon で見る（広告）](https://www.amazon.co.jp/dp/B0HF4LXCCY?tag=stocknotelife-22)
+[タイムモア 栗子 S3 を Amazon で見る（広告）](https://www.amazon.co.jp/dp/B0CMZCK9PR?tag=stocknotelife-22)
 
 [エペイオス Essence Go を Amazon で見る（広告）](https://www.amazon.co.jp/dp/B0D3PZHGBX?tag=stocknotelife-22)
 

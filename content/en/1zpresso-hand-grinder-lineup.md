@@ -9,7 +9,7 @@ date: "2026-10-31"
 
 We have not used a 1Zpresso. There are no tasting notes on this page. Every number is what the official page showed when we opened it on October 31, 2026. Those pages get revised, so open the same page again before you order.
 
-If the grinder is going to live at home for daily pour-over, the one this site still points to first is the [Timemore Chestnut S5 Pro](/en/articles/timemore-chestnut-s5-pro/). Use the 1Zpresso list when you already know which job the grinder has to do.
+If the grinder is going to live at home for daily pour-over, the one this site points to first is the Timemore Chestnut S3. I use it every day and grind about 30g at a time, for 2–3 cups. I do not use the Chestnut S5 Pro. Use the 1Zpresso list when you already know which job the grinder has to do.
 
 ## At a glance
 
@@ -33,10 +33,10 @@ This English page does not show Amazon purchase buttons. The grinders this site 
 
 Once the job is clear, these are the same-language pages that pick up from here.
 
-- [Three Hand Grinders for a Slow, Luxurious Coffee](/en/articles/luxury-relaxed-coffee-mill-best3/): first is the Chestnut S5 Pro, second is the EPEIOS Essence Go. I use both. Third is the Comandante C40, a review summary. I have not used it. The K-Ultra is only an also-consider on that page. We have not used it
+- [Three Hand Grinders for a Slow, Luxurious Coffee](/en/articles/luxury-relaxed-coffee-mill-best3/): first is the Chestnut S3, second is the EPEIOS Essence Go. I use both. I do not use the Chestnut S5 Pro. Third is the Comandante C40, a review summary. I have not used it. The K-Ultra is only an also-consider on that page. We have not used it
 - [Timemore Chestnut S5 Pro Review](/en/articles/timemore-chestnut-s5-pro/): the hand grinder this site still points to for daily pour-over at home
 - [EPEIOS Essence Go Review](/en/articles/epeios-essence-go/): when you want light turning, or a grinder you can take apart and carry
-- [Timemore S5 Pro vs EPEIOS Essence Go](/en/articles/timemore-s5-pro-vs-essence-go/): the two I use, side by side
+- [Timemore S5 Pro vs EPEIOS Essence Go](/en/articles/timemore-s5-pro-vs-essence-go/): a spec comparison. I use the Chestnut S3, not the S5 Pro
 - [Beginner Pour-Over Recipe](/en/articles/beginner-hand-drip-recipe/): a first V60 cup
 - [How to Choose a Coffee Grind Size](/en/articles/coffee-grind-size-guide/): espresso, moka, pour-over, French press, and cold brew are different sizes
 - [Japanese Craft Coffee Makers](/en/articles/japanese-premium-coffee-makers/): BALMUDA The Brew does not grind. A review summary. We have not used those machines

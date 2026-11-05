@@ -74,22 +74,49 @@ export const grinderModels: Record<string, GrinderModel> = {
     adjustment: "外ダイヤル 1回転90クリック、1クリック15ミクロン",
     weightGrams: 910,
     priceJpyHint: "公式サイト表示 ¥25,800（2026年10月26日閲覧。プレセール価格の記載。税の扱いと在庫は購入ページで確認）",
-    highlight: "運営者本人が毎日使っている一台です。色はグリーン（公式名 Olive Green）。ドリップ中心で、約910gの重さは毎日使っても気にならない、というのが本人の感想です。",
-    purchaseNote: "このリンク先では「S5 Pro」と「グリーン」を選んでください。",
+    highlight: "レビューまとめです。運営者は使っていません。売り切れのため、購入ボタンは出していません。",
     reviewSlug: "timemore-chestnut-s5-pro",
-    rakutenUrl:
-      "https://hb.afl.rakuten.co.jp/ichiba/58d84d03.7b0724e9.58d84d04.7cac0326/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftimemore%2Fs5series%2F&link_type=hybrid_url&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJoeWJyaWRfdXJsIiwic2l6ZSI6IjI0MHgyNDAiLCJuYW0iOjEsIm5hbXAiOiJyaWdodCIsImNvbSI6MSwiY29tcCI6ImRvd24iLCJwcmljZSI6MSwiYm9yIjoxLCJjb2wiOjEsImJidG4iOjEsInByb2QiOjAsImFtcCI6ZmFsc2V9",
-    amazonUrl: "https://www.amazon.co.jp/dp/B0HF4LXCCY?tag=stocknotelife-22",
-    shopeeMyUrl: "https://invl.me/clo6h9w",
+    rakutenUrl: "",
+    amazonUrl: "",
+    shopeeMyUrl: "",
     yahooUrl: "",
     moshimoHtml: "",
     cuppingNotes: [
       "48mmの刃を、幅56mmのボディに積んだ手挽き",
-      "家に置く一台として、このサイトの No.1 に置いています",
+      "家に置く一台の1位は栗子 S3 です。このカードは S5 Pro の仕様です",
     ],
     caveats: [
       "公式重量は約910g。折りたたみハンドルはあっても、旅行の第一候補にはしていません",
       "ゼロ点でも刃のすき間は約0.075mm。偏った力では摩擦音が出ることがある、と公式が注意しています",
+    ],
+  },
+  /**
+   * 栗子 S3。おすすめの 1 位。
+   * 購入ボタンは Amazon の商品ページだけ。楽天・Yahoo・Shopee は空。
+   */
+  "timemore-chestnut-s3": {
+    id: "timemore-chestnut-s3",
+    brandSlug: "timemore",
+    name: "TIMEMORE 栗子 S3",
+    shortLabel: "栗子 S3",
+    type: "manual",
+    burrMaterial: "SUS420 S2C890（6軸CNC、硬度58HRC）",
+    adjustment: "外ダイヤル 0.015mm/click、90クリック/回転（米国公式の比較表）",
+    priceJpyHint: "日本公式は 2026年11月4日に ¥26,000 と ¥22,800 を併記。表示は変わる",
+    highlight: "運営者がふだん使っています。1回に約30gを挽き、2〜3杯分です。",
+    purchaseNote: "このリンクは栗子 S3 の商品ページ（ASIN B0CMZCK9PR）です。商品名が栗子 S3 であることを確認してください。",
+    reviewSlug: "timemore-chestnut-s3",
+    rakutenUrl: "",
+    amazonUrl: "https://www.amazon.co.jp/dp/B0CMZCK9PR?tag=stocknotelife-22",
+    yahooUrl: "",
+    moshimoHtml: "",
+    cuppingNotes: [
+      "公式の刃は S2C890。外ダイヤルは 0.015mm/click",
+      "運営者がふだん使い、1回に約30gを2〜3杯にしています",
+    ],
+    caveats: [
+      "米国公式は、ゼロで刃のすき間が 0.075mm、ハンドルを押すとこすれることがある、と注記しています",
+      "2026年11月4日の公式商品ページ本文では、重量の数字を確認できませんでした",
     ],
   },
   /** EPEIOS: 比較対象は Essence Go のみ固定。価格・スペックは静的（公式 URL の定期同期なし・要更新時は手動で編集）。 */
@@ -133,8 +160,8 @@ export const brands: Brand[] = [
     nameEn: "Timemore",
     country: "中国",
     blurb:
-      "デザインと調整機構で知られる手挽きのブランドです。このサイトが勧めるのは栗子 S5 Pro（Chestnut S5 Pro）です。",
-    flagshipIds: ["timemore-chestnut-s5-pro"],
+      "デザインと調整機構で知られる手挽きのブランドです。このサイトが勧めるのは栗子 S3（Chestnut S3）です。運営者がふだん使っています。",
+    flagshipIds: ["timemore-chestnut-s3"],
     communityReviews: [
       {
         id: "tm-1",
@@ -207,7 +234,7 @@ export function grinderTypeLabel(type: GrinderType): string {
   return "ハイブリッド";
 }
 
-const featuredOrder = ["timemore-chestnut-s5-pro", "epeios-essence-go"] as const;
+const featuredOrder = ["timemore-chestnut-s3", "epeios-essence-go"] as const;
 
 export function featuredLabel(id: string): string | undefined {
   const index = featuredOrder.indexOf(id as (typeof featuredOrder)[number]);

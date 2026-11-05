@@ -48,7 +48,7 @@ Launched in October 2021, The Brew drips water in 0.2ml steps into a dedicated c
 
 [BALMUDA official site](https://www.balmuda.com/jp/brew)
 
-No grinder yet? See our [electric grinder buying guide](/en/articles/electric-coffee-grinder-guide/) or [how to choose your first hand grinder](/en/articles/how-to-choose-hand-coffee-mill/). The two hand grinders I use are the [Timemore Chestnut S5 Pro](/en/articles/timemore-chestnut-s5-pro/) and the [EPEIOS Essence Go](/en/articles/epeios-essence-go/). The side-by-side is [Timemore S5 Pro vs EPEIOS Essence Go](/en/articles/timemore-s5-pro-vs-essence-go/). To split 1Zpresso models by the job each one is built for, see the [1Zpresso hand grinder lineup](/en/articles/1zpresso-hand-grinder-lineup/). I have not used a 1Zpresso.
+No grinder yet? See our [electric grinder buying guide](/en/articles/electric-coffee-grinder-guide/) or [how to choose your first hand grinder](/en/articles/how-to-choose-hand-coffee-mill/). The hand grinders I use are the Timemore Chestnut S3 and the [EPEIOS Essence Go](/en/articles/epeios-essence-go/). On the S3 I grind about 30g at a time, for 2–3 cups. I do not use the Chestnut S5 Pro. The side-by-side is [Timemore S5 Pro vs EPEIOS Essence Go](/en/articles/timemore-s5-pro-vs-essence-go/). To split 1Zpresso models by the job each one is built for, see the [1Zpresso hand grinder lineup](/en/articles/1zpresso-hand-grinder-lineup/). I have not used a 1Zpresso.
 
 ## TWINBIRD CM-D465B (6-cup): bean-to-cup, guided by a master roaster
 

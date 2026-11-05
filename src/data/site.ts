@@ -12,7 +12,7 @@ export const siteConfig = {
     "コーヒー道具、キッチン用品、ガジェットなど、おうち時間を楽しむ道具を用途別に比べるノート。手挽きミルの仕様や焙煎店の紹介も置いています。価格は目安です。",
   locale: "ja_JP" as const,
   operatorName: "おうち時間の道具箱 編集部",
-  contactEmail: "hiraki19680812@gmail.com",
+  contactEmail: "ouchi.dougubako@gmail.com",
   contactEmailIsPlaceholder: false,
   legalUpdated: "2026-10-26",
 };

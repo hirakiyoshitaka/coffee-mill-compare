@@ -5,7 +5,8 @@ import { isJpTaggedAmazonUrl } from "@/lib/affiliate";
  * ミル選びの診断。
  * ブラウザ内の対応表だけで1台に決める。AI は使わない。
  * 候補は、公開中の記事と、既にある Amazon リンク（tag=stocknotelife-22）がある手挽きだけ。
- * 売り切れの栗子 S5 Pro は入れない。栗子 S3 の個別記事と商品リンクは公開データにまだ無いので入れない。
+ * 売り切れの栗子 S5 Pro は入れない。
+ * 栗子 S3 は個別記事と Amazon の商品ページ（ASIN B0CMZCK9PR）があるので候補に入れる。
  */
 
 export const diagnosisPath = "/mill-diagnosis/";
@@ -85,12 +86,14 @@ export const diagnosisQuestions: readonly Question[] = [
   },
 ];
 
-export type ProductId = "essence-go" | "q2" | "x-ultra" | "zp6" | "k-ultra" | "j-ultra" | "c40";
+export type ProductId = "chestnut-s3" | "essence-go" | "q2" | "x-ultra" | "zp6" | "k-ultra" | "j-ultra" | "c40";
+
+export type DiagnosisModelId = "timemore-chestnut-s3" | "epeios-essence-go";
 
 export type DiagnosisProduct = {
   id: ProductId;
   name: string;
-  /** 一人称を書いてよいのは Essence Go だけ。ほかはレビューまとめ。 */
+  /** 一人称を書いてよいのは栗子 S3 と Essence Go だけ。ほかはレビューまとめ。 */
   voice: "owner-line" | "review-summary";
   summary: string;
   specs: readonly string[];
@@ -98,7 +101,7 @@ export type DiagnosisProduct = {
   articleLabel: string;
   /** model のときは grinders.ts の既存リンクを出す。search は記事にある検索 URL。 */
   buy:
-    | { kind: "model"; modelId: "epeios-essence-go" }
+    | { kind: "model"; modelId: DiagnosisModelId }
     | { kind: "search"; href: string };
 };
 
@@ -106,6 +109,24 @@ const searchNote =
   "このボタンは、サイトに既にある Amazon の検索リンクです。検索結果には別の型番が混ざります。商品名と在庫は、開いたページで確認してください。在庫ありとは書いていません。";
 
 export const diagnosisProducts: Record<ProductId, DiagnosisProduct> = {
+  "chestnut-s3": {
+    id: "chestnut-s3",
+    name: "タイムモア栗子 S3",
+    voice: "owner-line",
+    summary:
+      "運営者がふだん使っています。1回に約30gを挽き、2〜3杯分です。色、重さ、挽く時間の感想は書いていません。",
+    specs: [
+      "刃は S2C890。米国公式は、材質 SUS420、加工は 6軸 CNC、硬度は 58HRC、と書いています",
+      "調整は外ダイヤル。米国公式の S3 のページは 0.015mm/grid。S5 Pro の比較表では、S3 を 0.015mm/click、90 clicks/rotation としています",
+      "ゼロのときの刃のすき間は 0.075mm、と米国公式の注記にあります",
+      "米国公式のクリックの目安は、エスプレッソ 1–15、モカ 5–20、プアオーバー 50–80、フレンチプレス 80–90 です",
+      "ハンドルは折りたたみです。重量の数字は、2026年11月4日の公式商品ページ本文では確認できませんでした",
+      "日本公式は 2026年11月4日に ¥26,000 と ¥22,800 を併記。表示は変わります",
+    ],
+    articleHref: "/articles/timemore-chestnut-s3/",
+    articleLabel: "タイムモア栗子 S3 の記事",
+    buy: { kind: "model", modelId: "timemore-chestnut-s3" },
+  },
   "essence-go": {
     id: "essence-go",
     name: "エペイオス Essence Go",
@@ -196,7 +217,7 @@ export const diagnosisProducts: Record<ProductId, DiagnosisProduct> = {
     name: "1Zpresso J-Ultra",
     voice: "review-summary",
     summary:
-      "レビューまとめです。運営者は使っていません。推奨クリック番号は、選び方の記事でも転記していません。手挽きで毎日ショットを挽く負担は、刻みが細かくても残る、と選び方の記事に書いてあります。",
+      "レビューまとめです。運営者は使っていません。推奨クリック番号は、選び方の記事でも転記していません。手挽きでふだんショットを挽く負担は、刻みが細かくても残る、と選び方の記事に書いてあります。",
     specs: [
       "公式は、1Zpresso でいちばん細かい 8 ミクロン刻みのエスプレッソ向け、としています",
       "刃はコーティングした 48mm。調整は外側",
@@ -305,11 +326,11 @@ export const diagnosisRules: readonly DiagnosisRule[] = [
     matches: (answers) => !travel(answers) && answers.effort === "enjoy" && answers.cups === "fourPlus",
   },
   {
-    id: "known-price-essence",
+    id: "known-price-s3",
     when: "上に当てはまらず、場所が「家だけ」、予算が「サイトに円の目安がある機種でよい」、杯数が 4 杯未満、手間がドリップ",
-    productId: "essence-go",
+    productId: "chestnut-s3",
     reason:
-      "家で使い、円の目安がサイトにある機種でよい、という回答です。この診断の候補で円の目安を掲載している手挽きは Essence Go です。",
+      "家で使い、円の目安がサイトにある機種でよい、という回答です。家に置く一台として先に勧めているのは栗子 S3 です。日本公式は 2026年11月4日に ¥26,000 と ¥22,800 を併記しています。表示は変わります。",
     matches: (answers) =>
       !travel(answers) &&
       answers.effort === "enjoy" &&
@@ -384,9 +405,9 @@ export function choiceLabel(key: AnswerKey, value: string): string {
 
 const soldOutAsin = "B0HF4LXCCY";
 
-export function essenceGoModel(): GrinderModel {
-  const model = getModel("epeios-essence-go");
-  if (!model) throw new Error("Essence Go がミルのデータにありません");
+export function diagnosisModel(modelId: DiagnosisModelId): GrinderModel {
+  const model = getModel(modelId);
+  if (!model) throw new Error(`${modelId} がミルのデータにありません`);
   return model;
 }
 
@@ -402,6 +423,7 @@ export function assertMillDiagnosis(): Record<ProductId, number> {
   const noises: Noise[] = ["quiet", "compact", "counter"];
   const efforts: Effort[] = ["enjoy", "light", "espresso"];
   const counts: Record<ProductId, number> = {
+    "chestnut-s3": 0,
     "essence-go": 0,
     q2: 0,
     "x-ultra": 0,
@@ -432,17 +454,18 @@ export function assertMillDiagnosis(): Record<ProductId, number> {
     if (count === 0) throw new Error(`診断の候補 ${id} に到達する回答がありません`);
   }
 
-  const model = essenceGoModel();
-  if (!isJpTaggedAmazonUrl(model.amazonUrl)) {
-    throw new Error("Essence Go の Amazon リンクに tag=stocknotelife-22 がありません");
-  }
-  if (model.amazonUrl?.includes(soldOutAsin) || model.id.includes("s5")) {
-    throw new Error("売り切れの栗子 S5 Pro が診断の候補に入っています");
-  }
-
   for (const product of Object.values(diagnosisProducts)) {
     if (product.id.includes("s5") || product.name.includes("S5")) {
       throw new Error("売り切れの栗子 S5 Pro が診断の候補に入っています");
+    }
+    if (product.buy.kind === "model") {
+      const model = diagnosisModel(product.buy.modelId);
+      if (!isJpTaggedAmazonUrl(model.amazonUrl)) {
+        throw new Error(`${product.name} の Amazon リンクに tag=stocknotelife-22 がありません`);
+      }
+      if (model.amazonUrl.includes(soldOutAsin) || model.id.includes("s5")) {
+        throw new Error("売り切れの栗子 S5 Pro が診断の候補に入っています");
+      }
     }
     if (product.buy.kind === "search") {
       if (!isJpTaggedAmazonUrl(product.buy.href)) {
@@ -452,8 +475,8 @@ export function assertMillDiagnosis(): Record<ProductId, number> {
         throw new Error(`${product.name} のリンクが栗子 S5 Pro の商品ページです`);
       }
     }
-    if (product.voice === "owner-line" && product.id !== "essence-go") {
-      throw new Error("一人称を書いてよい診断候補は Essence Go だけです");
+    if (product.voice === "owner-line" && product.id !== "essence-go" && product.id !== "chestnut-s3") {
+      throw new Error("一人称を書いてよい診断候補は栗子 S3 と Essence Go だけです");
     }
   }
 

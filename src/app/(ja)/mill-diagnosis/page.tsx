@@ -29,14 +29,18 @@ export default function MillDiagnosisPage() {
         5問に答えると、手挽きを1台に決めます。計算はこのページの中だけで行い、外部のAIは使いません。同じ回答は、いつも同じ1台です。
       </p>
       <p className="lede">
-        ふだん使っている手挽きは、タイムモア栗子 S3 です。1回に挽く豆は30gで、2〜3杯になります。S3 の個別記事と購入リンクは、公開データにまだありません。売り切れの栗子 S5 Pro は、候補から外しています。候補は、公開中の記事と、既にある Amazon リンク（tag=stocknotelife-22）がある手挽きです。
+        ふだん使っている手挽きは、タイムモア栗子 S3 です。1回に約30g、2〜3杯分です。個別記事は
+        <Link href="/articles/timemore-chestnut-s3/" className="mx-1 text-link">
+          タイムモア栗子 S3
+        </Link>
+        です。購入リンクは、その記事とミルデータにある Amazon の商品ページ（ASIN B0CMZCK9PR、tag=stocknotelife-22）です。2026年11月4日時点で、その商品ページは在庫ありでした。重量の数字は、同じ日の公式商品ページ本文では確認できていません。売り切れの栗子 S5 Pro は、候補から外しています。候補は、公開中の記事と、既にある Amazon リンク（tag=stocknotelife-22）がある手挽きです。
       </p>
       <PrNotice />
       <MillDiagnosis />
       <details className="diagnosis-rules">
         <summary>質問と回答の対応表</summary>
         <p className="fine">
-          上から見て、最初に当てはまった行の機種です。あとの行は見ません。円の目安を掲載しているのは Essence Go だけです。1Zpresso とコマンダンテ C40 のボタンは、記事と同じ検索リンクです。
+          上から見て、最初に当てはまった行の機種です。あとの行は見ません。円の目安を掲載しているのは栗子 S3 と Essence Go です。栗子 S3 は、日本公式が 2026年11月4日に ¥26,000 と ¥22,800 を併記しています。表示は変わります。Essence Go は ¥23,100（税込・公式掲載を基準としたサイト内固定値）です。1Zpresso とコマンダンテ C40 のボタンは、記事と同じ検索リンクです。
         </p>
         <div className="article-body">
           <div className="table-scroll">

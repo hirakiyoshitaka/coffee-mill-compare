@@ -5,7 +5,7 @@ category: "mill"
 date: "2026-10-27"
 ---
 
-おすすめの2台目は、エペイオス Essence Go です。No.1 の栗子 S5 Pro が、家のカウンターに置く 48mm なら、こちらは 10 枚刃で挽きはじめを軽くし、分解してケースに入る手挽きです。点数競技の2位ではありません。
+おすすめの2台目は、エペイオス Essence Go です。No.1 はタイムモア栗子 S3 です。運営者がふだん使っていて、1回に約30g、2〜3杯分です。こちらは 10 枚刃で挽きはじめを軽くし、分解してケースに入る手挽きです。点数競技の2位ではありません。栗子 S5 Pro は使っていません。
 
 価格の目安は、¥23,100（税込・公式掲載を基準としたサイト内固定値／改定は手動更新）です。2024年6月の[発表](https://prtimes.jp/main/html/rd/p/000000097.000059893.html)でも、市場想定価格は 23,100 円（税込）とされています。希望小売価格はオープン価格、という書き方です。下の写真は、EPEIOS 公式サイトの製品写真です。
 
@@ -53,9 +53,9 @@ S5 Pro を家に固定するなら、もう一台は、ケースに入って、�
 
 購入ボタンは、アフィリエイトの URL を入れたときだけ出ます。方針は[広告表記](/disclosure/)です。
 
-No.1 のレビューは[栗子 S5 Pro](/articles/timemore-chestnut-s5-pro/)です。豆は[珈琲きゃろっと](/beans/coffee-carrot/)を先に開いてください。
+No.1 はタイムモア栗子 S3 です。順番は[ランキング](/articles/coffee-mill-ranking/)です。豆は[珈琲きゃろっと](/beans/coffee-carrot/)を先に開いてください。
 
-[タイムモア 栗子 S5 Pro を Amazon で見る（広告）](https://www.amazon.co.jp/dp/B0HF4LXCCY?tag=stocknotelife-22)
+[タイムモア 栗子 S3 を Amazon で見る（広告）](https://www.amazon.co.jp/dp/B0CMZCK9PR?tag=stocknotelife-22)
 
 [珈琲きゃろっとの定期便を見る（広告）](https://px.a8.net/svt/ejp?a8mat=4BEQHR+383KII+2CG0+5YJRM)
 

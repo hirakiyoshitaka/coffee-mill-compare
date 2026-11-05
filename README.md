@@ -107,7 +107,7 @@ A8.net の URL は `a8Url`、楽天アフィリエイトの URL は `rakutenUrl`
 
 ## 連絡先
 
-運営者情報とプライバシーポリシーに出るメールアドレスは `hiraki19680812@gmail.com` です。変えるときは `src/data/site.ts` の `contactEmail` を書き換えます。見本のアドレスに戻す場合だけ、`contactEmailIsPlaceholder` を `true` にしてください。
+運営者情報とプライバシーポリシーに出るメールアドレスは `ouchi.dougubako@gmail.com` です。変えるときは `src/data/site.ts` の `contactEmail` を書き換えます。見本のアドレスに戻す場合だけ、`contactEmailIsPlaceholder` を `true` にしてください。
 
 個人の氏名や住所は、最初から載せていません。載せる場合は運営者情報のページ（`src/app/about/page.tsx`）を編集します。
 

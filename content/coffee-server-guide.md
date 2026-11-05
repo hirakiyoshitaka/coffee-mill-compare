@@ -57,9 +57,9 @@ date: "2026-11-01"
 
 印が付いていたのは熱湯、食洗機、直火です。電子レンジには印がありません。金属の容器を電子レンジに入れる前提では見ないでください。ガラスのレンジサーバーとは、温め直す場所が違います。
 
-[HARIO メタルコーヒーサーバーをAmazonで探す（広告）](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=HARIO+%E3%83%A1%E3%82%BF%E3%83%AB%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC)
+[HARIO V60メタルコーヒーサーバー（O-VCSM-50-HSV、500mL）をAmazonで見る（広告）](https://www.amazon.co.jp/dp/B09SYYSNM6?tag=stocknotelife-22)
 
-検索結果にドリッパーやマグが混ざります。サーバーであることと、品番を商品名で照合してください。
+2026年11月4日に在庫を確認した商品ページです。品番 O-VCSM-50-HSV であることを商品名で照合してください。
 
 ## 受ける容器と、淹れる道具は別
 
@@ -67,7 +67,7 @@ date: "2026-11-01"
 
 ステンレスの網が付いたカラフェで、サーバーの中で抽出するタイプは別の道具です。KINTO SCS は[水出し・アウトドアの記事](/articles/cold-brew-outdoor-coffee/)で紹介していて、運営者は使っていません。この記事のサーバーとは仕事が違います。
 
-挽きたてにする手挽きは、家に置くなら[栗子 S5 Pro](/articles/timemore-chestnut-s5-pro/)、軽い力で回すなら[Essence Go](/articles/epeios-essence-go/)です。順番は[コーヒーミルおすすめランキング](/articles/coffee-mill-ranking/)、選び方の4点は[はじめての手挽きコーヒーミルの選び方](/articles/how-to-choose-hand-coffee-mill/)です。ドリップの粗さは[挽き目の記事](/articles/coffee-grind-size-guide/)です。
+挽きたてにする手挽きは、家に置くならタイムモア栗子 S3（ふだん、1回に約30g、2〜3杯分）、軽い力で回すなら[Essence Go](/articles/epeios-essence-go/)です。栗子 S5 Pro は使っていません。順番は[コーヒーミルおすすめランキング](/articles/coffee-mill-ranking/)、選び方の4点は[はじめての手挽きコーヒーミルの選び方](/articles/how-to-choose-hand-coffee-mill/)です。ドリップの粗さは[挽き目の記事](/articles/coffee-grind-size-guide/)です。
 
 {{grinder:timemore-chestnut-s5-pro}}
 

@@ -2,6 +2,14 @@ import fs from "fs";
 import path from "path";
 import matter from "gray-matter";
 
+/**
+ * キッチン・ストックを表に出すか。
+ * false のあいだは、ヘッダーの「キッチン」、トップのキッチン欄、sitemap の /kitchen/ を外し、
+ * 各ページの robots を noindex, follow にする。
+ * ページと content/kitchen は残す。戻すときは true にする。
+ */
+export const kitchenPublic = false;
+
 /** キッチン・ストック（旧ストック帖から移行）: content/kitchen/*.md。日本語のみ。 */
 export type KitchenMeta = {
   slug: string;

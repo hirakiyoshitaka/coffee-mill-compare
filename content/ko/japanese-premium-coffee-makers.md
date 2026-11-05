@@ -36,7 +36,7 @@ date: "2026-11-01"
 
 [Amazon.co.jp에서 발뮤다 더 브루 보기](https://www.amazon.co.jp/dp/B09DY6CDHZ?tag=stocknotelife-22) · [발뮤다 공식](https://www.balmuda.com/jp/brew)
 
-그라인더가 없습니다. 집에 둘 첫 손밀의 기준은 [처음 사는 핸드 그라인더](/ko/articles/how-to-choose-hand-coffee-mill/)에, 역할을 나눠 1Zpresso를 보려면 [1Zpresso 핸드밀 라인업](/ko/articles/1zpresso-hand-grinder-lineup/)에 있습니다. 운영자는 1Zpresso를 쓰지 않았고, 타임모어 S5 프로와 에페이오스 에센스 고는 실제로 씁니다.
+그라인더가 없습니다. 집에 둘 첫 손밀의 기준은 [처음 사는 핸드 그라인더](/ko/articles/how-to-choose-hand-coffee-mill/)에, 역할을 나눠 1Zpresso를 보려면 [1Zpresso 핸드밀 라인업](/ko/articles/1zpresso-hand-grinder-lineup/)에 있습니다. 운영자는 1Zpresso를 쓰지 않았고, 타임모어 밤 S3와 에페이오스 에센스 고는 실제로 씁니다. S3는 한 번에 약 30g, 2–3잔분입니다. S5 프로는 쓰지 않습니다.
 
 ## 트윈버드 CM-D465B (6잔): 원두부터, 로스터 감수
 

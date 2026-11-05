@@ -7,8 +7,8 @@ import { affiliateRel } from "@/lib/affiliate";
 import {
   buyLinkNote,
   choiceLabel,
+  diagnosisModel,
   diagnosisQuestions,
-  essenceGoModel,
   isCompleteAnswers,
   recommendMill,
   type AnswerKey,
@@ -88,7 +88,7 @@ export function MillDiagnosis() {
 
 function DiagnosisResult({ answers, onRestart }: { answers: Answers; onRestart: () => void }) {
   const { rule, product } = recommendMill(answers);
-  const model = product.buy.kind === "model" ? essenceGoModel() : null;
+  const model = product.buy.kind === "model" ? diagnosisModel(product.buy.modelId) : null;
 
   return (
     <section className="diagnosis-result" aria-live="polite">

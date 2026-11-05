@@ -100,7 +100,7 @@ export default async function CategoryPage({ params }: Props) {
           <section>
             <h2 className="font-serif text-2xl text-stone-950">おすすめ</h2>
             <p className="section-lead">
-              掲載は{manual.length}機種、いずれも{grinderTypeLabel("manual")}です。栗子 S5 Pro の写真はグリーンです。Essence Go は製品名のカードです。価格は目安です。
+              掲載は{manual.length}機種、いずれも{grinderTypeLabel("manual")}です。栗子 S3 の実機写真は未掲載です。価格は目安です。
             </p>
             <ul className="picks-grid">
               {manual

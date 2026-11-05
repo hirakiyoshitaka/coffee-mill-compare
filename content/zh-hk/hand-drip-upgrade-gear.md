@@ -95,7 +95,7 @@ date: "2026-10-28"
 - **也想享受外觀**：ORIGAMI、Chemex、The Pot
 - **不想一直補買濾紙**：KINTO SCS
 
-最影響手沖風味的，是現磨的咖啡豆。站長平常使用的是綠色的[栗子 S5 Pro](/zh-hk/articles/timemore-chestnut-s5-pro/)，以手沖為主。想要轉起來輕的磨豆機，也可以看看 [Essence Go](/zh-hk/articles/epeios-essence-go/)。拿鐵派請看[在家做拿鐵・義式濃縮](/zh-hk/articles/home-latte-espresso-machines/)。
+最影響手沖風味的，是現磨的咖啡豆。站長每天用的是 TIMEMORE 栗子 S3。一次大約磨 30g，做 2–3 杯。沒有在用栗子 S5 Pro。想要轉起來輕的磨豆機，也可以看看 [Essence Go](/zh-hk/articles/epeios-essence-go/)。拿鐵派請看[在家做拿鐵・義式濃縮](/zh-hk/articles/home-latte-espresso-machines/)。
 
 ## 購買渠道
 

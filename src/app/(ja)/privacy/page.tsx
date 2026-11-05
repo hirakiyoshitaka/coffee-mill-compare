@@ -14,7 +14,7 @@ export default function PrivacyPage() {
     <main className="page-wrap page-narrow">
       <Breadcrumb items={[{ href: "/", label: "ホーム" }, { label: "プライバシーポリシー" }]} />
       <h1 className="page-title">プライバシーポリシー</h1>
-      <p className="mt-3 text-sm text-stone-500">最終更新：{formatJaDate(siteConfig.legalUpdated)}</p>
+      <p className="mt-3 text-sm text-stone-500">最終更新：{formatJaDate("2026-11-04")}</p>
       <div className="article-body mt-8">
         <h2>はじめに</h2>
         <p>
@@ -26,7 +26,7 @@ export default function PrivacyPage() {
         </p>
         <h2>アクセス解析</h2>
         <p>
-          現時点では、アクセス解析ツールを入れていません。あとから入れる場合は、このページを更新し、何を測るのかを書きます。
+          ページの閲覧数は、Vercel Analytics と Cloudflare Web Analytics で数えています。購入ボタンのクリックは、Vercel Analytics で匿名のまま数えます。送る項目は店と記事だけです。店は Amazon、Rakuten、A8、Shopee のいずれかです。記事は、そのページの記事スラッグです。記事以外のページでは空です。クリック先の URL、クエリ文字列、ユーザー ID は送りません。
         </p>
         <h2>Cookie とアフィリエイト</h2>
         <p>
