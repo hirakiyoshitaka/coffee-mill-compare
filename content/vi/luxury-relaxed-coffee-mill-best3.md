@@ -7,7 +7,7 @@ date: "2026-11-02"
 
 Ba máy này dành cho buổi sáng không muốn vội, và muốn một máy xay tay dễ chịu hơn một chút. Điểm nhìn là thiết kế và cảm giác cao cấp. Đang dùng là hạng 1 và hạng 2. Chỉ hạng 3 không phải ghi chép khi cầm trên tay, mà là bản tóm tắt ngắn từ phần giải thích của hãng.
 
-1. Timemore Chestnut S3. Máy người vận hành dùng mỗi ngày, khoảng 30g mỗi lần, cho 2–3 tách
+1. Timemore Chestnut S3. Máy người vận hành dùng thường ngày, khoảng 30g mỗi lần, cho 2–3 tách
 2. EPEIOS Essence Go. Máy còn lại mà người vận hành có. Cảm nhận viết được chỉ một câu: quay rất nhẹ
 3. Comandante C40 MK4. Tóm tắt đánh giá. Chưa dùng
 
@@ -15,13 +15,13 @@ Ba máy này dành cho buổi sáng không muốn vội, và muốn một máy x
 
 ## 1. Timemore Chestnut S3
 
-Người vận hành dùng mỗi ngày là TIMEMORE Chestnut S3. Mỗi lần xay khoảng 30g, cho 2–3 tách. Không dùng Chestnut S5 Pro.
+Người vận hành dùng thường ngày là TIMEMORE Chestnut S3. Mỗi lần xay khoảng 30g, cho 2–3 tách. Không dùng Chestnut S5 Pro.
 
 ### Cảm nhận khi thực sự dùng (bài của người vận hành)
 
 Hạt là [Coffee Carrot (珈琲きゃろっと)](/beans/coffee-carrot/). Trang cửa hàng bằng tiếng Nhật.
 
-Người vận hành dùng mỗi ngày là TIMEMORE Chestnut S3. Mỗi lần xay khoảng 30g, cho 2–3 tách. Không dùng Chestnut S5 Pro.
+Người vận hành dùng thường ngày là TIMEMORE Chestnut S3. Mỗi lần xay khoảng 30g, cho 2–3 tách. Không dùng Chestnut S5 Pro.
 
 Nếu muốn bắt đầu buổi sáng thong thả bằng khoảng thời gian ấy, hãy xem máy này trước.
 
@@ -33,7 +33,7 @@ Nếu muốn bắt đầu buổi sáng thong thả bằng khoảng thời gian �
 
 Hạng 2 là máy còn lại mà người vận hành có, EPEIOS Essence Go.
 
-Cảm nhận viết được chỉ một câu. Nó quay rất nhẹ. Độ nhẹ của tay cầm lúc bắt đầu xay là chỗ khác với S5 Pro.
+Cảm nhận viết được chỉ một câu. Nó quay rất nhẹ.
 
 Tháo ra rồi cho vào hộp riêng là lời của hãng.
 

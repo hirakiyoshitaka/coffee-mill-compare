@@ -7,7 +7,7 @@ date: "2026-11-02"
 
 These three are for a morning you do not want to rush, with a hand grinder that feels a little more special. I look at design and a premium feel. I use the first two. Only the third is a short summary of what the maker publishes, not a note from my hands.
 
-1. Timemore Chestnut S3. The one I use every day, about 30g at a time, for 2–3 cups
+1. Timemore Chestnut S3. The one I usually use, about 30g at a time, for 2–3 cups
 2. EPEIOS Essence Go. The other one I own. The one line I can write is that it just spins so easily
 3. Comandante C40 MK4. A review summary. I have not used it
 
@@ -15,13 +15,13 @@ This is not a scored taste ranking. Prices are approximate.
 
 ## 1. Timemore Chestnut S3
 
-The hand grinder I use every day is the Timemore Chestnut S3. I grind about 30g at a time, for 2–3 cups. I do not use the Chestnut S5 Pro.
+The hand grinder I usually use is the Timemore Chestnut S3. I grind about 30g at a time, for 2–3 cups. I do not use the Chestnut S5 Pro.
 
 ### Impressions from actually using it (owner review)
 
 The beans are from [Coffee Carrot (珈琲きゃろっと)](/beans/coffee-carrot/). That shop page is in Japanese.
 
-The hand grinder I use every day is the Timemore Chestnut S3. I grind about 30g at a time, for 2–3 cups. I do not use the Chestnut S5 Pro.
+The hand grinder I usually use is the Timemore Chestnut S3. I grind about 30g at a time, for 2–3 cups. I do not use the Chestnut S5 Pro.
 
 If you want that unhurried morning to start with this kind of coffee time, look here first. The longer page is the [Chestnut S5 Pro review](/en/articles/timemore-chestnut-s5-pro/).
 

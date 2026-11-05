@@ -11,7 +11,7 @@ The price guide we keep on the site is ¥23,100 including tax, taken from the of
 
 ## The short answer
 
-- **A grinder that stays on the counter for the same pour-over** → [Timemore Chestnut S5 Pro](/en/articles/timemore-chestnut-s5-pro/). I do not use the S5 Pro. The grinder I use every day is the Chestnut S3, about 30g at a time, for 2–3 cups.
+- **A grinder that stays on the counter** → Timemore Chestnut S3. I usually use it, about 30g at a time, for 2–3 cups. I do not use the Chestnut S5 Pro. The Japanese review is [here](/articles/timemore-chestnut-s3/).
 - **A lighter start, and a body that packs into its case** → EPEIOS Essence Go. My one-line take: it just spins so easily.
 - The two do different jobs. The longer side-by-side is [Timemore S5 Pro vs EPEIOS Essence Go](/en/articles/timemore-s5-pro-vs-essence-go/).
 
@@ -71,11 +71,15 @@ The shared thread is the feel of turning it with little force, and the warning t
 
 ## Why it is No.2 here
 
-If the S5 Pro stays at home, the second grinder is an Essence Go that fits in its case, shows the scale from the outside, and is listed in the ¥20,000 range. The supervisor's name and the 10-blade burr are the maker's claims. This page does not say the cup tastes better than the S5 Pro. The two grinders do different jobs. The side-by-side is [Timemore S5 Pro vs EPEIOS Essence Go](/en/articles/timemore-s5-pro-vs-essence-go/).
+If the Chestnut S3 stays at home, the second grinder is an Essence Go that fits in its case, shows the scale from the outside, and is listed in the ¥20,000 range. The supervisor's name and the 10-blade burr are the maker's claims. This page does not say the cup tastes better than the S5 Pro. The two grinders do different jobs. The side-by-side is [Timemore S5 Pro vs EPEIOS Essence Go](/en/articles/timemore-s5-pro-vs-essence-go/).
 
 Buy buttons appear on the product card when an affiliate URL is set. Our policy is on the [disclosure](/en/disclosure/) page.
 
-The No.1 is the Chestnut S3. The ranking is on the Japanese [coffee mill ranking](/articles/coffee-mill-ranking/). For beans, start with [Coffee Carrot (珈琲きゃろっと)](/beans/coffee-carrot/). That shop page is in Japanese. I kept their subscription for about a year.
+The No.1 is the Chestnut S3. The ranking is on the Japanese [coffee mill ranking](/articles/coffee-mill-ranking/).
+
+{{grinder:timemore-chestnut-s3}}
+
+For beans, start with [Coffee Carrot (珈琲きゃろっと)](/beans/coffee-carrot/). That shop page is in Japanese. I kept their subscription for about a year.
 
 [View the Coffee Carrot subscription (ad)](https://px.a8.net/svt/ejp?a8mat=4BEQHR+383KII+2CG0+5YJRM)
 

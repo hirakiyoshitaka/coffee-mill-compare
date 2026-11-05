@@ -9,7 +9,7 @@ Tên mẫu 1Zpresso sát nhau, nên người ta hay dừng ở câu 「mua cái 
 
 Trang này chưa dùng 1Zpresso. Không có ghi chú hương vị. Mỗi con số là nội dung trên trang chính thức khi mở ngày 31 tháng 10 năm 2026. Những trang đó sẽ sửa. Trước khi đặt, mở lại đúng địa chỉ.
 
-Nếu máy xay là chiếc để ở nhà, pour-over mỗi ngày, các bản ngôn ngữ khác của trang này vẫn trỏ tới TIMEMORE Chestnut S5 Pro trước. Danh sách 1Zpresso dùng khi bạn đã biết chiếc máy xay này phải làm việc gì. Trang này chưa so vị giữa S5 Pro và 1Zpresso.
+Nếu máy xay là chiếc để ở nhà, pour-over thường ngày, trang này trỏ tới TIMEMORE Chestnut S3 trước. Người vận hành dùng thường ngày, mỗi lần xay khoảng 30g, cho 2–3 tách. Không dùng Chestnut S5 Pro. Danh sách 1Zpresso dùng khi bạn đã biết chiếc máy xay này phải làm việc gì. Trang này chưa so vị giữa S5 Pro và 1Zpresso.
 
 ## Kết luận trước
 
@@ -64,7 +64,7 @@ J-Ultra là 8 micron một nấc. 1Zpresso gọi đó là nấc mịn nhất c�
 
 ## Máy xay tay trang này vẫn để lên trước
 
-1Zpresso không nằm trong thứ tự giới thiệu của trang này. Vai trò giữ nguyên: muốn để một chiếc ở nhà mỗi ngày thì là Chestnut S3. Muốn quay nhẹ, hoặc tháo ra mang đi, thì là EPEIOS Essence Go. Bản tiếng Việt chưa có bài đánh giá riêng cho hai máy đó. Thẻ bên dưới dùng thông số và liên kết mua mà trang đã có. Người vận hành dùng hằng ngày là Chestnut S3 và EPEIOS Essence Go, không phải 1Zpresso và không phải Chestnut S5 Pro. S3 xay khoảng 30g mỗi lần, cho 2–3 tách.
+1Zpresso không nằm trong thứ tự giới thiệu của trang này. Vai trò giữ nguyên: muốn để một chiếc ở nhà thường ngày thì là Chestnut S3. Muốn quay nhẹ, hoặc tháo ra mang đi, thì là EPEIOS Essence Go. Bản tiếng Việt chưa có bài đánh giá riêng cho hai máy đó. Thẻ bên dưới dùng thông số và liên kết mua mà trang đã có. Người vận hành dùng thường ngày là Chestnut S3 và EPEIOS Essence Go, không phải 1Zpresso và không phải Chestnut S5 Pro. S3 xay khoảng 30g mỗi lần, cho 2–3 tách.
 
 Nếu không muốn xay tay, máy nhỏ giọt là một hướng khác. Bản tiếng Việt chưa có bài đó. Ba máy nhỏ giọt được nhắc ở các bản ngôn ngữ khác, trang này cũng chưa dùng.
 

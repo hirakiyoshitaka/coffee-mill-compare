@@ -41,7 +41,7 @@ date: "2026-11-01"
 粉若要另外磨，或想改另一種萃取，同一語系可以接著看這些。
 
 - [把悠閒時光過得講究一點的手搖磨豆機 最佳3台](/zh-tw/articles/luxury-relaxed-coffee-mill-best3/)：The Brew 不磨豆。第1名栗子 S3、第2名 Epeios Essence Go 是站長在用的。栗子 S5 Pro 沒有在用。第3名 Comandante C40 是評測整理，沒用過
-- [TIMEMORE 栗子 S5 Pro 評測](/zh-tw/articles/timemore-chestnut-s5-pro/)：放在家裡、每天手沖的那一台
+- [TIMEMORE 栗子 S5 Pro 評測](/zh-tw/articles/timemore-chestnut-s5-pro/)：評測整理。站長沒有在用。平常用的是栗子 S3
 - [1Zpresso 手搖磨豆機怎麼挑](/zh-tw/articles/1zpresso-hand-grinder-lineup/)：按旅行、手沖、義式把角色分開。評測整理，站長沒有用過
 - [讓手沖再升級的器具](/zh-tw/articles/hand-drip-upgrade-gear/)：想自己手沖時的壺、秤、濾杯
 - [手沖分享壺怎麼挑](/zh-tw/articles/coffee-server-guide/)：濾杯底下只負責接咖啡的壺
@@ -58,7 +58,7 @@ date: "2026-11-01"
 
 [BALMUDA 官方網站](https://www.balmuda.com/jp/brew)
 
-官方網站不是廣告。The Brew 不磨豆。本站放在家裡、每天手沖用的是狩獵綠的[栗子 S5 Pro](/zh-tw/articles/timemore-chestnut-s5-pro/)。想轉起來輕、或拆開來帶出門，見 [Epeios Essence Go](/zh-tw/articles/epeios-essence-go/)。若要按旅行、手沖、義式把 1Zpresso 分開看，見[1Zpresso 手搖磨豆機怎麼挑](/zh-tw/articles/1zpresso-hand-grinder-lineup/)。刻度不能從 S5 Pro 抄過去。
+官方網站不是廣告。The Brew 不磨豆。站長平常用的手搖是栗子 S3，一次大約磨 30g，做 2–3 杯。沒有在用栗子 S5 Pro。想轉起來輕、或拆開來帶出門，見 [Epeios Essence Go](/zh-tw/articles/epeios-essence-go/)。若要按旅行、手沖、義式把 1Zpresso 分開看，見[1Zpresso 手搖磨豆機怎麼挑](/zh-tw/articles/1zpresso-hand-grinder-lineup/)。刻度不能從 S5 Pro 抄過去。
 
 ## TWINBIRD CM-D465B（6 杯）：從豆子到杯子
 

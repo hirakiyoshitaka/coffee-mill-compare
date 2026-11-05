@@ -1,25 +1,25 @@
 ---
 title: "Comandante C40 vs Timemore Chestnut S5 Pro: Counting Clicks or an External Dial"
-description: "Comandante C40 MK4 Nitro Blade and the Timemore Chestnut S5 Pro, compared on how you set the grind and how much they hold. I use the Chestnut S3 every day, about 30g at a time, for 2–3 cups. I do not use the S5 Pro. We have not used the C40. Its weight and a yen price were not on the official page we checked, so they are left out."
+description: "Comandante C40 MK4 Nitro Blade and the Timemore Chestnut S5 Pro, compared on how you set the grind and how much they hold. I usually use the Chestnut S3, about 30g at a time, for 2–3 cups. I do not use the S5 Pro. We have not used the C40. Its weight and a yen price were not on the official page we checked, so they are left out."
 category: "mill"
 date: "2026-10-31"
 ---
 
-Comandante and Timemore show up side by side as soon as you start reading about hand grinders. The Timemore in this comparison is the [Chestnut S5 Pro](/en/articles/timemore-chestnut-s5-pro/), the grinder this site keeps as the one for home. The Comandante is the C40 MK4 with the Nitro Blade.
+Comandante and Timemore show up side by side as soon as you start reading about hand grinders. The Timemore in this comparison is the [Chestnut S5 Pro](/en/articles/timemore-chestnut-s5-pro/), a review summary. The grinder I usually use is the Chestnut S3. I do not use the S5 Pro. The Comandante is the C40 MK4 with the Nitro Blade.
 
 We have not used a C40. What follows is the product page, FAQ, and manual we opened on October 31, 2026, plus the S5 Pro specs this site already copied from Timemore's own pages. There is no verdict on which one tastes better.
 
 ## The short answer
 
-- **An external dial you can read, and the same pour-over every morning** → Chestnut S5 Pro. The one I use every day is the Chestnut S3, about 30g at a time, for 2–3 cups
+- **The grinder I usually use** → Chestnut S3, about 30g at a time, for 2–3 cups. It is not one of the two machines in this comparison. I do not use the S5 Pro
 - **A German Nitro Blade, and a routine of counting clicks from zero** → C40 MK4. We have no notes on how it feels in the hand
 - **The lightest possible turning, or a grinder you can take apart and carry** → this is not a contest between these two. That role belongs to the [EPEIOS Essence Go](/en/articles/epeios-essence-go/). The C40 product page we opened did not list a weight in grams, so this page does not compare them by weight
 
 ## Impressions from actually using it (owner review)
 
-The hand grinder I use every day is the Timemore Chestnut S3. I grind about 30g at a time, for 2–3 cups. I do not use the Chestnut S5 Pro. We have not used the C40.
+The hand grinder I usually use is the Timemore Chestnut S3. I grind about 30g at a time, for 2–3 cups. I do not use the Chestnut S5 Pro. We have not used the C40.
 
-The hand grinder I use every day is the Timemore Chestnut S3. I grind about 30g at a time, for 2–3 cups. I do not use the Chestnut S5 Pro.
+The hand grinder I usually use is the Timemore Chestnut S3. I grind about 30g at a time, for 2–3 cups. I do not use the Chestnut S5 Pro.
 
 ## Where the specs differ
 
@@ -41,7 +41,7 @@ The S5 Pro figures, with the date they were copied, are kept in the [review](/en
 
 On the C40 you count clicks from the point where the burrs close. Clockwise is finer. Counterclockwise is coarser. There is no scale on the outside, so the setting is hard to repeat the next morning unless you write it down. That description is the manual's procedure. It is not a count we made ourselves.
 
-The S5 Pro uses an external dial. Each click is 15 microns, and you can move the setting without opening the body. Leaving a pour-over number in place, and starting from that same place each morning, matches what the published spec actually does. My own note is about weight: at about 910g, kept at home for pour-over, the weight has not been a problem. I have not logged espresso shots on it. The official espresso range is a starting spec, recorded in the [S5 Pro review](/en/articles/timemore-chestnut-s5-pro/).
+The S5 Pro uses an external dial. Each click is 15 microns, and you can move the setting without opening the body. Leaving a pour-over number in place, and starting from that same place the next time, matches what the published spec actually does. About 910g is the official weight, not a note from use. I do not use the Chestnut S5 Pro. I have not logged espresso shots on it. The official espresso range is a starting spec, recorded in the [S5 Pro review](/en/articles/timemore-chestnut-s5-pro/).
 
 The order of grind sizes itself is the [coffee grind size guide](/en/articles/coffee-grind-size-guide/). Copying a C40 click count onto the S5 Pro's "5.0" will not line up.
 
@@ -53,14 +53,14 @@ The FAQ warns against removing the three screws that hold the bottom burr. Doing
 
 ## Which one to buy
 
-- A first grinder, pour-over at home, and a dial you can see from the outside → **S5 Pro**
+- The grinder I usually use, about 30g at a time, for 2–3 cups → **Chestnut S3**. I do not use the S5 Pro
 - You are fine counting clicks, and you want the German Nitro Blade on the spec sheet → **C40 MK4**. Taste is unchecked
 - Easy turning, or packing it into a case, comes first → **Essence Go**. Read [Timemore S5 Pro vs EPEIOS Essence Go](/en/articles/timemore-s5-pro-vs-essence-go/)
 - You want 1Zpresso models split into an espresso job and a drip job → the [1Zpresso hand grinder lineup](/en/articles/1zpresso-hand-grinder-lineup/)
 
-Burr size, weight, and where the grinder lives are covered in [how to choose your first hand grinder](/en/articles/how-to-choose-hand-coffee-mill/). The owner's order, on the Japanese ranking, is the Chestnut S5 Pro, then the EPEIOS Essence Go, then the C40. We have not used the C40.
+Burr size, weight, and where the grinder lives are covered in [how to choose your first hand grinder](/en/articles/how-to-choose-hand-coffee-mill/). The owner's order, on the Japanese ranking, is the Chestnut S3, then the EPEIOS Essence Go, then the C40. I do not use the C40 or the S5 Pro.
 
-{{grinder:timemore-chestnut-s5-pro}}
+{{grinder:timemore-chestnut-s3}}
 
 {{grinder:epeios-essence-go}}
 
@@ -68,7 +68,7 @@ Burr size, weight, and where the grinder lives are covered in [how to choose you
 
 The S5 Pro amount, with the date it was seen, is kept on the review. Copying that number onto this page would drift away from the store. A yen price for the C40 was not on the official product page opened on October 31, 2026. This page does not place either grinder inside a beginner budget. Prices and stock move.
 
-On a C40, confirm MK4 and Nitro Blade in the product title. On an S5 Pro, confirm "S5 Pro" and the color. This English page does not show Amazon purchase buttons.
+On a C40, confirm MK4 and Nitro Blade in the product title. On a Chestnut S3, confirm the product name is Chestnut S3. This English page does not show Amazon purchase buttons.
 
 The beans I kept on subscription for about a year, because they tasted good, are from [Coffee Carrot (珈琲きゃろっと)](/beans/coffee-carrot/). That shop page is in Japanese.
 

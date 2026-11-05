@@ -1,11 +1,11 @@
 ---
 title: "Hand vs Electric Coffee Grinder: Which Is Right for You?"
-description: "Manual and electric coffee grinders compared on effort, noise, grind consistency, price, and portability. I grind by hand every day with a Timemore S5 Pro and don't use an electric grinder, so the electric side is a general comparison."
+description: "Manual and electric coffee grinders compared on effort, noise, grind consistency, price, and portability. I usually grind by hand with a Timemore Chestnut S3, about 30g at a time, for 2–3 cups. I do not use the Chestnut S5 Pro, and I don't use an electric grinder, so the electric side is a general comparison."
 category: "mill"
 date: "2026-10-30"
 ---
 
-The first question when buying a coffee grinder is usually "hand or electric?" The hand grinder I use every day is the Timemore Chestnut S3. I grind about 30g at a time, for 2–3 cups. I do not use the Chestnut S5 Pro. I don't own an electric grinder, so I'll describe that side in general terms only.
+The first question when buying a coffee grinder is usually "hand or electric?" The hand grinder I usually use is the Timemore Chestnut S3. I grind about 30g at a time, for 2–3 cups. I do not use the Chestnut S5 Pro. I don't own an electric grinder, so I'll describe that side in general terms only.
 
 ## The differences at a glance
 
@@ -25,7 +25,7 @@ The first question when buying a coffee grinder is usually "hand or electric?" T
 - Enjoy the ritual of grinding as part of the brew
 - Want to take it camping or to the office
 
-In my experience, the S5 Pro's roughly 910g weight is a non-issue at home. If you want the lightest possible turning, the [EPEIOS Essence Go](/en/articles/epeios-essence-go/) is worth a look; my take on it is that it just spins so easily. The two are compared in [Timemore S5 Pro vs EPEIOS Essence Go](/en/articles/timemore-s5-pro-vs-essence-go/).
+About 910g is the S5 Pro's official weight, not a note from use. I do not use the Chestnut S5 Pro. If you want the lightest possible turning, the [EPEIOS Essence Go](/en/articles/epeios-essence-go/) is worth a look; my take on it is that it just spins so easily. The two are compared in [Timemore S5 Pro vs EPEIOS Essence Go](/en/articles/timemore-s5-pro-vs-essence-go/).
 
 ## An electric grinder suits you if you
 

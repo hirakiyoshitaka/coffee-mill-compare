@@ -7,7 +7,7 @@ date: "2026-10-31"
 
 Grind size changes how much of the coffee touches the water. Finer grounds give up flavor more readily. Coarser grounds give up less. That is the usual account of extraction. This guide is a starting point for each brew method. This site has not measured particle size. The look-and-feel comparisons below are descriptions people commonly use. They are not measurements from this site.
 
-The hand grinder I use every day is the Timemore Chestnut S3. I grind about 30g at a time, for 2–3 cups. I do not use the Chestnut S5 Pro. I have not written a tasting log that compares French press, cold brew, espresso, and moka pot side by side.
+The hand grinder I usually use is the Timemore Chestnut S3. I grind about 30g at a time, for 2–3 cups. I do not use the Chestnut S5 Pro. I have not written a tasting log that compares French press, cold brew, espresso, and moka pot side by side.
 
 Choosing the grinder itself — burr size, weight, and whether it stays at home — is covered in [how to choose your first hand grinder](/en/articles/how-to-choose-hand-coffee-mill/). This page is about where to set the dial on the grinder you already have. A [coffee scale](/en/articles/coffee-scale-guide/) is what keeps the dose matched to that setting.
 
@@ -41,7 +41,7 @@ The same gap shows up on grinders this site has not used. The [1Zpresso lineup](
 
 1. If the maker publishes a range for that brew method, start there. If it does not, make the first pour-over a little finer than the middle of the dial, and make the first French press or cold brew on the coarse side.
 2. Move one step, or a small width of the dial, at a time. Watch the taste and, for pour-over, how fast the brew finishes.
-3. Going finer means more turns, and it usually takes more effort. What I have written about the S5 Pro is how the weight feels for pour-over at home. I have not timed grinding in the extra-fine range.
+3. Going finer means more turns, and it usually takes more effort. I usually use the Chestnut S3, about 30g at a time, for 2–3 cups. I have not written how the weight feels, and I have not timed grinding in the extra-fine range. I do not use the Chestnut S5 Pro.
 4. Do not crank the adjustment all the way to zero. On the S5 Pro, Timemore says the burrs still do not touch at the zero setting, with a gap of about 0.075mm. Uneven force can cause a rubbing sound, and the maker says that sound does not mean the grinder is broken. For any other grinder, check that model's manual for where the burrs meet.
 5. Write the setting on the bag. A new roast moves the taste even when the number stays the same.
 
