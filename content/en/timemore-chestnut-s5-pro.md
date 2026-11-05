@@ -1,13 +1,13 @@
 ---
-title: "Timemore Chestnut S5 Pro Review: The Hand Grinder I Keep on the Counter"
-description: "Why the Timemore Chestnut S5 Pro is our No.1 hand grinder for home pour-over and espresso, with official specs, published reviews, and notes from daily use of the green one. Prices are approximate and change."
+title: "Timemore Chestnut S5 Pro: A Review Summary"
+description: "A review summary of the Timemore Chestnut S5 Pro. I do not use it. Specs are from the maker and comments summarize published reviews. The grinder I use every day is the Chestnut S3. Prices are approximate and change."
 category: "mill"
 date: "2026-10-27"
 ---
 
-The Timemore Chestnut S5 Pro (also sold as 栗子 S5 Pro) is the first hand grinder this site recommends. It earned that spot because the published specs come closest to a simple brief: one grinder that lives on the kitchen counter and can be set for both pour-over and espresso. The place comes from that match. It is not the result of a points contest.
+This page is a review summary of the Timemore Chestnut S5 Pro (also sold as 栗子 S5 Pro). I do not use it. The hand grinder I use every day is the Timemore Chestnut S3. I grind about 30g at a time, for 2–3 cups. The notes below are official specs and published reviews, not a points contest.
 
-I use the green one. The official color name is Olive Green; the other color is Matt Black. The photo below is the green Chestnut S5 Pro. On Rakuten, the S5 and the S5 Pro, and black and green, sit next to each other. When you order, choose the model name "S5 Pro" and the green color.
+I do not use this grinder. It is a review summary of official specs and published reviews. The S5 Pro is sold out, so this page has no purchase button. The grinder I use is the Chestnut S3. The review is [here](/articles/timemore-chestnut-s3/). That page is in Japanese.
 
 Treat the price as a rough guide. On October 26, 2026 the [official Japanese product page](https://timemore.jp/products/timemore-manual-coffee-grinderchestnut-s5) showed ¥25,800. That page also called the figure a pre-sale price, and said stock was being replenished with shipping expected around the end of January. Check the same page for tax and whether a unit will actually ship before you buy.
 
@@ -15,22 +15,11 @@ Treat the price as a rough guide. On October 26, 2026 the [official Japanese pro
 
 ## What I've found using it
 
-The green S5 Pro is the one I use. I did not have another grinder before it. I bought it as the first hand grinder I would use seriously.
-
-I use it mostly for pour-over. At about 910g it is heavy for a hand grinder. In daily use the weight has never bothered me. If it stays in the kitchen, that weight is a non-issue. That is my own impression.
+This page is a review summary. The hand grinder I use every day is the Timemore Chestnut S3. I grind about 30g at a time, for 2–3 cups. I do not use the Chestnut S5 Pro.
 
 ## Impressions from actually using it (owner review)
 
-The grinder I use is the green Timemore Chestnut S5 Pro, with a folding handle. The beans are from [Coffee Carrot (珈琲きゃろっと)](/beans/coffee-carrot/). That shop page is in Japanese.
-
-- Grinding enough for two cups takes about a minute.
-- It grinds with a light effort. I change the grind by clicking the outer dial, and making the cup stronger or lighter is genuinely easy.
-- The handle folds, so it stores compactly.
-- Taking it apart to clean is very easy.
-- I like the design. It has a solid, premium weight, and it is not too heavy. I like the green.
-- Grinding Coffee Carrot beans with the Timemore makes that coffee time feel like bliss.
-- I have no particular complaints. A finer grind does get reasonably heavier to turn.
-- With some beans, static builds up, and brushing the grounds into the dripper with the included brush is a little tedious.
+Beans on the S3 are from [Coffee Carrot (珈琲きゃろっと)](/beans/coffee-carrot/). That shop page is in Japanese. The hand grinder I use every day is the Timemore Chestnut S3. I grind about 30g at a time, for 2–3 cups. I do not use the Chestnut S5 Pro.
 
 ## Specs from the maker
 
@@ -60,9 +49,9 @@ The notes below summarize published reviews. The stars belong to those outlets. 
 
 The shared thread is the feel of the adjustment, and the assumption that the grinder stays at home. None of these reviews call it the first grinder to pack in a travel bag.
 
-## Why it is No.1 here
+## Where this page sits
 
-48mm burrs, 90 clicks, and a dial you can reach from the outside. You can leave it on the counter and keep the setting for the same cup each morning. Among the hand grinders this site lists, the S5 Pro matches that brief most directly. About 910g is not a light grinder. If you want to carry one, look at No.2.
+48mm burrs, 90 clicks, and an external dial are the official specs that published reviews talk about for home use. This site's No.1 is the Chestnut S3. About 910g is the official weight, not my impression.
 
 Buy buttons appear on the product card when an affiliate URL is set. Our policy is on the [disclosure](/en/disclosure/) page.
 
@@ -70,7 +59,7 @@ No.2 is the [EPEIOS Essence Go](/en/articles/epeios-essence-go/). For beans, sta
 
 [View the Coffee Carrot subscription (ad)](https://px.a8.net/svt/ejp?a8mat=4BEQHR+383KII+2CG0+5YJRM)
 
-If you are choosing between the two, read [Timemore S5 Pro vs EPEIOS Essence Go](/en/articles/timemore-s5-pro-vs-essence-go/). This review does not include a timed cleaning test, or a check of whether it can be washed. How easy it is to take apart is in the owner review above. For how to pick a first hand grinder, see [burr size, adjustment, weight, and where it lives](/en/articles/how-to-choose-hand-coffee-mill/). A [coffee scale](/en/articles/coffee-scale-guide/) is what makes a saved grind setting repeatable.
+If you are choosing between the two, read [Timemore S5 Pro vs EPEIOS Essence Go](/en/articles/timemore-s5-pro-vs-essence-go/). This review does not include a timed cleaning test, or a check of whether it can be washed. There is no note here on how easy it is to take apart. For how to pick a first hand grinder, see [burr size, adjustment, weight, and where it lives](/en/articles/how-to-choose-hand-coffee-mill/). A [coffee scale](/en/articles/coffee-scale-guide/) is what makes a saved grind setting repeatable.
 
 Availability on Amazon.co.jp varies by region, so check the listing and the seller before ordering. The price on the store page is the one that matters.
 

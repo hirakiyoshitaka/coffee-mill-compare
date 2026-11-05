@@ -41,7 +41,7 @@ Hario asks for a medium-fine grind. How that grind is usually described, and whi
 
 The only hand grinder whose official range for each brew method this site has checked is the [Chestnut S5 Pro](/en/articles/timemore-chestnut-s5-pro/). The published pour-over range is 5.0–8.0. Hario does not say where inside that range to start, and neither does Timemore's range itself. Brew one cup somewhere in it, then move a single step using the section below. Copying "5" onto another grinder will not line up.
 
-The grinder I use every day is that S5 Pro, in green, mostly for pour-over. I have not logged times for this 12g recipe on it. How to choose the grinder is in [how to choose your first hand grinder](/en/articles/how-to-choose-hand-coffee-mill/). If you are still deciding between the two grinders this site actually uses, see [Timemore S5 Pro vs EPEIOS Essence Go](/en/articles/timemore-s5-pro-vs-essence-go/).
+The hand grinder I use every day is the Timemore Chestnut S3. I grind about 30g at a time, for 2–3 cups. I have not logged times for this 12g recipe on it. How to choose the grinder is in [how to choose your first hand grinder](/en/articles/how-to-choose-hand-coffee-mill/). If you are still deciding between the two grinders this site actually uses, see [Timemore S5 Pro vs EPEIOS Essence Go](/en/articles/timemore-s5-pro-vs-essence-go/).
 
 {{grinder:timemore-chestnut-s5-pro}}
 

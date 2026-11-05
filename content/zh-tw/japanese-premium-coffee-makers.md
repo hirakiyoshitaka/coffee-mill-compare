@@ -40,7 +40,7 @@ date: "2026-11-01"
 
 粉若要另外磨，或想改另一種萃取，同一語系可以接著看這些。
 
-- [把悠閒時光過得講究一點的手搖磨豆機 最佳3台](/zh-tw/articles/luxury-relaxed-coffee-mill-best3/)：The Brew 不磨豆。第1名栗子 S5 Pro、第2名 Epeios Essence Go 是站長在用的。第3名 Comandante C40 是評測整理，沒用過
+- [把悠閒時光過得講究一點的手搖磨豆機 最佳3台](/zh-tw/articles/luxury-relaxed-coffee-mill-best3/)：The Brew 不磨豆。第1名栗子 S3、第2名 Epeios Essence Go 是站長在用的。栗子 S5 Pro 沒有在用。第3名 Comandante C40 是評測整理，沒用過
 - [TIMEMORE 栗子 S5 Pro 評測](/zh-tw/articles/timemore-chestnut-s5-pro/)：放在家裡、每天手沖的那一台
 - [1Zpresso 手搖磨豆機怎麼挑](/zh-tw/articles/1zpresso-hand-grinder-lineup/)：按旅行、手沖、義式把角色分開。評測整理，站長沒有用過
 - [讓手沖再升級的器具](/zh-tw/articles/hand-drip-upgrade-gear/)：想自己手沖時的壺、秤、濾杯

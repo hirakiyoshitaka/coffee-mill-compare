@@ -11,12 +11,12 @@ date: "2026-10-27"
 
 ## そろえる順番
 
-1. **ミル**：挽きたての香りが、ドリップの楽しさのいちばんの土台です。運営者がふだん使っているのは[栗子 S5 Pro](/articles/timemore-chestnut-s5-pro/)のグリーンで、ドリップ中心です。選び方は[手挽きミルの選び方](/articles/how-to-choose-hand-coffee-mill/)にまとめています。
+1. **ミル**：挽きたての香りが、ドリップの楽しさのいちばんの土台です。運営者がふだん使っているのはタイムモア栗子 S3 で、1回に約30g、2〜3杯分です。選び方は[手挽きミルの選び方](/articles/how-to-choose-hand-coffee-mill/)にまとめています。
 2. **ドリッパー**：味の個性が出るところです。
 3. **ケトル**：細く、ねらった場所に注げるかどうか。
 4. **スケール**：豆とお湯の量、時間を毎回そろえるための道具です。
 
-[タイムモア 栗子 S5 Pro を Amazon で見る（広告）](https://www.amazon.co.jp/dp/B0HF4LXCCY?tag=stocknotelife-22)
+[タイムモア 栗子 S3 を Amazon で見る（広告）](https://www.amazon.co.jp/dp/B0CMZCK9PR?tag=stocknotelife-22)
 
 ## ドリッパー：円すいか、平底か
 

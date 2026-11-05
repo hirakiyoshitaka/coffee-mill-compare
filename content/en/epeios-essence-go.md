@@ -5,13 +5,13 @@ category: "mill"
 date: "2026-10-27"
 ---
 
-The second hand grinder this site recommends is the EPEIOS Essence Go. If the No.1 [Timemore Chestnut S5 Pro](/en/articles/timemore-chestnut-s5-pro/) is the 48mm grinder that stays on the counter, this one uses a 10-blade burr to lighten the start of the grind, and it comes apart into a carry case. It holds that place because the job is different. It is not second place in a points contest.
+The second hand grinder this site recommends is the EPEIOS Essence Go. If the No.1 Timemore Chestnut S3 is the grinder that stays on the counter, this one uses a 10-blade burr to lighten the start of the grind, and it comes apart into a carry case. It holds that place because the job is different. It is not second place in a points contest.
 
 The price guide we keep on the site is ¥23,100 including tax, taken from the official listing and updated by hand when that listing changes. The [June 2024 announcement](https://prtimes.jp/main/html/rd/p/000000097.000059893.html) also gives an expected market price of 23,100 yen including tax, and describes the suggested retail price as open. Check the current store page before you buy. Prices move.
 
 ## The short answer
 
-- **A grinder that stays on the counter for the same pour-over** → [Timemore Chestnut S5 Pro](/en/articles/timemore-chestnut-s5-pro/). Mine is the green one. I use it at home, mostly for pour-over.
+- **A grinder that stays on the counter for the same pour-over** → [Timemore Chestnut S5 Pro](/en/articles/timemore-chestnut-s5-pro/). I do not use the S5 Pro. The grinder I use every day is the Chestnut S3, about 30g at a time, for 2–3 cups.
 - **A lighter start, and a body that packs into its case** → EPEIOS Essence Go. My one-line take: it just spins so easily.
 - The two do different jobs. The longer side-by-side is [Timemore S5 Pro vs EPEIOS Essence Go](/en/articles/timemore-s5-pro-vs-essence-go/).
 
@@ -75,7 +75,7 @@ If the S5 Pro stays at home, the second grinder is an Essence Go that fits in it
 
 Buy buttons appear on the product card when an affiliate URL is set. Our policy is on the [disclosure](/en/disclosure/) page.
 
-The No.1 review is the [Chestnut S5 Pro](/en/articles/timemore-chestnut-s5-pro/). For beans, start with [Coffee Carrot (珈琲きゃろっと)](/beans/coffee-carrot/). That shop page is in Japanese. I kept their subscription for about a year.
+The No.1 is the Chestnut S3. The ranking is on the Japanese [coffee mill ranking](/articles/coffee-mill-ranking/). For beans, start with [Coffee Carrot (珈琲きゃろっと)](/beans/coffee-carrot/). That shop page is in Japanese. I kept their subscription for about a year.
 
 [View the Coffee Carrot subscription (ad)](https://px.a8.net/svt/ejp?a8mat=4BEQHR+383KII+2CG0+5YJRM)
 

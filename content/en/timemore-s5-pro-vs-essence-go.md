@@ -1,35 +1,26 @@
 ---
 title: "Timemore S5 Pro vs EPEIOS Essence Go: Which Hand Grinder Should You Buy?"
-description: "A side-by-side look at the Timemore Chestnut S5 Pro and the EPEIOS Essence Go, based on my own daily use and the makers' published specs. No lab measurements, no made-up scores."
+description: "A side-by-side look at the Timemore Chestnut S5 Pro and the EPEIOS Essence Go, using the makers' published specs. The S5 Pro is a review summary. I do not use it. The grinder I use every day is the Chestnut S3. My one line on the Essence Go is that it spins easily."
 category: "mill"
 date: "2026-10-30"
 ---
 
-The Timemore Chestnut S5 Pro and the EPEIOS Essence Go are two hand grinders people often get stuck choosing between. I own and use both, so this comparison sticks to two things: what I've noticed using them, and what the manufacturers publish. I haven't run particle-size or extraction tests, so you won't find any of those numbers here.
+The Timemore Chestnut S5 Pro and the EPEIOS Essence Go are two hand grinders people often get stuck choosing between. The S5 Pro section is a review summary. I do not use it. The hand grinder I use every day is the Timemore Chestnut S3. I grind about 30g at a time, for 2–3 cups. I have not run particle-size or extraction tests.
 
 ## The short answer
 
-- **S5 Pro**: for a grinder that lives on your counter and makes the same pour-over every morning
+- **Chestnut S3**: the grinder I use every day, about 30g at a time, for 2–3 cups. It is not one of the two machines in the spec table
 - **Essence Go**: for the lightest possible turning feel, or if you want to take it apart and carry it
 
 ## What I've found using them
 
-The S5 Pro was my very first hand grinder. Mine is the green one, I use it every day, and almost always for pour-over. At around 910g it's on the heavy side for a hand grinder, but since it stays at home, the weight has never bothered me.
+The hand grinder I use every day is the Timemore Chestnut S3. I grind about 30g at a time, for 2–3 cups. I do not use the Chestnut S5 Pro.
 
-My one-line verdict on the Essence Go: it just spins so easily. The lightness of the handle when you start grinding is the difference you notice right away.
+My one-line verdict on the Essence Go: it just spins so easily. That is the only impression I can write about the Essence Go.
 
 ## Impressions from actually using it (owner review)
 
-These notes are only about the green Timemore Chestnut S5 Pro, which has a folding handle. They are not about the Essence Go. The beans are from [Coffee Carrot (珈琲きゃろっと)](/beans/coffee-carrot/). That shop page is in Japanese.
-
-- Grinding enough for two cups takes about a minute.
-- It grinds with a light effort. I change the grind by clicking the outer dial, and making the cup stronger or lighter is genuinely easy.
-- The handle folds, so it stores compactly.
-- Taking it apart to clean is very easy.
-- I like the design. It has a solid, premium weight, and it is not too heavy. I like the green.
-- Grinding Coffee Carrot beans with the Timemore makes that coffee time feel like bliss.
-- I have no particular complaints. A finer grind does get reasonably heavier to turn.
-- With some beans, static builds up, and brushing the grounds into the dripper with the included brush is a little tedious.
+The hand grinder I use every day is the Timemore Chestnut S3. I grind about 30g at a time, for 2–3 cups. I do not use the Chestnut S5 Pro.
 
 ## Specs compared (manufacturer figures)
 
@@ -59,7 +50,7 @@ There's only about 40g between them, and neither is a lightweight. The real diff
 - You want effortless turning, or plan to take it camping or to work → **Essence Go**
 - Buying a second grinder → S5 Pro at home, Essence Go for the road
 
-{{grinder:timemore-chestnut-s5-pro}}
+{{grinder:timemore-chestnut-s3}}
 
 {{grinder:epeios-essence-go}}
 

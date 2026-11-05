@@ -47,7 +47,7 @@ export default function ComparePage() {
         <p className="mb-2 text-sm font-medium text-[var(--accent-soft)]">コーヒーミル（手挽き）</p>
         <h1 className="page-title">{models.length}機種スペック比較</h1>
         <p className="lede">
-          このサイトが先に勧めるのは、栗子 S5 Pro とエペイオス Essence Go です。ほかの機種は、条件を並べるために残しています。栗子 S5 Pro の写真はグリーンです。Essence Go は製品名のカードです。ほかの機種の実機写真は載せていません。数値と価格は目安です。
+          このサイトが先に勧めるのは、栗子 S3 とエペイオス Essence Go です。運営者がふだん使っているのは栗子 S3 で、1回に約30g、2〜3杯分です。栗子 S3 の実機写真は未掲載です。栗子 S5 Pro は使っていません。数値と価格は目安です。
         </p>
       </header>
       <PrNotice />
@@ -98,24 +98,10 @@ export default function ComparePage() {
           <blockquote>口コミ・レビュー欄は特定投稿の転載ではなく、コミュニティで繰り返し見られる論点の要約です。</blockquote>
         </MdSection>
 
-        <MdSection title="実際に使ってみた感想（運営者レビュー）">
+        <MdSection title="運営者が使っているミル">
           <p>
-            掲載機種のうち、この感想は折りたたみハンドルのグリーンのタイムモア栗子 S5 Pro だけです。ほかの機種を使った感想ではありません。豆は
-            <Link href="/beans/coffee-carrot/" className="mx-1 font-medium text-[var(--accent)] underline underline-offset-4">
-              珈琲きゃろっと
-            </Link>
-            です。
+            掲載機種のうち、運営者がふだん使っている手挽きはタイムモア栗子 S3 です。1回に約30gを挽き、2〜3杯分にしています。色と重さの感想は書いていません。エペイオス Essence Go について書いている一言は「とにかく軽く回る」です。栗子 S5 Pro は使っていません。
           </p>
-          <ul>
-            <li>2杯分を挽くのに、約1分かかります。</li>
-            <li>軽く挽けます。外側のダイヤルをクリックしながら挽き目を変えられ、濃いめ・薄めの調整は本当に簡単です。</li>
-            <li>ハンドルは折りたたみ式で、コンパクトに収納できます。</li>
-            <li>掃除のときの分解も、とても簡単です。</li>
-            <li>デザインが良く、ずっしりした高級感のある重量感があります。重すぎはしません。グリーンの色が気に入っています。</li>
-            <li>珈琲きゃろっとの豆をタイムモアで挽くコーヒーの時間は、至福です。</li>
-            <li>特に不満はありません。細挽きにすると、それなりに重くなります。</li>
-            <li>豆によっては静電気が起き、付属のブラシで粉をドリッパーへ落とすのが少し面倒です。</li>
-          </ul>
         </MdSection>
 
         <MdSection title="各機種の位置づけ（一言）">
@@ -265,7 +251,7 @@ export default function ComparePage() {
             <Link href="/articles/coffee-mill-cleaning/" className="mx-1 font-medium text-[var(--accent)] underline underline-offset-4">
               コーヒーミルの掃除・お手入れ方法
             </Link>
-            です。水洗いや掃除時間の実測は、このページにはありません。タイムモアを分解するしやすさは、上の「実際に使ってみた感想（運営者レビュー）」に書いています。
+            です。水洗いや掃除時間の実測は、このページにはありません。分解のしやすさの感想も書いていません。
           </p>
           <p className="pt-2 text-[14px] font-medium text-stone-800">ブランド別・口コミテーマ要約</p>
           <ul className="text-[14px]">
