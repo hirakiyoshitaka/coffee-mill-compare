@@ -49,7 +49,7 @@ date: "2026-11-02"
 
 エスプレッソも範囲に入ります。クリックの細かさだけを見るなら、同じブランドの J-Ultra のほうが公式の数字は細かいです。J-Ultra はこの3台には入れていません。分け方は[1Zpressoの手挽きミルの選び方](/articles/1zpresso-hand-grinder-lineup/)です。
 
-[1Zpresso K-Ultra を Amazon で探す（広告）](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=1Zpresso+K-Ultra)
+[1Zpresso K-UltraをAmazonで見る（広告）](https://www.amazon.co.jp/dp/B0CF8KW43N?tag=stocknotelife-22)
 
 検索結果に別の型番が混ざることがあります。K-Ultra かを、商品名で確認してください。
 

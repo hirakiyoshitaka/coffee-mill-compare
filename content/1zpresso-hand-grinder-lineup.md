@@ -80,13 +80,13 @@ J-Ultra は、公式が「1Zpressoでいちばん細かい」とする8ミクロ
 
 公式オンラインショップの表示は米ドルで、税別です。セールで数字が動きます。日本の円に直した定価は、この記事には書いていません。在庫と金額は、買うページで確認してください。
 
-[1Zpresso Q2 を Amazon で探す（広告）](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=1Zpresso+Q2)
+[1Zpresso Q2をAmazonで見る（広告）](https://www.amazon.co.jp/dp/B082F5JDLD?tag=stocknotelife-22)
 
 [1Zpresso X-Ultra を Amazon で探す（広告）](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=1Zpresso+X-Ultra)
 
 [1Zpresso ZP6 を Amazon で探す（広告）](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=1Zpresso+ZP6)
 
-[1Zpresso K-Ultra を Amazon で探す（広告）](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=1Zpresso+K-Ultra)
+[1Zpresso K-UltraをAmazonで見る（広告）](https://www.amazon.co.jp/dp/B0CF8KW43N?tag=stocknotelife-22)
 
 [1Zpresso J-Ultra を Amazon で探す（広告）](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=1Zpresso+J-Ultra)
 
