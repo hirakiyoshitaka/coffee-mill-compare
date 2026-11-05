@@ -7,7 +7,7 @@ date: "2026-10-30"
 
 The easiest way to choose your first hand grinder is to look at fewer things. This guide covers just four: burr size, grind adjustment, weight, and whether it stays at home or travels. The numbers come from manufacturer specs; we didn't measure them ourselves.
 
-Here's the bottom line first. If it's going to sit at home for daily pour-over, we recommend the **Timemore Chestnut S5 Pro**. If you want light turning or something that packs away, we recommend the **EPEIOS Essence Go**. I use both.
+Here's the bottom line first. If it is going to sit at home, we recommend the Timemore Chestnut S3. I use it every day and grind about 30g at a time, for 2–3 cups. If you want light turning or something that packs away, we recommend the **EPEIOS Essence Go**. I do not use the Chestnut S5 Pro.
 
 ## 1. Burr size
 
@@ -32,7 +32,7 @@ You hold a hand grinder in one hand while you turn it. Heavier grinders tend to 
 - Chestnut S5 Pro: about 910g
 - EPEIOS Essence Go: about 870g
 
-I use the green S5 Pro every day, mostly for pour-over, and the 910g has never bothered me.
+The hand grinder I use every day is the Timemore Chestnut S3. I grind about 30g at a time, for 2–3 cups. I do not use the Chestnut S5 Pro.
 
 ## 4. Home or on the go?
 
@@ -40,9 +40,9 @@ If it lives on your counter, weight barely matters. If you want to take it out, 
 
 ## Our two picks
 
-{{grinder:timemore-chestnut-s5-pro}}
+{{grinder:timemore-chestnut-s3}}
 
-Our No.1 for a grinder that stays at home.
+Our No.1 for a grinder that stays at home is the Chestnut S3.
 
 {{grinder:epeios-essence-go}}
 

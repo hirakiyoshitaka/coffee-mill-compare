@@ -1,6 +1,6 @@
 ---
 title: "Comandante C40 vs Timemore Chestnut S5 Pro: Counting Clicks or an External Dial"
-description: "Comandante C40 MK4 Nitro Blade and the Timemore Chestnut S5 Pro, compared on how you set the grind and how much they hold. I use the S5 Pro for daily pour-over. We have not used the C40. Its weight and a yen price were not on the official page we checked, so they are left out."
+description: "Comandante C40 MK4 Nitro Blade and the Timemore Chestnut S5 Pro, compared on how you set the grind and how much they hold. I use the Chestnut S3 every day, about 30g at a time, for 2–3 cups. I do not use the S5 Pro. We have not used the C40. Its weight and a yen price were not on the official page we checked, so they are left out."
 category: "mill"
 date: "2026-10-31"
 ---
@@ -11,22 +11,15 @@ We have not used a C40. What follows is the product page, FAQ, and manual we ope
 
 ## The short answer
 
-- **An external dial you can read, and the same pour-over every morning** → Chestnut S5 Pro. That is the green one I use every day
+- **An external dial you can read, and the same pour-over every morning** → Chestnut S5 Pro. The one I use every day is the Chestnut S3, about 30g at a time, for 2–3 cups
 - **A German Nitro Blade, and a routine of counting clicks from zero** → C40 MK4. We have no notes on how it feels in the hand
 - **The lightest possible turning, or a grinder you can take apart and carry** → this is not a contest between these two. That role belongs to the [EPEIOS Essence Go](/en/articles/epeios-essence-go/). The C40 product page we opened did not list a weight in grams, so this page does not compare them by weight
 
 ## Impressions from actually using it (owner review)
 
-These notes are only about the green Timemore Chestnut S5 Pro, which has a folding handle. We have not used the C40. The beans are from [Coffee Carrot (珈琲きゃろっと)](/beans/coffee-carrot/). That shop page is in Japanese.
+The hand grinder I use every day is the Timemore Chestnut S3. I grind about 30g at a time, for 2–3 cups. I do not use the Chestnut S5 Pro. We have not used the C40.
 
-- Grinding enough for two cups takes about a minute.
-- It grinds with a light effort. I change the grind by clicking the outer dial, and making the cup stronger or lighter is genuinely easy.
-- The handle folds, so it stores compactly.
-- Taking it apart to clean is very easy.
-- I like the design. It has a solid, premium weight, and it is not too heavy. I like the green.
-- Grinding Coffee Carrot beans with the Timemore makes that coffee time feel like bliss.
-- I have no particular complaints. A finer grind does get reasonably heavier to turn.
-- With some beans, static builds up, and brushing the grounds into the dripper with the included brush is a little tedious.
+The hand grinder I use every day is the Timemore Chestnut S3. I grind about 30g at a time, for 2–3 cups. I do not use the Chestnut S5 Pro.
 
 ## Where the specs differ
 
@@ -40,7 +33,7 @@ These notes are only about the green Timemore Chestnut S5 Pro, which has a foldi
 | Weight | The official product page opened on October 31, 2026 did not list grams. Some retailer listings disagreed with each other, so this article does not state a weight | About 910g |
 | Fine-grind range | The manual describes a span from hand-brew coarse through extra-fine for espresso and cezve | The official starting ranges include espresso 0–2.0 and pour-over 5.0–8.0 |
 | Where it is made | The product page says made in Germany | Timemore is a Chinese brand, in this site's brand note |
-| Use on this site | Not used | I use the green one every day, mostly for pour-over |
+| Use on this site | Not used | Not used. Review summary |
 
 The S5 Pro figures, with the date they were copied, are kept in the [review](/en/articles/timemore-chestnut-s5-pro/). Microns per click for the C40 were not on the product page or the FAQ we opened. This page does not adopt micron numbers from review sites. It also does not check whether a separate part exists to make the clicks finer. For that, use Comandante's accessories page.
 

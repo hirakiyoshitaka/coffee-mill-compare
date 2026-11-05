@@ -1,5 +1,6 @@
 import { Analytics } from "@vercel/analytics/react";
 import "../globals.css";
+import { BuyClickTracker } from "@/components/BuyClickTracker";
 import { CloudflareBeacon } from "@/components/CloudflareBeacon";
 import { LocaleFooter, LocaleHeader } from "@/components/intl/LocaleChrome";
 import { chromeDict } from "@/lib/i18n";
@@ -20,6 +21,7 @@ export default function Layout({ children }: Readonly<{ children: React.ReactNod
         </div>
         <LocaleFooter locale="zh-tw" />
         <Analytics />
+        <BuyClickTracker />
         <CloudflareBeacon />
       </body>
     </html>

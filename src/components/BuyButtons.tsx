@@ -1,5 +1,6 @@
 import type { GrinderModel } from "@/data/grinders";
 import { shopeeTwAffiliateUrl } from "@/config/shopee-tw";
+import { englishHandGrinderAmazonUrl } from "@/config/us-amazon";
 import { cardDict, type SiteLocale } from "@/lib/i18n";
 import { affiliateRel, isHttpUrl, prepareAffiliateHtml } from "@/lib/affiliate";
 
@@ -19,8 +20,9 @@ type Props = {
   locale?: SiteLocale;
 };
 
-export function grinderBuyProps(model: Pick<GrinderModel, "id" | "name" | "rakutenUrl" | "amazonUrl" | "yahooUrl" | "shopeeMyUrl" | "moshimoHtml" | "purchaseNote">, locale: SiteLocale = "ja", noteLocalized = false): Props {
+export function grinderBuyProps(model: Pick<GrinderModel, "id" | "type" | "name" | "rakutenUrl" | "amazonUrl" | "yahooUrl" | "shopeeMyUrl" | "moshimoHtml" | "purchaseNote">, locale: SiteLocale = "ja", noteLocalized = false): Props {
   const d = cardDict[locale];
+  const amazonCom = locale === "en" ? englishHandGrinderAmazonUrl(model) : undefined;
   return {
     name: model.name,
     html: model.moshimoHtml,
@@ -30,6 +32,7 @@ export function grinderBuyProps(model: Pick<GrinderModel, "id" | "name" | "rakut
     links: [
       { href: model.rakutenUrl, label: d.rakuten },
       { href: localesWithoutOverseasAmazon.has(locale) ? undefined : model.amazonUrl, label: d.amazon },
+      { href: amazonCom, label: d.amazonCom ?? "Check price on Amazon.com" },
       { href: model.yahooUrl, label: d.yahoo },
       { href: model.shopeeMyUrl, label: d.shopeeMy },
       { href: locale === "zh-tw" ? shopeeTwAffiliateUrl(model.id) : undefined, label: d.shopeeTw ?? "在 Shopee（台灣）查看" },

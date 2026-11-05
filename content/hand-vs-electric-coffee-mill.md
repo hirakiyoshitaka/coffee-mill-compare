@@ -1,11 +1,11 @@
 ---
 title: "コーヒーミルは手挽きと電動どっち？違い・メリット・向いている人を比較"
-description: "手挽きコーヒーミルと電動コーヒーミルの違いを、手間・音・粒度・価格・持ち運びで比較します。運営者は手挽きのタイムモア S5 Pro を毎日使っています。電動は使っていないので、選び方の比較として書いています。"
+description: "手挽きコーヒーミルと電動コーヒーミルの違いを、手間・音・粒度・価格・持ち運びで比較します。運営者は手挽きのタイムモア栗子 S3 をふだん使っています。1回に約30g、2〜3杯分です。電動は使っていないので、選び方の比較として書いています。"
 category: "mill"
 date: "2026-10-29"
 ---
 
-コーヒーミルを買うとき、最初に迷うのが「手挽きか電動か」です。運営者は手挽きの[タイムモア栗子 S5 Pro](/articles/timemore-chestnut-s5-pro/)を最初の一台に選び、毎日ドリップで使っています。電動ミルは使っていないので、電動側は一般的な特徴として書きます。
+コーヒーミルを買うとき、最初に迷うのが「手挽きか電動か」です。運営者がふだん使っている手挽きはタイムモア栗子 S3 で、1回に約30g、2〜3杯分です。電動ミルは使っていないので、電動側は一般的な特徴として書きます。栗子 S5 Pro は使っていません。
 
 ## ひと目でわかる違い
 
@@ -27,9 +27,9 @@ date: "2026-10-29"
 - 挽く時間も含めて楽しみたい
 - キャンプや職場に持っていきたい
 
-運営者の実感では、S5 Pro の約910gという重さは家で使うぶんには気になりません。軽い力で回したい人には、運営者が「とにかく軽く回る」と感じた[エペイオス Essence Go](/articles/epeios-essence-go/)も候補です。2台の比較は[S5 Pro と Essence Go の比較](/articles/timemore-s5-pro-vs-essence-go/)にまとめました。
+軽い力で回したい人には、運営者が「とにかく軽く回る」と感じた[エペイオス Essence Go](/articles/epeios-essence-go/)も候補です。S5 Pro の約910gは公式の重量で、運営者の感想ではありません。2台の仕様は[S5 Pro と Essence Go の比較](/articles/timemore-s5-pro-vs-essence-go/)にまとめました。
 
-[タイムモア 栗子 S5 Pro を Amazon で見る（広告）](https://www.amazon.co.jp/dp/B0HF4LXCCY?tag=stocknotelife-22)
+[タイムモア 栗子 S3 を Amazon で見る（広告）](https://www.amazon.co.jp/dp/B0CMZCK9PR?tag=stocknotelife-22)
 
 [エペイオス Essence Go を Amazon で見る（広告）](https://www.amazon.co.jp/dp/B0D3PZHGBX?tag=stocknotelife-22)
 

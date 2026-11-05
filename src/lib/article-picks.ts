@@ -19,6 +19,7 @@ const PRODUCT_TOKEN =
   /S5|Essence|V60|HARIO|ハリオ|カリタ|Kalita|Timemore|TIMEMORE|タイムモア|エペイオス|EPEIOS|栗子|Chestnut|デロンギ|ネスプレッソ|ヴァーチュオ|エアロチーノ|マグニフィカ|デディカ|Audible|KINTO|丸山|Fellow|Atmos|Stagg|BALMUDA|ORIGAMI|Chemex|AeroPress|Vertuo|Dedica|Magnifica|Aeroccino|ブラックミラー|Breville|ブレビル|Rivelia|リヴェリア|Eletta|エレッタ|Black Mirror|ピーラー|シーチキン|iwaki|貝印|ブルーボトル/i;
 
 const EMBED_RULES: [RegExp, string][] = [
+  [/栗子\s*S3|Chestnut\s*S3|(?:^|[^A-Za-z0-9])S3(?:[^A-Za-z0-9]|$)/i, "timemore-chestnut-s3"],
   [/S5|Chestnut|栗子|タイムモア|Timemore|TIMEMORE|泰摩/i, "timemore-chestnut-s5-pro"],
   [/Essence\s*Go|エペイオス|EPEIOS|Epeios/i, "epeios-essence-go"],
   [/きゃろっと|Coffee\s*Carrot|coffeecarrot/i, "coffee-carrot"],
@@ -279,7 +280,9 @@ export function buildArticlePicks(markdown: string, title: string, locale: SiteL
   const highIntent = isHighIntentTitle(title);
   const { links, embeds } = collect(markdown);
   const embedIds = embeds.map((embed) => embed.id);
-  const hasMillEmbed = embedIds.some((id) => id === "timemore-chestnut-s5-pro" || id === "epeios-essence-go");
+  const hasMillEmbed = embedIds.some(
+    (id) => id === "timemore-chestnut-s5-pro" || id === "timemore-chestnut-s3" || id === "epeios-essence-go",
+  );
   const deduped = preferTextLinks(links).filter((link) => !(hasMillEmbed && isRedundantMillBrowse(link.label)));
   const kept = deduped.filter((link) => !((locale === "en" || locale === "zh-tw") && isJpTaggedAmazonUrl(link.href)));
   const embedLine = new Map(embeds.map((embed) => [embed.id, embed.line]));

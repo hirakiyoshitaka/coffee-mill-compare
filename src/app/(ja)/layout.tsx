@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { Analytics } from "@vercel/analytics/react";
 import { Noto_Sans_JP, Noto_Serif_JP } from "next/font/google";
 import "../globals.css";
+import { BuyClickTracker } from "@/components/BuyClickTracker";
 import { CloudflareBeacon } from "@/components/CloudflareBeacon";
 import { SiteFooter } from "@/components/SiteFooter";
 import { SiteHeader } from "@/components/SiteHeader";
@@ -78,6 +79,7 @@ export default function RootLayout({
         </div>
         <SiteFooter />
         <Analytics />
+        <BuyClickTracker />
         <CloudflareBeacon />
       </body>
     </html>

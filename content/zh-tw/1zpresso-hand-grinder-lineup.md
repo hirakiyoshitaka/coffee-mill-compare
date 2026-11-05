@@ -9,7 +9,7 @@ date: "2026-10-31"
 
 **站長沒有用過 1Zpresso。** 這篇不寫味道。數字是 2026 年 10 月 31 日打開官方頁面時的顯示，頁面會改，下單前請再開一次同一頁。
 
-若磨豆機是放在家裡、每天手沖的那一台，本站仍先指[栗子 S5 Pro](/zh-tw/articles/timemore-chestnut-s5-pro/)。站長每天用的是狩獵綠的這台，用法以手沖為主。1Zpresso 是「已經知道這台要擔任什麼角色」時的對照，沒有排進本站的推薦順序。
+若磨豆機是放在家裡、每天手沖的那一台，本站仍先指[栗子 S5 Pro](/zh-tw/articles/timemore-chestnut-s5-pro/)。站長每天用的是 TIMEMORE 栗子 S3。一次大約磨 30g，做 2–3 杯。沒有在用栗子 S5 Pro。1Zpresso 是「已經知道這台要擔任什麼角色」時的對照，沒有排進本站的推薦順序。
 
 > **給台灣讀者**：官方線上商店的標價是美元、未稅，特價時數字會動。這篇不換算成日圓，也不換算成台幣。Amazon.co.jp 的搜尋連結是日本商店；若標示可透過 AmazonGlobal 寄到台灣，運費與關稅在結帳時顯示，收件人需完成 EZ WAY 實名認證。庫存與金額請看結帳頁。
 
@@ -28,14 +28,14 @@ date: "2026-10-31"
 
 官方的選購頁還留著 J、JX-Pro S、JE-Plus、X-Pro S，點擊表也在那一頁。這篇只留角色比較分得開的五條。
 
-若磨豆機固定放在家裡手沖，本站仍先指栗子 S5 Pro。那一台是站長每天在用的，用法以手沖為主。行李要輕、先看 Q 系列時，從 Q2 的搜尋頁對型號。
+若磨豆機固定放在家裡手沖，本站仍先指栗子 S5 Pro。站長每天用的是 TIMEMORE 栗子 S3。一次大約磨 30g，做 2–3 杯。沒有在用栗子 S5 Pro。行李要輕、先看 Q 系列時，從 Q2 的搜尋頁對型號。
 
 本頁不放 Amazon 購買按鈕。家裡手沖仍先看栗子 S5 Pro 的評測。磨豆機卡片上已設定的樂天或 Shopee 連結才是廣告。
 ## 下一步
 
 角色對上了，接著看同一語系裡接得上的文章。
 
-- [把悠閒時光過得講究一點的手搖磨豆機 最佳3台](/zh-tw/articles/luxury-relaxed-coffee-mill-best3/)：第1名栗子 S5 Pro、第2名 Epeios Essence Go 是站長在用的。第3名 Comandante C40 是評測整理，沒用過。K-Ultra 只出現在那篇的「也可以看看」，沒用過
+- [把悠閒時光過得講究一點的手搖磨豆機 最佳3台](/zh-tw/articles/luxury-relaxed-coffee-mill-best3/)：第1名栗子 S3、第2名 Epeios Essence Go 是站長在用的。栗子 S5 Pro 沒有在用。第3名 Comandante C40 是評測整理，沒用過。K-Ultra 只出現在那篇的「也可以看看」，沒用過
 - [TIMEMORE 栗子 S5 Pro 評測](/zh-tw/articles/timemore-chestnut-s5-pro/)：放在家裡、每天手沖時，本站仍先指的那一台
 - [Epeios Essence Go 評測](/zh-tw/articles/epeios-essence-go/)：想轉起來輕，或拆開來帶出門
 - [讓手沖再升級的器具](/zh-tw/articles/hand-drip-upgrade-gear/)：細口壺、秤、濾杯

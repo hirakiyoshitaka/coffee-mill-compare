@@ -10,7 +10,7 @@ import { getFeaturedModels } from "@/data/grinders";
 import { getArticle } from "@/lib/articles";
 import { PrNotice } from "@/components/PrNotice";
 import { KitchenList } from "@/components/KitchenList";
-import { getKitchenArticles } from "@/lib/kitchen";
+import { getKitchenArticles, kitchenPublic } from "@/lib/kitchen";
 
 const heroImage =
   "https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd?auto=format&fit=crop&w=1400&q=80";
@@ -31,7 +31,7 @@ const leadPaths = [
     href: "/articles/coffee-mill-ranking/",
     kicker: "コーヒーミル",
     title: "手挽きのおすすめ",
-    text: "1位はタイムモア栗子 S5 Pro、2位はエペイオス Essence Go。3位のコマンダンテ C40 はレビューまとめで、使っていません。",
+    text: "1位はタイムモア栗子 S3、2位はエペイオス Essence Go。3位のコマンダンテ C40 はレビューまとめで、使っていません。",
     links: [
       { href: "/articles/how-to-choose-hand-coffee-mill/", label: "選び方" },
       { href: "/articles/luxury-relaxed-coffee-mill-best3/", label: "ベスト3" },
@@ -41,7 +41,7 @@ const leadPaths = [
     href: "/articles/japanese-premium-coffee-makers/",
     kicker: "コーヒーメーカー",
     title: "比較記事から入る",
-    text: "日本ブランド3台、家でラテ、タイプの選び方、ブレビルとデロンギ。売り切れの機種は載せていません。使った感想は未記入です。【体験：要記入】",
+    text: "日本ブランド3台、家でラテ、タイプの選び方、ブレビルとデロンギ。売り切れの機種は載せていません。運営者はこの機種を使っていません。公式の仕様と公開レビューのまとめです。",
     links: [
       { href: "/articles/coffee-maker-guide/", label: "選び方" },
       { href: "/articles/home-latte-espresso-machines/", label: "家でラテ" },
@@ -69,7 +69,7 @@ export default function HomePage() {
     .filter((article) => article !== undefined)
     .map(({ slug, title, description, category, date }) => ({ slug, title, description, category, date }));
 
-  const kitchen = getKitchenArticles().slice(0, 4);
+  const kitchen = kitchenPublic ? getKitchenArticles().slice(0, 4) : [];
 
   return (
     <main className="page-wrap">
@@ -78,7 +78,7 @@ export default function HomePage() {
           <p className="hero-kicker">先に開くのは、3つの読みもの</p>
           <h1>家のコーヒーを、記事から選ぶ。</h1>
           <p className="hero-description">
-            手挽きミル、コーヒーメーカー、豆のお試しと定期便。売り切れの商品は置いていません。使っていない機械の体験は書きません。【体験：要記入】
+            手挽きミル、コーヒーメーカー、豆のお試しと定期便。売り切れの商品は置いていません。使っていない機械の体験は書きません。
           </p>
           <div className="hero-actions">
             <Link href="/articles/coffee-mill-ranking/" className="hero-cta">
@@ -159,7 +159,7 @@ export default function HomePage() {
           </Link>
         </div>
         <p className="section-lead">
-          No.1 は栗子 S5 Pro、No.2 はエペイオス Essence Go です。点数競技ではなく、このサイトが家に置くならこの2台、という選択です。栗子 S5 Pro の写真はグリーンです。Essence Go は製品名のカードです。楽天のページでは、型番「S5 Pro」と色「グリーン」を選んでください。
+          No.1 は栗子 S3、No.2 はエペイオス Essence Go です。運営者がふだん使っているのは栗子 S3 で、1回に約30g、2〜3杯分です。栗子 S3 の実機写真は未掲載です。栗子 S5 Pro は使っていません。
         </p>
         <ul className="picks-grid">
           {models.map((model) => (
@@ -205,16 +205,18 @@ export default function HomePage() {
         <ArticleList articles={articles} />
       </section>
 
-      <section className="section-block" id="kitchen">
-        <div className="section-heading">
-          <h2>キッチン・ストック</h2>
-          <Link href="/kitchen" className="text-link">
-            すべて
-          </Link>
-        </div>
-        <p className="section-lead">帰宅後のごはんやストック食品を、使う場面と一食量から選ぶノートです。体験談ではなく、メーカー資料と外部の使用記事をもとにしています。</p>
-        <KitchenList articles={kitchen} />
-      </section>
+      {kitchenPublic ? (
+        <section className="section-block" id="kitchen">
+          <div className="section-heading">
+            <h2>キッチン・ストック</h2>
+            <Link href="/kitchen" className="text-link">
+              すべて
+            </Link>
+          </div>
+          <p className="section-lead">帰宅後のごはんやストック食品を、使う場面と一食量から選ぶノートです。体験談ではなく、メーカー資料と外部の使用記事をもとにしています。</p>
+          <KitchenList articles={kitchen} />
+        </section>
+      ) : null}
 
       <section className="section-block" id="categories">
         <div className="section-heading">

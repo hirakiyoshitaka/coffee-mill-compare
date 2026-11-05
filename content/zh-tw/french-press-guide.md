@@ -64,7 +64,7 @@ Chambord 是 BODUM 放在法式濾壓玻璃壺系列的產品。2026 年 11 月 
 
 細粉容易穿過網目、沉到杯底，這是一般說法，不是本站的試飲結果。
 
-栗子 S5 Pro 的官方建議裡，法壓是 8.0–9.0。數字出處是[評測](/zh-tw/articles/timemore-chestnut-s5-pro/)從官方轉載的範圍，只是起點。把這個 8 抄到別台磨豆機的「8」，刻度對不上。站長每天用的是狩獵綠的這台 S5 Pro，用法以手沖為主，沒有用法壓沖煮的紀錄。
+栗子 S5 Pro 的官方建議裡，法壓是 8.0–9.0。數字出處是[評測](/zh-tw/articles/timemore-chestnut-s5-pro/)從官方轉載的範圍，只是起點。把這個 8 抄到別台磨豆機的「8」，刻度對不上。站長每天用的是 TIMEMORE 栗子 S3。一次大約磨 30g，做 2–3 杯。沒有在用栗子 S5 Pro。沒有用法壓沖煮的紀錄。
 
 [Epeios Essence Go](/zh-tw/articles/epeios-essence-go/)刊出的資料裡，沒有依萃取方式給的建議刻度。1Zpresso 各型的一格寬度也和 8.0–9.0 不是同一套，分法見[1Zpresso 手搖磨豆機怎麼挑](/zh-tw/articles/1zpresso-hand-grinder-lineup/)。
 

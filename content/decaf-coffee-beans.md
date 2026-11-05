@@ -35,9 +35,9 @@ date: "2026-10-30"
 | 粉 | ミルがない人 | 挽いたあとは香りが落ちやすい。量は飲み切れる範囲に |
 | ドリップバッグ | 道具を増やしたくない人 | 一杯ずつ。ギフトにも使いやすい |
 
-豆で買うなら、手挽きの選び方は[はじめての手挽きコーヒーミルの選び方](/articles/how-to-choose-hand-coffee-mill/)です。このサイトが先に置いているレビューは[栗子 S5 Pro](/articles/timemore-chestnut-s5-pro/)と[Essence Go](/articles/epeios-essence-go/)で、順番は[コーヒーミルおすすめランキング](/articles/coffee-mill-ranking/)、数値は[スペック比較](/compare/)です。開きかけの袋は[キャニスターの選び方](/articles/coffee-bean-canister-guide/)で、酸素・光・湿気・温度を避けます。
+豆で買うなら、手挽きの選び方は[はじめての手挽きコーヒーミルの選び方](/articles/how-to-choose-hand-coffee-mill/)です。このサイトが先に置くのはタイムモア栗子 S3 と[Essence Go](/articles/epeios-essence-go/)で、順番は[コーヒーミルおすすめランキング](/articles/coffee-mill-ranking/)、数値は[スペック比較](/compare/)です。運営者がふだん使っているのは栗子 S3 で、1回に約30g、2〜3杯分です。開きかけの袋は[キャニスターの選び方](/articles/coffee-bean-canister-guide/)で、酸素・光・湿気・温度を避けます。
 
-[タイムモア 栗子 S5 Pro を Amazon で見る（広告）](https://www.amazon.co.jp/dp/B0HF4LXCCY?tag=stocknotelife-22)
+[タイムモア 栗子 S3 を Amazon で見る（広告）](https://www.amazon.co.jp/dp/B0CMZCK9PR?tag=stocknotelife-22)
 
 [エペイオス Essence Go を Amazon で見る（広告）](https://www.amazon.co.jp/dp/B0D3PZHGBX?tag=stocknotelife-22)
 
