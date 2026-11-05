@@ -50,7 +50,7 @@ date: "2026-11-05"
 
 販売者の名前は、利用規約では LEO SPECIALTY COFFEE（株式会社DOUCE）です。
 
-[LEO SPECIALTY COFFEEの定期便を見る（広告）](https://px.a8.net/svt/ejp?a8mat=4BEPQ4+36WPAY+5XNE+5YJRM)
+[LEO SPECIALTY COFFEEの定期便を見る（広告）](https://px.a8.net/svt/ejp?a8mat=4BEPQ4+36WQ2Q+5XNE+5YJRM)
 
 このリンクは、このサイトに既にある店の広告リンクです。ドリップバッグ30包のページへ直接開くとは限りません。開いた先で、上の商品名と、税込7,980円、通常ドリップバッグタイプの在庫を確認してください。
 
