@@ -65,7 +65,7 @@ Kết quả tìm trộn mẫu khác. Kiểm tra tên hàng là MK4 Nitro Blade.
 
 Hạt xay bằng Timemore là [Coffee Carrot (珈琲きゃろっと)](/beans/coffee-carrot/), mua theo đăng ký. Thời gian xay những hạt này là khoảng hạnh phúc. Trang cửa hàng bằng tiếng Nhật.
 
-[Xem gói đăng ký Coffee Carrot (quảng cáo)](https://px.a8.net/svt/ejp?a8mat=4BEQHR+383LAA+2CG0+5YJRM)
+珈琲きゃろっと chỉ giao hàng trong nội địa Nhật Bản.
 
 Một số liên kết là quảng cáo. Xem [công bố quảng cáo](/vi/disclosure/).
 

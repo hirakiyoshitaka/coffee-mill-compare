@@ -68,7 +68,7 @@ Older beans lose aroma first, even when the numbers stay the same.
 
 I kept a [Coffee Carrot (珈琲きゃろっと)](/beans/coffee-carrot/) subscription for about a year because the coffee tasted good. That is not a coffee assigned to this recipe. The shop page is in Japanese.
 
-[View the Coffee Carrot subscription (ad)](https://px.a8.net/svt/ejp?a8mat=4BEQHR+383LAA+2CG0+5YJRM)
+Coffee Carrot ships only within Japan.
 
 ## Sources
 
