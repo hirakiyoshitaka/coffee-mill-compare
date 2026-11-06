@@ -91,7 +91,7 @@ export default function HomePage() {
               豆のお試し・定期便
             </Link>
           </div>
-          <p className="ad-note">購入リンクを置いた場合は広告です。空のリンクはボタンを出しません。</p>
+          <p className="ad-note">購入ボタンは広告リンクです。</p>
         </div>
         <figure className="hero-art">
           <Image
