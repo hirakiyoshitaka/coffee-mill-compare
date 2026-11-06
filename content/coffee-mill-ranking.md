@@ -27,7 +27,7 @@ date: "2026-10-26"
 
 ## 1位 タイムモア栗子 S3
 
-ふだん使っているのは、タイムモア栗子 S3 です。1回に約30gを挽き、2〜3杯分にしています。豆は[珈琲きゃろっと](/beans/coffee-carrot/)です。色、重さ、挽く時間の感想は書いていません。
+ふだん使っているのは、[タイムモア栗子 S3](/articles/timemore-chestnut-s3/)です。1回に約30gを挽き、2〜3杯分にしています。豆は[珈琲きゃろっと](/beans/coffee-carrot/)です。色、重さ、挽く時間の感想は書いていません。
 
 {{grinder:timemore-chestnut-s3}}
 
@@ -79,6 +79,7 @@ Essence Go は 870g、栗子 S5 Pro の公式値は約 910g です。2台の差�
 
 ## あわせて読みたい
 
+- [タイムモア栗子 S3｜ふだん使っている手挽き](/articles/timemore-chestnut-s3/)（1位のレビュー）
 - [高級手挽きコーヒーミル おすすめベスト3](/articles/luxury-relaxed-coffee-mill-best3/)（高級な手挽きだけ）
 - [コーヒーミル（手挽き・電動）の記事一覧](/categories/mill/)
 - [タイムモア S5 Pro と エペイオス Essence Go 比較](/articles/timemore-s5-pro-vs-essence-go/)

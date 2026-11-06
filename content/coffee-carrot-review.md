@@ -13,7 +13,7 @@ date: "2026-11-04"
 
 私は、珈琲きゃろっとの定期便を約1年続けました。美味しかったです。合わなければ途中でやめられます。やめずに1年あった、という事実を、このページの評価にしています。届いた銘柄ごとの味の点数は書いていません。店主との会話も書きません。
 
-届いた豆は、ふだん使っている手挽きミル、タイムモア栗子 S3 で挽いていました。1回に約30g、2〜3杯分です。色の指定はしていません。挽く秒数は測っていません。
+届いた豆は、ふだん使っている手挽きミル、[タイムモア栗子 S3](/articles/timemore-chestnut-s3/)で挽いていました。1回に約30g、2〜3杯分です。色の指定はしていません。挽く秒数は測っていません。
 
 ## 公式サイトで確認できること
 
@@ -46,7 +46,7 @@ date: "2026-11-04"
 
 ## 届いた豆を挽く
 
-豆のまま（オススメ）を選ぶなら、ミルが要ります。中細挽も、申し込みページで選べました。ふだん使っているのはタイムモア栗子 S3 です。もう一台持っている手挽きは、エペイオス Essence Go です。くるべさの豆を Essence Go で挽いた記録は、ここには書いていません。量を合わせるなら[コーヒースケールの選び方](/articles/coffee-scale-guide/)、ミルの並べ方は[手挽きコーヒーミルの選び方](/articles/how-to-choose-hand-coffee-mill/)です。
+豆のまま（オススメ）を選ぶなら、ミルが要ります。中細挽も、申し込みページで選べました。ふだん使っているのは[タイムモア栗子 S3](/articles/timemore-chestnut-s3/)です。もう一台持っている手挽きは、エペイオス Essence Go です。くるべさの豆を Essence Go で挽いた記録は、ここには書いていません。量を合わせるなら[コーヒースケールの選び方](/articles/coffee-scale-guide/)、ミルの並べ方は[手挽きコーヒーミルの選び方](/articles/how-to-choose-hand-coffee-mill/)です。
 [タイムモア 栗子 S3 を Amazon で見る（広告）](https://www.amazon.co.jp/dp/B0CMZCK9PR?tag=stocknotelife-22)
 
 [エペイオス Essence Go を Amazon で見る（広告）](https://www.amazon.co.jp/dp/B0D3PZHGBX?tag=stocknotelife-22)
@@ -55,6 +55,7 @@ date: "2026-11-04"
 
 ## あわせて読みたい
 
+- [タイムモア栗子 S3｜ふだん使っている手挽き](/articles/timemore-chestnut-s3/)（ふだん使っているミル）
 - [コーヒー豆の定期便おすすめ比較](/articles/coffee-bean-subscription/)
 - [豆の店の記事一覧](/beans/)
 - [スペシャルティコーヒー豆の通販ショップ比較](/articles/specialty-coffee-beans-shops/)
