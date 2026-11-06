@@ -24,3 +24,10 @@ date: "2026-11-04"
 2026年11月4日時点で、Amazon.co.jp の商品ページ（S3 Black、ASIN B0CMZCK9PR）は在庫ありでした。このボタンの行き先は、そのページです。同じページには S3 Green と ESP Black も並びます。買うときは、商品名が栗子 S3 であることを確認してください。
 
 [タイムモア 栗子 S3 を Amazon で見る（広告）](https://www.amazon.co.jp/dp/B0CMZCK9PR?tag=stocknotelife-22)
+
+## あわせて読みたい
+
+- [コーヒーミルおすすめランキング](/articles/coffee-mill-ranking/)（S3が1位）
+- [エペイオス Essence Goレビュー](/articles/epeios-essence-go/)（もう一台の手挽き）
+- [タイムモア S5 Pro と エペイオス Essence Go 比較](/articles/timemore-s5-pro-vs-essence-go/)
+- [珈琲きゃろっとの定期便を約1年続けた感想](/articles/coffee-carrot-review/)（ふだん挽いている豆）

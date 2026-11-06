@@ -7,7 +7,7 @@ date: "2026-10-27"
 
 はじめての手挽きミルは、選ぶ軸を少なくすると迷いません。この記事では、刃の径、挽き目の調整、重さ、置き場所（家か持ち運びか）の4つだけを見ます。数値は、各機種のページに載せているメーカー公表値をもとにした掲載データです。当サイトが計測した数字ではありません。
 
-先に結論です。家に置いてふだん使うならタイムモア栗子 S3 です。運営者がふだん使っていて、1回に約30g、2〜3杯分にしています。軽く回したい・分解してしまいたいなら[エペイオス Essence Go](/articles/epeios-essence-go/)です。栗子 S5 Pro は使っておらず、[レビューまとめ](/articles/timemore-chestnut-s5-pro/)です。価格は目安です。
+先に結論です。家に置いてふだん使うなら[タイムモア栗子 S3](/articles/timemore-chestnut-s3/)です。運営者がふだん使っていて、1回に約30g、2〜3杯分にしています。軽く回したい・分解してしまいたいなら[エペイオス Essence Go](/articles/epeios-essence-go/)です。栗子 S5 Pro は使っておらず、[レビューまとめ](/articles/timemore-chestnut-s5-pro/)です。価格は目安です。
 
 ## 1. 刃の径を見る
 
@@ -44,7 +44,7 @@ date: "2026-10-27"
 
 {{grinder:timemore-chestnut-s3}}
 
-家に置く一台として、このサイトの No.1 は栗子 S3 です。詳しくは[ランキング](/articles/coffee-mill-ranking/)です。栗子 S5 Pro の公式仕様は[レビューまとめ](/articles/timemore-chestnut-s5-pro/)にあります。
+家に置く一台として、このサイトの No.1 は[栗子 S3](/articles/timemore-chestnut-s3/)です。詳しくは[ランキング](/articles/coffee-mill-ranking/)です。栗子 S5 Pro の公式仕様は[レビューまとめ](/articles/timemore-chestnut-s5-pro/)にあります。
 
 {{grinder:epeios-essence-go}}
 
@@ -68,6 +68,7 @@ date: "2026-10-27"
 
 ## あわせて読みたい
 
+- [タイムモア栗子 S3｜ふだん使っている手挽き](/articles/timemore-chestnut-s3/)（No.1のレビュー）
 - [コーヒーミル（手挽き・電動）の記事一覧](/categories/mill/)
 - [タイムモア S5 Pro と エペイオス Essence Go 比較](/articles/timemore-s5-pro-vs-essence-go/)
 - [ゆとり時間を贅沢にするコーヒーミル ベスト3](/articles/luxury-relaxed-coffee-mill-best3/)
