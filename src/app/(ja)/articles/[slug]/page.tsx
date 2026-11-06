@@ -16,6 +16,26 @@ import { ShareButtons } from "@/components/ShareButtons";
 import { getModel } from "@/data/grinders";
 import { getSiteUrl } from "@/data/site";
 
+function splitAfterConclusion(markdown: string): [string, string] {
+  const aside = markdown.match(/<aside class="article-picks" aria-label="おすすめ結論">[\s\S]*?<\/aside>/);
+  if (aside && aside.index !== undefined) {
+    const end = aside.index + aside[0].length;
+    return [markdown.slice(0, end), markdown.slice(end)];
+  }
+
+  const heading = markdown.match(/^## おすすめ結論\s*$/m);
+  if (heading && heading.index !== undefined) {
+    const start = heading.index + heading[0].length;
+    const nextHeading = markdown.slice(start).search(/^## /m);
+    if (nextHeading !== -1) {
+      const end = start + nextHeading;
+      return [markdown.slice(0, end), markdown.slice(end)];
+    }
+  }
+
+  return [markdown, ""];
+}
+
 type Props = { params: Promise<{ slug: string }> };
 
 export const dynamicParams = false;
@@ -50,6 +70,7 @@ export default async function ArticlePage({ params }: Props) {
     .filter((item) => item.slug !== article.slug)
     .slice(0, 6);
   const ownConclusion = articleHasQuickPick(article.content);
+  const ownConclusionParts = ownConclusion ? splitAfterConclusion(article.content) : null;
   const siteUrl = getSiteUrl();
   const pageUrl = `${siteUrl}/articles/${article.slug}/`;
   const grinderIds = [...new Set([...article.content.matchAll(/\{\{grinder:([a-z0-9-]+)\}\}/g)].map((m) => m[1]))];
@@ -89,8 +110,11 @@ export default async function ArticlePage({ params }: Props) {
         ]}
       />
       <LanguageSwitcher current="ja" paths={articleLocalePaths(article.slug)} label="言語" />
-      <header className="mb-8">
-        <p className="text-xs font-medium tracking-wide text-[var(--seal)]">PR</p>
+      <header className="mb-6">
+        <p className="text-xs font-medium tracking-wide text-[var(--seal)]">
+          広告（PR）：この記事の購入リンクは広告です。
+          <Link href="/disclosure" className="ml-2 font-bold text-[var(--accent-dark)] underline underline-offset-4">広告表記</Link>
+        </p>
         <h1 className="mt-3 font-serif text-[1.75rem] leading-snug tracking-wide text-[var(--ink)] sm:text-[2.15rem]">{article.title}</h1>
         <p className="mt-4 text-sm text-stone-500">
           <time dateTime={article.date}>{formatJaDate(article.date)}</time>
@@ -103,14 +127,23 @@ export default async function ArticlePage({ params }: Props) {
             </>
           ) : null}
         </p>
-        <p className="mt-4 text-base leading-relaxed text-stone-600">{article.description}</p>
       </header>
-      <PrNotice />
-      <div className="mt-8">
-        {ownConclusion ? null : <QuickPick title={article.title} markdown={article.content} locale="ja" />}
-        {ownConclusion ? null : <ArticlePicks title={article.title} markdown={article.content} quickPick />}
-        <ArticleBody markdown={article.content} />
-      </div>
+      {ownConclusionParts ? (
+        <div>
+          <ArticleBody markdown={ownConclusionParts[0]} />
+          <PrNotice />
+          <p className="my-6 text-base leading-relaxed text-stone-600">{article.description}</p>
+          {ownConclusionParts[1] ? <ArticleBody markdown={ownConclusionParts[1]} /> : null}
+        </div>
+      ) : (
+        <div>
+          <QuickPick title={article.title} markdown={article.content} locale="ja" />
+          <PrNotice />
+          <p className="my-6 text-base leading-relaxed text-stone-600">{article.description}</p>
+          <ArticlePicks title={article.title} markdown={article.content} quickPick />
+          <ArticleBody markdown={article.content} />
+        </div>
+      )}
       {endModels.length > 0 ? (
         <section className="mt-12 border-t border-[var(--border-subtle)] pt-8" aria-label="この記事で紹介したミル">
           <h2 className="font-serif text-xl text-stone-950">この記事で紹介したミル</h2>
