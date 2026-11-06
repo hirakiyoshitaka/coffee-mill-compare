@@ -7,7 +7,7 @@ import { siteConfig } from "@/data/site";
 
 export const metadata = pageMeta({
   title: "道具カテゴリ",
-  description: "ミル、ドリッパー、ケトル、スケール、コーヒーメーカー、エスプレッソマシン、キャニスター、豆。公開中は手挽きミルと豆の店です。",
+  description: "ミル、ドリッパー、ケトル、スケール、コーヒーメーカー、エスプレッソマシン、キャニスター、豆。家のコーヒー道具を種類ごとに分けた目次です。",
   path: "/categories",
 });
 
@@ -18,7 +18,7 @@ export default function CategoriesPage() {
       <p className="hero-kicker">{siteConfig.coffeeSectionName}（コーヒー）の目次</p>
       <h1 className="page-title">道具カテゴリ</h1>
       <p className="lede">
-        家のコーヒー道具を、種類ごとに分ける目次です。中身があるのはミルと豆です。準備中のページには、機種名を置いていません。手挽きを5問で1台に決めるときは
+        家のコーヒー道具を、種類ごとに分ける目次です。手挽きを5問で1台に決めるときは
         <Link href="/mill-diagnosis/" className="mx-1 text-link">
           ミル選びの診断
         </Link>

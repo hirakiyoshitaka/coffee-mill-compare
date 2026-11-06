@@ -149,7 +149,7 @@ export default async function CategoryPage({ params }: Props) {
             )}
           </section>
         </>
-      ) : (
+      ) : category.status === "soon" ? (
         <section className="border border-[var(--line)] bg-[var(--white)] p-6">
           <h2 className="font-serif text-2xl text-stone-950">準備している比べ方</h2>
           <ul className="mt-4 list-disc space-y-1 pl-5 text-sm leading-relaxed text-stone-700">
@@ -178,7 +178,7 @@ export default async function CategoryPage({ params }: Props) {
             </p>
           ) : null}
         </section>
-      )}
+      ) : null}
 
       <section className="mt-14">
         <h2 className="mb-5 font-serif text-2xl text-stone-950">このカテゴリの記事</h2>
