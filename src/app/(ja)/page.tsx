@@ -225,7 +225,7 @@ export default function HomePage() {
             一覧
           </Link>
         </div>
-        <p className="section-lead">公開中はミルと豆です。ほかは、比べるページの枠だけ先に置いています。</p>
+        <p className="section-lead">ミル、ドリッパー、ケトル、スケール、コーヒーメーカー、エスプレッソマシン、キャニスター、豆の8つを公開中です。</p>
         <ul className="category-grid">
           {categories.map((category) => (
             <li key={category.slug}>
