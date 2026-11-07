@@ -66,7 +66,7 @@ J-Ultra は、公式が「1Zpressoでいちばん細かい」とする8ミクロ
 
 ドイツ製のクリック方式と比較したい人は[コマンダンテ C40 と栗子 S5 Pro の比較](/articles/comandante-c40-vs-timemore/)へ。
 
-[コマンダンテ C40 を Amazon で探す（広告）](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=%E3%82%B3%E3%83%9E%E3%83%B3%E3%83%80%E3%83%B3%E3%83%86+C40)
+[コマンダンテ C40 MK4 を Amazon で見る（広告）](https://www.amazon.co.jp/dp/B07JQ4P976?tag=stocknotelife-22)
 
 {{grinder:timemore-chestnut-s5-pro}}
 
@@ -88,7 +88,7 @@ J-Ultra は、公式が「1Zpressoでいちばん細かい」とする8ミクロ
 
 [1Zpresso K-UltraをAmazonで見る（広告）](https://www.amazon.co.jp/dp/B0CF8KW43N?tag=stocknotelife-22)
 
-[1Zpresso J-Ultra を Amazon で探す（広告）](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=1Zpresso+J-Ultra)
+[1Zpresso J-UltraをAmazonで見る（広告）](https://www.amazon.co.jp/dp/B0CMQNFZ1T?tag=stocknotelife-22)
 
 検索結果に別の型番が混ざることがあります。型番は商品名で照合してください。
 

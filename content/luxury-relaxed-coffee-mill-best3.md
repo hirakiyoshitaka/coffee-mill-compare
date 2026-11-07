@@ -39,7 +39,7 @@ date: "2026-11-02"
 
 詳しくは[C40 と栗子 S5 Pro の比較](/articles/comandante-c40-vs-timemore/)です。栗子 S5 Pro は、2026年11月4日に開いた公式の英語ページが在庫切れで、補充中、発送は1月末見込みだったので、この3台には入れていません。購入ボタンも置いていません。
 
-[コマンダンテ C40 を Amazon で探す（広告）](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=%E3%82%B3%E3%83%9E%E3%83%B3%E3%83%80%E3%83%B3%E3%83%86+C40)
+[コマンダンテ C40 MK4 を Amazon で見る（広告）](https://www.amazon.co.jp/dp/B07JQ4P976?tag=stocknotelife-22)
 
 検索結果には別の型番が混ざります。MK4 の Nitro Blade かを、商品名で確認してください。
 
