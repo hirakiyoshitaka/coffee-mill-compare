@@ -39,7 +39,7 @@ date: "2026-11-01"
 
 熱湯・電子レンジ・食洗機に印があり、オーブン・IH・直火にはありません。ガラスを火にかけない、という前提です。ハリオのドリップレシピで使う1杯120mLは、[ハンドドリップの淹れ方](/articles/beginner-hand-drip-recipe/)が取扱PDFから転記した数字で、サーバーのページの「1–3杯」とは別のページです。杯の中身のmLを、このサーバーのページだけから計算しないでください。
 
-[HARIO V60レンジサーバーをAmazonで探す（広告）](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=HARIO+V60+%E3%83%AC%E3%83%B3%E3%82%B8%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC)
+[HARIO V60レンジサーバーをAmazonで見る（広告）](https://www.amazon.co.jp/dp/B001O0LCPW?tag=stocknotelife-22)
 
 ### カリタ 300サーバーN と 500サーバーN
 

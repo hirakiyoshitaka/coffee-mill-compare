@@ -54,7 +54,7 @@ date: "2026-10-27"
 
 2台を並べて見たい人は、[ランキング](/articles/coffee-mill-ranking/)と[スペック比較](/compare/)を開いてください。1Zpressoを役割で分ける比較は[1Zpressoの手挽きミルの選び方](/articles/1zpresso-hand-grinder-lineup/)、コマンダンテ C40 と栗子 S5 Pro の仕様の違いは[C40とタイムモアの比較](/articles/comandante-c40-vs-timemore/)です。C40 も 1Zpresso も、運営者は使っていません。
 
-[コマンダンテ C40 を Amazon で探す（広告）](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=%E3%82%B3%E3%83%9E%E3%83%B3%E3%83%80%E3%83%B3%E3%83%86+C40)
+[コマンダンテ C40 MK4 を Amazon で見る（広告）](https://www.amazon.co.jp/dp/B07JQ4P976?tag=stocknotelife-22)
 
 ## ミルが決まったら豆
 

@@ -87,7 +87,7 @@ date: "2026-10-28"
 - **メーカー公表では**：ふたを回すだけで中を真空にでき、0.4L・0.7L・1.2Lの3サイズ。
 - 豆を挽く直前まで香りを守りたい人向けです。価格は6,490〜7,370円【2026年10月時点】。
 
-[Fellow AtmosをAmazonで探す](https://www.amazon.co.jp/s?k=fellow+atmos+真空キャニスター&tag=stocknotelife-22)
+[Fellow AtmosをAmazonで見る](https://www.amazon.co.jp/dp/B081C21KGW?tag=stocknotelife-22)
 
 ## どこから一段上げる？
 

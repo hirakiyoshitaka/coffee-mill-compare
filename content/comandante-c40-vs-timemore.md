@@ -66,7 +66,7 @@ FAQ は、底の刃を止めている3本のネジを外さないよう注意し
 
 S5 Pro の金額は、レビューに見た日付つきで残しています。ここに同じ数字を再掲すると、店の表示とずれます。C40 の円価格は、2026年10月31日に開いた公式商品ページでは確認していません。どちらも、入門の予算で収まる、とは書いていません。金額と在庫は変動します。
 
-[コマンダンテ C40 を Amazon で探す（広告）](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=%E3%82%B3%E3%83%9E%E3%83%B3%E3%83%80%E3%83%B3%E3%83%86+C40)
+[コマンダンテ C40 MK4 を Amazon で見る（広告）](https://www.amazon.co.jp/dp/B07JQ4P976?tag=stocknotelife-22)
 
 [タイムモア 栗子 S3 を Amazon で見る（広告）](https://www.amazon.co.jp/dp/B0CMZCK9PR?tag=stocknotelife-22)
 
