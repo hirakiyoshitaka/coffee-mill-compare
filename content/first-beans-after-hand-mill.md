@@ -11,7 +11,7 @@ date: "2026-10-26"
 
 ミルの側は、[タイムモア](/brands/timemore/)と[エペイオス](/brands/epeios/)のページもあります。店の一覧は[豆の店](/beans/)です。金額は目安で、時点は2026年10月26日時点の紹介です。
 
-{{grinder:timemore-chestnut-s5-pro}}
+{{grinder:timemore-chestnut-s3}}
 
 {{grinder:epeios-essence-go}}
 

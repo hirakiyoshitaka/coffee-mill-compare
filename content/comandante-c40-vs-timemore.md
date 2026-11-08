@@ -58,7 +58,7 @@ FAQ は、底の刃を止めている3本のネジを外さないよう注意し
 
 はじめての軸（刃の径、重さ、置き場所）は[手挽きミルの選び方](/articles/how-to-choose-hand-coffee-mill/)です。このサイトが先に見る順番は[コーヒーミルおすすめランキング](/articles/coffee-mill-ranking/)です。運営者の順は、栗子 S3、エペイオス Essence Go、C40 です。C40 と S5 Pro は使っていません。数値の横並びは[スペック比較](/compare/)です。
 
-{{grinder:timemore-chestnut-s5-pro}}
+{{grinder:timemore-chestnut-s3}}
 
 {{grinder:epeios-essence-go}}
 

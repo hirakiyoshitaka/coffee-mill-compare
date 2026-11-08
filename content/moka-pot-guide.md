@@ -62,7 +62,7 @@ date: "2026-11-01"
 
 [Essence Go](/articles/epeios-essence-go/)に、モカ用の推奨番号は掲載していません。ふだん細かく挽く負荷は、ポットが小さくても残ります。ふだんなら[電動コーヒーミルの選び方](/articles/electric-coffee-grinder-guide/)も見てください。マシンでショットを出す場合は[家でラテ・エスプレッソ](/articles/home-latte-espresso-machines/)です。ミルクを足す器具は[ミルクフォーマーの選び方](/articles/milk-frother-guide/)です。
 
-{{grinder:timemore-chestnut-s5-pro}}
+{{grinder:timemore-chestnut-s3}}
 
 {{grinder:epeios-essence-go}}
 

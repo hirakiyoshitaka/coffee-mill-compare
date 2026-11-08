@@ -45,7 +45,7 @@ date: "2026-10-31"
 
 運営者がふだん使っているのはタイムモア栗子 S3 です。1回に約30g、2〜3杯分です。上の12gレシピを、そのミルで計った秒数は残していません。選び方は[はじめての手挽きコーヒーミルの選び方](/articles/how-to-choose-hand-coffee-mill/)です。
 
-{{grinder:timemore-chestnut-s5-pro}}
+{{grinder:timemore-chestnut-s3}}
 
 ## 道具は、量を量れることが先
 
