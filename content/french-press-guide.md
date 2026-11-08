@@ -68,7 +68,7 @@ date: "2026-11-01"
 
 [エペイオス Essence Go](/articles/epeios-essence-go/)の掲載データには、抽出方法ごとの推奨番号がありません。はじめての軸は[手挽きミルの選び方](/articles/how-to-choose-hand-coffee-mill/)、先に見る2台の順は[コーヒーミルおすすめランキング](/articles/coffee-mill-ranking/)です。
 
-{{grinder:timemore-chestnut-s5-pro}}
+{{grinder:timemore-chestnut-s3}}
 
 {{grinder:epeios-essence-go}}
 

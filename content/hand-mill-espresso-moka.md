@@ -47,7 +47,7 @@ S5 Pro の公式の推奨範囲は、エスプレッソ 0–2.0、モカ 1.0–3
 
 軽い力で回すことを優先するなら Essence Go です。細挽きの推奨番号が掲載に無いので、モカやエスプレッソ専用の一台としては、このサイトは勧めていません。ドリップと持ち出しの役割は[2台の比較](/articles/timemore-s5-pro-vs-essence-go/)です。掲載の数値は[スペック比較](/compare/)、先に見る順番は[コーヒーミルおすすめランキング](/articles/coffee-mill-ranking/)です。
 
-{{grinder:timemore-chestnut-s5-pro}}
+{{grinder:timemore-chestnut-s3}}
 
 {{grinder:epeios-essence-go}}
 

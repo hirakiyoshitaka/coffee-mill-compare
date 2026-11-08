@@ -45,11 +45,11 @@ date: "2026-10-31"
 
 ## このサイトの手挽き2台
 
-家に置いてドリップの目盛りを残すなら栗子 S5 Pro、軽い力で回したい・分解して持ち出したいなら Essence Go、という役割です。横並びは[2台の比較](/articles/timemore-s5-pro-vs-essence-go/)、[コーヒーミルおすすめランキング](/articles/coffee-mill-ranking/)、[スペック比較](/compare/)です。
+家に置いてふだん使うなら栗子 S3（運営者がふだん使っている1台）、軽い力で回したい・分解して持ち出したいなら Essence Go、という役割です。横並びは[2台の比較](/articles/timemore-s5-pro-vs-essence-go/)、[コーヒーミルおすすめランキング](/articles/coffee-mill-ranking/)、[スペック比較](/compare/)です。
 
 掲載している価格の目安は、どちらもおよそ1万円を超えます。価格は変動します。
 
-{{grinder:timemore-chestnut-s5-pro}}
+{{grinder:timemore-chestnut-s3}}
 
 {{grinder:epeios-essence-go}}
 
