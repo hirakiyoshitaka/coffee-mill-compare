@@ -9,6 +9,8 @@ function buyAnchor(target: EventTarget | null): HTMLAnchorElement | null {
   const anchor = target.closest("a");
   if (!(anchor instanceof HTMLAnchorElement)) return null;
   if (anchor.classList.contains("buy-link") || anchor.closest(".affiliate-html")) return anchor;
+  // 記事本文の購入リンク（markdown.ts が rel="sponsored" を付ける）も数える。店でない行き先は buyClickData が null を返す
+  if (anchor.relList.contains("sponsored")) return anchor;
   return null;
 }
 
