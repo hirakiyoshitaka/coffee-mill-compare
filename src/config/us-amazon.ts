@@ -18,7 +18,7 @@ export const usAmazonAssociateTag = "ouchidougub03-20";
  */
 export const usAmazonAsinByGrinderId: Record<string, string> = {
   "timemore-chestnut-s5-pro": "",
-  "timemore-chestnut-s3": "",
+  "timemore-chestnut-s3": "B0CMZCK9PR",
   "epeios-essence-go": "",
 };
 
