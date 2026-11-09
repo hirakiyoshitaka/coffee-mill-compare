@@ -81,7 +81,7 @@ const ui: Record<TranslationLocale, { og: string; home: string; pr: string; disc
     home: "Japanese edition",
     pr: "Advertising disclosure",
     disclosure:
-      "This article contains ads and affiliate links. As an Amazon Associate (Amazon.co.jp), we earn from qualifying purchases, and we may earn a commission when you buy through some links at no extra cost to you. Rankings are not based on commission rates, and prices are for reference only.",
+      "This article contains ads and affiliate links. As an Amazon Associate (Amazon.com and Amazon.co.jp), we earn from qualifying purchases, and we may earn a commission when you buy through some links at no extra cost to you. Rankings are not based on commission rates, and prices are for reference only.",
     next: "Read next",
     nextNote: "If you are still choosing, these pages are the next stop.",
     others: "More articles",
