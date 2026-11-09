@@ -3,20 +3,22 @@ import type { GrinderType } from "@/data/grinders";
 
 /**
  * 英語ページの手挽きミル向け、amazon.com のアソシエイトタグ。
- * 空のあいだは amazon.com の購入ボタンを出さない。
- * タグは作らない。日本の stocknotelife-22 を amazon.com に使い回さない。
- * タグを入れたら、英語の広告表記（disclosure・フッター）も合わせて直す。
+ * オーナーが 2026-11-09 に Amazon.com アソシエイトに登録したもの（作った ID ではない）。
+ * 日本の stocknotelife-22 を amazon.com に、このタグを amazon.co.jp に使い回さない。
+ * 英語の広告表記（disclosure・フッター・記事の前の表記）は、このタグに合わせてある。
  */
-export const usAmazonAssociateTag = "";
+export const usAmazonAssociateTag = "ouchidougub03-20";
 
 /**
  * 手挽きミルごとの amazon.com ASIN。未確認は空文字。空ならボタンを出さない。
+ * 入れるのは、amazon.com の商品ページで同じ機種・在庫ありを確かめたものだけ。
  * 2026-11-04 時点で、栗子 S5 Pro の amazon.com 商品ページと、
  * エペイオス Essence Go と同一商品の ASIN は確認できていないため空のまま。
  * 別機種（Chestnut C3 系、Cocinare ESSENCE GO）の ASIN は入れない。
  */
 export const usAmazonAsinByGrinderId: Record<string, string> = {
   "timemore-chestnut-s5-pro": "",
+  "timemore-chestnut-s3": "",
   "epeios-essence-go": "",
 };
 
