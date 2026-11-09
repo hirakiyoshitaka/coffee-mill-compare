@@ -28,7 +28,7 @@ The official chooser still lists the J, JX-Pro S, JE-Plus, and X-Pro S, and it i
 
 If the grinder lives at home for pour-over, this site points to the Chestnut S3 first. That is the one I usually use, about 30g at a time, for 2–3 cups. I do not use the Chestnut S5 Pro. For a lighter bag, start with the Q2 search and match the model name.
 
-This English page does not show Amazon purchase buttons. A grinder card shows a Rakuten or Shopee link only when that URL is already on file.
+The K-Ultra section has an Amazon.com link, which is an ad. A grinder card shows a Rakuten or Shopee link only when that URL is already on file.
 ## Next step
 
 Once the job is clear, these are the same-language pages that pick up from here.
@@ -77,6 +77,8 @@ The ZP6 Special uses a 48mm hexagonal stainless burr. The official description s
 
 The K-Ultra is the model 1Zpresso places in the all-methods slot. The external dial is 100 clicks per turn and 20 microns per click, and the manual says you can keep turning past one full rotation. Capacity is 35–40g and weight is 700g. The burr is heptagonal. The product page opened on October 31, 2026 did not give the burr diameter in millimeters. Espresso sits inside its range. If you are comparing click size alone, the J-Ultra's published step is finer.
 
+<p class="affiliate-html"><a href="https://www.amazon.com/dp/B0CC4LXF1Z?tag=ouchidougub03-20">See the K-Ultra on Amazon.com</a> (ad)</p>
+
 ### Espresso clicks: J-Ultra
 
 The J-Ultra is the 8-micron step that 1Zpresso calls the finest in its range. The burr is a coated 48mm, and the maker describes the grinder as built for espresso. Weight is 670g, capacity is 35–40g, and the catch cup is magnetic. A finer click does not remove the work of grinding espresso by hand every morning. If that is the plan, read [how to choose an electric coffee grinder](/en/articles/electric-coffee-grinder-guide/) and [hand vs electric grinders](/en/articles/hand-vs-electric-coffee-mill/). A machine that grinds and brews the shot is a different purchase: [Breville vs De'Longhi all-in-one espresso machines](/en/articles/breville-vs-delonghi-all-in-one-espresso/) and [Best all-in-one espresso machines of 2026](/en/articles/best-all-in-one-espresso-machines-2026/). The only hand grinder whose official espresso range this site has checked is the [Chestnut S5 Pro](/en/articles/timemore-chestnut-s5-pro/). This article does not copy a recommended J-Ultra click number.
@@ -115,4 +117,4 @@ Official pages opened on October 31, 2026.
 - [K-Ultra](https://1zpresso.coffee/product/kultra/)
 - [J-Ultra](https://1zpresso.coffee/j-ultra/)
 
-Purchase links that remain on the grinder cards and the Coffee Carrot button are ads. This English page does not show Amazon purchase buttons. See our [disclosure](/en/disclosure/) for details.
+Purchase links that remain on the grinder cards, the Coffee Carrot button, and the Amazon.com link in the K-Ultra section are ads. See our [disclosure](/en/disclosure/) for details.
