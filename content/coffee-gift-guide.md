@@ -11,7 +11,7 @@ updated: "2026-11-09"
 <p>相手の道具が分からなければ<strong>箱入りのドリップバッグ</strong>。ミルを持っている人には<strong>豆</strong>。これから自分で淹れたい人には、運営者がふだん使っている<strong>タイムモア栗子 S3</strong>。</p>
 <p class="fine">お歳暮は12月上旬、クリスマスは12月中旬までに届く手配が目安です。値段と在庫、のし・包装の有無は、ボタンの先のページで確認してください。</p>
 <div class="cta-after-table">
-<a href="https://www.amazon.co.jp/s?tag=stocknotelife-22&k=%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC+%E3%82%AE%E3%83%95%E3%83%88+%E3%83%89%E3%83%AA%E3%83%83%E3%83%97%E3%83%90%E3%83%83%E3%82%B0" class="buy-link">コーヒー ギフトのドリップバッグを Amazon で探す（広告）</a>
+<a href="https://www.amazon.co.jp/dp/B0GZK4YTFQ?tag=stocknotelife-22" class="buy-link">丸山珈琲 ドリップバッグ 2種アソートギフトを Amazon で見る（広告）</a>
 <a href="https://www.amazon.co.jp/dp/B0CMZCK9PR?tag=stocknotelife-22" class="buy-link">タイムモア 栗子 S3 を Amazon で見る（広告）</a>
 </div>
 </aside>
