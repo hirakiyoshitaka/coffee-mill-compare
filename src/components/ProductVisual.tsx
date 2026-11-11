@@ -7,6 +7,14 @@ type Variant = "card" | "embed" | "compact";
 
 export function ProductVisual({ model, variant = "card", locale = "ja" }: { model: GrinderModel; variant?: Variant; locale?: SiteLocale }) {
   if (!model.imageUrl) {
+    if (locale === "ja") {
+      return (
+        <div className="product-photo-note">
+          <p className="product-placeholder-kicker">製品写真は未掲載</p>
+          {model.placeholderNote ? <p className="product-placeholder-note">{model.placeholderNote}</p> : null}
+        </div>
+      );
+    }
     return (
       <div
         className={`product-placeholder ${variant === "compact" ? "is-compact" : ""} ${variant === "embed" ? "is-embed" : ""}`}

@@ -31,6 +31,8 @@ export type GrinderModel = {
   priceJpyHint: string;
   /** カードに出す、運営者の一言。味の断定は書かない */
   highlight?: string;
+  /** 運営者の使用が確認できる機種だけ。日本語の購入カードで使う */
+  ownerUse?: "daily" | "used";
   /** 購入ボタンの直前に出す注意。リンク先の選び方など */
   purchaseNote?: string;
   /** 専用レビュー記事のスラッグ */
@@ -99,12 +101,15 @@ export const grinderModels: Record<string, GrinderModel> = {
     brandSlug: "timemore",
     name: "TIMEMORE 栗子 S3",
     shortLabel: "栗子 S3",
+    imageUrl: "/images/timemore-s3-green-owner.webp",
+    imageAlt: "運営者がふだん使っているタイムモア栗子 S3（グリーン）",
     type: "manual",
     burrMaterial: "SUS420 S2C890（6軸CNC、硬度58HRC）",
     adjustment: "外ダイヤル 0.015mm/click、90クリック/回転（米国公式の比較表）",
     priceJpyHint: "日本公式は 2026年11月4日に ¥26,000 と ¥22,800 を併記。表示は変わる",
-    highlight: "運営者がふだん使っています。1回に約30gを挽き、2〜3杯分です。",
-    purchaseNote: "このリンクは栗子 S3 の商品ページ（ASIN B0CMZCK9PR）です。商品名が栗子 S3 であることを確認してください。",
+    highlight: "2〜3杯分をまとめて挽きたい方に。運営者はふだん、1回に約30gを挽いています。",
+    ownerUse: "daily",
+    purchaseNote: "購入前に、商品名とカラーをご確認ください。",
     reviewSlug: "timemore-chestnut-s3",
     rakutenUrl: "",
     amazonUrl: "https://www.amazon.co.jp/dp/B0CMZCK9PR?tag=stocknotelife-22",
@@ -117,6 +122,7 @@ export const grinderModels: Record<string, GrinderModel> = {
     caveats: [
       "米国公式は、ゼロで刃のすき間が 0.075mm、ハンドルを押すとこすれることがある、と注記しています",
       "2026年11月4日の公式商品ページ本文では、重量の数字を確認できませんでした",
+      "購入ボタンの先は栗子 S3 の商品ページ（ASIN B0CMZCK9PR）です。商品名が栗子 S3 であることを確認してください",
     ],
   },
   /** EPEIOS: 比較対象は Essence Go のみ固定。価格・スペックは静的（公式 URL の定期同期なし・要更新時は手動で編集）。 */
@@ -125,7 +131,8 @@ export const grinderModels: Record<string, GrinderModel> = {
     brandSlug: "epeios",
     name: "エペイオス Essence Go",
     shortLabel: "Essence Go",
-    highlight: "公式は、38mm・10枚刃で挽きはじめの軽さを狙った、と説明しています。専用ケース付きです。運営者の一言は「とにかく軽く回る」。",
+    highlight: "回し心地の軽さを重視する方に。運営者の一言は「とにかく軽く回る」。専用ケース付きです。",
+    ownerUse: "used",
     reviewSlug: "epeios-essence-go",
     imageUrl:
       "https://epeios.jp/cdn/shop/files/20250121_epeios_3177.jpg?v=1744272927&width=1200",
