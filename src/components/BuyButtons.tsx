@@ -18,9 +18,10 @@ type Props = {
   html?: string;
   note?: string;
   locale?: SiteLocale;
+  primaryHref?: string;
 };
 
-export function grinderBuyProps(model: Pick<GrinderModel, "id" | "type" | "name" | "rakutenUrl" | "amazonUrl" | "yahooUrl" | "shopeeMyUrl" | "moshimoHtml" | "purchaseNote">, locale: SiteLocale = "ja", noteLocalized = false): Props {
+export function grinderBuyProps(model: Pick<GrinderModel, "id" | "type" | "name" | "rakutenUrl" | "amazonUrl" | "yahooUrl" | "shopeeMyUrl" | "moshimoHtml" | "purchaseNote" | "ownerUse">, locale: SiteLocale = "ja", noteLocalized = false): Props {
   const d = cardDict[locale];
   const amazonCom = locale === "en" ? englishHandGrinderAmazonUrl(model) : undefined;
   return {
@@ -29,9 +30,10 @@ export function grinderBuyProps(model: Pick<GrinderModel, "id" | "type" | "name"
     // 翻訳ページでは、翻訳済みの purchaseNote があるときだけ出す
     note: locale === "ja" || noteLocalized ? model.purchaseNote : undefined,
     locale,
+    primaryHref: locale === "ja" && model.ownerUse ? model.amazonUrl : undefined,
     links: [
       { href: model.rakutenUrl, label: d.rakuten },
-      { href: localesWithoutOverseasAmazon.has(locale) ? undefined : model.amazonUrl, label: d.amazon },
+      { href: localesWithoutOverseasAmazon.has(locale) ? undefined : model.amazonUrl, label: locale === "ja" && model.ownerUse ? d.amazonStock ?? d.amazon : d.amazon },
       { href: amazonCom, label: d.amazonCom ?? "Check price on Amazon.com" },
       { href: model.yahooUrl, label: d.yahoo },
       { href: model.shopeeMyUrl, label: d.shopeeMy },
@@ -40,7 +42,7 @@ export function grinderBuyProps(model: Pick<GrinderModel, "id" | "type" | "name"
   };
 }
 
-export function BuyButtons({ name, links, html, note, locale = "ja" }: Props) {
+export function BuyButtons({ name, links, html, note, locale = "ja", primaryHref }: Props) {
   const d = cardDict[locale];
   const visible = links.flatMap((link) => {
     const href = link.href?.trim();
@@ -49,18 +51,21 @@ export function BuyButtons({ name, links, html, note, locale = "ja" }: Props) {
   });
   const snippet = html?.trim() ?? "";
   if (visible.length === 0 && snippet === "") return null;
+  const primary = locale === "ja" ? visible.find((link) => link.href === primaryHref?.trim()) : undefined;
+  const ordered = primary ? [primary, ...visible.filter((link) => link !== primary)] : visible;
 
   return (
-    <div className="buy-stack">
+    <div className={`buy-stack${primary ? " buy-stack-primary" : ""}`}>
       <p className="buy-note">{d.buyNote}</p>
       {note ? <p className="fine buy-choice">{note}</p> : null}
-      {visible.map((link) => (
-        <a key={link.label} className="buy-link" href={link.href} target="_blank" rel={affiliateRel}>
-          {link.label}
-          <small>{d.ad}</small>
+      {ordered.map((link) => (
+        <a key={link.label} className={`buy-link${primary && link !== primary ? " buy-link-secondary" : ""}`} href={link.href} target="_blank" rel={affiliateRel}>
+          {primary ? <span>{link.label}</span> : link.label}
+          <small>{primary ? `（${d.ad}）` : d.ad}</small>
           <span className="sr-only">（{name}{`・${d.external}）`}</span>
         </a>
       ))}
+      {primary ? <p className="fine buy-confirm">在庫・値段・配送予定は、各ショップで確認してください。</p> : null}
       {snippet ? <div className="affiliate-html" dangerouslySetInnerHTML={{ __html: prepareAffiliateHtml(snippet) }} /> : null}
     </div>
   );

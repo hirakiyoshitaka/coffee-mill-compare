@@ -12,6 +12,7 @@ function diameterLabel(model: GrinderModel, locale: SiteLocale): string {
 export function GrinderCard({ model: baseModel, variant = "tile", locale = "ja", reviewHref }: { model: GrinderModel; variant?: "tile" | "embed"; locale?: SiteLocale; reviewHref?: string }) {
   const d = cardDict[locale];
   const ja = locale === "ja";
+  const owned = ja && baseModel.ownerUse;
   const model = localizeModel(baseModel, locale);
   const typeLabel = ja ? grinderTypeLabel(model.type) : localizedTypeLabel(model.type, locale);
   const brand = getBrand(model.brandSlug);
@@ -25,6 +26,21 @@ export function GrinderCard({ model: baseModel, variant = "tile", locale = "ja",
 
   const jaRank = featuredLabel(model.id);
   const rank = ja ? jaRank : jaRank?.replace(/^おすすめ\s*/, "");
+  const specList = (
+    <dl className="mt-2 grid gap-3 sm:grid-cols-2">
+      {specs.map(([label, value]) => (
+        <div key={label}>
+          <dt className="text-[13px] text-[var(--muted)]">{label}</dt>
+          <dd>{value}</dd>
+        </div>
+      ))}
+    </dl>
+  );
+  const ownerBadge = owned ? (
+    <p className="owner-use-badge">
+      {baseModel.ownerUse === "daily" ? "運営者がふだん使っています" : "運営者が使っています"}
+    </p>
+  ) : null;
   const body = (
     <div className="product-body flex flex-1 flex-col">
       <p className="pick-label">{rank ?? `${(ja ? brand?.nameJa : brand?.nameEn) ?? model.brandSlug}・${typeLabel}`}</p>
@@ -36,24 +52,29 @@ export function GrinderCard({ model: baseModel, variant = "tile", locale = "ja",
       ) : null}
       <h3>{model.name}</h3>
       {(ja || model.localized) && model.highlight ? <p>{model.highlight}</p> : null}
-      {variant === "embed" ? (
-        <dl className="mt-2 grid gap-3 sm:grid-cols-2">
-          {specs.map(([label, value]) => (
-            <div key={label}>
-              <dt className="text-[13px] text-[var(--muted)]">{label}</dt>
-              <dd>{value}</dd>
-            </div>
-          ))}
-        </dl>
+      {owned ? (
+        <>
+          <BuyButtons {...grinderBuyProps(model, locale, model.localized)} />
+          <details className="purchase-details">
+            <summary>仕様・購入前の確認点</summary>
+            {specList}
+            <p className="fine">購入前の確認点</p>
+            <ul>
+              {model.caveats.map((caveat) => <li key={caveat}>{caveat}</li>)}
+            </ul>
+          </details>
+        </>
       ) : (
-        <p>{model.cuppingNotes[0]}</p>
+        <>
+          {variant === "embed" ? specList : <p>{model.cuppingNotes[0]}</p>}
+          <p className="price-row">
+            <span>{d.price}</span>
+            <strong>{model.priceJpyHint}</strong>
+          </p>
+          {d.priceNote ? <p className="fine">{d.priceNote}</p> : null}
+          <BuyButtons {...grinderBuyProps(model, locale, model.localized)} />
+        </>
       )}
-      <p className="price-row">
-        <span>{d.price}</span>
-        <strong>{model.priceJpyHint}</strong>
-      </p>
-      {d.priceNote ? <p className="fine">{d.priceNote}</p> : null}
-      <BuyButtons {...grinderBuyProps(model, locale, model.localized)} />
       <p className="hero-actions mt-auto pt-2">
         {ja && model.reviewSlug ? (
           <Link href={`/articles/${model.reviewSlug}`} className="text-link">
@@ -74,8 +95,9 @@ export function GrinderCard({ model: baseModel, variant = "tile", locale = "ja",
 
   if (variant === "embed") {
     return (
-      <aside className="product-card my-8">
-        <div className="grid sm:grid-cols-[14rem_minmax(0,1fr)]">
+      <aside className={`product-card my-8${owned ? " owner-product-card" : ""}`}>
+        {ownerBadge}
+        <div className={model.imageUrl || !ja ? "grid sm:grid-cols-[14rem_minmax(0,1fr)]" : undefined}>
           <ProductVisual model={model} variant="embed" locale={locale} />
           {body}
         </div>
@@ -84,7 +106,8 @@ export function GrinderCard({ model: baseModel, variant = "tile", locale = "ja",
   }
 
   return (
-    <article className="product-card flex h-full flex-col">
+    <article className={`product-card flex h-full flex-col${owned ? " owner-product-card" : ""}`}>
+      {ownerBadge}
       <ProductVisual model={model} locale={locale} />
       {body}
     </article>

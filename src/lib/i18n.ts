@@ -29,6 +29,8 @@ export const cardDict: Record<
     external: string;
     rakuten: string;
     amazon: string;
+    /** 日本語の実機購入カード用。未設定の言語では amazon を使う */
+    amazonStock?: string;
     /** 英語ページの amazon.com。未設定の言語では出さない */
     amazonCom?: string;
     yahoo: string;
@@ -52,6 +54,7 @@ export const cardDict: Record<
     external: "外部サイト",
     rakuten: "楽天で見る",
     amazon: "Amazonで価格を見る",
+    amazonStock: "Amazonで在庫と値段を見る",
     yahoo: "Yahoo!ショッピングで価格を見る",
     shopeeMy: "Shopee（マレーシア）で見る",
     review: "レビューを読む",
