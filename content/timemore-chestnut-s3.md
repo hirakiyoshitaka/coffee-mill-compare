@@ -7,6 +7,14 @@ date: "2026-11-04"
 
 運営者がふだん使っている手挽きは、タイムモア栗子 S3（Chestnut S3）です。1回に約30gを挽きます。2〜3杯分です。
 
+![運営者がふだん使っているタイムモア栗子 S3（グリーン）。机の上で、豆の袋の横に置いている](/images/timemore-s3-green-owner.webp)
+
+![運営者の S3 の横に置いた、淹れたコーヒーのカップ](/images/timemore-s3-green-cup.webp)
+
+写真は運営者の S3 です。色はグリーンです。下の購入ボタンの先は S3 Black の商品ページで、同じページで色を選べます（2026年11月4日時点）。
+
+{{grinder:timemore-chestnut-s3}}
+
 ## 公式の仕様
 
 次の数字は、2026年11月4日の[米国公式ページ](https://www.timemore.com/products/timemore-manual-coffee-grinder-chestnut-s3)、[日本公式ページ](https://timemore.jp/products/timemore-s3-manual-coffee-grinder)、および同じ日の[栗子 S5 Pro の公式ページにある比較表](https://www.timemore.com/products/timemore-manual-coffee-grinder-chestnut-s5-pro)に沿っています。
