@@ -4,7 +4,7 @@ import { BuyButtons, grinderBuyProps } from "@/components/BuyButtons";
 import { getModel } from "@/data/grinders";
 import styles from "./ArticleOpening.module.css";
 
-// 対象4記事の商品・見出しを明示する。本文から商品を推測しない。
+// 対象7記事の商品・見出しを明示する。本文から商品を推測しない。
 // 使用事実は記事本文と既存の商品データに基づく。
 const openings: Record<string, { modelId: string; audience: string; label: string; evidence: string } | undefined> = {
   "coffee-mill-ranking": {
@@ -24,6 +24,24 @@ const openings: Record<string, { modelId: string; audience: string; label: strin
     audience: "Essence Go の回し心地と公式仕様を知りたい方へ",
     label: "この記事の結論",
     evidence: "運営者が持っているもう1台",
+  },
+  "how-to-choose-hand-coffee-mill": {
+    modelId: "timemore-chestnut-s3",
+    audience: "はじめての手挽きを、家でふだん使いたい方へ",
+    label: "迷ったら、この1台",
+    evidence: "運営者がふだん使っている1台",
+  },
+  "timemore-chestnut-s5-pro": {
+    modelId: "timemore-chestnut-s3",
+    audience: "S5 Pro が売り切れで、代わりを探している方へ",
+    label: "売り切れなら、この1台",
+    evidence: "運営者がふだん使っている1台",
+  },
+  "timemore-s5-pro-vs-essence-go": {
+    modelId: "timemore-chestnut-s3",
+    audience: "2台で迷っている方へ。運営者のふだんの1台はこちら",
+    label: "迷ったら、この1台",
+    evidence: "運営者がふだん使っている1台",
   },
   "amazon-black-friday-coffee-gear": {
     modelId: "timemore-chestnut-s3",
