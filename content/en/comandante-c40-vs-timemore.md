@@ -19,7 +19,7 @@ We have not used a C40. What follows is the product page, FAQ, and manual we ope
 
 The hand grinder I usually use is the Timemore Chestnut S3. I grind about 30g at a time, for 2–3 cups. I do not use the Chestnut S5 Pro. We have not used the C40.
 
-The hand grinder I usually use is the Timemore Chestnut S3. I grind about 30g at a time, for 2–3 cups. I do not use the Chestnut S5 Pro.
+<p class="affiliate-html"><a href="https://www.amazon.com/dp/B0CMZCK9PR?tag=ouchidougub03-20">See the Chestnut S3 on Amazon.com</a> (ad)</p>
 
 ## Where the specs differ
 
