@@ -2,6 +2,8 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { ArticleBody } from "@/components/ArticleBody";
+import { ArticleOpening } from "@/components/ArticleOpening";
+import styles from "@/components/ArticleOpening.module.css";
 import { ArticlePicks, QuickPick } from "@/components/ArticlePicks";
 import { Breadcrumb } from "@/components/Breadcrumb";
 import { PrNotice } from "@/components/PrNotice";
@@ -71,6 +73,7 @@ export default async function ArticlePage({ params }: Props) {
     .slice(0, 6);
   const ownConclusion = articleHasQuickPick(article.content);
   const ownConclusionParts = ownConclusion ? splitAfterConclusion(article.content) : null;
+  const localePaths = articleLocalePaths(article.slug);
   const siteUrl = getSiteUrl();
   const pageUrl = `${siteUrl}/articles/${article.slug}/`;
   const grinderIds = [...new Set([...article.content.matchAll(/\{\{grinder:([a-z0-9-]+)\}\}/g)].map((m) => m[1]))];
@@ -99,47 +102,57 @@ export default async function ArticlePage({ params }: Props) {
   };
 
   return (
-    <main className="page-wrap page-narrow">
+    <main className={`page-wrap page-narrow ${styles.page}`}>
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbLd) }} />
-      <Breadcrumb
-        items={[
-          { href: "/", label: "ホーム" },
-          { href: "/articles", label: "読みもの" },
-          { label: article.title },
-        ]}
-      />
-      <LanguageSwitcher current="ja" paths={articleLocalePaths(article.slug)} label="言語" />
-      <header className="mb-6">
-        <p className="text-xs font-medium tracking-wide text-[var(--seal)]">
+      <div className={styles.navigation}>
+        <Breadcrumb
+          items={[
+            { href: "/", label: "ホーム" },
+            { href: "/articles", label: "読みもの" },
+            { label: article.title },
+          ]}
+        />
+        {localePaths.length > 1 ? (
+          <details className={styles.languages}>
+            <summary>言語</summary>
+            <LanguageSwitcher current="ja" paths={localePaths} label="言語" />
+          </details>
+        ) : null}
+      </div>
+      <header className={styles.header}>
+        <p className={styles.disclosure}>
           広告（PR）：この記事の購入リンクは広告です。
-          <Link href="/disclosure" className="ml-2 font-bold text-[var(--accent-dark)] underline underline-offset-4">広告表記</Link>
+          <Link href="/disclosure">広告表記</Link>
         </p>
-        <h1 className="mt-3 font-serif text-[1.75rem] leading-snug tracking-wide text-[var(--ink)] sm:text-[2.15rem]">{article.title}</h1>
-        <p className="mt-4 text-sm text-stone-500">
-          <time dateTime={article.date}>{formatJaDate(article.date)}</time>
+        <h1 className={styles.title}>{article.title}</h1>
+        <p className={styles.meta}>
+          <span>公開 <time dateTime={article.date}>{formatJaDate(article.date)}</time></span>
+          {article.updated ? (
+            <span>更新 <time dateTime={article.updated}>{formatJaDate(article.updated)}</time></span>
+          ) : null}
           {category ? (
-            <>
-              <span className="mx-2">/</span>
-              <Link href={categoryHref(category.slug)} className="font-bold text-[var(--accent-dark)] underline underline-offset-4">
-                {category.shortName}
-              </Link>
-            </>
+            <Link href={categoryHref(category.slug)}>
+              {category.shortName}
+            </Link>
           ) : null}
         </p>
       </header>
+      <ArticleOpening slug={article.slug}>
+        {ownConclusionParts ? (
+          <ArticleBody markdown={ownConclusionParts[0]} />
+        ) : (
+          <QuickPick title={article.title} markdown={article.content} locale="ja" />
+        )}
+      </ArticleOpening>
+      <div className={styles.notice}><PrNotice /></div>
+      <p className="my-6 text-base leading-relaxed text-stone-600">{article.description}</p>
       {ownConclusionParts ? (
         <div>
-          <ArticleBody markdown={ownConclusionParts[0]} />
-          <PrNotice />
-          <p className="my-6 text-base leading-relaxed text-stone-600">{article.description}</p>
           {ownConclusionParts[1] ? <ArticleBody markdown={ownConclusionParts[1]} /> : null}
         </div>
       ) : (
         <div>
-          <QuickPick title={article.title} markdown={article.content} locale="ja" />
-          <PrNotice />
-          <p className="my-6 text-base leading-relaxed text-stone-600">{article.description}</p>
           <ArticlePicks title={article.title} markdown={article.content} quickPick />
           <ArticleBody markdown={article.content} />
         </div>
