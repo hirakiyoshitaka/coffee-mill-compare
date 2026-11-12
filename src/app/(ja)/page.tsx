@@ -2,22 +2,21 @@ import Image from "next/image";
 import Link from "next/link";
 import { ArticleList } from "@/components/ArticleList";
 import { BeanDirectoryCard } from "@/components/BeanViews";
+import { BuyButtons, grinderBuyProps } from "@/components/BuyButtons";
 import { GrinderCard } from "@/components/GrinderCard";
 import { StatusBadge } from "@/components/StatusBadge";
 import { beanShops } from "@/data/beans";
 import { categories, categoryHref } from "@/data/categories";
 import { getFeaturedModels } from "@/data/grinders";
-import { getArticle } from "@/lib/articles";
+import { articleModified, getArticle } from "@/lib/articles";
 import { PrNotice } from "@/components/PrNotice";
 import { KitchenList } from "@/components/KitchenList";
 import { getKitchenArticles, kitchenPublic } from "@/lib/kitchen";
 
-const heroImage =
-  "https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd?auto=format&fit=crop&w=1400&q=80";
-
 const reviewSlugs = [
   "coffee-mill-ranking",
   "how-to-choose-hand-coffee-mill",
+  "luxury-relaxed-coffee-mill-best3",
   "japanese-premium-coffee-makers",
   "coffee-maker-guide",
   "home-latte-espresso-machines",
@@ -25,6 +24,67 @@ const reviewSlugs = [
   "coffee-bean-subscription",
   "first-beans-after-hand-mill",
 ] as const;
+
+/** トップの「まず読む5本」。同じ形のカード（写真か文字の面 → 分類 → 見出し → 一文 → 更新日）で並べる。 */
+type Guide = {
+  slug: string;
+  kicker: string;
+  title: string;
+  text: string;
+  tag: string;
+  image?: { src: string; alt: string; credit?: string };
+  tile?: string[];
+};
+
+const guides: Guide[] = [
+  {
+    slug: "coffee-mill-ranking",
+    kicker: "ランキング",
+    title: "手挽きミルのおすすめ順",
+    text: "1位は栗子 S3、2位は Essence Go。3位のコマンダンテ C40 は使っておらず、レビューまとめです。",
+    tag: "使っている2台が上位",
+    tile: ["1　栗子 S3", "2　Essence Go", "3　C40"],
+  },
+  {
+    slug: "timemore-chestnut-s3",
+    kicker: "レビュー",
+    title: "タイムモア 栗子 S3",
+    text: "ふだん使っている手挽き。1回に約30gを挽いて、2〜3杯分にしています。仕様は公式ページから。",
+    tag: "運営者がふだん使っています",
+    image: { src: "/images/timemore-s3-green-cup.webp", alt: "運営者の S3 の横に置いた、淹れたコーヒーのカップ" },
+  },
+  {
+    slug: "epeios-essence-go",
+    kicker: "レビュー",
+    title: "エペイオス Essence Go",
+    text: "運営者の一言は「とにかく軽く回る」。38mm・10枚刃で、専用ケースが付きます。",
+    tag: "運営者が使っています",
+    image: {
+      src: "https://epeios.jp/cdn/shop/files/20250121_epeios_3177.jpg?v=1744272927&width=1200",
+      alt: "エペイオス Essence Go（EPEIOS公式サイトの製品写真）",
+      credit: "公式写真",
+    },
+  },
+  {
+    slug: "amazon-black-friday-coffee-gear",
+    kicker: "セールの前に",
+    title: "ブラックフライデーの前に決めること",
+    text: "使っている2台を中心に、買う前に決めておくことをまとめました。期間は発表のあとに書き足します。",
+    tag: "使っている2台が中心",
+    tile: ["Black Friday", "11月"],
+  },
+  {
+    slug: "coffee-carrot-review",
+    kicker: "豆の定期便",
+    title: "珈琲きゃろっとを約1年",
+    text: "定期便「くるべさ」を約1年続けた記録。申し込む前に知っておくことも、公式ページから書いています。",
+    tag: "運営者が続けていた定期便",
+    image: {
+      src: "/images/coffee-carrot-costa-rica-don-mayo.webp",
+      alt: "珈琲きゃろっとから届いたコスタリカ ドン・マヨの袋",
+    },
+  },
+];
 
 const leadPaths = [
   {
@@ -60,49 +120,65 @@ const leadPaths = [
   },
 ] as const;
 
+function dotDate(ymd: string): string {
+  return ymd.replaceAll("-", ".");
+}
+
 export default function HomePage() {
   const models = getFeaturedModels();
+  const pick = models.find((model) => model.id === "timemore-chestnut-s3") ?? models[0];
   const featuredShop = beanShops.find((shop) => shop.ownerExperience?.length) ?? beanShops[0];
   const otherShops = beanShops.filter((shop) => shop.slug !== featuredShop.slug);
   const articles = reviewSlugs
     .map((slug) => getArticle(slug))
     .filter((article) => article !== undefined)
     .map(({ slug, title, description, category, date }) => ({ slug, title, description, category, date }));
+  const guideCards = guides.flatMap((guide) => {
+    const article = getArticle(guide.slug);
+    return article ? [{ ...guide, modified: articleModified(article) }] : [];
+  });
 
   const kitchen = kitchenPublic ? getKitchenArticles().slice(0, 4) : [];
 
   return (
-    <main className="page-wrap">
-      <section className="hero">
-        <div>
-          <p className="hero-kicker">先に開くのは、3つの読みもの</p>
-          <h1>家のコーヒーを、記事から選ぶ。</h1>
-          <p className="hero-description">
-            手挽きミル、コーヒーメーカー、豆のお試しと定期便。売り切れの商品は置いていません。使っていない機械の体験は書きません。
+    <main className="page-wrap home-wrap">
+      <section className="home-hero" aria-labelledby="home-title">
+        <div className="home-hero-text">
+          <p className="hero-kicker">コーヒー道具の選び方ノート・PR を含みます</p>
+          <h1 id="home-title">家のコーヒー道具を、使っているものと公式情報で選ぶ。</h1>
+          <p className="home-lede">
+            手挽きミル、コーヒーメーカー、豆。使っている道具は体験から、使っていない道具は公式の情報と公開レビューから書いています。
           </p>
-          <div className="hero-actions">
-            <Link href="/articles/coffee-mill-ranking/" className="hero-cta">
-              ミルのおすすめを読む
-            </Link>
-            <Link href="/articles/japanese-premium-coffee-makers/" className="text-link">
-              コーヒーメーカーを読む
-            </Link>
-            <Link href="/articles/coffee-bean-subscription/" className="text-link">
-              豆のお試し・定期便
-            </Link>
-          </div>
-          <p className="ad-note">購入ボタンは広告リンクです。</p>
         </div>
-        <figure className="hero-art">
-          <Image
-            src={heroImage}
-            alt="カップに注がれたコーヒーのイメージ"
-            width={1400}
-            height={1200}
-            priority
-          />
-          <figcaption>写真はイメージです。特定の店や機種の実物ではありません。</figcaption>
-        </figure>
+
+        <aside className="home-pick" aria-labelledby="home-pick-title">
+          <p className="home-pick-label">迷ったら、この1台</p>
+          <div className="home-pick-main">
+            <Link href={`/articles/${pick.reviewSlug ?? "coffee-mill-ranking"}/`} className="home-pick-photo">
+              <Image
+                src={pick.imageUrl ?? "/images/timemore-s3-green-owner.webp"}
+                alt={pick.imageAlt ?? pick.name}
+                width={480}
+                height={480}
+                priority
+              />
+            </Link>
+            <div>
+              <p className="home-pick-owner">運営者がふだん使っています</p>
+              <h2 id="home-pick-title">{pick.name}</h2>
+              <p className="home-pick-text">1回に約30gを挽いて、2〜3杯分。ランキングの1位です。</p>
+            </div>
+          </div>
+          <BuyButtons {...grinderBuyProps(pick, "ja")} />
+          <p className="home-pick-links">
+            <Link href={`/articles/${pick.reviewSlug ?? "coffee-mill-ranking"}/`} className="text-link">
+              レビューを読む
+            </Link>
+            <Link href="/articles/coffee-mill-ranking/" className="text-link">
+              ランキングを見る
+            </Link>
+          </p>
+        </aside>
       </section>
 
       <nav className="path-links" aria-label="入口">
@@ -125,9 +201,97 @@ export default function HomePage() {
       </nav>
 
       <PrNotice />
+
       <section className="section-block" id="start">
         <div className="section-heading">
-          <h2>先に読む</h2>
+          <h2>まず読む5本</h2>
+          <Link href="/articles" className="text-link">
+            読みものの一覧
+          </Link>
+        </div>
+        <ul className="home-guides">
+          {guideCards.map((guide) => (
+            <li key={guide.slug}>
+              <Link href={`/articles/${guide.slug}/`} className="home-guide">
+                {guide.image ? (
+                  <span className="home-guide-media">
+                    <Image src={guide.image.src} alt={guide.image.alt} fill sizes="(min-width: 1100px) 20vw, (min-width: 720px) 45vw, 100vw" />
+                    {guide.image.credit ? <span className="home-guide-credit">{guide.image.credit}</span> : null}
+                  </span>
+                ) : (
+                  <span className="home-guide-media home-guide-tile" aria-hidden="true">
+                    {guide.tile?.map((line) => <span key={line}>{line}</span>)}
+                  </span>
+                )}
+                <span className="home-guide-body">
+                  <span className="home-guide-kicker">{guide.kicker}</span>
+                  <span className="home-guide-title">{guide.title}</span>
+                  <span className="home-guide-text">{guide.text}</span>
+                  <span className="home-guide-meta">
+                    <span>{guide.tag}</span>
+                    <time dateTime={guide.modified}>{dotDate(guide.modified)}</time>
+                  </span>
+                </span>
+              </Link>
+            </li>
+          ))}
+        </ul>
+      </section>
+
+      <section className="section-block" id="picks">
+        <div className="section-heading">
+          <h2>おすすめの手挽き</h2>
+          <Link href="/compare" className="text-link">
+            比較表を見る
+          </Link>
+        </div>
+        <p className="section-lead">
+          No.1 は栗子 S3、No.2 はエペイオス Essence Go です。運営者がふだん使っているのは栗子 S3 で、1回に約30g、2〜3杯分です。栗子 S5 Pro は使っていません。
+        </p>
+        <ul className="picks-grid">
+          {models.map((model) => (
+            <li key={model.id}>
+              <GrinderCard model={model} />
+            </li>
+          ))}
+        </ul>
+      </section>
+
+      <section className="section-block" id="writer">
+        <div className="home-writer">
+          <div>
+            <p className="hero-kicker">書いている人</p>
+            <h2>58歳の会社員が、朝のコーヒーのために。</h2>
+            <p className="home-writer-lede">
+              出かける前に、急がず少し良い道具で淹れたい。体験として書くのは、下の3つだけです。
+            </p>
+          </div>
+          <dl className="home-writer-facts">
+            <div>
+              <dt>タイムモア 栗子 S3</dt>
+              <dd>ふだん使い。1回に約30g、2〜3杯分</dd>
+            </div>
+            <div>
+              <dt>エペイオス Essence Go</dt>
+              <dd>使っています。一言は「とにかく軽く回る」</dd>
+            </div>
+            <div>
+              <dt>珈琲きゃろっと</dt>
+              <dd>定期便を約1年続けていました</dd>
+            </div>
+          </dl>
+          <p className="home-writer-note">
+            ほかの道具は、公式の情報と公開レビューのまとめです。
+            <Link href="/about" className="text-link">
+              運営者情報
+            </Link>
+          </p>
+        </div>
+      </section>
+
+      <section className="section-block" id="paths">
+        <div className="section-heading">
+          <h2>目的から探す</h2>
         </div>
         <ul className="article-index">
           {leadPaths.map((item, index) => (
@@ -147,24 +311,6 @@ export default function HomePage() {
                   </Link>
                 ))}
               </p>
-            </li>
-          ))}
-        </ul>
-      </section>
-      <section className="section-block" id="picks">
-        <div className="section-heading">
-          <h2>おすすめの手挽き</h2>
-          <Link href="/compare" className="text-link">
-            比較表を見る
-          </Link>
-        </div>
-        <p className="section-lead">
-          No.1 は栗子 S3、No.2 はエペイオス Essence Go です。運営者がふだん使っているのは栗子 S3 で、1回に約30g、2〜3杯分です。栗子 S3 の実機写真は未掲載です。栗子 S5 Pro は使っていません。
-        </p>
-        <ul className="picks-grid">
-          {models.map((model) => (
-            <li key={model.id}>
-              <GrinderCard model={model} />
             </li>
           ))}
         </ul>
