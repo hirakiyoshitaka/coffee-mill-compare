@@ -72,6 +72,19 @@ Amazon.co.jp は2026年11月5日に、年末のセール「Amazon ブラック�
 
 続けた記録は[珈琲きゃろっとの定期便を約1年続けた感想](/articles/coffee-carrot-review/)、ほかの店との比べ方は[コーヒー豆の定期便おすすめ比較](/articles/coffee-bean-subscription/)です。
 
+## 4. ほかに、セールで見ておくコーヒー道具
+
+ミル以外の道具も、セールで値段が動くことがあります。この棚は、運営者が使っていない商品のレビューまとめです。どれも、このサイトの記事で公式の情報や公開されている評判をまとめた商品です。くわしくは、それぞれの記事を読んでから選んでください。
+
+- **手挽きの上位機**：コマンダンテ C40 MK4。ドイツ製の、クリックで刻む手挽きです（[栗子 S5 Pro との比較](/articles/comandante-c40-vs-timemore/)）。[コマンダンテ C40 MK4 を Amazon で見る（広告）](https://www.amazon.co.jp/dp/B07JQ4P976?tag=stocknotelife-22)
+- **1台で淹れ方をまたぎたい**：1Zpresso K-Ultra。1Zpresso が、抽出方法をまたいで使う機種として位置づけています（[1Zpresso の選び方](/articles/1zpresso-hand-grinder-lineup/)）。[1Zpresso K-Ultra を Amazon で見る（広告）](https://www.amazon.co.jp/dp/B0CF8KW43N?tag=stocknotelife-22)
+- **ドリッパー**：HARIO V60 透過ドリッパー01。円すい形の定番です（[ハンドドリップの道具の選び方](/articles/hand-drip-gear-guide/)）。[HARIO V60 透過ドリッパー01 を Amazon で見る（広告）](https://www.amazon.co.jp/dp/B0BWGTYRTW?tag=stocknotelife-22)
+- **ケトル**：HARIO V60 ドリップケトル・フィット（[ハンドドリップの道具の選び方](/articles/hand-drip-gear-guide/)）。[HARIO V60 ドリップケトル・フィット を Amazon で見る（広告）](https://www.amazon.co.jp/dp/B07C9GG9XH?tag=stocknotelife-22)
+- **スケール**：TIMEMORE Black Mirror Basic 2.0（[ハンドドリップの道具の選び方](/articles/hand-drip-gear-guide/)）。[TIMEMORE Black Mirror Basic 2.0 を Amazon で見る（広告）](https://www.amazon.co.jp/dp/B07YCSF8VP?tag=stocknotelife-22)
+- **サーバー**：HARIO V60 レンジサーバー。熱湯・電子レンジ・食洗機に対応の印があります（[コーヒーサーバーの選び方](/articles/coffee-server-guide/)）。[HARIO V60 レンジサーバー を Amazon で見る（広告）](https://www.amazon.co.jp/dp/B001O0LCPW?tag=stocknotelife-22)
+
+セールの対象と在庫は、Amazon の商品ページでご確認ください。
+
 ## 贈り物にするなら
 
 ブラックフライデーは、お歳暮やクリスマスの準備の時期と重なります。相手が道具を持っているかで選び方が変わります。[コーヒー好きへのギフトおすすめ](/articles/coffee-gift-guide/)にまとめました。
