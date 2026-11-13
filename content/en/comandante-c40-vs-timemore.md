@@ -68,7 +68,7 @@ Burr size, weight, and where the grinder lives are covered in [how to choose you
 
 The S5 Pro amount, with the date it was seen, is kept on the review. Copying that number onto this page would drift away from the store. A yen price for the C40 was not on the official product page opened on October 31, 2026. This page does not place either grinder inside a beginner budget. Prices and stock move.
 
-On a C40, confirm MK4 and Nitro Blade in the product title. On a Chestnut S3, confirm the product name is Chestnut S3. This English page does not show Amazon purchase buttons.
+On a C40, confirm MK4 and Nitro Blade in the product title. On a Chestnut S3, confirm the product name is Chestnut S3. The Amazon.com links on this page go to the Chestnut S3 only, not the C40.
 
 The beans I kept on subscription for about a year, because they tasted good, are from [Coffee Carrot (珈琲きゃろっと)](/beans/coffee-carrot/). That shop page is in Japanese.
 
@@ -93,4 +93,4 @@ Coffee Carrot ships only within Japan.
 - [EPEIOS Essence Go review](/en/articles/epeios-essence-go/)
 - [Hand vs electric coffee grinders](/en/articles/hand-vs-electric-coffee-mill/)
 
-Purchase links that remain on the grinder cards are ads. This English page does not show Amazon purchase buttons. See our [disclosure](/en/disclosure/) for details.
+Purchase links that remain on the grinder cards and the Chestnut S3 Amazon.com links are ads. See our [disclosure](/en/disclosure/) for details.

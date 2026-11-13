@@ -39,6 +39,8 @@ For how to pick one, see our [electric coffee grinder guide](/en/articles/electr
 
 If you brew one or two cups of pour-over a day, I'd start with a hand grinder. That's how I started.
 
+<p class="affiliate-html"><a href="https://www.amazon.com/dp/B0CMZCK9PR?tag=ouchidougub03-20">See the Chestnut S3 on Amazon.com</a> (ad)</p>
+
 For a first manual grinder, read [how to choose your first hand grinder](/en/articles/how-to-choose-hand-coffee-mill/). For where to set the dial, see the [coffee grind size guide](/en/articles/coffee-grind-size-guide/).
 
 Comparing espresso machines with a built-in grinder? See [Breville vs De'Longhi all-in-one espresso machines](/en/articles/breville-vs-delonghi-all-in-one-espresso/).
