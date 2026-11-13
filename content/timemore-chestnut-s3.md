@@ -1,6 +1,6 @@
 ---
-title: "タイムモア栗子 S3｜ふだん使っている手挽き"
-description: "TIMEMORE 栗子 S3（Chestnut S3）について、運営者が書けるのは、ふだん使っていること、1回に約30g挽くこと、それで2〜3杯になることだけです。仕様は公式ページです。"
+title: "タイムモア栗子 S3 レビュー｜ふだん使っている手挽きコーヒーミルと公式の仕様"
+description: "TIMEMORE 栗子 S3（Chestnut S3）のレビューです。運営者はこの手挽きをふだん使い、1回に約30g挽いて2〜3杯にしています。刃・外ダイヤルの挽き目調整・ベアリングは公式ページの仕様をまとめました。"
 category: "mill"
 date: "2026-11-04"
 ---
@@ -36,6 +36,7 @@ date: "2026-11-04"
 ## あわせて読みたい
 
 - [コーヒーミルおすすめランキング](/articles/coffee-mill-ranking/)（S3が1位）
+- [Amazonブラックフライデー2026で買うコーヒー道具](/articles/amazon-black-friday-coffee-gear/)（セール前に決めておくこと）
 - [エペイオス Essence Goレビュー](/articles/epeios-essence-go/)（もう一台の手挽き）
 - [タイムモア S5 Pro と エペイオス Essence Go 比較](/articles/timemore-s5-pro-vs-essence-go/)
 - [珈琲きゃろっとの定期便を約1年続けた感想](/articles/coffee-carrot-review/)（ふだん挽いている豆）
