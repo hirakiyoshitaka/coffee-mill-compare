@@ -6,7 +6,8 @@ import styles from "./ArticleOpening.module.css";
 
 // 対象7記事の商品・見出しを明示する。本文から商品を推測しない。
 // 使用事実は記事本文と既存の商品データに基づく。
-const openings: Record<string, { modelId: string; audience: string; label: string; evidence: string } | undefined> = {
+// hideConclusion: 2つ目の結論枠を出さない記事（S3記事は1つ目の枠と重なるため）。
+const openings: Record<string, { modelId: string; audience: string; label: string; evidence: string; hideConclusion?: boolean } | undefined> = {
   "coffee-mill-ranking": {
     modelId: "timemore-chestnut-s3",
     audience: "朝をゆっくり始めたい、手挽き選びに迷う方へ",
@@ -18,6 +19,7 @@ const openings: Record<string, { modelId: string; audience: string; label: strin
     audience: "栗子 S3 の使い方と公式仕様を知りたい方へ",
     label: "この記事の結論",
     evidence: "運営者がふだん使っている1台",
+    hideConclusion: true,
   },
   "epeios-essence-go": {
     modelId: "epeios-essence-go",
@@ -79,7 +81,7 @@ export function ArticleOpening({ slug, children }: {
         <BuyButtons {...buyProps} />
       </div>
       {/* 元の結論を丸ごと表示し、選び方・注意文・購入先を残す。 */}
-      <div className={styles.conclusion}>{children}</div>
+      {opening.hideConclusion ? null : <div className={styles.conclusion}>{children}</div>}
     </section>
   );
 }
