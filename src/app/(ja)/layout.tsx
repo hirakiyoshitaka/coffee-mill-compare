@@ -56,6 +56,8 @@ export const metadata: Metadata = {
   },
   verification: {
     google: "cIg0nZI628JEfZ2DScJN6hiLaSIe0X4fIKUEZ2A7-QQ",
+    // Pinterest のサイト所有の確認（2026-11-14 社長のアカウント・確認後は外してよい）
+    other: { "p:domain_verify": "7be7c652275f790f2af9e633e30a0cee" },
   },
 };
 
