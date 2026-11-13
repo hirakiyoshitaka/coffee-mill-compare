@@ -1,6 +1,6 @@
 ---
 title: "Comandante C40 vs Timemore Chestnut S5 Pro: Counting Clicks or an External Dial"
-description: "Comandante C40 MK4 Nitro Blade and the Timemore Chestnut S5 Pro, compared on how you set the grind and how much they hold. I usually use the Chestnut S3, about 30g at a time, for 2–3 cups. I do not use the S5 Pro. We have not used the C40. Its weight and a yen price were not on the official page we checked, so they are left out."
+description: "Comandante C40 MK4 (Nitro Blade) vs Timemore Chestnut S5 Pro: counting clicks or turning an external dial, and how much each holds, from the official pages. Written by a Timemore Chestnut S3 owner who grinds about 30g at a time for 2–3 cups."
 category: "mill"
 date: "2026-10-31"
 ---

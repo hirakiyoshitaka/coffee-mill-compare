@@ -1,6 +1,6 @@
 ---
 title: "How to Choose a 1Zpresso Hand Grinder: Q2, X-Ultra, ZP6, K-Ultra, and J-Ultra"
-description: "Which 1Zpresso hand grinder fits travel, pour-over, or espresso: the Q2 S, Q Air, X-Ultra, ZP6 Special, K-Ultra, and J-Ultra. Figures are from official pages opened on October 31, 2026. We have not used these grinders, and this page does not list yen prices."
+description: "Q2 S, Q Air, X-Ultra, ZP6 Special, K-Ultra, or J-Ultra? Which 1Zpresso hand grinder fits travel, pour-over, or espresso, sorted by the job each model is made for. Figures from the official pages, checked October 31, 2026."
 category: "mill"
 date: "2026-10-31"
 ---
