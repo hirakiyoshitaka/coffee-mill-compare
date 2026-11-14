@@ -1,6 +1,6 @@
 ---
 title: "How to Choose a Coffee Grind Size: Espresso, Moka, Pour-Over, French Press, and Cold Brew"
-description: "A grind-size starting chart for espresso, moka pot, pour-over, French press, and cold brew, plus how to set a hand grinder. Click numbers do not transfer between mills. We did not measure particle size. Prices vary."
+description: "A grind-size starting chart for espresso, moka pot, pour-over, French press, and cold brew, and how to set a hand grinder. Click numbers differ between mills, so use the chart as a starting point and adjust by taste."
 category: "mill"
 date: "2026-10-31"
 ---
@@ -8,6 +8,8 @@ date: "2026-10-31"
 Grind size changes how much of the coffee touches the water. Finer grounds give up flavor more readily. Coarser grounds give up less. That is the usual account of extraction. This guide is a starting point for each brew method. This site has not measured particle size. The look-and-feel comparisons below are descriptions people commonly use. They are not measurements from this site.
 
 The hand grinder I usually use is the Timemore Chestnut S3. I grind about 30g at a time, for 2–3 cups. I do not use the Chestnut S5 Pro. I have not written a tasting log that compares French press, cold brew, espresso, and moka pot side by side.
+
+<p class="affiliate-html"><a href="https://www.amazon.com/dp/B0CMZCK9PR?tag=ouchidougub03-20">See the Chestnut S3 on Amazon.com</a> (ad)</p>
 
 Choosing the grinder itself — burr size, weight, and whether it stays at home — is covered in [how to choose your first hand grinder](/en/articles/how-to-choose-hand-coffee-mill/). This page is about where to set the dial on the grinder you already have. A [coffee scale](/en/articles/coffee-scale-guide/) is what keeps the dose matched to that setting.
 
@@ -87,4 +89,4 @@ This site does not list French press or moka pot models. Check capacity and heat
 - [Comandante C40 vs Timemore Chestnut S5 Pro](/en/articles/comandante-c40-vs-timemore/)
 - [Japanese craft coffee makers: BALMUDA The Brew vs TWINBIRD](/en/articles/japanese-premium-coffee-makers/)
 
-Purchase links that remain on the grinder cards and the Coffee Carrot button are ads. This English page does not show Amazon purchase buttons. See our [disclosure](/en/disclosure/) for details.
+Purchase links that remain on the grinder cards, the Coffee Carrot button, and the Chestnut S3 Amazon.com link are ads. See our [disclosure](/en/disclosure/) for details.
