@@ -1,6 +1,6 @@
 ---
 title: "Beginner Pour-Over Recipe: Hario V60 Ratios for a 12g Cup"
-description: "A first V60 cup from Hario's published ratios: 12g of coffee, a 24g bloom, then three pours of 48g. That basic recipe does not give a water temperature in °C, so 93°C is only a stand-in. This is not a timed brew from our kitchen, and we have not used the dripper, kettle, or scale linked here."
+description: "A first Hario V60 cup from Hario's published ratios: 12g of coffee, a 24g bloom, then three pours of 48g. Use 93°C as a starting point, then adjust grind and pour by taste."
 category: "dripper"
 date: "2026-10-31"
 ---
@@ -42,6 +42,8 @@ Hario asks for a medium-fine grind. How that grind is usually described, and whi
 The only hand grinder whose official range for each brew method this site has checked is the [Chestnut S5 Pro](/en/articles/timemore-chestnut-s5-pro/). The published pour-over range is 5.0–8.0. Hario does not say where inside that range to start, and neither does Timemore's range itself. Brew one cup somewhere in it, then move a single step using the section below. Copying "5" onto another grinder will not line up.
 
 The hand grinder I usually use is the Timemore Chestnut S3. I grind about 30g at a time, for 2–3 cups. I have not logged times for this 12g recipe on it. How to choose the grinder is in [how to choose your first hand grinder](/en/articles/how-to-choose-hand-coffee-mill/). The spec comparison of the S5 Pro and the Essence Go is [Timemore S5 Pro vs EPEIOS Essence Go](/en/articles/timemore-s5-pro-vs-essence-go/). I do not use the S5 Pro.
+
+<p class="affiliate-html"><a href="https://www.amazon.com/dp/B0CMZCK9PR?tag=ouchidougub03-20">See the Chestnut S3 on Amazon.com</a> (ad)</p>
 
 {{grinder:timemore-chestnut-s5-pro}}
 
@@ -85,4 +87,4 @@ Coffee Carrot ships only within Japan.
 - [Timemore S5 Pro vs EPEIOS Essence Go](/en/articles/timemore-s5-pro-vs-essence-go/)
 - [EPEIOS Essence Go review](/en/articles/epeios-essence-go/)
 
-Purchase links that remain on the grinder card and the Coffee Carrot button are ads. This English page does not show Amazon purchase buttons. See our [disclosure](/en/disclosure/) for details.
+Purchase links that remain on the grinder card, the Coffee Carrot button, and the Chestnut S3 Amazon.com link are ads. See our [disclosure](/en/disclosure/) for details.
