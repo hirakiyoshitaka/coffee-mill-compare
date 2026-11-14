@@ -1,13 +1,15 @@
 ---
 title: "Timemore Chestnut S5 Pro: A Review Summary"
-description: "A review summary of the Timemore Chestnut S5 Pro. I do not use it. Specs are from the maker and comments summarize published reviews. The grinder I usually use is the Chestnut S3. Prices are approximate and change."
+description: "Timemore Chestnut S5 Pro review summary: 48mm burrs, 90 clicks, an external dial, and about 910g, from official specs and published reviews. The S5 Pro is sold out; the grinder I use instead is the Chestnut S3, about 30g for 2–3 cups."
 category: "mill"
 date: "2026-10-27"
 ---
 
 This page is a review summary of the Timemore Chestnut S5 Pro (also sold as 栗子 S5 Pro). I do not use it. The hand grinder I usually use is the Timemore Chestnut S3. I grind about 30g at a time, for 2–3 cups. The notes below are official specs and published reviews, not a points contest.
 
-I do not use this grinder. It is a review summary of official specs and published reviews. The S5 Pro is sold out, so this page has no purchase button. The grinder I use is the Chestnut S3. The review is [here](/articles/timemore-chestnut-s3/). That page is in Japanese.
+I do not use this grinder. It is a review summary of official specs and published reviews. The S5 Pro is sold out, so this page has no purchase button for it. The grinder I use is the Chestnut S3. The review is [here](/articles/timemore-chestnut-s3/). That page is in Japanese.
+
+<p class="affiliate-html"><a href="https://www.amazon.com/dp/B0CMZCK9PR?tag=ouchidougub03-20">See the Chestnut S3 on Amazon.com</a> (ad)</p>
 
 Treat the price as a rough guide. On October 26, 2026 the [official Japanese product page](https://timemore.jp/products/timemore-manual-coffee-grinderchestnut-s5) showed ¥25,800. That page also called the figure a pre-sale price, and said stock was being replenished with shipping expected around the end of January. Check the same page for tax and whether a unit will actually ship before you buy.
 
