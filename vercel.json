@@ -31,6 +31,66 @@
       "source": "/en/camping/",
       "destination": "/en/articles/epeios-essence-go/",
       "permanent": true
+    },
+    {
+      "source": "/zh-hk/camping",
+      "destination": "/zh-hk/articles/epeios-essence-go/",
+      "permanent": true
+    },
+    {
+      "source": "/zh-hk/camping/",
+      "destination": "/zh-hk/articles/epeios-essence-go/",
+      "permanent": true
+    },
+    {
+      "source": "/zh-tw/camping",
+      "destination": "/zh-tw/articles/epeios-essence-go/",
+      "permanent": true
+    },
+    {
+      "source": "/zh-tw/camping/",
+      "destination": "/zh-tw/articles/epeios-essence-go/",
+      "permanent": true
+    },
+    {
+      "source": "/ko/camping",
+      "destination": "/ko/articles/epeios-essence-go/",
+      "permanent": true
+    },
+    {
+      "source": "/ko/camping/",
+      "destination": "/ko/articles/epeios-essence-go/",
+      "permanent": true
+    },
+    {
+      "source": "/zh-cn/camping",
+      "destination": "/zh-cn/",
+      "permanent": true
+    },
+    {
+      "source": "/zh-cn/camping/",
+      "destination": "/zh-cn/",
+      "permanent": true
+    },
+    {
+      "source": "/th/camping",
+      "destination": "/th/",
+      "permanent": true
+    },
+    {
+      "source": "/th/camping/",
+      "destination": "/th/",
+      "permanent": true
+    },
+    {
+      "source": "/vi/camping",
+      "destination": "/vi/",
+      "permanent": true
+    },
+    {
+      "source": "/vi/camping/",
+      "destination": "/vi/",
+      "permanent": true
     }
   ]
 }
