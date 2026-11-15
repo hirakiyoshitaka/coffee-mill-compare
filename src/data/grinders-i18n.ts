@@ -64,7 +64,7 @@ export const grinderTexts: Record<string, Partial<Record<TranslationLocale, Grin
       adjustment: "External dial. The official product page says 0.015mm per click",
       priceJpyHint: "No yen list price is copied here. Stock was confirmed on the Amazon.co.jp product page on Nov 4, 2026. The displayed price changes.",
       highlight: "The hand grinder I usually use. I grind about 30g at a time, for 2–3 cups.",
-      purchaseNote: "This is the Chestnut S3 product page on Amazon.co.jp. Confirm the product name is Chestnut S3.",
+      purchaseNote: "The button goes to the Chestnut S3 product page on Amazon.com. Confirm the product name is Chestnut S3.",
       cuppingNotes: ["The hand grinder I usually use", "About 30g at a time, for 2–3 cups"],
       caveats: ["No taste score, and no timed grind", "The official product page says the burr gap at zero is 0.075mm (timemore.com, Nov 4, 2026)"],
     },
