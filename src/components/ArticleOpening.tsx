@@ -2,6 +2,7 @@ import type { ReactNode } from "react";
 import Image from "next/image";
 import { BuyButtons, grinderBuyProps } from "@/components/BuyButtons";
 import { getModel } from "@/data/grinders";
+import { StickyBuyBar } from "@/components/StickyBuyBar";
 import styles from "./ArticleOpening.module.css";
 
 // 対象7記事の商品・見出しを明示する。本文から商品を推測しない。
@@ -62,9 +63,12 @@ export function ArticleOpening({ slug, children }: {
   if (!opening || !model) return <div className={styles.opening}>{children}</div>;
 
   const buyProps = grinderBuyProps(model);
+  // スマホの固定バー：主役が S3 か Essence Go で、Amazon のリンクがあるときだけ
+  const stickyOk = (model.id === "timemore-chestnut-s3" || model.id === "epeios-essence-go") && (model.amazonUrl ?? "").trim() !== "";
 
   return (
-    <section className={`${styles.opening} ${styles.featured}`} aria-label={opening.label}>
+    <>
+    <section id="article-opening" className={`${styles.opening} ${styles.featured}`} aria-label={opening.label}>
       <div className={styles.verdict}>
         <p className={styles.audience}>{opening.audience}</p>
         <h2 className={styles.label}>{opening.label}</h2>
@@ -83,5 +87,7 @@ export function ArticleOpening({ slug, children }: {
       {/* 元の結論を丸ごと表示し、選び方・注意文・購入先を残す。 */}
       {opening.hideConclusion ? null : <div className={styles.conclusion}>{children}</div>}
     </section>
+    {stickyOk ? <StickyBuyBar targetId="article-opening" name={model.name} href={model.amazonUrl ?? ""} /> : null}
+    </>
   );
 }
