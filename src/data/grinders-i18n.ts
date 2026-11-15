@@ -157,7 +157,7 @@ export const grinderTexts: Record<string, Partial<Record<TranslationLocale, Grin
       adjustment: "External dial, 90 clicks per turn, 15 microns per click",
       priceJpyHint: "Listed at ¥25,800 on the official Japanese site (checked Oct 26, 2026, pre-sale price; confirm tax and stock on the store page)",
       highlight: "A review summary. I do not use this grinder. Specs are from the maker, and the comments summarize published reviews.",
-      purchaseNote: "On the linked page, choose \"S5 Pro\" and the green color.",
+      purchaseNote: "On the linked page, confirm the model name is \"S5 Pro\".",
       cuppingNotes: ["A hand grinder that fits 48mm burrs into a 56mm-wide body", "Our No.1 for a grinder that lives at home is the Chestnut S3. This card is the S5 Pro's specs"],
       caveats: [
         "Officially about 910g. It has a folding handle, but we don't rank it first for travel",
