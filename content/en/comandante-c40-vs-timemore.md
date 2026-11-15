@@ -51,6 +51,10 @@ The C40 MK4 product page says the box includes a brown glass jar and a clear pol
 
 The FAQ warns against removing the three screws that hold the bottom burr. Doing that can shift the calibration, and the maker says it can fall outside the warranty. Cleaning is described as a brush, and taking the grinder apart when you need to. This site has not tested whether the C40 or the S5 Pro can be washed with water.
 
+The C40 MK4 is on Amazon.com as well, with the same Comandante name on the product page. Stock was not checked.
+
+<p class="affiliate-html"><a href="https://www.amazon.com/dp/B07JQ4P976?tag=ouchidougub03-20">See the Comandante C40 MK4 on Amazon.com</a> (ad)</p>
+
 ## Which one to buy
 
 - The grinder I usually use, about 30g at a time, for 2–3 cups → **Chestnut S3**. I do not use the S5 Pro
@@ -68,7 +72,7 @@ Burr size, weight, and where the grinder lives are covered in [how to choose you
 
 The S5 Pro amount, with the date it was seen, is kept on the review. Copying that number onto this page would drift away from the store. A yen price for the C40 was not on the official product page opened on October 31, 2026. This page does not place either grinder inside a beginner budget. Prices and stock move.
 
-On a C40, confirm MK4 and Nitro Blade in the product title. On a Chestnut S3, confirm the product name is Chestnut S3. The Amazon.com links on this page go to the Chestnut S3 only, not the C40.
+On a C40, confirm MK4 and Nitro Blade in the product title. On a Chestnut S3, confirm the product name is Chestnut S3. This page has Amazon.com links for both the C40 and the Chestnut S3.
 
 The beans I kept on subscription for about a year, because they tasted good, are from [Coffee Carrot (珈琲きゃろっと)](/beans/coffee-carrot/). That shop page is in Japanese.
 
@@ -93,4 +97,4 @@ Coffee Carrot ships only within Japan.
 - [EPEIOS Essence Go review](/en/articles/epeios-essence-go/)
 - [Hand vs electric coffee grinders](/en/articles/hand-vs-electric-coffee-mill/)
 
-Purchase links that remain on the grinder cards and the Chestnut S3 Amazon.com links are ads. See our [disclosure](/en/disclosure/) for details.
+Purchase links that remain on the grinder cards and the Amazon.com links for the C40 and the Chestnut S3 are ads. See our [disclosure](/en/disclosure/) for details.

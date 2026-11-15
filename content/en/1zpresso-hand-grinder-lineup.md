@@ -28,7 +28,7 @@ The official chooser still lists the J, JX-Pro S, JE-Plus, and X-Pro S, and it i
 
 If the grinder lives at home for pour-over, this site points to the Chestnut S3 first. That is the one I usually use, about 30g at a time, for 2–3 cups. I do not use the Chestnut S5 Pro. For a lighter bag, start with the Q2 search and match the model name.
 
-The K-Ultra section has an Amazon.com link, which is an ad. A grinder card shows a Rakuten or Shopee link only when that URL is already on file.
+The K-Ultra, X-Ultra, ZP6 Special, and J-Ultra sections each have an Amazon.com link, which is an ad. A grinder card shows a Rakuten or Shopee link only when that URL is already on file.
 ## Next step
 
 Once the job is clear, these are the same-language pages that pick up from here.
@@ -69,9 +69,13 @@ Choose the Q2 S (465g) when you want a folding handle. Choose the Q Air (365g) w
 
 The X-Ultra weighs 590g, holds 25–30g, and has a folding handle and a magnetic catch cup. The maker says the smaller heptagonal burr takes less force. Adjustment is external, at 12.5 microns per click, and the grinder is positioned for both drip and espresso. This site has no tasting that compares those two uses.
 
+<p class="affiliate-html"><a href="https://www.amazon.com/dp/B0CFXB2F6M?tag=ouchidougub03-20">See the X-Ultra on Amazon.com</a> (ad)</p>
+
 ### Fewer fines in a pour-over: ZP6 Special
 
 The ZP6 Special uses a 48mm hexagonal stainless burr. The official description says it produces fewer fines than 1Zpresso's other grinders. Each click is 22 microns, a wider step than the K-Ultra or the J-Ultra, so the grinder sits close to a drip tool. Weight is 700g. The product page says Carlos Medina used one at the 2023 World Brewers Cup. We have not checked that competition record. A first V60 cup is the [beginner pour-over recipe](/en/articles/beginner-hand-drip-recipe/). A [coffee scale](/en/articles/coffee-scale-guide/) is what makes a saved dose repeatable.
+
+<p class="affiliate-html"><a href="https://www.amazon.com/dp/B0HNYPVSGQ?tag=ouchidougub03-20">See the ZP6 Special on Amazon.com</a> (ad)</p>
 
 ### One grinder across brew methods: K-Ultra
 
@@ -82,6 +86,8 @@ The K-Ultra is the model 1Zpresso places in the all-methods slot. The external d
 ### Espresso clicks: J-Ultra
 
 The J-Ultra is the 8-micron step that 1Zpresso calls the finest in its range. The burr is a coated 48mm, and the maker describes the grinder as built for espresso. Weight is 670g, capacity is 35–40g, and the catch cup is magnetic. A finer click does not remove the work of grinding espresso by hand every morning. If that is the plan, read [how to choose an electric coffee grinder](/en/articles/electric-coffee-grinder-guide/) and [hand vs electric grinders](/en/articles/hand-vs-electric-coffee-mill/). A machine that grinds and brews the shot is a different purchase: [Breville vs De'Longhi all-in-one espresso machines](/en/articles/breville-vs-delonghi-all-in-one-espresso/) and [Best all-in-one espresso machines of 2026](/en/articles/best-all-in-one-espresso-machines-2026/). The only hand grinder whose official espresso range this site has checked is the [Chestnut S5 Pro](/en/articles/timemore-chestnut-s5-pro/). This article does not copy a recommended J-Ultra click number.
+
+<p class="affiliate-html"><a href="https://www.amazon.com/dp/B0CKYDV932?tag=ouchidougub03-20">See the J-Ultra on Amazon.com</a> (ad)</p>
 
 ## A click number does not travel to another grinder
 
@@ -117,4 +123,4 @@ Official pages opened on October 31, 2026.
 - [K-Ultra](https://1zpresso.coffee/product/kultra/)
 - [J-Ultra](https://1zpresso.coffee/j-ultra/)
 
-Purchase links that remain on the grinder cards, the Coffee Carrot button, and the Amazon.com link in the K-Ultra section are ads. See our [disclosure](/en/disclosure/) for details.
+Purchase links that remain on the grinder cards, the Coffee Carrot button, and the Amazon.com links in the X-Ultra, ZP6 Special, K-Ultra, and J-Ultra sections are ads. See our [disclosure](/en/disclosure/) for details.
