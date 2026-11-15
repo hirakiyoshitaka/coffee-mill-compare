@@ -14,7 +14,7 @@ function buyAnchor(target: EventTarget | null): HTMLAnchorElement | null {
   return null;
 }
 
-/** 購入ボタンのクリックを、店と記事スラッグだけ送る。URL とユーザー ID は送らない。 */
+/** 購入ボタンのクリックを、店と記事スラッグ（Amazon は国も）だけ送る。URL とユーザー ID は送らない。 */
 export function BuyClickTracker() {
   useEffect(() => {
     function onClick(event: MouseEvent) {
@@ -22,7 +22,7 @@ export function BuyClickTracker() {
       if (!anchor) return;
       const data = buyClickData(anchor.href, window.location.pathname);
       if (!data) return;
-      track("buy_click", { shop: data.shop, article: data.article });
+      track("buy_click", data.store ? { shop: data.shop, article: data.article, store: data.store } : { shop: data.shop, article: data.article });
     }
 
     document.addEventListener("click", onClick);
