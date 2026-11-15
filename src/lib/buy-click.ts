@@ -3,9 +3,14 @@ export const buyShops = ["Amazon", "Rakuten", "A8", "Shopee"] as const;
 
 export type BuyShop = (typeof buyShops)[number];
 
+/** Amazon のどの国の店か。amazon.com と amazon.co.jp はタグも報酬も別なので分けて数える。短縮 URL は国が分からない。 */
+export type AmazonStore = "amazon_us" | "amazon_jp" | "amazon_short";
+
 export type BuyClickData = {
   shop: BuyShop;
   article: string;
+  /** shop が Amazon のときだけ入る */
+  store?: AmazonStore;
 };
 
 const articlePath =
@@ -70,9 +75,20 @@ export function shopOfHref(href: string): BuyShop | null {
   return null;
 }
 
+/** Amazon のリンク先のホストから国を決める。Amazon でなければ null。 */
+export function amazonStoreOfHref(href: string): AmazonStore | null {
+  const host = hostnameOf(href);
+  if (!host || !isAmazonHost(host)) return null;
+  if (host === "amazon.com" || host.endsWith(".amazon.com")) return "amazon_us";
+  if (host === "amazon.co.jp" || host.endsWith(".amazon.co.jp")) return "amazon_jp";
+  return "amazon_short";
+}
+
 /** track に渡すオブジェクト。店が4つのどれでもなければ null。 */
 export function buyClickData(href: string, pathname: string): BuyClickData | null {
   const shop = shopOfHref(href);
   if (!shop) return null;
-  return { shop, article: articleSlugFromPath(pathname) };
+  const article = articleSlugFromPath(pathname);
+  const store = shop === "Amazon" ? amazonStoreOfHref(href) : null;
+  return store ? { shop, article, store } : { shop, article };
 }
