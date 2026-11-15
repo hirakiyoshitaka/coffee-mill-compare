@@ -11,13 +11,13 @@ export const usAmazonAssociateTag = "ouchidougub03-20";
 
 /**
  * 手挽きミルごとの amazon.com ASIN。未確認は空文字。空ならボタンを出さない。
- * 入れるのは、amazon.com の商品ページで同じ機種・在庫ありを確かめたものだけ。
- * 2026-11-04 時点で、栗子 S5 Pro の amazon.com 商品ページと、
+ * 入れるのは、amazon.com の商品ページで同じ機種を確かめたものだけ（在庫を確かめていないときは、その旨を下に書く）。
+ * 栗子 S5 Pro は、2026-11-15 に社長が amazon.com の商品ページで同じ機種を確認した（在庫は未確認）。
  * エペイオス Essence Go と同一商品の ASIN は確認できていないため空のまま。
  * 別機種（Chestnut C3 系、Cocinare ESSENCE GO）の ASIN は入れない。
  */
 export const usAmazonAsinByGrinderId: Record<string, string> = {
-  "timemore-chestnut-s5-pro": "",
+  "timemore-chestnut-s5-pro": "B0HJ4Z72DZ",
   "timemore-chestnut-s3": "B0CMZCK9PR",
   "epeios-essence-go": "",
 };
