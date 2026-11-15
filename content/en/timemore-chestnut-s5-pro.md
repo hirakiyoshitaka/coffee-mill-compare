@@ -15,11 +15,11 @@ Treat the price as a rough guide. On October 26, 2026 the [official Japanese pro
 
 {{grinder:timemore-chestnut-s5-pro}}
 
-## What I've found using it
+## How this page was put together
 
 This page is a review summary. The hand grinder I usually use is the Timemore Chestnut S3. I grind about 30g at a time, for 2–3 cups. I do not use the Chestnut S5 Pro.
 
-## Impressions from actually using it (owner review)
+## What I actually use (Chestnut S3)
 
 Beans on the S3 are from [Coffee Carrot (珈琲きゃろっと)](/beans/coffee-carrot/). That shop page is in Japanese. The hand grinder I usually use is the Timemore Chestnut S3. I grind about 30g at a time, for 2–3 cups. I do not use the Chestnut S5 Pro.
 
