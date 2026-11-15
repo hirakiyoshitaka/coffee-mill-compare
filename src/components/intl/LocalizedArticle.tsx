@@ -3,6 +3,8 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import { ArticleBody } from "@/components/ArticleBody";
 import { ArticlePicks, QuickPick } from "@/components/ArticlePicks";
+import { EnglishOpening, hasEnglishOpening } from "@/components/EnglishOpening";
+import openingStyles from "@/components/EnglishOpening.module.css";
 import { ShareButtons } from "@/components/ShareButtons";
 import { getSiteUrl, siteConfig, localizedSiteName } from "@/data/site";
 import { LanguageSwitcher } from "@/components/intl/LanguageSwitcher";
@@ -122,6 +124,7 @@ export function LocalizedArticle({ locale, slug }: { locale: TranslationLocale; 
   const article = getLocalizedArticle(locale, slug);
   if (!article) notFound();
   const t = ui[locale];
+  const showOpening = locale === "en" && hasEnglishOpening(slug);
   const nextReads = getNextReads(locale, slug);
   const nextSlugs = new Set(nextReads.map((item) => item.slug));
   const related = getLocalizedArticles(locale).filter((a) => a.slug !== slug && !nextSlugs.has(a.slug));
@@ -140,21 +143,30 @@ export function LocalizedArticle({ locale, slug }: { locale: TranslationLocale; 
     <main className="page-wrap page-narrow">
       <LanguageSwitcher current={locale} paths={articleLocalePaths(slug)} label={chromeDict[locale].lang} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
-      <header className="mb-8">
+      <header className={showOpening ? "mb-4" : "mb-8"}>
         <p className="text-xs font-medium tracking-wide text-[var(--seal)]">PR</p>
         <h1 className="mt-3 font-serif text-[1.75rem] leading-snug tracking-wide text-[var(--ink)] sm:text-[2.15rem]">{article.title}</h1>
         <p className="mt-4 text-sm text-stone-500">
           <time dateTime={article.date}>{article.date}</time>
         </p>
-        <p className="mt-4 text-base leading-relaxed text-stone-600">{article.description}</p>
+        {showOpening ? null : <p className="mt-4 text-base leading-relaxed text-stone-600">{article.description}</p>}
       </header>
+      {showOpening ? (
+        <>
+          <p className={openingStyles.adline}>
+            <strong>Ad:</strong> this page has affiliate links (Amazon Associates). Full disclosure below.
+          </p>
+          <EnglishOpening slug={slug} />
+          <p className="mb-8 text-base leading-relaxed text-stone-600">{article.description}</p>
+        </>
+      ) : null}
       <aside className="border border-[var(--line)] bg-[var(--soft)] px-5 py-4 text-[16px] leading-[1.9]">
         <p className="font-bold text-[var(--accent)]">{t.pr}</p>
         <p className="mt-1">{t.disclosure}</p>
       </aside>
       <div className="mt-8">
-        {locale === "en" ? <QuickPick title={article.title} markdown={article.content} locale="en" /> : null}
-        <ArticlePicks title={article.title} markdown={article.content} locale={locale} quickPick={locale === "en"} />
+        {locale === "en" && !showOpening ? <QuickPick title={article.title} markdown={article.content} locale="en" /> : null}
+        <ArticlePicks title={article.title} markdown={article.content} locale={locale} quickPick={locale === "en" && !showOpening} />
         <ArticleBody
           markdown={article.content}
           locale={locale}
