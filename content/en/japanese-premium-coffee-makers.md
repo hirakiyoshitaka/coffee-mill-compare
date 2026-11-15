@@ -37,7 +37,7 @@ I have not used these machines. The lines above summarize owner reviews that the
 
 Sources: [Kakaku.com (The Brew)](https://kakaku.com/item/K0001382816/), [Kakaku.com (CM-D465B)](https://kakaku.com/item/K0001203222/), [Kakaku.com (CM-D457B)](https://kakaku.com/item/K0001097505/), [TWINBIRD official store](https://store.twinbird.jp/products/cmd457), and Amazon Japan listings.
 
-This English page does not show Amazon purchase buttons. The only Amazon associate tag on file is for Amazon.co.jp. Links to the makers' own sites are not ads.
+This English page has no Amazon purchase buttons for these coffee makers. Links to the makers' own sites are not ads.
 
 ## BALMUDA The Brew: a precision pour-over you'll want on display
 
