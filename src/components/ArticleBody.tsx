@@ -1,11 +1,13 @@
 import { BeanEmbed } from "@/components/BeanViews";
 import { GrinderCard } from "@/components/GrinderCard";
+import { SiphonIllustration } from "@/components/SiphonIllustration";
+import { BalanceSiphonIllustration } from "@/components/BalanceSiphonIllustration";
 import { getBeanShop } from "@/data/beans";
 import { getModel } from "@/data/grinders";
 import type { SiteLocale } from "@/lib/i18n";
 import { renderMarkdown } from "@/lib/markdown";
 
-const TOKEN = /\{\{(grinder|bean):([a-z0-9-]+)\}\}/g;
+const TOKEN = /\{\{(grinder|bean|illust):([a-z0-9-]+)\}\}/g;
 
 export function ArticleBody({ markdown, locale = "ja", reviewHref }: { markdown: string; locale?: SiteLocale; reviewHref?: (slug: string) => string | undefined }) {
   const parts = markdown.split(TOKEN);
@@ -46,6 +48,18 @@ export function ArticleBody({ markdown, locale = "ja", reviewHref }: { markdown:
         throw new Error(`記事中の豆の店ID「${id}」がデータにありません`);
       }
       nodes.push(<BeanEmbed key={`bean-${id}-${index}`} shop={shop} locale={locale} />);
+      continue;
+    }
+
+    if (kind === "illust") {
+      if (id === "balance-siphon") {
+        nodes.push(<BalanceSiphonIllustration key={`illust-${id}-${index}`} />);
+        continue;
+      }
+      if (id !== "siphon") {
+        throw new Error(`記事中のイラストID「${id}」は未対応です`);
+      }
+      nodes.push(<SiphonIllustration key={`illust-${id}-${index}`} />);
       continue;
     }
 
