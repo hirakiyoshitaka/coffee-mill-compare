@@ -15,7 +15,7 @@ We have not used a C40. What follows is the product page, FAQ, and manual we ope
 - **A German Nitro Blade, and a routine of counting clicks from zero** → C40 MK4. We have no notes on how it feels in the hand
 - **The lightest possible turning, or a grinder you can take apart and carry** → this is not a contest between these two. That role belongs to the [EPEIOS Essence Go](/en/articles/epeios-essence-go/). The C40 product page we opened did not list a weight in grams, so this page does not compare them by weight
 
-## Impressions from actually using it (owner review)
+## What I actually use (Chestnut S3)
 
 The hand grinder I usually use is the Timemore Chestnut S3. I grind about 30g at a time, for 2–3 cups. I do not use the Chestnut S5 Pro. We have not used the C40.
 

@@ -12,13 +12,13 @@ The Timemore Chestnut S5 Pro and the EPEIOS Essence Go are two hand grinders peo
 - **Chestnut S3**: the grinder I usually use, about 30g at a time, for 2–3 cups. It is not one of the two machines in the spec table
 - **Essence Go**: for the lightest possible turning feel, or if you want to take it apart and carry it
 
-## What I've found using them
+## What I use (Chestnut S3 and Essence Go)
 
 The hand grinder I usually use is the Timemore Chestnut S3. I grind about 30g at a time, for 2–3 cups. I do not use the Chestnut S5 Pro.
 
 My one-line verdict on the Essence Go: it just spins so easily. That is the only impression I can write about the Essence Go.
 
-## Impressions from actually using it (owner review)
+## What I actually use (Chestnut S3)
 
 The hand grinder I usually use is the Timemore Chestnut S3. I grind about 30g at a time, for 2–3 cups. I do not use the Chestnut S5 Pro.
 
