@@ -26,7 +26,7 @@ export default function PrivacyPage() {
         </p>
         <h2>アクセス解析</h2>
         <p>
-          ページの閲覧数は、Vercel Analytics と Cloudflare Web Analytics で数えています。購入ボタンのクリックは、Vercel Analytics で匿名のまま数えます。送る項目は店と記事だけです。店は Amazon、Rakuten、A8、Shopee のいずれかです。記事は、そのページの記事スラッグです。記事以外のページでは空です。クリック先の URL、クエリ文字列、ユーザー ID は送りません。
+          ページの閲覧数は、Vercel Analytics と Cloudflare Web Analytics で数えています。購入ボタンのクリックは、Vercel Analytics で匿名のまま数えます。送る項目は店と記事と、Amazon のときだけ国の区別です。店は Amazon、Rakuten、A8、Shopee のいずれかです。国の区別は、amazon.com・amazon.co.jp・短縮リンクのいずれかです。記事は、そのページの記事スラッグです。記事以外のページでは空です。クリック先の URL、クエリ文字列、ユーザー ID は送りません。
         </p>
         <h2>Cookie とアフィリエイト</h2>
         <p>
