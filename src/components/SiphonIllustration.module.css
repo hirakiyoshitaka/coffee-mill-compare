@@ -1,0 +1,104 @@
+.figure {
+  margin: 28px auto;
+  max-width: 340px;
+  padding: 12px 12px 8px;
+  background: #faf7f3;
+  border: 1px solid #e4dbd0;
+  border-radius: 10px;
+}
+
+.svg { display: block; width: 100%; height: auto; }
+
+.caption {
+  margin-top: 4px;
+  text-align: center;
+  font-size: 12px;
+  color: #5e534a;
+}
+
+/* 止まった絵：お湯が上がったところ */
+.lowerWater, .lowerCoffee, .upperWater, .upperCoffee, .flame, .stick, .b1, .b2, .b3 {
+  transform-box: fill-box;
+  transform-origin: 50% 100%;
+}
+.lowerWater { transform: scaleY(0.12); }
+.lowerCoffee { transform: scaleY(0); }
+.upperWater { transform: scaleY(1); }
+.upperCoffee { opacity: 0; transform: scaleY(1); }
+.stick { opacity: 0; }
+.bubbles { opacity: 0; }
+.l1, .l3, .l4, .l5 { opacity: 0; }
+.l2 { opacity: 1; }
+
+@media (prefers-reduced-motion: no-preference) {
+  .lowerWater { animation: lw 10s ease-in-out infinite; }
+  .lowerCoffee { animation: lc 10s ease-in-out infinite; }
+  .upperWater { animation: uw 10s ease-in-out infinite; }
+  .upperCoffee { animation: uc 10s ease-in-out infinite; }
+  .flameGroup { animation: fg 10s linear infinite; }
+  .flame { animation: flick 0.7s ease-in-out infinite alternate; }
+  .stick { animation: stir 10s ease-in-out infinite; }
+  .bubbles { animation: bub 10s linear infinite; }
+  .b1 { animation: rise 1.6s linear infinite; }
+  .b2 { animation: rise 1.6s linear 0.5s infinite; }
+  .b3 { animation: rise 1.6s linear 1s infinite; }
+  .l1 { animation: t1 10s linear infinite; }
+  .l2 { opacity: 0; animation: t2 10s linear infinite; }
+  .l3 { animation: t3 10s linear infinite; }
+  .l4 { animation: t4 10s linear infinite; }
+  .l5 { animation: t5 10s linear infinite; }
+}
+
+@keyframes lw {
+  0%, 12% { transform: scaleY(1); }
+  36%, 60% { transform: scaleY(0.12); }
+  94% { transform: scaleY(0.12); }
+  100% { transform: scaleY(1); }
+}
+@keyframes lc {
+  0%, 62% { transform: scaleY(0); }
+  86%, 94% { transform: scaleY(0.85); }
+  100% { transform: scaleY(0); }
+}
+@keyframes uw {
+  0%, 12% { transform: scaleY(0); }
+  36%, 62% { transform: scaleY(1); }
+  86%, 100% { transform: scaleY(0); }
+}
+@keyframes uc {
+  0%, 36% { transform: scaleY(1); opacity: 0; }
+  46%, 62% { transform: scaleY(1); opacity: 1; }
+  86%, 100% { transform: scaleY(0); opacity: 1; }
+}
+@keyframes fg {
+  0% { opacity: 0; }
+  4%, 56% { opacity: 1; }
+  58%, 100% { opacity: 0; }
+}
+@keyframes flick {
+  from { transform: scale(1, 1); }
+  to { transform: scale(0.88, 1.18); }
+}
+@keyframes stir {
+  0%, 37% { opacity: 0; transform: rotate(0deg); }
+  39% { opacity: 1; transform: rotate(0deg); }
+  42% { transform: rotate(-8deg); }
+  45% { transform: rotate(6deg); }
+  48% { transform: rotate(-8deg); }
+  51% { opacity: 1; transform: rotate(0deg); }
+  54%, 100% { opacity: 0; }
+}
+@keyframes bub {
+  0%, 8% { opacity: 0; }
+  12%, 36% { opacity: 1; }
+  40%, 100% { opacity: 0; }
+}
+@keyframes rise {
+  0% { transform: translateY(0); opacity: 0.9; }
+  100% { transform: translateY(-60px); opacity: 0; }
+}
+@keyframes t1 { 0% { opacity: 0; } 1%, 11% { opacity: 1; } 12%, 100% { opacity: 0; } }
+@keyframes t2 { 0%, 11% { opacity: 0; } 12%, 35% { opacity: 1; } 36%, 100% { opacity: 0; } }
+@keyframes t3 { 0%, 35% { opacity: 0; } 36%, 55% { opacity: 1; } 56%, 100% { opacity: 0; } }
+@keyframes t4 { 0%, 55% { opacity: 0; } 56%, 61% { opacity: 1; } 62%, 100% { opacity: 0; } }
+@keyframes t5 { 0%, 61% { opacity: 0; } 62%, 95% { opacity: 1; } 96%, 100% { opacity: 0; } }
