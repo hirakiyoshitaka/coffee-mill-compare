@@ -63,7 +63,7 @@ Coffee Carrot ships only within Japan.
 
 If you are choosing between the two, read [Timemore S5 Pro vs EPEIOS Essence Go](/en/articles/timemore-s5-pro-vs-essence-go/). This review does not include a timed cleaning test, or a check of whether it can be washed. There is no note here on how easy it is to take apart. For how to pick a first hand grinder, see [burr size, adjustment, weight, and where it lives](/en/articles/how-to-choose-hand-coffee-mill/). A [coffee scale](/en/articles/coffee-scale-guide/) is what makes a saved grind setting repeatable.
 
-Availability on Amazon.co.jp varies by region, so check the listing and the seller before ordering. The price on the store page is the one that matters.
+Availability on Amazon.com can change, so check the listing and the seller before ordering. The price on the store page is the one that matters.
 
 ## Read next
 
