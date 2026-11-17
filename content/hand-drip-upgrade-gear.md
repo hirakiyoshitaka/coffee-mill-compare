@@ -97,7 +97,7 @@ date: "2026-10-28"
 - **見た目も楽しみたい**：ORIGAMI、ケメックス、ザ・ポット
 - **紙フィルターを買い足したくない**：KINTO SCS
 
-ドリップの味をいちばん左右するのは、挽きたての豆です。運営者がふだん使っているのはタイムモア栗子 S3 で、1回に約30g、2〜3杯分です。栗子 S5 Pro は使っていません。軽く回るミルなら[Essence Go](/articles/epeios-essence-go/)もどうぞ。豆は[スペシャルティコーヒー豆の通販ショップ比較](/articles/specialty-coffee-beans-shops/)に、ラテ派の方は[家でラテ・エスプレッソ 予算別3台](/articles/home-latte-espresso-machines/)にまとめています。
+ドリップの味をいちばん左右するのは、挽きたての豆です。運営者がふだん使っているのは[タイムモア栗子 S3](/articles/timemore-chestnut-s3/)で、1回に約30g、2〜3杯分です。栗子 S5 Pro は使っていません。軽く回るミルなら[Essence Go](/articles/epeios-essence-go/)もどうぞ。豆は[スペシャルティコーヒー豆の通販ショップ比較](/articles/specialty-coffee-beans-shops/)に、ラテ派の方は[家でラテ・エスプレッソ 予算別3台](/articles/home-latte-espresso-machines/)にまとめています。
 
 [タイムモア 栗子 S3 を Amazon で見る（広告）](https://www.amazon.co.jp/dp/B0CMZCK9PR?tag=stocknotelife-22)
 
@@ -110,6 +110,7 @@ date: "2026-10-28"
 - [ケトルの記事一覧](/categories/kettle/)
 - [ドリップケトルおすすめの選び方](/articles/drip-kettle-guide/)
 - [コーヒースケールおすすめの選び方](/articles/coffee-scale-guide/)
+- [タイムモア栗子 S3レビュー](/articles/timemore-chestnut-s3/)
 - [コーヒー豆の保存容器（キャニスター）の選び方](/articles/coffee-bean-canister-guide/)
 - [コーヒーフィルターの選び方](/articles/coffee-filter-guide/)
 
