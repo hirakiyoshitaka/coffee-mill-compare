@@ -1,0 +1,28 @@
+# PRごとの機械チェック（Claude その52-4）
+# 追加された行だけを検査する。
+# - amazon.co.jp は tag=stocknotelife-22、amazon.com は tag=ouchidougub03-20 だけ
+# - 「最安」「今すぐ」「残りわずか」と値段（円・$）の追加は失敗
+# - 「使ってみた」「買った」などの体験の語の追加は「Claude 待ち」で失敗
+name: content-checks
+
+on:
+  pull_request:
+    types: [opened, synchronize, reopened]
+
+permissions:
+  contents: read
+
+jobs:
+  content-checks:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+      - name: Run content checks on the PR diff
+        env:
+          BASE_SHA: ${{ github.event.pull_request.base.sha }}
+        run: node .github/scripts/content-checks.mjs --base "$BASE_SHA"
