@@ -34,11 +34,12 @@ date: "2026-10-29"
 
 ## ほかの道具とあわせて
 
-ドリッパーやケトルもそろえるなら[ハンドドリップ道具のそろえ方](/articles/hand-drip-gear-guide/)、一段上の道具は[ハンドドリップを一段上げる道具](/articles/hand-drip-upgrade-gear/)へ。豆を挽くミルは[コーヒーミルおすすめランキング](/articles/coffee-mill-ranking/)をどうぞ。
+ドリッパーやケトルもそろえるなら[ハンドドリップ道具のそろえ方](/articles/hand-drip-gear-guide/)、一段上の道具は[ハンドドリップを一段上げる道具](/articles/hand-drip-upgrade-gear/)へ。豆を挽くミルは、運営者がふだん使っている[タイムモア栗子 S3レビュー](/articles/timemore-chestnut-s3/)と[コーヒーミルおすすめランキング](/articles/coffee-mill-ranking/)をどうぞ。
 
 ## あわせて読みたい
 
 - [スケールの記事一覧](/categories/scale/)
+- [タイムモア栗子 S3レビュー](/articles/timemore-chestnut-s3/)
 - [ドリップケトルおすすめの選び方](/articles/drip-kettle-guide/)
 - [コーヒードリッパー比較](/articles/coffee-dripper-comparison/)
 - [ハンドドリップ道具のそろえ方](/articles/hand-drip-gear-guide/)
