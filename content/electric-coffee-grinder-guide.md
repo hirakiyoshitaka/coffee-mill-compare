@@ -7,7 +7,7 @@ date: "2026-10-29"
 
 「電動コーヒーミル おすすめ」で探すと候補が多すぎて迷います。この記事は、どれを買うかを決めるための基準をまとめたものです。
 
-先にお断りすると、運営者が使っているのは手挽きのタイムモア栗子 S3 と[エペイオス Essence Go](/articles/epeios-essence-go/)で、電動ミルは使っていません。栗子 S3 はふだん使い、1回に約30g、2〜3杯分です。栗子 S5 Pro は使っていません。ここでは体験談は書かず、選び方だけを書きます。
+先にお断りすると、運営者が使っているのは手挽きの[タイムモア栗子 S3](/articles/timemore-chestnut-s3/)と[エペイオス Essence Go](/articles/epeios-essence-go/)で、電動ミルは使っていません。栗子 S3 はふだん使い、1回に約30g、2〜3杯分です。栗子 S5 Pro は使っていません。ここでは体験談は書かず、選び方だけを書きます。
 
 [タイムモア 栗子 S3 を Amazon で見る（広告）](https://www.amazon.co.jp/dp/B0CMZCK9PR?tag=stocknotelife-22)
 
@@ -58,6 +58,7 @@ date: "2026-10-29"
 - [コーヒーミル（手挽き・電動）の記事一覧](/categories/mill/)
 - [コーヒーミルは手挽きと電動どっち？違い・メリット・向いている人を比較](/articles/hand-vs-electric-coffee-mill/)
 - [コーヒーミルおすすめランキング](/articles/coffee-mill-ranking/)
+- [タイムモア栗子 S3レビュー](/articles/timemore-chestnut-s3/)
 - [コーヒーメーカーおすすめの選び方](/articles/coffee-maker-guide/)
 - [コーヒーミルの掃除・お手入れ方法](/articles/coffee-mill-cleaning/)
 
