@@ -61,7 +61,7 @@ date: "2026-10-28"
 
 ## 外で挽くなら
 
-家でふだん使っている手挽きは、タイムモア栗子 S3 です。1回に約30g、2〜3杯分です。
+家でふだん使っている手挽きは、[タイムモア栗子 S3](/articles/timemore-chestnut-s3/)です。1回に約30g、2〜3杯分です。
 
 外で挽きたてにするときは、軽い力で回る手挽きを別に案内します。運営者が「とにかく軽く回る」と感じているのは、エペイオス Essence Go です。分解して専用ケースに入る、という点は公式の説明です。キャンプでの挽き時間や重さは、当サイトでは測っていません。
 
@@ -81,6 +81,7 @@ date: "2026-10-28"
 
 - [コーヒーメーカーの記事一覧](/categories/coffee-maker/)
 - [エペイオス Essence Goレビュー](/articles/epeios-essence-go/)
+- [タイムモア栗子 S3レビュー](/articles/timemore-chestnut-s3/)
 - [珈琲きゃろっとの定期便を約1年続けた感想](/articles/coffee-carrot-review/)
 - [コーヒーメーカーおすすめの選び方](/articles/coffee-maker-guide/)
 - [ハンドドリップ道具のそろえ方](/articles/hand-drip-gear-guide/)
