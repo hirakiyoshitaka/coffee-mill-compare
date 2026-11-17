@@ -13,7 +13,7 @@ date: "2026-11-02"
 2. 1Zpresso K-Ultra。レビューまとめ。抽出方法を一台でまたぐ
 3. 1Zpresso ZP6 Special。レビューまとめ。ドリップ向けの刃
 
-運営者がふだん使っている手挽きは、タイムモア栗子 S3 です。1回およそ30gで、2〜3杯分です。S3 はこの3台には入れていません。軽い力で回すもう一台は[エペイオス Essence Go](/articles/epeios-essence-go/)で、書ける実感は「とにかく軽く回る」だけです。この2台を先に見る場所は、ランキングです。
+運営者がふだん使っている手挽きは、[タイムモア栗子 S3](/articles/timemore-chestnut-s3/)です。1回およそ30gで、2〜3杯分です。S3 はこの3台には入れていません。軽い力で回すもう一台は[エペイオス Essence Go](/articles/epeios-essence-go/)で、書ける実感は「とにかく軽く回る」だけです。この2台を先に見る場所は、ランキングです。
 
 ## 公式の仕様で違うところ
 
@@ -72,6 +72,7 @@ ZP6 Special も使っていません。48mmの六角ステンレス刃で、公�
 ## あわせて読みたい
 
 - [コーヒーミルおすすめランキング](/articles/coffee-mill-ranking/)（予算を問わず先に見る順番）
+- [タイムモア栗子 S3レビュー](/articles/timemore-chestnut-s3/)
 - [1Zpressoの手挽きミルの選び方](/articles/1zpresso-hand-grinder-lineup/)
 - [コマンダンテ C40 と タイムモア栗子 S5 Pro 比較](/articles/comandante-c40-vs-timemore/)
 - [はじめての手挽きコーヒーミルの選び方](/articles/how-to-choose-hand-coffee-mill/)
