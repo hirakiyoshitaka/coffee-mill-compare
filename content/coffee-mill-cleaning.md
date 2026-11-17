@@ -7,7 +7,7 @@ date: "2026-10-30"
 
 ミルに粉と油分が残ると、次の一杯に古いにおいが移ることがあります。この記事は、手入れの道具の使い分けです。機種ごとの分解図ではありません。
 
-運営者が使っている手挽きはタイムモア栗子 S3 と[エペイオス Essence Go](/articles/epeios-essence-go/)です。栗子 S3 はふだん使い、1回に約30g、2〜3杯分です。この2台について、掃除の頻度や水洗いの可否を実測した記録は、このサイトにありません。分解してよいか、水を使ってよいかは、各メーカーの取扱説明書を見てください。栗子 S5 Pro は使っていません。
+運営者が使っている手挽きは[タイムモア栗子 S3](/articles/timemore-chestnut-s3/)と[エペイオス Essence Go](/articles/epeios-essence-go/)です。栗子 S3 はふだん使い、1回に約30g、2〜3杯分です。この2台について、掃除の頻度や水洗いの可否を実測した記録は、このサイトにありません。分解してよいか、水を使ってよいかは、各メーカーの取扱説明書を見てください。栗子 S5 Pro は使っていません。
 
 ## いつ手を入れるか
 
@@ -67,6 +67,7 @@ S5 Pro と Essence Go の水洗い可否は、掲載データにありません�
 - [手挽きミルのスペック比較](/compare/)
 - [はじめての手挽きコーヒーミルの選び方](/articles/how-to-choose-hand-coffee-mill/)
 - [電動コーヒーミルおすすめの選び方](/articles/electric-coffee-grinder-guide/)
+- [タイムモア栗子 S3レビュー](/articles/timemore-chestnut-s3/)
 - [タイムモア栗子 S5 Proレビュー](/articles/timemore-chestnut-s5-pro/)
 - [エペイオス Essence Goレビュー](/articles/epeios-essence-go/)
 
