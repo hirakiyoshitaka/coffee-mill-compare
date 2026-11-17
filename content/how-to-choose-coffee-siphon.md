@@ -3,7 +3,7 @@ title: "コーヒーサイフォンの選び方｜炎とガラスで淹れる、
 description: "炎とガラスでコーヒーを淹れるサイフォンは、いま作る会社も数えるほど。休日の朝に急がない数分を持つための選び方を、Cona、KONO、HARIOの違いと、使った人の声、準備と手入れの手間まで正直にまとめました。運営者はまだ持っていません。"
 category: "coffee-maker"
 date: "2026-10-27"
-updated: "2026-11-15"
+updated: "2026-11-17"
 ---
 
 {{illust:siphon}}
@@ -150,6 +150,61 @@ HARIOの説明をもとに、流れだけを順に並べます（確かめた日
 
 豆の量やお湯の量は、資料ごとに少しちがいます。実際に買ったら、付属の説明書を優先してください。
 
+## メーカー公式の数値を並べる（粉・湯・挽き目・かきまぜ・時間）
+
+メーカーが公開している数値だけを並べます（2026年11月17日に確認）。載っていない項目は「記載なし」と書きます。味の好みは人それぞれなので、数字は出発点です。
+
+| メーカー | 項目 | 公式の値 | 出典 |
+| --- | --- | --- | --- |
+| HARIO テクニカ | 粉の量 | 1杯分は計量スプーンすりきり1杯で約10g。好みで調整 | [取扱説明書](https://www.hario.com/product/TCAR.pdf) |
+| HARIO テクニカ | 湯量 | 1杯あたり120mL | [取扱説明書](https://www.hario.com/product/TCAR.pdf) |
+| HARIO テクニカ | 挽き目 | 取扱説明書には記載なし。粉が下に落ちるときの案内で「中細挽き以上」を推奨 | [HARIO FAQ（サイフォン）](https://www.hario.com/product/syphon.pdf) |
+| HARIO テクニカ | かきまぜ | 湯が上がったら、計量スプーンの柄で粉をほぐす程度にかきまぜる（回数の記載なし） | [取扱説明書](https://www.hario.com/product/TCAR.pdf) |
+| HARIO テクニカ | 加熱の時間 | かきまぜたあと、そのまま1分程度加熱を続ける（同じ説明書の英文は40〜60秒）。このとき下ボールは空だきに近くなるので、必要以上に加熱しない | [取扱説明書](https://www.hario.com/product/TCAR.pdf) |
+| HARIO テクニカ | ランプの芯 | 火口から3mm程度 | [取扱説明書](https://www.hario.com/product/TCAR.pdf) |
+| HARIO（欧州公式ブログ） | 粉と湯 | 1杯あたり約10g、約120mL。加熱は40〜60秒。かきまぜは「スプーンか竹べらでやさしく」（回数の記載なし） | [HARIO Europe](https://www.hario-europe.com/blogs/hario-community/an-introduction-to-brewing-with-siphons) |
+| KONO | 粉の量・湯量・挽き目 | サイフォンの淹れ方のページには記載なし | [KONO 淹れ方](https://coffee-syphon.co.jp/manual/) |
+| KONO | かきまぜ | 湯面が落ち着いたら竹べらで浮いた粉を沈め、前後に動かしてほぐし、短い時間でしっかり攪拌して「液体・粉・泡」の三層に分ける（回数の記載なし） | [KONO 淹れ方](https://coffee-syphon.co.jp/manual/) |
+| KONO | 加熱の時間 | 火をつけたまま1分ほど。2人用60秒、3人用50秒、4人用40秒。途中30秒ほどで粉の間にすき間ができていたら、竹べらで軽く攪拌する | [KONO 淹れ方](https://coffee-syphon.co.jp/manual/) |
+
+HARIOとKONOで数字が同じとは限りません。KONOの加熱時間は人数用（器具の大きさ）で変わります。買ったら、付属の説明書を優先してください。
+
+運営者の記憶にある、下の湯が少なくなるころの「ジュワジュワ」という音は、ちょうどこの加熱の終わりの場面にあたります。HARIOの取扱説明書は、この場面で下ボールが空だきに近くなるので、必要以上に加熱しないよう書いています。
+
+## うまくいかないときの原因と対策
+
+公式の案内と、使った人の記事にある内容だけを書きます。出典のないことは書いていません。
+
+**湯が上のロートに上がらない**
+- HARIOのFAQは原因を4つ挙げています。上ボールが下ボールに斜めに挿さっている／サイフォンゴムが傷んで空気が漏れている／ろ過布の目が粉で詰まっている／パーツ交換後に合っていない。
+- 対策：ロートをまっすぐに挿し直す。ゴムを替える。ろ過布は歯ブラシなどで洗い、直らなければ交換（目安は約60回の使用）。
+- 出典：[HARIO FAQ](https://www.hario.com/faq/)
+
+**下のフラスコに湯が少し残る**
+- 故障ではありません。HARIOは、空だきを防ぐため、あえて少量の湯が下ボールに残る設計だと説明しています。
+- 出典：[HARIO FAQ](https://www.hario.com/faq/)
+
+**粉が下のフラスコに落ちてしまう**
+- HARIOの案内では、ろ過器のフックが上ボールの足管の先に掛かっていない、ろ過器が中心からずれている、粉が細かすぎる、のいずれか。
+- 対策：ろ過器をゆっくり丁寧に掛け直す。粉を少し粗くする（粉漏れ防止のため中細挽き以上を推奨）。
+- 出典：[HARIO FAQ（サイフォン）](https://www.hario.com/product/syphon.pdf)
+
+**粉が湯に沈まず、浮いたままになる**
+- KONOの手順では、湯が上がって湯面の高さが落ち着いたら、竹べらの面で軽くはたくようにして、浮いた粉をまんべんなく湯の中へ沈めます。そのあとダマにならないようほぐします。
+- 出典：[KONO 淹れ方](https://coffee-syphon.co.jp/manual/)
+
+**雑味が出る・後味が重い**
+- KONOの説明では、最初にしっかり攪拌して「液体・粉・泡」の三層に分けると雑味の成分が分かれます。火を止めたあと、液が下に落ちる直前に攪拌すると、分けた雑味がコーヒーに混ざります。
+- 対策：攪拌は最初に済ませ、火を止めたあとはかきまぜない。
+- 出典：[KONO コーヒーサイフォン](https://coffee-syphon.co.jp/coffee_syphon/)
+
+**味が薄い**
+- 価格.comマガジンの筆者は、抽出（加熱）の時間を短くすると薄めになり、45秒ほどが自分の好みだったと書いています。
+- 対策：まず公式の時間（HARIO は40〜60秒、KONO は人数用により40〜60秒）の範囲に収め、そこから少しずつ動かして好みを探す。
+- 出典：[価格.comマガジン](https://kakakumag.com/houseware/?id=14836)
+
+「苦い」については、HARIOとKONOの公式ページに、原因と対策を直接書いた箇所は見つかりませんでした。そのため、ここでは断定しません。
+
 ## 火とガラスの注意
 
 サイフォンは、火とガラスを使う道具です。HARIOの説明にある注意を、そのまま並べます。
@@ -191,7 +246,7 @@ ConaもHARIOテクニカも、ガラスの部品を単位で補充できると�
 **どんな挽き目の粉を使う？**
 HARIOの資料では、中細挽きが目安です。
 
-## 出典（確かめた日：2026年11月15日）
+## 出典（確かめた日：2026年11月15日。数値表と原因の節の出典は11月17日）
 
 - [Cona 公式（CONA Factory）](https://www.cona.be)
 - [KONO（珈琲サイフオン）公式](https://coffee-syphon.co.jp/)
@@ -202,6 +257,11 @@ HARIOの資料では、中細挽きが目安です。
 - [コーヒー豆研究所：サイフォンコーヒー](https://coffee-labo.co.jp/siphon-coffee/)
 - [HARIO テクニカ](https://www.hario.com/product/coffee/syphon/TCA.html)
 - [HARIO Electric Coffee Syphon（ECA-3-B）](https://www.hario.com/product/coffee/coffeemaker/electric_coffee_syphon.html)
+- [HARIO テクニカ 取扱説明書（TCAR）](https://www.hario.com/product/TCAR.pdf)
+- [HARIO よくあるご質問](https://www.hario.com/faq/)
+- [HARIO FAQ：下ボールに珈琲粉が落ちる（PDF）](https://www.hario.com/product/syphon.pdf)
+- [KONO（珈琲サイフオン）：珈琲の美味しい淹れ方](https://coffee-syphon.co.jp/manual/)
+- [KONO（珈琲サイフオン）：コーヒーサイフォン](https://coffee-syphon.co.jp/coffee_syphon/)
 - [HARIO Europe：An Introduction to Brewing with Siphons](https://www.hario-europe.com/blogs/hario-community/an-introduction-to-brewing-with-siphons)
 - [コーヒーステーション（HARIO）：キャンプでもサイフォンコーヒーを楽しみたい！](https://coffee-station.jp/archives/8960)
 
