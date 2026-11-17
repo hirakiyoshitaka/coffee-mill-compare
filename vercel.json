@@ -23,6 +23,16 @@
       "permanent": true
     },
     {
+      "source": "/(.*)%20/",
+      "destination": "/$1/",
+      "permanent": true
+    },
+    {
+      "source": "/(.*) /",
+      "destination": "/$1",
+      "permanent": true
+    },
+    {
       "source": "/camping",
       "destination": "/articles/cold-brew-outdoor-coffee/",
       "permanent": true
