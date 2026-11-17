@@ -11,7 +11,7 @@ date: "2026-10-27"
 
 ## そろえる順番
 
-1. **ミル**：挽きたての香りが、ドリップの楽しさのいちばんの土台です。運営者がふだん使っているのはタイムモア栗子 S3 で、1回に約30g、2〜3杯分です。選び方は[手挽きミルの選び方](/articles/how-to-choose-hand-coffee-mill/)にまとめています。
+1. **ミル**：挽きたての香りが、ドリップの楽しさのいちばんの土台です。運営者がふだん使っているのは[タイムモア栗子 S3](/articles/timemore-chestnut-s3/)で、1回に約30g、2〜3杯分です。選び方は[手挽きミルの選び方](/articles/how-to-choose-hand-coffee-mill/)にまとめています。
 2. **ドリッパー**：味の個性が出るところです。
 3. **ケトル**：細く、ねらった場所に注げるかどうか。
 4. **スケール**：豆とお湯の量、時間を毎回そろえるための道具です。
@@ -109,6 +109,7 @@ date: "2026-10-27"
 ## あわせて読みたい
 
 - [ドリッパーの記事一覧](/categories/dripper/)
+- [タイムモア栗子 S3レビュー](/articles/timemore-chestnut-s3/)
 - [コーヒードリッパー比較](/articles/coffee-dripper-comparison/)
 - [ドリップケトルおすすめの選び方](/articles/drip-kettle-guide/)
 - [コーヒースケールおすすめの選び方](/articles/coffee-scale-guide/)
