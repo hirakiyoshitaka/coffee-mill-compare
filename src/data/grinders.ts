@@ -94,7 +94,7 @@ export const grinderModels: Record<string, GrinderModel> = {
   },
   /**
    * 栗子 S3。おすすめの 1 位。
-   * 購入ボタンは Amazon の商品ページだけ。楽天・Yahoo・Shopee は空。
+   * 購入ボタンは Amazon と楽天（TIMEMORE公式ショップ、社長が楽天アフィリエイトで発行したリンク）。Yahoo・Shopee は空。
    */
   "timemore-chestnut-s3": {
     id: "timemore-chestnut-s3",
@@ -111,7 +111,8 @@ export const grinderModels: Record<string, GrinderModel> = {
     ownerUse: "daily",
     purchaseNote: "購入前に、商品名とカラーをご確認ください。",
     reviewSlug: "timemore-chestnut-s3",
-    rakutenUrl: "",
+    rakutenUrl:
+      "https://hb.afl.rakuten.co.jp/ichiba/58d84d03.7b0724e9.58d84d04.7cac0326/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftimemore%2Fs3%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
     amazonUrl: "https://www.amazon.co.jp/dp/B0CMZCK9PR?tag=stocknotelife-22",
     yahooUrl: "",
     moshimoHtml: "",
