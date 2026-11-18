@@ -15,7 +15,7 @@ date: "2026-10-30"
 | 金属 | 油分が残り、コクが出やすい | 使ったあと洗う | 最初に買い、消耗は少ない |
 | 布（ネル） | まろやかになりやすい | 洗ったあと水などに浸して保存する。におい移りに注意 | 長く使える一方、管理が要る |
 
-「すっきり」「コク」「まろやか」は、抽出の一般論として言われる傾向です。豆、[挽き目](/articles/coffee-grind-size-guide/)、湯温でも味は変わります。挽きたてにするなら、先に見る手挽きはタイムモア栗子 S3 と[Essence Go](/articles/epeios-essence-go/)です。運営者がふだん使っているのは栗子 S3 で、1回に約30g、2〜3杯分です。順番は[コーヒーミルおすすめランキング](/articles/coffee-mill-ranking/)、数値は[スペック比較](/compare/)です。
+「すっきり」「コク」「まろやか」は、抽出の一般論として言われる傾向です。豆、[挽き目](/articles/coffee-grind-size-guide/)、湯温でも味は変わります。挽きたてにするなら、先に見る手挽きは[タイムモア栗子 S3](/articles/timemore-chestnut-s3/)と[Essence Go](/articles/epeios-essence-go/)です。運営者がふだん使っているのは栗子 S3 で、1回に約30g、2〜3杯分です。順番は[コーヒーミルおすすめランキング](/articles/coffee-mill-ranking/)、数値は[スペック比較](/compare/)です。
 
 [タイムモア 栗子 S3 を Amazon で見る（広告）](https://www.amazon.co.jp/dp/B0CMZCK9PR?tag=stocknotelife-22)
 
@@ -62,6 +62,7 @@ date: "2026-10-30"
 - [ドリッパーの記事一覧](/categories/dripper/)
 - [コーヒーの挽き目（粒度）の選び方](/articles/coffee-grind-size-guide/)
 - [コーヒーミルおすすめランキング](/articles/coffee-mill-ranking/)
+- [タイムモア栗子 S3レビュー](/articles/timemore-chestnut-s3/)
 - [手挽きミルのスペック比較](/compare/)
 - [コーヒードリッパー比較](/articles/coffee-dripper-comparison/)
 - [ハンドドリップ道具のそろえ方](/articles/hand-drip-gear-guide/)
