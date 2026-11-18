@@ -21,7 +21,7 @@ date: "2026-11-04"
 
 運営者が書いている家のペースは、1日2杯です。1杯に何グラム使うかは測っていません。店のページにある「1杯約10g」は、その店の備考です。
 
-豆のままを選ぶなら、ミルが要ります。ふだん使っている手挽きはタイムモア栗子 S3 で、1回に約30g、2〜3杯分です。選び方は[手挽きコーヒーミルの選び方](/articles/how-to-choose-hand-coffee-mill/)です。
+豆のままを選ぶなら、ミルが要ります。ふだん使っている手挽きは[タイムモア栗子 S3](/articles/timemore-chestnut-s3/)で、1回に約30g、2〜3杯分です。選び方は[手挽きコーヒーミルの選び方](/articles/how-to-choose-hand-coffee-mill/)です。
 
 次に見るのは、飲み切れない月に休めるか、何回でやめられるか、です。
 
@@ -156,6 +156,7 @@ PDFの「1袋220g」と、袋に印刷された「200g（定期便220g）」は�
 ## あわせて読みたい
 
 - [珈琲きゃろっとの定期便を約1年続けた感想](/articles/coffee-carrot-review/)
+- [タイムモア栗子 S3レビュー](/articles/timemore-chestnut-s3/)
 - [豆の店の記事一覧](/beans/)
 - [スペシャルティコーヒー豆の通販ショップ比較](/articles/specialty-coffee-beans-shops/)
 - [コーヒー豆の保存容器（キャニスター）の選び方](/articles/coffee-bean-canister-guide/)
