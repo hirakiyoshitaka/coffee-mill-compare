@@ -3,6 +3,7 @@
 import { useState } from "react";
 import Link from "next/link";
 import { BuyButtons, grinderBuyProps } from "@/components/BuyButtons";
+import { DiagnosisShare } from "@/components/DiagnosisShare";
 import { affiliateRel } from "@/lib/affiliate";
 import {
   buyLinkNote,
@@ -130,6 +131,7 @@ function DiagnosisResult({ answers, onRestart }: { answers: Answers; onRestart: 
           最初からやり直す
         </button>
       </p>
+      <DiagnosisShare productName={product.name} />
     </section>
   );
 }
