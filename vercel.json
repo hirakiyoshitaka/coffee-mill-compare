@@ -111,6 +111,16 @@
       "source": "/vi/camping/",
       "destination": "/vi/",
       "permanent": true
+    },
+    {
+      "source": "/articles/epei",
+      "destination": "/articles/epeios-essence-go/",
+      "permanent": true
+    },
+    {
+      "source": "/articles/epei/",
+      "destination": "/articles/epeios-essence-go/",
+      "permanent": true
     }
   ]
 }
