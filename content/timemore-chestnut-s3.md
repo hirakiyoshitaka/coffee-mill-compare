@@ -33,6 +33,8 @@ date: "2026-11-04"
 
 [タイムモア 栗子 S3 を Amazon で見る（広告）](https://www.amazon.co.jp/dp/B0CMZCK9PR?tag=stocknotelife-22)
 
+{{grinder:timemore-chestnut-s3}}
+
 ## あわせて読みたい
 
 - [コーヒーミルおすすめランキング](/articles/coffee-mill-ranking/)（S3が1位）
