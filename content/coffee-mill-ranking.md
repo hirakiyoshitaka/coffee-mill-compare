@@ -59,6 +59,11 @@ date: "2026-10-26"
 
 検索結果には別の型番が混ざります。MK4 の Nitro Blade かを、商品名で確認してください。
 
+<div class="buy-stack">
+<p class="buy-note">購入リンク（広告）</p>
+<a href="https://www.amazon.co.jp/dp/B07JQ4P976?tag=stocknotelife-22" class="buy-link">Amazonで価格を見る<small>広告</small><span class="sr-only">（コマンダンテ C40 MK4・外部サイト）</span></a>
+</div>
+
 ## 重さの補足
 
 Essence Go は 870g、栗子 S5 Pro の公式値は約 910g です。2台の差は約40gです。C40 のグラム数は、2026年10月31日に開いた公式商品ページには無かったので、ここには書きません。
