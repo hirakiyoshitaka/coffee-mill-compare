@@ -5,7 +5,7 @@ import { getModel } from "@/data/grinders";
 import { StickyBuyBar } from "@/components/StickyBuyBar";
 import styles from "./ArticleOpening.module.css";
 
-// 対象7記事の商品・見出しを明示する。本文から商品を推測しない。
+// 対象8記事の商品・見出しを明示する。本文から商品を推測しない。
 // 使用事実は記事本文と既存の商品データに基づく。
 // hideConclusion: 2つ目の結論枠を出さない記事（S3記事は1つ目の枠と重なるため）。
 const openings: Record<string, { modelId: string; audience: string; label: string; evidence: string; hideConclusion?: boolean } | undefined> = {
@@ -49,6 +49,12 @@ const openings: Record<string, { modelId: string; audience: string; label: strin
   "amazon-black-friday-coffee-gear": {
     modelId: "timemore-chestnut-s3",
     audience: "セールの前に、ふだん使う手挽きを選びたい方へ",
+    label: "迷ったら、この1台",
+    evidence: "運営者がふだん使っている1台",
+  },
+  "coffee-gift-guide": {
+    modelId: "timemore-chestnut-s3",
+    audience: "コーヒー好きへの贈り物に迷う方へ",
     label: "迷ったら、この1台",
     evidence: "運営者がふだん使っている1台",
   },
