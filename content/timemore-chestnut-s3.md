@@ -5,7 +5,7 @@ category: "mill"
 date: "2026-11-04"
 ---
 
-運営者がふだん使っている手挽きは、タイムモア栗子 S3（Chestnut S3）です。1回に約30gを挽きます。2〜3杯分です。
+運営者がふだん使っている手挽きは、タイムモア栗子 S3（Chestnut S3）です。1回に約30gを挽きます。2〜3杯分です。豆の量をそろえるなら[コーヒースケールの選び方](/articles/coffee-scale-guide/)です。
 
 {{grinder:timemore-chestnut-s3}}
 
