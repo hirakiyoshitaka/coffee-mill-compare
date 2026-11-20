@@ -121,6 +121,46 @@
       "source": "/articles/epei/",
       "destination": "/articles/epeios-essence-go/",
       "permanent": true
+    },
+    {
+      "source": "/articles/hand-coffee-mill-under-10000",
+      "destination": "/articles/how-to-choose-hand-coffee-mill/",
+      "permanent": true
+    },
+    {
+      "source": "/articles/hand-coffee-mill-under-10000/",
+      "destination": "/articles/how-to-choose-hand-coffee-mill/",
+      "permanent": true
+    },
+    {
+      "source": "/articles/comandante-c40-vs-chestnut-x",
+      "destination": "/articles/comandante-c40-vs-timemore/",
+      "permanent": true
+    },
+    {
+      "source": "/articles/comandante-c40-vs-chestnut-x/",
+      "destination": "/articles/comandante-c40-vs-timemore/",
+      "permanent": true
+    },
+    {
+      "source": "/articles/manual-grinders-comandante-timemore-1zpresso",
+      "destination": "/articles/coffee-mill-ranking/",
+      "permanent": true
+    },
+    {
+      "source": "/articles/manual-grinders-comandante-timemore-1zpresso/",
+      "destination": "/articles/coffee-mill-ranking/",
+      "permanent": true
+    },
+    {
+      "source": "/articles/premium-electric-grinder-espresso-machine-guide",
+      "destination": "/articles/electric-coffee-grinder-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/articles/premium-electric-grinder-espresso-machine-guide/",
+      "destination": "/articles/electric-coffee-grinder-guide/",
+      "permanent": true
     }
   ]
 }
