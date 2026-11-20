@@ -15,7 +15,7 @@ date: "2026-11-04"
 
 {{grinder:timemore-chestnut-s3}}
 
-## 公式の仕様
+## タイムモア栗子 S3 公式の仕様
 
 次の数字は、2026年11月4日の[米国公式ページ](https://www.timemore.com/products/timemore-manual-coffee-grinder-chestnut-s3)、[日本公式ページ](https://timemore.jp/products/timemore-s3-manual-coffee-grinder)、および同じ日の[栗子 S5 Pro の公式ページにある比較表](https://www.timemore.com/products/timemore-manual-coffee-grinder-chestnut-s5-pro)に沿っています。
 
