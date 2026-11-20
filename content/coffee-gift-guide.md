@@ -10,9 +10,15 @@ updated: "2026-11-09"
 <h2>おすすめ結論</h2>
 <p>相手の道具が分からなければ<strong>箱入りのドリップバッグ</strong>。ミルを持っている人には<strong>豆</strong>。これから自分で淹れたい人には、運営者がふだん使っている<strong>タイムモア栗子 S3</strong>。</p>
 <p class="fine">お歳暮は12月上旬、クリスマスは12月中旬までに届く手配が目安です。値段と在庫、のし・包装の有無は、ボタンの先のページで確認してください。</p>
+<ul>
+<li><strong>総合のおすすめ</strong>：タイムモア栗子 S3。これから自分で淹れ始めたい人へ。運営者がふだん使っている1台です</li>
+<li><strong>価格を抑えた選択</strong>：丸山珈琲 ドリップバッグ 2種アソートギフト。道具を持っているか分からない相手にも贈れる、箱入りのドリップバッグです</li>
+<li><strong>上の1台</strong>：エペイオス Essence Go。とにかく軽く回り、分解して専用ケースに入ります。持ち出して淹れる人へ</li>
+</ul>
 <div class="cta-after-table">
 <a href="https://www.amazon.co.jp/dp/B0GZK4YTFQ?tag=stocknotelife-22" class="buy-link">丸山珈琲 ドリップバッグ 2種アソートギフトを Amazon で見る（広告）</a>
 <a href="https://www.amazon.co.jp/dp/B0CMZCK9PR?tag=stocknotelife-22" class="buy-link">タイムモア 栗子 S3 を Amazon で見る（広告）</a>
+<a href="https://www.amazon.co.jp/dp/B0D3PZHGBX?tag=stocknotelife-22" class="buy-link">エペイオス Essence Go を Amazon で見る（広告）</a>
 </div>
 </aside>
 
