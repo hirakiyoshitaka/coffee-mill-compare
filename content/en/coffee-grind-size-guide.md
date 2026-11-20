@@ -13,6 +13,8 @@ The hand grinder I usually use is the Timemore Chestnut S3. I grind about 30g at
 
 Choosing the grinder itself — burr size, weight, and whether it stays at home — is covered in [how to choose your first hand grinder](/en/articles/how-to-choose-hand-coffee-mill/). This page is about where to set the dial on the grinder you already have. A [coffee scale](/en/articles/coffee-scale-guide/) is what keeps the dose matched to that setting.
 
+<p class="affiliate-html"><a href="https://www.amazon.com/s?k=coffee+scale+with+timer&tag=ouchidougub03-20">Search coffee scales with a timer on Amazon.com</a> (ad)</p>
+
 ## A starting point for each brew method
 
 From fine to coarse, the order people usually give is espresso, moka pot, pour-over, French press, then cold brew. The borders move with the beans and the brewer. The table is a guide to that order. The cells are not measured micron values.

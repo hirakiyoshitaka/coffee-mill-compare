@@ -55,6 +55,8 @@ The hand grinder I usually use is the Timemore Chestnut S3. I grind about 30g at
 
 <p class="affiliate-html"><a href="https://www.amazon.com/dp/B001HC9GIC?tag=ouchidougub03-20">See the Hario V60 dripper (size 01, clear plastic, VD-01T) on Amazon.com</a> (ad)</p>
 
+<p class="affiliate-html"><a href="https://www.amazon.com/s?k=gooseneck+kettle+for+coffee&tag=ouchidougub03-20">Search gooseneck kettles on Amazon.com</a> (ad)</p>
+
 Prices change. We have not used the V60 dripper, the kettle, or the scale linked on this page.
 
 ## When the cup tastes off

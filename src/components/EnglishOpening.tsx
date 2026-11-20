@@ -1,4 +1,5 @@
 import Image from "next/image";
+import Link from "next/link";
 import { BuyButtons } from "@/components/BuyButtons";
 import { amazonComProductUrl, usAmazonAssociateTag } from "@/config/us-amazon";
 import { getModel } from "@/data/grinders";
@@ -23,6 +24,37 @@ const openings: Record<string, Pick | undefined> = {
 
 const K_ULTRA_ASIN = "B0CC4LXF1Z"; // 記事内の既存リンク（タグは既存の ouchidougub03-20）
 
+// 読まれている3記事の先頭に出す「3つの枠」。役割の印（Best overall／Budget pick／Upgrade pick）＋
+// 商品名＋一言。Amazon.com の ASIN は、型番一致を Amazon 以外の出典で確かめた物だけ。
+// ASIN が無い商品は、このサイトの記事へのリンクに留める。S5 Pro は入れない。
+type TrioPick = {
+  role: string;
+  name: string;
+  line: string;
+  asin?: string;
+  buyLabel?: string;
+  articleHref?: string;
+  articleLabel?: string;
+};
+
+const trios: Record<string, TrioPick[] | undefined> = {
+  "beginner-hand-drip-recipe": [
+    { role: "Best overall", name: "Timemore Chestnut S3", line: "The grinder I use — about 30g at a time, for 2–3 cups.", asin: "B0CMZCK9PR", buyLabel: "See the Chestnut S3 on Amazon.com" },
+    { role: "Budget pick", name: "Hario V60 dripper 01 (VD-01T)", line: "The brewer this recipe is written for, and the lowest-cost piece of the kit.", asin: "B001HC9GIC", buyLabel: "See the V60 dripper on Amazon.com" },
+    { role: "Upgrade pick", name: "Comandante C40 MK4", line: "The German Nitro Blade grinder from our comparison. We have not used it.", asin: "B07JQ4P976", buyLabel: "See the Comandante C40 MK4 on Amazon.com" },
+  ],
+  "comandante-c40-vs-timemore": [
+    { role: "Best overall", name: "Timemore Chestnut S3", line: "The grinder I use — about 30g at a time, for 2–3 cups.", asin: "B0CMZCK9PR", buyLabel: "See the Chestnut S3 on Amazon.com" },
+    { role: "Budget pick", name: "1Zpresso Q2", line: "The entry model in the 1Zpresso lineup we cover.", articleHref: "/en/articles/1zpresso-hand-grinder-lineup/", articleLabel: "See the 1Zpresso lineup" },
+    { role: "Upgrade pick", name: "Comandante C40 MK4", line: "The German Nitro Blade grinder this article compares. We have not used it.", asin: "B07JQ4P976", buyLabel: "See the Comandante C40 MK4 on Amazon.com" },
+  ],
+  "coffee-grind-size-guide": [
+    { role: "Best overall", name: "Timemore Chestnut S3", line: "The grinder I use, with an external dial I can set and return to.", asin: "B0CMZCK9PR", buyLabel: "See the Chestnut S3 on Amazon.com" },
+    { role: "Budget pick", name: "1Zpresso Q2", line: "The entry model in the 1Zpresso lineup we cover.", articleHref: "/en/articles/1zpresso-hand-grinder-lineup/", articleLabel: "See the 1Zpresso lineup" },
+    { role: "Upgrade pick", name: "Comandante C40 MK4", line: "The German Nitro Blade grinder from our comparison. We have not used it.", asin: "B07JQ4P976", buyLabel: "See the Comandante C40 MK4 on Amazon.com" },
+  ],
+};
+
 export function hasEnglishOpening(slug: string): boolean {
   return Object.hasOwn(openings, slug);
 }
@@ -30,6 +62,9 @@ export function hasEnglishOpening(slug: string): boolean {
 export function EnglishOpening({ slug }: { slug: string }) {
   const opening = Object.hasOwn(openings, slug) ? openings[slug] : undefined;
   if (!opening) return null;
+
+  const trio = Object.hasOwn(trios, slug) ? trios[slug] : undefined;
+  if (trio) return <TrioFrame audience={opening.audience} picks={trio} />;
 
   if (opening.kind === "s3") {
     const model = getModel("timemore-chestnut-s3");
@@ -60,6 +95,37 @@ export function EnglishOpening({ slug }: { slug: string }) {
       buyName="1Zpresso K-Ultra"
       links={[{ href, label: "See the K-Ultra on Amazon.com" }]}
     />
+  );
+}
+
+function TrioFrame({ audience, picks }: { audience: string; picks: TrioPick[] }) {
+  return (
+    <section className={styles.frame} aria-label="Three picks">
+      <p className={styles.audience}>{audience}</p>
+      <h2 className={styles.label}>Three picks</h2>
+      {picks.map((pick) => {
+        const href = pick.asin ? amazonComProductUrl(usAmazonAssociateTag, pick.asin) : undefined;
+        return (
+          <div key={pick.role} style={{ marginTop: 12 }}>
+            <p className={styles.audience}>{pick.role}</p>
+            <h3 className={styles.product} style={{ fontSize: "1.05rem" }}>
+              {pick.name}
+            </h3>
+            <p className={styles.evidence}>{pick.line}</p>
+            {href && pick.buyLabel ? (
+              <BuyButtons name={pick.name} links={[{ href, label: pick.buyLabel }]} locale="en" />
+            ) : null}
+            {pick.articleHref && pick.articleLabel ? (
+              <p style={{ marginTop: 6 }}>
+                <Link href={pick.articleHref} className="text-[var(--accent)] underline-offset-4 hover:underline">
+                  {pick.articleLabel}
+                </Link>
+              </p>
+            ) : null}
+          </div>
+        );
+      })}
+    </section>
   );
 }
 
