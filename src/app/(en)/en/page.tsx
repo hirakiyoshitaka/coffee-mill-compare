@@ -10,8 +10,18 @@ const c40Href = amazonComProductUrl(usAmazonAssociateTag, "B07JQ4P976");
 
 const featured = (
   <section aria-label="Start here" className="mt-8 border border-[var(--line)] bg-[var(--soft)] px-5 py-4">
-    <h2 className="font-serif text-xl text-[var(--ink)]">Start with the grinder</h2>
-    <p className="mt-2 text-base leading-relaxed text-stone-600">
+    <h2 className="font-serif text-xl text-[var(--ink)]">Start here</h2>
+    <p className="mt-3 text-base leading-relaxed">
+      <Link href="/en/articles/amazon-black-friday-2026-coffee-gear/" className="text-[var(--accent)] underline-offset-4 hover:underline">
+        Amazon Black Friday 2026: coffee gear to decide before the sale
+      </Link>
+    </p>
+    <p className="mt-2 text-base leading-relaxed">
+      <Link href="/en/articles/gifts-for-home-coffee-lovers-2026/" className="text-[var(--accent)] underline-offset-4 hover:underline">
+        Gifts for home coffee lovers 2026: under $50, under $150, and splurge picks
+      </Link>
+    </p>
+    <p className="mt-4 text-base leading-relaxed text-stone-600">
       The hand grinder I use is the Timemore Chestnut S3 — about 30g at a time, for 2–3 cups. The Comandante C40 MK4 is
       the German Nitro Blade grinder we compare it with; we have not used the C40.
     </p>
