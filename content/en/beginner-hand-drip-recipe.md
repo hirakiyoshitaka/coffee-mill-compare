@@ -53,6 +53,8 @@ The hand grinder I usually use is the Timemore Chestnut S3. I grind about 30g at
 2. **A scale.** Guessing at 12g, 24g, and 48g will not get you back to the same cup the next morning. See [how to choose a coffee scale](/en/articles/coffee-scale-guide/).
 3. **A kettle that pours a thin stream.** This recipe assumes you can draw that spiral.
 
+<p class="affiliate-html"><a href="https://www.amazon.com/dp/B001HC9GIC?tag=ouchidougub03-20">See the Hario V60 dripper (size 01, clear plastic, VD-01T) on Amazon.com</a> (ad)</p>
+
 Prices change. We have not used the V60 dripper, the kettle, or the scale linked on this page.
 
 ## When the cup tastes off
@@ -87,4 +89,4 @@ Coffee Carrot ships only within Japan.
 - [Timemore S5 Pro vs EPEIOS Essence Go](/en/articles/timemore-s5-pro-vs-essence-go/)
 - [EPEIOS Essence Go review](/en/articles/epeios-essence-go/)
 
-Purchase links that remain on the grinder card, the Coffee Carrot button, and the Chestnut S3 Amazon.com link are ads. See our [disclosure](/en/disclosure/) for details.
+Purchase links that remain on the grinder card, the Coffee Carrot button, and the Chestnut S3 and Hario V60 Amazon.com links are ads. See our [disclosure](/en/disclosure/) for details.

@@ -1,7 +1,41 @@
+import Link from "next/link";
 import { LocaleIndex, localeIndexMetadata } from "@/components/intl/LocaleIndex";
+import { BuyButtons } from "@/components/BuyButtons";
+import { amazonComProductUrl, usAmazonAssociateTag } from "@/config/us-amazon";
 
 export const metadata = localeIndexMetadata("en");
 
+const s3Href = amazonComProductUrl(usAmazonAssociateTag, "B0CMZCK9PR");
+const c40Href = amazonComProductUrl(usAmazonAssociateTag, "B07JQ4P976");
+
+const featured = (
+  <section aria-label="Start here" className="mt-8 border border-[var(--line)] bg-[var(--soft)] px-5 py-4">
+    <h2 className="font-serif text-xl text-[var(--ink)]">Start with the grinder</h2>
+    <p className="mt-2 text-base leading-relaxed text-stone-600">
+      The hand grinder I use is the Timemore Chestnut S3 — about 30g at a time, for 2–3 cups. The Comandante C40 MK4 is
+      the German Nitro Blade grinder we compare it with; we have not used the C40.
+    </p>
+    <p className="mt-3 text-base leading-relaxed">
+      <Link href="/en/articles/comandante-c40-vs-timemore/" className="text-[var(--accent)] underline-offset-4 hover:underline">
+        Comandante C40 vs Timemore: counting clicks or an external dial
+      </Link>
+    </p>
+    {s3Href ? (
+      <BuyButtons name="Timemore Chestnut S3" locale="en" links={[{ href: s3Href, label: "See the Chestnut S3 on Amazon.com" }]} />
+    ) : null}
+    {c40Href ? (
+      <BuyButtons name="Comandante C40 MK4" locale="en" links={[{ href: c40Href, label: "See the Comandante C40 MK4 on Amazon.com" }]} />
+    ) : null}
+    <p className="mt-3 text-base leading-relaxed">
+      New to pour-over? Start with the{" "}
+      <Link href="/en/articles/beginner-hand-drip-recipe/" className="text-[var(--accent)] underline-offset-4 hover:underline">
+        beginner pour-over recipe (Hario V60)
+      </Link>
+      .
+    </p>
+  </section>
+);
+
 export default function Page() {
-  return <LocaleIndex locale="en" />;
+  return <LocaleIndex locale="en" top={featured} />;
 }

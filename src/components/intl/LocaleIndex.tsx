@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import type { ReactNode } from "react";
 import Link from "next/link";
 import { getSiteUrl, siteConfig, localizedSiteName } from "@/data/site";
 import { getLocalizedArticles, hreflangOf, translationLocales, type TranslationLocale } from "@/lib/articles";
@@ -26,7 +27,7 @@ export function localeIndexMetadata(locale: TranslationLocale): Metadata {
   };
 }
 
-export function LocaleIndex({ locale }: { locale: TranslationLocale }) {
+export function LocaleIndex({ locale, top }: { locale: TranslationLocale; top?: ReactNode }) {
   const t = chromeDict[locale];
   const articles = getLocalizedArticles(locale);
   return (
@@ -34,6 +35,7 @@ export function LocaleIndex({ locale }: { locale: TranslationLocale }) {
       <LanguageSwitcher current={locale} paths={indexPaths()} label={t.lang} />
       <h1 className="font-serif text-[1.75rem] leading-snug tracking-wide text-[var(--ink)]">{t.listTitle}</h1>
       <p className="mt-4 text-base leading-relaxed text-stone-600">{t.listLead}</p>
+      {top ?? null}
       <ul className="mt-8 space-y-6">
         {articles.map((a) => (
           <li key={a.slug}>
