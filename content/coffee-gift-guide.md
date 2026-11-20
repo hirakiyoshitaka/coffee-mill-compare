@@ -93,7 +93,7 @@ updated: "2026-11-09"
 
 [手挽きコーヒーミルを Amazon で探す（広告）](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=%E6%89%8B%E6%8C%BD%E3%81%8D+%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%83%9F%E3%83%AB)
 
-ミルを贈ったあとの手入れは[コーヒーミルの掃除・お手入れ方法](/articles/coffee-mill-cleaning/)にまとめました。ドリッパーやケトルからそろえる場合は[ハンドドリップ道具のそろえ方](/articles/hand-drip-gear-guide/)と、[ハンドドリップのセットを Amazon で探す（広告）](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=%E3%83%8F%E3%83%B3%E3%83%89%E3%83%89%E3%83%AA%E3%83%83%E3%83%97+%E3%82%BB%E3%83%83%E3%83%88)をどうぞ。ケトル単品の選び方は[ドリップケトルおすすめの選び方](/articles/drip-kettle-guide/)にまとめました。細口・温度調整・容量の違いが分かります。
+ミルを贈ったあとの手入れは[コーヒーミルの掃除・お手入れ方法](/articles/coffee-mill-cleaning/)にまとめました。ドリッパーやケトルからそろえる場合は[ハンドドリップ道具のそろえ方](/articles/hand-drip-gear-guide/)と、[ハンドドリップのセットを Amazon で探す（広告）](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=%E3%83%8F%E3%83%B3%E3%83%89%E3%83%89%E3%83%AA%E3%83%83%E3%83%97+%E3%82%BB%E3%83%83%E3%83%88)をどうぞ。ドリッパーの形の違いは[コーヒードリッパー比較](/articles/coffee-dripper-comparison/)です。ケトル単品の選び方は[ドリップケトルおすすめの選び方](/articles/drip-kettle-guide/)にまとめました。細口・温度調整・容量の違いが分かります。
 
 ## 道具がそろっている人には、消耗品
 
