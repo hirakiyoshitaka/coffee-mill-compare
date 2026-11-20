@@ -95,8 +95,8 @@ Amazon.co.jp は2026年11月5日に、年末のセール「Amazon ブラック�
 
 ## あわせて読みたい
 
-- [タイムモア栗子 S3｜ふだん使っている手挽き](/articles/timemore-chestnut-s3/)
-- [エペイオス Essence Goレビュー](/articles/epeios-essence-go/)
-- [コーヒーミルおすすめランキング](/articles/coffee-mill-ranking/)
-- [コーヒー好きへのギフトおすすめ](/articles/coffee-gift-guide/)
-- [珈琲きゃろっとの定期便を約1年続けた感想](/articles/coffee-carrot-review/)
+- [タイムモア栗子 S3｜ふだん使っている手挽き](/articles/timemore-chestnut-s3/)（セール前に、仕様と使い方を確認する）
+- [エペイオス Essence Goレビュー](/articles/epeios-essence-go/)（軽く回したい人向けの、もう1台）
+- [コーヒーミルおすすめランキング](/articles/coffee-mill-ranking/)（上の2台の順位と、C40を含む比べ方）
+- [コーヒー好きへのギフトおすすめ](/articles/coffee-gift-guide/)（自分用ではなく、贈り物にする場合の選び方）
+- [珈琲きゃろっとの定期便を約1年続けた感想](/articles/coffee-carrot-review/)（ミルを買ったあとも続く、豆の受け取り方）

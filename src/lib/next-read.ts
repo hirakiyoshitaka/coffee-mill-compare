@@ -77,6 +77,14 @@ const NEXT_READS: Record<string, readonly string[]> = {
     "japanese-premium-coffee-makers",
     "coffee-grind-size-guide",
   ],
+  "en/beginner-hand-drip-recipe": [
+    "coffee-grind-size-guide",
+    "coffee-scale-guide",
+  ],
+  "en/comandante-c40-vs-timemore": [
+    "coffee-grind-size-guide",
+    "1zpresso-hand-grinder-lineup",
+  ],
 };
 
 export function getNextReads(locale: TranslationLocale, slug: string): ArticleMeta[] {
