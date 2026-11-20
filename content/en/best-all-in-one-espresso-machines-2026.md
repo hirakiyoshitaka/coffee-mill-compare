@@ -33,6 +33,8 @@ US $1,999.95 list · UK about £1,699 (Sage)
 
 [Breville US](https://www.breville.com/en-us/product/bes985) · [Sage UK](https://www.sageappliances.com/en-gb)
 
+<p class="affiliate-html"><a href="https://www.amazon.com/dp/B0DYGDKQ85?tag=ouchidougub03-20">See the Oracle Jet on Amazon.com</a> (ad)</p>
+
 ## Breville Barista Touch Impress
 
 US $1,499.95 list · UK £1,199.95 (Sage BES882)
@@ -48,6 +50,8 @@ US $1,499.95 list · UK £1,199.95 (Sage BES882)
 
 [Breville US](https://www.breville.com/en-us/product/bes881) · [Sage UK](https://www.sageappliances.com/en-gb/product/bes882)
 
+<p class="affiliate-html"><a href="https://www.amazon.com/dp/B0C1T4W797?tag=ouchidougub03-20">See the Barista Touch Impress on Amazon.com</a> (ad)</p>
+
 ## Breville Barista Express Impress
 
 US $799.95 list (seen at $649.95 on sale at Macy's) · UK £599.95
@@ -61,6 +65,8 @@ US $799.95 list (seen at $649.95 on sale at Macy's) · UK £599.95
 **Review summary:** the modern version of Breville's best-selling grinder machine — the choice for people who enjoy the process.
 
 [Breville US](https://www.breville.com/en-us/product/bes876) · [Sage UK](https://www.sageappliances.com/en-gb)
+
+<p class="affiliate-html"><a href="https://www.amazon.com/dp/B0BBYNPV33?tag=ouchidougub03-20">See the Barista Express Impress on Amazon.com</a> (ad)</p>
 
 ## De'Longhi Eletta Explore
 
@@ -76,6 +82,8 @@ UK £899.99–£999.99 · US prices vary by retailer
 
 [De'Longhi US](https://www.delonghi.com/en-us) · [De'Longhi UK](https://www.delonghi.com/en-gb)
 
+<p class="affiliate-html"><a href="https://www.amazon.com/dp/B0CGL7878G?tag=ouchidougub03-20">See the Eletta Explore on Amazon.com</a> (ad)</p>
+
 ## De'Longhi Rivelia
 
 UK £649.99–£749.99 · US prices vary by retailer
@@ -89,6 +97,8 @@ UK £649.99–£749.99 · US prices vary by retailer
 **Review summary:** The Guardian's best bean-to-cup under £1,000; Coffee Machine Reviews UK's best overall.
 
 [De'Longhi US](https://www.delonghi.com/en-us) · [De'Longhi UK](https://www.delonghi.com/en-gb)
+
+<p class="affiliate-html"><a href="https://www.amazon.com/dp/B0F1GMCQPB?tag=ouchidougub03-20">See the Rivelia on Amazon.com</a> (ad)</p>
 
 ## De'Longhi La Specialista Touch
 
@@ -104,6 +114,8 @@ UK £699.99
 
 [De'Longhi UK](https://www.delonghi.com/en-gb) · [De'Longhi US](https://www.delonghi.com/en-us)
 
+<p class="affiliate-html"><a href="https://www.amazon.com/dp/B0F6DY1DGR?tag=ouchidougub03-20">See the La Specialista Touch on Amazon.com</a> (ad)</p>
+
 ## How to decide in 30 seconds
 
 1. Don't want to touch a portafilter? → **Rivelia** (or **Eletta Explore** if you drink iced coffee).
@@ -113,4 +125,6 @@ UK £699.99
 
 For the full side-by-side table, read [Breville vs De'Longhi: all-in-one espresso machines compared](/en/articles/breville-vs-delonghi-all-in-one-espresso/). Curious why grinding is the core of espresso? See [hand vs electric grinders](/en/articles/hand-vs-electric-coffee-mill/).
 
-Links on this page go to official maker stores and are not affiliate links. See our [disclosure](/en/disclosure/).
+Availability on Amazon.com can change, so check the listing and the seller before ordering.
+
+Some links on this page are ads. See our [disclosure](/en/disclosure/).
