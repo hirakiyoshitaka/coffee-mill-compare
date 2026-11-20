@@ -42,3 +42,4 @@ date: "2026-11-04"
 - [エペイオス Essence Goレビュー](/articles/epeios-essence-go/)（もう一台の手挽き）
 - [タイムモア S5 Pro と エペイオス Essence Go 比較](/articles/timemore-s5-pro-vs-essence-go/)
 - [珈琲きゃろっとの定期便を約1年続けた感想](/articles/coffee-carrot-review/)（ふだん挽いている豆）
+- [はじめてのハンドドリップの淹れ方](/articles/beginner-hand-drip-recipe/)（挽いた豆を最初の一杯にする基本レシピ）
