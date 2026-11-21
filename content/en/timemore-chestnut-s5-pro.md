@@ -47,6 +47,8 @@ The notes below summarize published reviews. The stars belong to those outlets. 
 
 [La Milan Cafe](https://lamilan.cafe/timemore-chestnut-s5-pro-review/) (October 23, 2026) sums it up as a grinder for someone who wants one unit at home for both pour-over and espresso, and not as a travel grinder. Even with a folding handle, about 910g still makes it a grinder that lives on the counter.
 
+If the goal is espresso without grinding by hand at all, the [best all-in-one espresso machines of 2026](/en/articles/best-all-in-one-espresso-machines-2026/) covers six machines with a grinder built in.
+
 [Pull and Pour Coffee](https://pullandpourcoffee.com/timemore-chestnut-s5-pro-manual-coffee-grinder-review/) treats the 48mm burrs, the 15-micron external adjustment, the wide mouth, and the large knob as a practical everyday package. That article lists the weight as 798g and the color names as Obsidian Black and Hunter Green. The official figures are about 910g, with Matt Black and Olive Green, so check the official page for color and weight when you buy.
 
 The shared thread is the feel of the adjustment, and the assumption that the grinder stays at home. None of these reviews call it the first grinder to pack in a travel bag.

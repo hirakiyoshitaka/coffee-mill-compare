@@ -27,7 +27,7 @@ From fine to coarse, the order people usually give is espresso, moka pot, pour-o
 | French press | Coarse | Often compared to raw sugar | Too fine and silt stays in the cup |
 | Cold brew | Coarse, the same as press or coarser still | Raw sugar, or coarser than that | Too fine and the brew can come out overly strong. That is general guidance |
 
-If you are deciding whether to grind espresso-fine by hand at all, read [hand vs electric grinders](/en/articles/hand-vs-electric-coffee-mill/) and the [electric grinder guide](/en/articles/electric-coffee-grinder-guide/). This site does not list French press, moka pot, dripper, or espresso-machine models.
+If you are deciding whether to grind espresso-fine by hand at all, read [hand vs electric grinders](/en/articles/hand-vs-electric-coffee-mill/) and the [electric grinder guide](/en/articles/electric-coffee-grinder-guide/). If you would rather have a machine do the grinding and the brewing in one unit, the [Breville vs De'Longhi all-in-one comparison](/en/articles/breville-vs-delonghi-all-in-one-espresso/) covers six current models. This site does not list French press, moka pot, or dripper models.
 
 A first pour-over that follows Hario's published V60 ratios, scaled to 12g, is the [beginner pour-over recipe](/en/articles/beginner-hand-drip-recipe/). The times there are Hario's. This site did not time that brew.
 
