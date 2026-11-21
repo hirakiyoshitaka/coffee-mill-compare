@@ -13,6 +13,12 @@ date: "2026-11-02"
 
 这不是用分数比味道的名次。价格会变。本站没有中文的栗子 S5 Pro 长文。数字和用过的感受，以这篇和日文站内的记录为准。
 
+## 三台怎么挑
+
+- 想在家里平常用、一次磨 2–3 杯：栗子 S3。站长平时用的就是这一台，一次大约 30g
+- 想要转起来轻、拆开带出门：Essence Go。站长的感受只有一句，转起来真的很轻。拆开来可以收进专用盒，是官方的说明
+- 看重设计和高级感：C40 MK4。德国制造，刀盘是高氮合金的 Nitro Blade。这台站长没用过，下面是评测整理
+
 ## 1. 泰摩栗子 S3
 
 站长平时用的是泰摩栗子 S3。一次大约磨 30g，做 2–3 杯。没有在用栗子 S5 Pro。
@@ -58,6 +64,8 @@ date: "2026-11-02"
 ## 也可以看看
 
 1Zpresso K-Ultra 不在这三台里。没用过。官方把它放在一台覆盖多种萃取的位置，说明见[1Zpresso 手摇磨豆机怎么选](/zh-cn/articles/1zpresso-hand-grinder-lineup/)。
+
+如果连手摇都不想做，按键式的滴滤机是另一类，见[巴慕达 The Brew 和双鸟全自动](/zh-cn/articles/japanese-premium-coffee-makers/)。那三台本站也没有用过。
 
 [在 Amazon.co.jp 搜索 1Zpresso K-Ultra](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=1Zpresso+K-Ultra)
 

@@ -62,6 +62,8 @@ date: "2026-11-01"
 - 要豆到杯，又想要接近手冲的结果，而且是一家人喝：**双鸟 CM-D465B**
 - 同样的杯子，一两个人，机身更矮：**双鸟 CM-D457B**
 
+放哪里、喝几杯，也可以先对一下。CM-D465B 高 42.5 厘米，吊柜下面要先量；CM-D457B 高 36 厘米，更矮一截。杯数上，The Brew 和 CM-D457B 都是 3 杯，CM-D465B 是 6 杯（900ml）。双鸟两台的水温都是 83℃ 或 90℃ 两档，90℃ 面向深烘和冰咖啡；The Brew 的水温按阶段自动控制。
+
 如果想要的是浓缩和拿铁，而不是滴滤，读 [铂富 vs 德龙](/zh-cn/articles/breville-vs-delonghi-all-in-one-espresso/)。
 
 在壶里浸泡再压下去的法压，见[法压壶怎么选](/zh-cn/articles/french-press-guide/)。用炉火把水从下壶压上来的摩卡壶，见[摩卡壶怎么选](/zh-cn/articles/moka-pot-guide/)。滤杯底下只负责接咖啡的壶，见[手冲分享壶怎么选](/zh-cn/articles/coffee-server-guide/)。本站没有用过那些壶。
