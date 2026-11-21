@@ -3,7 +3,7 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import { ArticleBody } from "@/components/ArticleBody";
 import { ArticlePicks, QuickPick } from "@/components/ArticlePicks";
-import { EnglishOpening, hasEnglishOpening } from "@/components/EnglishOpening";
+import { EnglishOpening, EnglishSearchBar, hasEnglishOpening, hasEnglishSearchBar } from "@/components/EnglishOpening";
 import openingStyles from "@/components/EnglishOpening.module.css";
 import { ShareButtons } from "@/components/ShareButtons";
 import { getSiteUrl, siteConfig, localizedSiteName } from "@/data/site";
@@ -125,6 +125,7 @@ export function LocalizedArticle({ locale, slug }: { locale: TranslationLocale; 
   if (!article) notFound();
   const t = ui[locale];
   const showOpening = locale === "en" && hasEnglishOpening(slug);
+  const showSearchBar = locale === "en" && !showOpening && hasEnglishSearchBar(slug);
   const nextReads = getNextReads(locale, slug);
   const nextSlugs = new Set(nextReads.map((item) => item.slug));
   const related = getLocalizedArticles(locale).filter((a) => a.slug !== slug && !nextSlugs.has(a.slug));
@@ -160,6 +161,7 @@ export function LocalizedArticle({ locale, slug }: { locale: TranslationLocale; 
           <p className="mb-8 text-base leading-relaxed text-stone-600">{article.description}</p>
         </>
       ) : null}
+      {showSearchBar ? <EnglishSearchBar slug={slug} /> : null}
       <aside className="border border-[var(--line)] bg-[var(--soft)] px-5 py-4 text-[16px] leading-[1.9]">
         <p className="font-bold text-[var(--accent)]">{t.pr}</p>
         <p className="mt-1">{t.disclosure}</p>

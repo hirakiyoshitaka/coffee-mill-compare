@@ -2,7 +2,7 @@ import Image from "next/image";
 import Link from "next/link";
 import { BuyButtons } from "@/components/BuyButtons";
 import { StickyBuyBar } from "@/components/StickyBuyBar";
-import { amazonComProductUrl, usAmazonAssociateTag } from "@/config/us-amazon";
+import { amazonComProductUrl, amazonComSearchUrl, usAmazonAssociateTag } from "@/config/us-amazon";
 import { getModel } from "@/data/grinders";
 import styles from "./EnglishOpening.module.css";
 
@@ -58,6 +58,36 @@ const trios: Record<string, TrioPick[] | undefined> = {
 
 export function hasEnglishOpening(slug: string): boolean {
   return Object.hasOwn(openings, slug);
+}
+
+// 結論枠のない英語記事の固定バー（検索リンク版）。出すのは記事の主役1台だけ。
+// 検索語は記事本文で既に使っている amazon.com 検索リンクと同一にする（新しい検索語を作らない）。
+// BF・ギフト・ベスト3・S5 Pro 比較は S3（記事の主役・ふだん使う1台）、Essence Go 記事は Essence Go。
+// 1台に決められない記事（エスプレッソマシン2本・はかり・電動ミル・日本製メーカー）は入れない。
+type SearchBarPick = {
+  name: string;
+  query: string;
+};
+
+const searchBars: Record<string, SearchBarPick | undefined> = {
+  "amazon-black-friday-2026-coffee-gear": { name: "Timemore Chestnut S3", query: "TIMEMORE Chestnut S3 coffee grinder" },
+  "gifts-for-home-coffee-lovers-2026": { name: "Timemore Chestnut S3", query: "TIMEMORE Chestnut S3 coffee grinder" },
+  "luxury-relaxed-coffee-mill-best3": { name: "Timemore Chestnut S3", query: "TIMEMORE Chestnut S3 coffee grinder" },
+  "timemore-s5-pro-vs-essence-go": { name: "Timemore Chestnut S3", query: "TIMEMORE Chestnut S3 coffee grinder" },
+  "epeios-essence-go": { name: "EPEIOS Essence Go", query: "EPEIOS Essence Go coffee grinder" },
+};
+
+export function hasEnglishSearchBar(slug: string): boolean {
+  return Object.hasOwn(searchBars, slug);
+}
+
+export function EnglishSearchBar({ slug }: { slug: string }) {
+  const pick = Object.hasOwn(searchBars, slug) ? searchBars[slug] : undefined;
+  if (!pick) return null;
+  if (hasEnglishOpening(slug)) return null; // 結論枠がある記事は商品ページ版のバーを使う
+  const href = amazonComSearchUrl(usAmazonAssociateTag, pick.query);
+  if (!href) return null;
+  return <StickyBuyBar name={pick.name} href={href} locale="en" />;
 }
 
 export function EnglishOpening({ slug }: { slug: string }) {

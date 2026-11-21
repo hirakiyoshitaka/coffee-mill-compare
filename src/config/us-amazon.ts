@@ -33,6 +33,20 @@ export function amazonComProductUrl(tag: string, asin: string): string | undefin
   return `https://www.amazon.com/dp/${cleanAsin}?tag=${cleanTag}`;
 }
 
+/**
+ * タグと検索語があるときだけ、amazon.com の検索 URL を返す（結論枠のない英語記事の固定バー用）。
+ * 検索語は記事本文で既に使っているものだけを渡す。日本のタグは amazon.com に使わない。
+ */
+export function amazonComSearchUrl(tag: string, query: string): string | undefined {
+  const cleanTag = tag.trim();
+  const cleanQuery = query.trim();
+  if (!cleanTag || !cleanQuery) return undefined;
+  if (cleanTag === jpAmazonAssociateTag) return undefined;
+  if (!/^[A-Za-z0-9][A-Za-z0-9-]{0,49}$/.test(cleanTag)) return undefined;
+  const encoded = encodeURIComponent(cleanQuery).replace(/%20/g, "+");
+  return `https://www.amazon.com/s?k=${encoded}&tag=${cleanTag}`;
+}
+
 /** 英語ページの手挽きミルだけ。タグか ASIN が空なら undefined。 */
 export function englishHandGrinderAmazonUrl(model: { id: string; type: GrinderType }): string | undefined {
   if (model.type !== "manual") return undefined;
