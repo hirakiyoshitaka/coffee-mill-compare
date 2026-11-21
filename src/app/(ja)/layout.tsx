@@ -22,7 +22,7 @@ const notoSerifJp = Noto_Serif_JP({
   display: "swap",
 });
 
-const homeTitle = "おうち時間の道具箱｜コーヒー道具・キッチン用品・ガジェットを用途で比べる";
+const homeTitle = "おうち時間の道具箱｜迷ったら1位のS3から選ぶ";
 
 export const metadata: Metadata = {
   metadataBase: new URL(getSiteUrl()),
