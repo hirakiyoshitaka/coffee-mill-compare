@@ -75,7 +75,7 @@ date: "2026-11-01"
 
 ## 豆
 
-運営者は[珈琲きゃろっと](/beans/coffee-carrot/)の定期便を1年ほど続けていて、おいしかった、とのことです。サーバーの容量に合わせた銘柄指定ではありません。ほかの店は[最初に頼みたい豆](/articles/first-beans-after-hand-mill/)です。
+運営者は2025年3月から[珈琲きゃろっと](/beans/coffee-carrot/)の定期便を1年契約で利用し、おいしかった、とのことです。サーバーの容量に合わせた銘柄指定ではありません。ほかの店は[最初に頼みたい豆](/articles/first-beans-after-hand-mill/)です。
 
 [珈琲きゃろっとの定期便を見る（広告）](https://px.a8.net/svt/ejp?a8mat=4BEQHR+383LAA+2CG0+5YJRM)
 
