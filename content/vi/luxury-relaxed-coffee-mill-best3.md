@@ -55,6 +55,12 @@ Chưa dùng Comandante C40. Không viết cảm giác khi quay, cũng không vi�
 
 Kết quả tìm trộn mẫu khác. Kiểm tra tên hàng là MK4 Nitro Blade.
 
+## Ba máy này chọn thế nào
+
+- **Dùng thường ngày ở nhà** → hạng 1, Timemore Chestnut S3. Người vận hành dùng thường ngày, mỗi lần khoảng 30g, cho 2–3 tách
+- **Muốn quay nhẹ, mang đi được** → hạng 2, EPEIOS Essence Go. Quay rất nhẹ. Tháo ra rồi cho vào hộp riêng là lời của hãng
+- **Thích thiết kế và cảm giác cao cấp, chưa cần cầm trên tay** → hạng 3, Comandante C40. Sản xuất tại Đức, lưỡi là Nitro Blade. Phần này chỉ là tóm tắt đánh giá, chưa dùng
+
 ## Cũng có thể xem
 
 1Zpresso K-Ultra không nằm trong ba máy này. Chưa dùng. Chỗ hãng đặt nó, một máy đi qua nhiều cách pha, nằm ở [cách chọn máy xay tay 1Zpresso](/vi/articles/1zpresso-hand-grinder-lineup/).
@@ -66,6 +72,8 @@ Kết quả tìm trộn mẫu khác. Kiểm tra tên hàng là MK4 Nitro Blade.
 Hạt xay bằng Timemore là [Coffee Carrot (珈琲きゃろっと)](/beans/coffee-carrot/), mua theo đăng ký. Thời gian xay những hạt này là khoảng hạnh phúc. Trang cửa hàng bằng tiếng Nhật.
 
 珈琲きゃろっと chỉ giao hàng trong nội địa Nhật Bản.
+
+Muốn pha bằng French press thì xay thô. Cách chọn bình nằm ở [Cách chọn bình French press](/vi/articles/french-press-guide/).
 
 Một số liên kết là quảng cáo. Xem [công bố quảng cáo](/vi/disclosure/).
 
