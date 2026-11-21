@@ -12,6 +12,7 @@ const NEXT_READS: Record<string, readonly string[]> = {
     "1zpresso-hand-grinder-lineup",
     "breville-vs-delonghi-all-in-one-espresso",
     "home-latte-espresso-machines",
+    "cold-brew-outdoor-coffee",
   ],
   "zh-tw/1zpresso-hand-grinder-lineup": [
     "timemore-chestnut-s5-pro",
