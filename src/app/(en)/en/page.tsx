@@ -22,7 +22,11 @@ const featured = (
       </Link>
     </p>
     <p className="mt-4 text-base leading-relaxed text-stone-600">
-      The hand grinder I use is the Timemore Chestnut S3 — about 30g at a time, for 2–3 cups. The Comandante C40 MK4 is
+      The hand grinder I use is the{" "}
+      <Link href="/en/articles/timemore-chestnut-s3/" className="text-[var(--accent)] underline-offset-4 hover:underline">
+        Timemore Chestnut S3
+      </Link>{" "}
+      — about 30g at a time, for 2–3 cups. The Comandante C40 MK4 is
       the German Nitro Blade grinder we compare it with; we have not used the C40.
     </p>
     <p className="mt-3 text-base leading-relaxed">

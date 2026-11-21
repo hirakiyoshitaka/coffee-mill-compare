@@ -29,7 +29,7 @@ A consumable is an easy gift for someone who already brews V60: it always runs o
 
 ### Timemore Chestnut S3
 
-The hand grinder I usually use. I grind about 30g at a time, for 2–3 cups. The adjustment is an external dial, so a setting can be left in place and found again the next morning. The fuller account, including the comparison with the Comandante C40, is [Comandante C40 vs Timemore](/en/articles/comandante-c40-vs-timemore/).
+The hand grinder I usually use. I grind about 30g at a time, for 2–3 cups. The adjustment is an external dial, so a setting can be left in place and found again the next morning. The full review is [Timemore Chestnut S3 review](/en/articles/timemore-chestnut-s3/). The fuller account, including the comparison with the Comandante C40, is [Comandante C40 vs Timemore](/en/articles/comandante-c40-vs-timemore/).
 
 <p class="affiliate-html"><a href="https://www.amazon.com/s?k=TIMEMORE+Chestnut+S3+coffee+grinder&tag=ouchidougub03-20">Search the Timemore Chestnut S3 on Amazon.com</a> (ad)</p>
 

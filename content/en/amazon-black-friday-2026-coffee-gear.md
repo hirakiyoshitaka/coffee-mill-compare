@@ -21,7 +21,7 @@ In the US, Black Friday falls on **Friday, November 27, 2026**, and Cyber Monday
 
 ## 1. Timemore Chestnut S3 (the grinder I use)
 
-The hand grinder I usually use is the Timemore Chestnut S3. I grind about 30g at a time, for 2–3 cups.
+The hand grinder I usually use is the [Timemore Chestnut S3](/en/articles/timemore-chestnut-s3/). I grind about 30g at a time, for 2–3 cups.
 
 From Timemore's official pages, the points worth checking when you compare:
 
