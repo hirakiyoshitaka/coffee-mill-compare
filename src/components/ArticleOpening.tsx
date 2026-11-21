@@ -55,6 +55,7 @@ const openings: Record<string, { modelId: string; audience: string; learn?: stri
     learn: "セール前に決めておくこと。買う1台、買うタイミング、値段と在庫の確かめ方",
     label: "迷ったら、この1台",
     evidence: "運営者がふだん使っている1台",
+    hideOpening: true,
   },
   "coffee-gift-guide": {
     modelId: "timemore-chestnut-s3",
