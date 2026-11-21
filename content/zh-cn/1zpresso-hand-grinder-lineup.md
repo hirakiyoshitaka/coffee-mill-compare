@@ -64,7 +64,7 @@ J-Ultra 是 8 微米一格，1Zpresso 称它是全系列最细的。刀盘是带
 
 ## 本站仍然先推荐的手摇磨豆机
 
-1Zpresso 不在本站的推荐顺序里。角色维持原样：想把一台放在家里平时用，是栗子 S3；想转得轻，或者拆开带走，是 EPEIOS Essence Go。这个简体中文版还没有这两台的单独测评，下面的卡片用的是本站已有的规格和购买链接。站长本人平时在用的是栗子 S3 和 EPEIOS Essence Go，不是 1Zpresso，也不是栗子 S5 Pro。栗子 S3 一次大约磨 30g，做 2–3 杯。
+1Zpresso 不在本站的推荐顺序里。角色维持原样：想把一台放在家里平时用，是栗子 S3；想转得轻，或者拆开带走，是 EPEIOS Essence Go。把这两台和 C40 放在同一份讲究版排名里比较，见[让从容的时光讲究一点的手摇磨豆机 三台](/zh-cn/articles/luxury-relaxed-coffee-mill-best3/)。这个简体中文版还没有这两台的单独测评，下面的卡片用的是本站已有的规格和购买链接。站长本人平时在用的是栗子 S3 和 EPEIOS Essence Go，不是 1Zpresso，也不是栗子 S5 Pro。栗子 S3 一次大约磨 30g，做 2–3 杯。
 
 如果连手摇都不想做，滴滤机可以看 [巴慕达 The Brew 和双鸟全自动](/zh-cn/articles/japanese-premium-coffee-makers/)。那三台本站也没有用过。
 
