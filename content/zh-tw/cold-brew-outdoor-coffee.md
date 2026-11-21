@@ -57,6 +57,10 @@ date: "2026-10-28"
 
 想讓在家手沖更完整，請看[讓手沖再升級的器具](/zh-tw/articles/hand-drip-upgrade-gear/)。KINTO SCS 是在壺裡直接萃取；濾杯底下只負責接咖啡的分享壺是另一種器具，見[手沖分享壺怎麼挑](/zh-tw/articles/coffee-server-guide/)。金屬分享壺的明火標示也在那一篇，站長沒有用過那些壺。
 
+## 豆子
+
+站長用的是[珈琲きゃろっと](/beans/coffee-carrot/)（頁面為日文）的定期便，約 1 年了，很好喝。平常一杯用栗子 S3 磨，一次大約 30g、做 2–3 杯。
+
 ## 購買管道
 
 這裡介紹的器具都不需要用電。AeroPress、KINTO、HARIO 的非電器產品有時可透過 AmazonGlobal 寄送到台灣，但依商品而異；運費與關稅於結帳時顯示，收件人需完成 EZ WAY 實名認證。下單前請在結帳頁確認。
@@ -64,3 +68,9 @@ date: "2026-10-28"
 ## 廣告揭露
 
 本站部分連結為聯盟行銷（Affiliate）連結，透過連結購買時，本站可能獲得分潤，但不會增加您的購買金額。詳細說明請見[廣告揭露](/zh-tw/disclosure/)。
+
+## 接著看
+
+- [Epeios Essence Go 評測](/zh-tw/articles/epeios-essence-go/)
+- [讓手沖再升級的器具](/zh-tw/articles/hand-drip-upgrade-gear/)
+- [手沖分享壺怎麼挑](/zh-tw/articles/coffee-server-guide/)
