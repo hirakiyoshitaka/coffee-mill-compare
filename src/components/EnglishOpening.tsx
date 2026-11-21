@@ -1,6 +1,7 @@
 import Image from "next/image";
 import Link from "next/link";
 import { BuyButtons } from "@/components/BuyButtons";
+import { StickyBuyBar } from "@/components/StickyBuyBar";
 import { amazonComProductUrl, usAmazonAssociateTag } from "@/config/us-amazon";
 import { getModel } from "@/data/grinders";
 import styles from "./EnglishOpening.module.css";
@@ -64,13 +65,23 @@ export function EnglishOpening({ slug }: { slug: string }) {
   if (!opening) return null;
 
   const trio = Object.hasOwn(trios, slug) ? trios[slug] : undefined;
-  if (trio) return <TrioFrame audience={opening.audience} picks={trio} />;
+  if (trio) {
+    // 3つの枠の「Best overall」は S3。バーはその1台を指す。
+    const s3Href = amazonComProductUrl(usAmazonAssociateTag, "B0CMZCK9PR");
+    return (
+      <>
+        <TrioFrame audience={opening.audience} picks={trio} />
+        {s3Href ? <StickyBuyBar name="Timemore Chestnut S3" href={s3Href} locale="en" /> : null}
+      </>
+    );
+  }
 
   if (opening.kind === "s3") {
     const model = getModel("timemore-chestnut-s3");
     const href = amazonComProductUrl(usAmazonAssociateTag, "B0CMZCK9PR");
     if (!model || !href) return null;
     return (
+      <>
       <Frame
         audience={opening.audience}
         label="Short answer"
@@ -81,12 +92,15 @@ export function EnglishOpening({ slug }: { slug: string }) {
         buyName="Timemore Chestnut S3"
         links={[{ href, label: "See the Chestnut S3 on Amazon.com" }]}
       />
+      <StickyBuyBar name="Timemore Chestnut S3" href={href} locale="en" />
+      </>
     );
   }
 
   const href = amazonComProductUrl(usAmazonAssociateTag, K_ULTRA_ASIN);
   if (!href) return null;
   return (
+    <>
     <Frame
       audience={opening.audience}
       label="Featured in this lineup"
@@ -95,6 +109,8 @@ export function EnglishOpening({ slug }: { slug: string }) {
       buyName="1Zpresso K-Ultra"
       links={[{ href, label: "See the K-Ultra on Amazon.com" }]}
     />
+    <StickyBuyBar name="1Zpresso K-Ultra" href={href} locale="en" />
+    </>
   );
 }
 

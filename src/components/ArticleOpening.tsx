@@ -98,7 +98,7 @@ export function ArticleOpening({ slug, children }: {
       {/* 元の結論を丸ごと表示し、選び方・注意文・購入先を残す。 */}
       {opening.hideConclusion ? null : <div className={styles.conclusion}>{children}</div>}
     </section>
-    {stickyOk ? <StickyBuyBar targetId="article-opening" name={model.name} href={model.amazonUrl ?? ""} /> : null}
+    {stickyOk ? <StickyBuyBar name={model.name} href={model.amazonUrl ?? ""} locale="ja" /> : null}
     </>
   );
 }
