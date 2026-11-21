@@ -8,16 +8,18 @@ import styles from "./ArticleOpening.module.css";
 // 対象8記事の商品・見出しを明示する。本文から商品を推測しない。
 // 使用事実は記事本文と既存の商品データに基づく。
 // hideConclusion: 2つ目の結論枠を出さない記事（S3記事は1つ目の枠と重なるため）。
-const openings: Record<string, { modelId: string; audience: string; label: string; evidence: string; hideConclusion?: boolean } | undefined> = {
+const openings: Record<string, { modelId: string; audience: string; learn?: string; label: string; evidence: string; hideConclusion?: boolean } | undefined> = {
   "coffee-mill-ranking": {
     modelId: "timemore-chestnut-s3",
     audience: "朝をゆっくり始めたい、手挽き選びに迷う方へ",
+    learn: "手挽きのおすすめ順。1位は栗子 S3、2位は Essence Go、3位のコマンダンテ C40 はレビューまとめです",
     label: "迷ったら、この1台",
     evidence: "運営者がふだん使っている1台",
   },
   "timemore-chestnut-s3": {
     modelId: "timemore-chestnut-s3",
     audience: "栗子 S3 の使い方と公式仕様を知りたい方へ",
+    learn: "ふだん使っている S3 の使い心地と、公式の仕様（刃・挽き目調整・ベアリング）",
     label: "この記事の結論",
     evidence: "運営者がふだん使っている1台",
     hideConclusion: true,
@@ -49,12 +51,14 @@ const openings: Record<string, { modelId: string; audience: string; label: strin
   "amazon-black-friday-coffee-gear": {
     modelId: "timemore-chestnut-s3",
     audience: "セールの前に、ふだん使う手挽きを選びたい方へ",
+    learn: "セール前に決めておくこと。買う1台、買うタイミング、値段と在庫の確かめ方",
     label: "迷ったら、この1台",
     evidence: "運営者がふだん使っている1台",
   },
   "coffee-gift-guide": {
     modelId: "timemore-chestnut-s3",
     audience: "コーヒー好きへの贈り物に迷う方へ",
+    learn: "相手が道具を持っているかで分ける、豆・ドリップバッグ・手挽きミルの贈り方",
     label: "迷ったら、この1台",
     evidence: "運営者がふだん使っている1台",
   },
@@ -76,6 +80,7 @@ export function ArticleOpening({ slug, children }: {
     <>
     <section id="article-opening" className={`${styles.opening} ${styles.featured}`} aria-label={opening.label}>
       <div className={styles.verdict}>
+        {opening.learn ? <p className={styles.audience}>このページで分かること：{opening.learn}</p> : null}
         <p className={styles.audience}>{opening.audience}</p>
         <h2 className={styles.label}>{opening.label}</h2>
         <div className={styles.productRow}>
