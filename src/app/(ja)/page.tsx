@@ -69,7 +69,7 @@ const guides: Guide[] = [
     slug: "amazon-black-friday-coffee-gear",
     kicker: "セールの前に",
     title: "ブラックフライデーの前に決めること",
-    text: "使っている2台を中心に、買う前に決めておくことをまとめました。期間は発表のあとに書き足します。",
+    text: "使っている2台を中心に、買う前に決めておくことをまとめました。先行セールは11月27日〜29日、本番は11月30日〜12月7日です。",
     tag: "使っている2台が中心",
     tile: ["Black Friday", "11月"],
   },
@@ -209,6 +209,13 @@ export default function HomePage() {
             読みものの一覧
           </Link>
         </div>
+        <p className="section-lead">
+          迷うなら
+          <Link href="/mill-diagnosis/" className="text-link">
+            ミル診断
+          </Link>
+          で、杯数と手挽きか電動かを先に決めると早いです。
+        </p>
         <ul className="home-guides">
           {guideCards.map((guide) => (
             <li key={guide.slug}>
