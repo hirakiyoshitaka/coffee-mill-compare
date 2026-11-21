@@ -9,11 +9,11 @@ date: "2026-11-09"
 <h2>おすすめ結論</h2>
 <p>ふだん使いの1台なら、運営者が使っている<strong>タイムモア栗子 S3</strong>。軽く回したい人、分解して持ち出したい人は<strong>エペイオス Essence Go</strong>。どちらも運営者が持っている手挽きです。</p>
 <p class="fine">先行セールは11月27日（金）0時から、本番は11月30日（月）0時〜12月7日（月）23時59分です。セールの値段は、ボタンの先の Amazon のページで、その日の値段と在庫を確認してください。</p>
-<div class="cta-after-table">
+<div class="cta-after-table cta-pair">
 <a href="https://www.amazon.co.jp/dp/B0CMZCK9PR?tag=stocknotelife-22" class="buy-link">タイムモア 栗子 S3 を Amazon で見る（広告）</a>
 <a href="https://www.amazon.co.jp/dp/B0D3PZHGBX?tag=stocknotelife-22" class="buy-link">エペイオス Essence Go を Amazon で見る（広告）</a>
-<a href="https://www.amazon.co.jp/s?k=%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%83%9F%E3%83%AB+%E6%89%8B%E6%8F%BD%E3%81%8D&tag=stocknotelife-22" class="buy-link">手挽きミルを Amazon で探す（広告）</a>
 </div>
+<p><a href="https://www.amazon.co.jp/s?k=%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%83%9F%E3%83%AB+%E6%89%8B%E6%8F%BD%E3%81%8D&tag=stocknotelife-22">手挽きミルを Amazon で探す（広告）</a></p>
 </aside>
 
 ## 2026年のAmazonブラックフライデーはいつ
