@@ -116,6 +116,10 @@ UK £699.99
 
 <p class="affiliate-html"><a href="https://www.amazon.com/dp/B0F6DY1DGR?tag=ouchidougub03-20">See the La Specialista Touch on Amazon.com</a> (ad)</p>
 
+## The grinder is part of the machine
+
+Every machine here grinds with its own built-in grinder, and the number of settings is fixed: 15 on the La Specialista Touch, 25 on the Barista Express Impress, 45 on the Oracle Jet. There is no burr to swap later, so the grind range you buy is the grind range you keep. If you outgrow the grinder, you outgrow the machine.
+
 ## How to decide in 30 seconds
 
 1. Don't want to touch a portafilter? → **Rivelia** (or **Eletta Explore** if you drink iced coffee).
