@@ -93,11 +93,11 @@ updated: "2026-11-09"
 
 [手挽きコーヒーミルを Amazon で探す（広告）](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=%E6%89%8B%E6%8C%BD%E3%81%8D+%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%83%9F%E3%83%AB)
 
-ミルを贈ったあとの手入れは[コーヒーミルの掃除・お手入れ方法](/articles/coffee-mill-cleaning/)にまとめました。ドリッパーやケトルからそろえる場合は[ハンドドリップ道具のそろえ方](/articles/hand-drip-gear-guide/)と、[ハンドドリップのセットを Amazon で探す（広告）](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=%E3%83%8F%E3%83%B3%E3%83%89%E3%83%89%E3%83%AA%E3%83%83%E3%83%97+%E3%82%BB%E3%83%83%E3%83%88)をどうぞ。ドリッパーの形の違いは[コーヒードリッパー比較](/articles/coffee-dripper-comparison/)です。ケトル単品の選び方は[ドリップケトルおすすめの選び方](/articles/drip-kettle-guide/)にまとめました。細口・温度調整・容量の違いが分かります。
+ミルを贈ったあとの手入れは[コーヒーミルの掃除・お手入れ方法](/articles/coffee-mill-cleaning/)にまとめました。ドリッパーやケトルからそろえる場合は[ハンドドリップ道具のそろえ方](/articles/hand-drip-gear-guide/)と、[ハンドドリップのセットを Amazon で探す（広告）](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=%E3%83%8F%E3%83%B3%E3%83%89%E3%83%89%E3%83%AA%E3%83%83%E3%83%97+%E3%82%BB%E3%83%83%E3%83%88)をどうぞ。ドリッパーの形の違いは[コーヒードリッパー比較](/articles/coffee-dripper-comparison/)です。ケトル単品の選び方は[ドリップケトルおすすめの選び方](/articles/drip-kettle-guide/)にまとめました。細口・温度調整・容量の違いが分かります。外で淹れるなら、電気を使わない水出しやエアロプレスもあります。道具の選び方は[1,000円台からの水出し・アウトドア珈琲](/articles/cold-brew-outdoor-coffee/)にまとめました。
 
 ## 道具がそろっている人には、消耗品
 
-新しいマシンより、すぐ使うもののほうが残らないことがあります。フィルターは形が合うかを先に確認します。選び方は[コーヒーフィルターの選び方](/articles/coffee-filter-guide/)です。豆の保存缶は[キャニスターの選び方](/articles/coffee-bean-canister-guide/)です。ラテ好きの人には、ミルクを泡立てる道具も候補です。選び方は[ミルクフォーマーの選び方](/articles/milk-frother-guide/)にまとめました。ハンディ型と電動ジャグ型の違いが分かります。
+新しいマシンより、すぐ使うもののほうが残らないことがあります。フィルターは形が合うかを先に確認します。選び方は[コーヒーフィルターの選び方](/articles/coffee-filter-guide/)です。豆の保存缶は[キャニスターの選び方](/articles/coffee-bean-canister-guide/)です。ラテ好きの人には、ミルクを泡立てる道具も候補です。選び方は[ミルクフォーマーの選び方](/articles/milk-frother-guide/)にまとめました。ハンディ型と電動ジャグ型の違いが分かります。見た目も楽しみたい人には、喫茶店のようなサイフォンもあります。選び方は[コーヒーサイフォンの選び方](/articles/how-to-choose-coffee-siphon/)にまとめました。
 
 ## 自分へのご褒美なら、ドリップバッグの定期便
 
