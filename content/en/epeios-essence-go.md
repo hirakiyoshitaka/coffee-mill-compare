@@ -11,7 +11,7 @@ The price guide we keep on the site is ¥23,100 including tax, taken from the of
 
 ## The short answer
 
-- **A grinder that stays on the counter** → Timemore Chestnut S3. I usually use it, about 30g at a time, for 2–3 cups. I do not use the Chestnut S5 Pro. The Japanese review is [here](/articles/timemore-chestnut-s3/).
+- **A grinder that stays on the counter** → Timemore Chestnut S3. I usually use it, about 30g at a time, for 2–3 cups. I do not use the Chestnut S5 Pro. The review is [here](/en/articles/timemore-chestnut-s3/).
 - **A lighter start, and a body that packs into its case** → EPEIOS Essence Go. My one-line take: it just spins so easily.
 - The two do different jobs. The longer side-by-side is [Timemore S5 Pro vs EPEIOS Essence Go](/en/articles/timemore-s5-pro-vs-essence-go/).
 

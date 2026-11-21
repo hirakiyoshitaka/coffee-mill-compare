@@ -7,7 +7,7 @@ date: "2026-10-27"
 
 This page is a review summary of the Timemore Chestnut S5 Pro (also sold as 栗子 S5 Pro). I do not use it. The hand grinder I usually use is the Timemore Chestnut S3. I grind about 30g at a time, for 2–3 cups. The notes below are official specs and published reviews, not a points contest.
 
-I do not use this grinder. It is a review summary of official specs and published reviews. At the official Japanese shop the S5 Pro was sold out when we checked (see the dated note below). The grinder card on this page has an Amazon.com button for the S5 Pro; stock there was not checked. The grinder I use is the Chestnut S3. The review is [here](/articles/timemore-chestnut-s3/). That page is in Japanese.
+I do not use this grinder. It is a review summary of official specs and published reviews. At the official Japanese shop the S5 Pro was sold out when we checked (see the dated note below). The grinder card on this page has an Amazon.com button for the S5 Pro; stock there was not checked. The grinder I use is the Chestnut S3. The review is [here](/en/articles/timemore-chestnut-s3/).
 
 <p class="affiliate-html"><a href="https://www.amazon.com/dp/B0CMZCK9PR?tag=ouchidougub03-20">See the Chestnut S3 on Amazon.com</a> (ad)</p>
 
