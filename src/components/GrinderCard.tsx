@@ -16,13 +16,14 @@ export function GrinderCard({ model: baseModel, variant = "tile", locale = "ja",
   const model = localizeModel(baseModel, locale);
   const typeLabel = ja ? grinderTypeLabel(model.type) : localizedTypeLabel(model.type, locale);
   const brand = getBrand(model.brandSlug);
-  const specs = [
+  const specs: [string, string][] = [
     [d.drive, typeLabel],
     [d.burr, model.burrMaterial],
-    [d.burrSize, diameterLabel(model, locale)],
     [d.adjust, model.adjustment],
-    [d.weight, model.weightGrams ? `${model.weightGrams} g` : "—"],
-  ] as const;
+  ];
+  // 確かめられた数字だけ載せる。刃径・重量が未確認の機種は、その行を出さない。
+  if (model.burrDiameterMm) specs.splice(2, 0, [d.burrSize, diameterLabel(model, locale)]);
+  if (model.weightGrams) specs.push([d.weight, `${model.weightGrams} g`]);
 
   const jaRank = featuredLabel(model.id);
   const rank = ja ? jaRank : jaRank?.replace(/^おすすめ\s*/, "");

@@ -24,6 +24,7 @@ const openings: Record<string, { modelId: string; audience: string; learn?: stri
     label: "この記事の結論",
     evidence: "運営者がふだん使っている1台",
     hideConclusion: true,
+    hideOpening: true,
   },
   "epeios-essence-go": {
     modelId: "epeios-essence-go",
