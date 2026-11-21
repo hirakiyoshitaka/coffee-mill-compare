@@ -8,7 +8,8 @@ import styles from "./ArticleOpening.module.css";
 // 対象8記事の商品・見出しを明示する。本文から商品を推測しない。
 // 使用事実は記事本文と既存の商品データに基づく。
 // hideConclusion: 2つ目の結論枠を出さない記事（S3記事は1つ目の枠と重なるため）。
-const openings: Record<string, { modelId: string; audience: string; learn?: string; label: string; evidence: string; hideConclusion?: boolean } | undefined> = {
+// hideOpening: 共通の箱（冒頭の商品枠）自体を出さない記事。記事独自の結論枠が先頭に来る。
+const openings: Record<string, { modelId: string; audience: string; learn?: string; label: string; evidence: string; hideConclusion?: boolean; hideOpening?: boolean } | undefined> = {
   "coffee-mill-ranking": {
     modelId: "timemore-chestnut-s3",
     audience: "朝をゆっくり始めたい、手挽き選びに迷う方へ",
@@ -61,6 +62,7 @@ const openings: Record<string, { modelId: string; audience: string; learn?: stri
     learn: "相手が道具を持っているかで分ける、豆・ドリップバッグ・手挽きミルの贈り方",
     label: "迷ったら、この1台",
     evidence: "運営者がふだん使っている1台",
+    hideOpening: true,
   },
 };
 
@@ -75,6 +77,15 @@ export function ArticleOpening({ slug, children }: {
   const buyProps = grinderBuyProps(model);
   // スマホの固定バー：主役が S3 か Essence Go で、Amazon のリンクがあるときだけ
   const stickyOk = (model.id === "timemore-chestnut-s3" || model.id === "epeios-essence-go") && (model.amazonUrl ?? "").trim() !== "";
+  // 共通の箱を出さない記事：記事独自の結論枠を先頭にし、固定バーだけ残す
+  if (opening.hideOpening) {
+    return (
+      <>
+        <div className={styles.opening}>{children}</div>
+        {stickyOk ? <StickyBuyBar name={model.name} href={model.amazonUrl ?? ""} locale="ja" /> : null}
+      </>
+    );
+  }
 
   return (
     <>
