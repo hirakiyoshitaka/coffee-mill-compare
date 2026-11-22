@@ -23,3 +23,9 @@
 - `public/` のファイルは `out/` の同じパスにコピーされます。製品画像は `/images/timemore-s5-pro-green.webp` です。`basePath` は使っていません。
 - `out/robots.txt` と `out/sitemap.xml` は、`src/app/robots.ts` と `src/app/sitemap.ts` からビルド時に生成されます。`public/robots.txt` を別に置くと、同じパスが衝突してビルドが失敗します。
 - 楽天と Unsplash の画像は、見た人のブラウザがそれぞれのホストから読みます。静的ホストは代理しません。
+
+## IndexNow
+
+- Vercel の本番公開が成功したら、GitHub Actions が Bing などに更新 URL を知らせます。
+- 本番のサイトマップで更新日が3日前（UTC）以降の URL を選び、HTTP 200 を確認したものだけを送信します。
+- 手元で送信予定を確認するには、リポジトリの直下で `node scripts/indexnow.mjs --dry` を実行します。
