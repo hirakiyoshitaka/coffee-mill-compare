@@ -2,7 +2,7 @@
 
 import { track } from "@vercel/analytics";
 import { useEffect } from "react";
-import { buyClickData } from "@/lib/buy-click";
+import { buyClickData, isBuyClick } from "@/lib/buy-click";
 
 function buyAnchor(target: EventTarget | null): HTMLAnchorElement | null {
   if (!(target instanceof Element)) return null;
@@ -14,19 +14,24 @@ function buyAnchor(target: EventTarget | null): HTMLAnchorElement | null {
   return null;
 }
 
-/** 購入ボタンのクリックを、店と記事スラッグ（Amazon は国も）だけ送る。URL とユーザー ID は送らない。 */
+/** 購入クリックの追加データは店と記事スラッグだけ。Amazon の国は店の値で分ける。 */
 export function BuyClickTracker() {
   useEffect(() => {
     function onClick(event: MouseEvent) {
+      if (!isBuyClick(event)) return;
       const anchor = buyAnchor(event.target);
       if (!anchor) return;
       const data = buyClickData(anchor.href, window.location.pathname);
       if (!data) return;
-      track("buy_click", data.store ? { shop: data.shop, article: data.article, store: data.store } : { shop: data.shop, article: data.article });
+      track("buy_click", { shop: data.shop, article: data.article });
     }
 
     document.addEventListener("click", onClick);
-    return () => document.removeEventListener("click", onClick);
+    document.addEventListener("auxclick", onClick);
+    return () => {
+      document.removeEventListener("click", onClick);
+      document.removeEventListener("auxclick", onClick);
+    };
   }, []);
 
   return null;

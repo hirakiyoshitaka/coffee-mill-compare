@@ -14,7 +14,7 @@ export default function PrivacyPage() {
     <main className="page-wrap page-narrow">
       <Breadcrumb items={[{ href: "/", label: "ホーム" }, { label: "プライバシーポリシー" }]} />
       <h1 className="page-title">プライバシーポリシー</h1>
-      <p className="mt-3 text-sm text-stone-500">最終更新：{formatJaDate("2026-11-04")}</p>
+      <p className="mt-3 text-sm text-stone-500">最終更新：{formatJaDate("2026-11-22")}</p>
       <div className="article-body mt-8">
         <h2>はじめに</h2>
         <p>
@@ -26,7 +26,7 @@ export default function PrivacyPage() {
         </p>
         <h2>アクセス解析</h2>
         <p>
-          ページの閲覧数は、Vercel Analytics と Cloudflare Web Analytics で数えています。購入ボタンのクリックは、Vercel Analytics で匿名のまま数えます。送る項目は店と記事と、Amazon のときだけ国の区別です。店は Amazon、Rakuten、A8、Shopee のいずれかです。国の区別は、amazon.com・amazon.co.jp・短縮リンクのいずれかです。記事は、そのページの記事スラッグです。記事以外のページでは空です。クリック先の URL、クエリ文字列、ユーザー ID は送りません。
+          ページの閲覧数は、Vercel Analytics と Cloudflare Web Analytics で数えています。購入ボタンのクリックは、Vercel Analytics で匿名のまま数えます。クリック計測に当サイトが追加して送る項目は、店と記事の2つだけです。店は amazon_com（米国 Amazon）、amazon_jp（日本 Amazon）、Amazon（国不明の短縮リンク）、Rakuten、A8、Shopee のいずれかです。記事は、そのページの記事スラッグです。記事以外のページでは空です。この2項目に、クリック先の URL、クエリ文字列、ユーザー ID は含めません。これらとは別に、Vercel Analytics は閲覧ページの URL、参照元、端末・ブラウザーなどの情報を自動で収集する場合があります。
         </p>
         <h2>Cookie とアフィリエイト</h2>
         <p>
