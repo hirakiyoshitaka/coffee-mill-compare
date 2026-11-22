@@ -90,6 +90,31 @@ export const categories: Category[] = [
   },
 ];
 
+/**
+ * カテゴリページを持たず、選び方の記事へ直接つなぐ道具。
+ * 道具カテゴリの一覧（トップと /categories）にだけ並べる。サイトマップと記事の category には使わない。
+ */
+export type ToolGuide = {
+  slug: string;
+  shortName: string;
+  /** トップのカードの一文 */
+  summary: string;
+  /** /categories のカードの一文 */
+  lead: string;
+  /** つなぐ記事 */
+  href: string;
+};
+
+export const toolGuides: ToolGuide[] = [
+  {
+    slug: "siphon",
+    shortName: "サイフォン",
+    summary: "炎とガラスで淹れる道具です。Cona、KONO、HARIO の違いと、火を使えない家の電気サイフォンまで。運営者はまだ持っていません。",
+    lead: "アルコールランプの火で、お湯が上のロートへ上がり、火を消すとコーヒーが落ちてきます。Cona、KONO、HARIO テクニカの違いと、火を使えない家の電気サイフォン、準備と手入れの手間をまとめています。運営者はまだ持っておらず、使った人の公開された感想とメーカーの説明のまとめです。",
+    href: "/articles/how-to-choose-coffee-siphon/",
+  },
+];
+
 export function getCategory(slug: string): Category | undefined {
   return categories.find((category) => category.slug === slug);
 }

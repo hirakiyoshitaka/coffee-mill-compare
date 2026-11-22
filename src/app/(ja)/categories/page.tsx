@@ -1,13 +1,14 @@
 import Link from "next/link";
 import { Breadcrumb } from "@/components/Breadcrumb";
 import { StatusBadge } from "@/components/StatusBadge";
-import { categories, categoryHref } from "@/data/categories";
+import { SiphonIllustration } from "@/components/SiphonIllustration";
+import { categories, categoryHref, toolGuides } from "@/data/categories";
 import { pageMeta } from "@/lib/seo";
 import { siteConfig } from "@/data/site";
 
 export const metadata = pageMeta({
   title: "道具カテゴリ",
-  description: "ミル、ドリッパー、ケトル、スケール、コーヒーメーカー、エスプレッソマシン、キャニスター、豆。家のコーヒー道具を種類ごとに分けた目次です。",
+  description: "ミル、ドリッパー、ケトル、スケール、コーヒーメーカー、エスプレッソマシン、キャニスター、豆、サイフォン。家のコーヒー道具を種類ごとに分けた目次です。",
   path: "/categories",
 });
 
@@ -34,6 +35,16 @@ export default function CategoriesPage() {
             </Link>
           </li>
         ))}
+          {toolGuides.map((guide) => (
+            <li key={guide.slug}>
+              <Link href={guide.href} className="category-card">
+                <StatusBadge status="live" />
+                <strong>{guide.shortName}</strong>
+                {guide.slug === "siphon" ? <SiphonIllustration compact /> : null}
+                <span>{guide.lead}</span>
+              </Link>
+            </li>
+          ))}
       </ul>
     </main>
   );

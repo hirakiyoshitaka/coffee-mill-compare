@@ -5,9 +5,10 @@ import styles from "./SiphonIllustration.module.css";
 const FLASK = "M158 178 L158 215.7 A44 44 0 1 0 182 215.7 L182 178";
 const FUNNEL = "M140 66 L140 140 Q140 160 164 172 L164 182 L176 182 L176 172 Q200 160 200 140 L200 66 Z";
 
-export function SiphonIllustration() {
+// compact は、トップと /categories の道具カードに小さく置くとき。
+export function SiphonIllustration({ compact = false }: { compact?: boolean } = {}) {
   return (
-    <figure className={styles.figure}>
+    <figure className={compact ? `${styles.figure} ${styles.compact}` : styles.figure}>
       <svg
         className={styles.svg}
         viewBox="0 0 340 360"

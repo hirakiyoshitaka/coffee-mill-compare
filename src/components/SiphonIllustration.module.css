@@ -7,6 +7,12 @@
   border-radius: 10px;
 }
 
+.compact {
+  margin: 14px 0 4px;
+  max-width: 200px;
+  padding: 8px 8px 4px;
+}
+
 .svg { display: block; width: 100%; height: auto; }
 
 .caption {
