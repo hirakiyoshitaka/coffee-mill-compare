@@ -33,7 +33,7 @@ export default function MillDiagnosisPage() {
         <Link href="/articles/timemore-chestnut-s3/" className="mx-1 text-link">
           タイムモア栗子 S3
         </Link>
-        です。購入リンクは、その記事とミルデータにある Amazon の商品ページ（ASIN B0CMZCK9PR、tag=stocknotelife-22）です。2026年11月4日時点で、その商品ページは在庫ありでした。重量の数字は、同じ日の公式商品ページ本文では確認できていません。売り切れの栗子 S5 Pro は、候補から外しています。候補は、公開中の記事と、既にある Amazon リンク（tag=stocknotelife-22）がある手挽きです。
+        です。売り切れの栗子 S5 Pro は、候補から外しています。
       </p>
       <PrNotice />
       <MillDiagnosis />
