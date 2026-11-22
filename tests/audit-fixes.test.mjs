@@ -35,9 +35,9 @@ test("buy_click has exactly two fields, with separate US/JP shops and unchanged 
     });
   }
   assert.equal(buyClick.buyClickData("https://amazon.com.evil.example/", "/"), null);
-  assert.equal(buyClick.buyClickData("https://m.media-amazon.com/image.jpg", "/"), null);
+  assert.equal(buyClick.buyClickData("https://m.media-amazon.com/image.jpg?tag=ouchidougub03-20", "/"), null);
   assert.equal(buyClick.buyClickData("javascript:void(0)", "/"), null);
-  assert.deepEqual(buyClick.buyClickData("https://amazon.com/example", "/beans/"), { shop: "amazon_com", article: "" });
+  assert.deepEqual(buyClick.buyClickData("https://amazon.com/example?tag=ouchidougub03-20", "/beans/"), { shop: "amazon_com", article: "" });
 });
 
 test("tracker counts left, middle and keyboard activation once; ignores right/non-buy clicks and cleans up", () => {
@@ -52,7 +52,7 @@ test("tracker counts left, middle and keyboard activation once; ignores right/no
     constructor(kind = "buy-link") {
       super();
       this.anchor = this;
-      this.href = "https://www.amazon.com/example";
+      this.href = "https://www.amazon.com/example?tag=ouchidougub03-20";
       this.classList = { contains: (name) => name === kind };
       this.relList = { contains: (name) => kind === "sponsored" && name === kind };
     }
