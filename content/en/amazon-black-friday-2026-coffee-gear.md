@@ -11,7 +11,11 @@ Deciding during the sale means deciding by the size of a discount. This page is 
 
 ## When the 2026 sales run
 
-In the US, Black Friday falls on **Friday, November 27, 2026**, and Cyber Monday on **Monday, November 30**. Published trackers report that Amazon's Black Friday Week deal events run November 19–30. Each seller sets its own timing, so check the product page on the day. Sources are at the end of this page.
+In the US, Black Friday falls on **Friday, November 27, 2026**, and Cyber Monday on **Monday, November 30**. Amazon announced that its Black Friday Week and Cyber Monday deal events run November 19–30, 2026. Each seller sets its own timing, so check the product page on the day. Sources are at the end of this page.
+
+## Cyber Monday: the last day of the sale
+
+Cyber Monday is **Monday, November 30, 2026**, the last day of Amazon's Black Friday Week and Cyber Monday events. Amazon's announcement says new deals drop twice on Black Friday and Cyber Monday, at midnight and 8 a.m. PT. If anything on the short list above is still undecided, this is the last day of the event — check the product page on the day, including whether it is still in stock.
 
 ## Decide these three things before the sale
 
@@ -72,7 +76,7 @@ Black Friday lands in gift season. Picks grouped by budget band — under $50, u
 ## Sources
 
 - Black Friday on Friday, November 27, 2026 and Cyber Monday on November 30, 2026: [Democrat and Chronicle](https://www.democratandchronicle.com/story/news/2026/11/20/black-friday-2026-date-sales-cyber-monday-store-hours/92863203007/) (news report, November 20, 2026)
-- Amazon's Black Friday Week running November 19–30: [Festive Radar's sale-date tracker](https://festiveradar.com/black-friday-2026-ad-scans-deals-tracker/) (checked November 21, 2026)
+- Amazon's Black Friday Week and Cyber Monday deal events, November 19–30, 2026: Amazon US Press Center announcement, November 9, 2026 (confirmed November 22, 2026)
 
 ## Read next
 
