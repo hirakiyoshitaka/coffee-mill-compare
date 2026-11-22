@@ -1,0 +1,8 @@
+---
+description: 起動時に GitHub Issue #13 の最新を読む
+alwaysApply: true
+---
+
+# Issue #13 を最初に読む
+
+起動のたびに、まず GitHub Issue #13（hirakiyoshitaka/coffee-mill-compare）の最新のコメントを読む。→かーそ の指示を上から順に進め、結果はで同じ Issue に書く。司令塔の返事「済み／指示した／保留」を見て、次に進む。報告の最後は「社長への確認：なし」で固定する。
