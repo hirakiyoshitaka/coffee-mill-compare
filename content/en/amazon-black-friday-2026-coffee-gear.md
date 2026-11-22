@@ -1,9 +1,11 @@
 ---
 title: "Amazon Black Friday 2026: Coffee Gear to Decide Before the Sale"
-description: "Black Friday falls on Friday, November 27, 2026, and Cyber Monday on November 30. The two hand grinders this site uses — the Timemore Chestnut S3 and the EPEIOS Essence Go — plus what to decide before the sale starts. No prices or discount rates; check the product page on the day."
+description: "Black Friday falls on Friday, November 27, 2026, and Cyber Monday on November 30. The two hand grinders this site uses — the Timemore Chestnut S3 and the EPEIOS Essence Go — plus what to decide before the sale starts."
 category: "mill"
 date: "2026-11-21"
 ---
+
+<p class="affiliate-html"><strong>Quick pick:</strong> <a href="https://www.amazon.com/s?k=TIMEMORE+Chestnut+S3+coffee+grinder&tag=ouchidougub03-20">Timemore Chestnut S3</a> — the grinder I use, about 30g at a time for 2–3 cups. (ad)</p>
 
 Deciding during the sale means deciding by the size of a discount. This page is the short list to settle first, built around the two hand grinders this site actually uses: the **Timemore Chestnut S3** for everyday brewing, and the **EPEIOS Essence Go** if light turning and packing into a case matter more.
 

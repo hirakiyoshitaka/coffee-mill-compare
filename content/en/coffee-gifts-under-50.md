@@ -1,13 +1,13 @@
 ---
 title: "Coffee Gifts Under $50: 7 Picks for Someone Who Brews at Home"
-description: "Seven coffee gifts, each $50 or under — brewers first, then paper and storage. Search links to Amazon.com only; no prices listed, because prices move. We have not used any of these picks."
+description: "Seven coffee gifts, each $50 or under — brewers first, then paper and storage. Search links to Amazon.com only; no prices listed, because prices move, and we have not used any of these picks."
 category: "beans"
 date: "2026-11-22"
 ---
 
-A coffee gift works when it matches what the person already brews with. This guide picks seven things, each listed at $50 or under on the maker's US site on 2026-11-22. We do not list individual prices, because prices move — check the search results on the day you buy.
+<p class="affiliate-html"><strong>Quick pick:</strong> <a href="https://www.amazon.com/s?k=AeroPress+Original&tag=ouchidougub03-20">AeroPress Original</a> — brews one cup at a time and packs small. (ad)</p>
 
-We have not used any of the seven picks. Each one is a review summary from the maker's page and published reviews, and we say so under each pick. Links in this guide go to Amazon.com search results for the named product, so you can compare sellers and check stock yourself.
+A coffee gift works when it matches what the person already brews with — this guide picks seven things, each listed at $50 or under on the maker's US site on 2026-11-22. We have not used any of the seven picks: each one is a review summary from the maker's page and published reviews, and links go to Amazon.com search results, so compare sellers and check the price and stock on the day you buy.
 
 ## Brewers: for someone starting, or adding a second way to brew
 
