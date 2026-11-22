@@ -169,11 +169,13 @@ export function LocalizedArticle({ locale, slug }: { locale: TranslationLocale; 
       <div className="mt-8">
         {locale === "en" && !showOpening ? <QuickPick title={article.title} markdown={article.content} locale="en" /> : null}
         <ArticlePicks title={article.title} markdown={article.content} locale={locale} quickPick={locale === "en" && !showOpening} />
-        <ArticleBody
-          markdown={article.content}
-          locale={locale}
-          reviewHref={(s) => (s !== slug && getLocalizedArticle(locale, s) ? `/${locale}/articles/${s}/` : undefined)}
-        />
+        <div id={locale === "en" ? "article-reading-body" : undefined} className="flow-root">
+          <ArticleBody
+            markdown={article.content}
+            locale={locale}
+            reviewHref={(s) => (s !== slug && getLocalizedArticle(locale, s) ? `/${locale}/articles/${s}/` : undefined)}
+          />
+        </div>
       </div>
       {nextReads.length > 0 ? (
         <aside className="next-read" aria-label={t.next}>

@@ -83,8 +83,8 @@ export function ArticleOpening({ slug, children }: {
   if (opening.hideOpening) {
     return (
       <>
-        <div className={styles.opening}>{children}</div>
-        {stickyOk ? <StickyBuyBar name={model.name} href={model.amazonUrl ?? ""} locale="ja" /> : null}
+        <div id="article-opening" className={styles.opening}>{children}</div>
+        {stickyOk ? <StickyBuyBar targetId="article-opening" name={model.name} href={model.amazonUrl ?? ""} locale="ja" /> : null}
       </>
     );
   }
@@ -111,7 +111,7 @@ export function ArticleOpening({ slug, children }: {
       {/* 元の結論を丸ごと表示し、選び方・注意文・購入先を残す。 */}
       {opening.hideConclusion ? null : <div className={styles.conclusion}>{children}</div>}
     </section>
-    {stickyOk ? <StickyBuyBar name={model.name} href={model.amazonUrl ?? ""} locale="ja" /> : null}
+    {stickyOk ? <StickyBuyBar targetId="article-opening" name={model.name} href={model.amazonUrl ?? ""} locale="ja" /> : null}
     </>
   );
 }

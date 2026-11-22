@@ -1,17 +1,18 @@
-/** 購入ボタンのクリックで送ってよい店。この4つ以外は送らない。 */
-export const buyShops = ["Amazon", "Rakuten", "A8", "Shopee"] as const;
+/** 購入クリックで送る店。国不明の Amazon 短縮リンクは従来の Amazon に残す。 */
+export const buyShops = ["amazon_com", "amazon_jp", "Amazon", "Rakuten", "A8", "Shopee"] as const;
 
 export type BuyShop = (typeof buyShops)[number];
-
-/** Amazon のどの国の店か。amazon.com と amazon.co.jp はタグも報酬も別なので分けて数える。短縮 URL は国が分からない。 */
-export type AmazonStore = "amazon_us" | "amazon_jp" | "amazon_short";
 
 export type BuyClickData = {
   shop: BuyShop;
   article: string;
-  /** shop が Amazon のときだけ入る */
-  store?: AmazonStore;
 };
+
+/** 通常・キーボードの click と中ボタンの auxclick を、それぞれ1件だけ数える。 */
+export function isBuyClick(event: Pick<MouseEvent, "type" | "button">): boolean {
+  return (event.type === "click" && event.button === 0) ||
+    (event.type === "auxclick" && event.button === 1);
+}
 
 const articlePath =
   /^\/(?:(?:en|zh-tw|zh-hk|zh-cn|ko|th|vi)\/)?(?:articles|kitchen)\/([a-z0-9-]+)\/?$/;
@@ -71,24 +72,18 @@ export function shopOfHref(href: string): BuyShop | null {
   if (host === "a8.net" || host.endsWith(".a8.net")) return "A8";
   if (isShopeeHost(host)) return "Shopee";
   if (host === "rakuten.co.jp" || host.endsWith(".rakuten.co.jp")) return "Rakuten";
-  if (isAmazonHost(host)) return "Amazon";
+  if (isAmazonHost(host)) {
+    if (host === "amazon.com" || host.endsWith(".amazon.com")) return "amazon_com";
+    if (host === "amazon.co.jp" || host.endsWith(".amazon.co.jp")) return "amazon_jp";
+    return "Amazon";
+  }
   return null;
 }
 
-/** Amazon のリンク先のホストから国を決める。Amazon でなければ null。 */
-export function amazonStoreOfHref(href: string): AmazonStore | null {
-  const host = hostnameOf(href);
-  if (!host || !isAmazonHost(host)) return null;
-  if (host === "amazon.com" || host.endsWith(".amazon.com")) return "amazon_us";
-  if (host === "amazon.co.jp" || host.endsWith(".amazon.co.jp")) return "amazon_jp";
-  return "amazon_short";
-}
-
-/** track に渡すオブジェクト。店が4つのどれでもなければ null。 */
+/** track に渡すのは店と記事の2項目だけ。対象外の店は null。 */
 export function buyClickData(href: string, pathname: string): BuyClickData | null {
   const shop = shopOfHref(href);
   if (!shop) return null;
   const article = articleSlugFromPath(pathname);
-  const store = shop === "Amazon" ? amazonStoreOfHref(href) : null;
-  return store ? { shop, article, store } : { shop, article };
+  return { shop, article };
 }
