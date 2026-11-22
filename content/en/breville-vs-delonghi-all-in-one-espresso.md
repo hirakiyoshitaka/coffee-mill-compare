@@ -104,10 +104,16 @@ A semi-automatic with a built-in 15-setting grinder, touchscreen guidance and an
 
 ## Before you buy
 
+<p class="affiliate-html"><a href="https://www.amazon.com/s?k=Breville+Oracle+Jet&tag=ouchidougub03-20">Search the Oracle Jet on Amazon.com</a> (ad)</p>
+
+<p class="affiliate-html"><a href="https://www.amazon.com/s?k=Breville+Barista+Touch+Impress&tag=ouchidougub03-20">Search the Barista Touch Impress on Amazon.com</a> (ad)</p>
+
+<p class="affiliate-html"><a href="https://www.amazon.com/s?k=Breville+Barista+Express+Impress&tag=ouchidougub03-20">Search the Barista Express Impress on Amazon.com</a> (ad)</p>
+
 - **Voltage and region:** buy the model for your country (Breville in the US/Canada/Australia, Sage in the UK/EU). Machines are not dual-voltage.
 - **Counter depth:** several of these are deep — measure under your cabinets.
 - **Beans matter more than buttons:** a good grinder can only show what the beans have. Our [electric grinder guide](/en/articles/electric-coffee-grinder-guide/) and [grind size guide](/en/articles/coffee-grind-size-guide/) explain why fresh, even grinding is the heart of espresso.
 
 Want the per-model buying guide with pros and cons in one place? Read [the best all-in-one espresso machines of 2026](/en/articles/best-all-in-one-espresso-machines-2026/).
 
-This page does not contain affiliate links for US or UK retailers; links go to the makers' official stores. See our [disclosure](/en/disclosure/) for how this site earns money.
+Some links on this page are ads; links to the makers' official stores are not. See our [disclosure](/en/disclosure/) for how this site earns money.

@@ -37,7 +37,7 @@ I have not used these machines. The lines above summarize owner reviews that the
 
 Sources: [Kakaku.com (The Brew)](https://kakaku.com/item/K0001382816/), [Kakaku.com (CM-D465B)](https://kakaku.com/item/K0001203222/), [Kakaku.com (CM-D457B)](https://kakaku.com/item/K0001097505/), [TWINBIRD official store](https://store.twinbird.jp/products/cmd457), and Amazon Japan listings.
 
-This English page has no Amazon purchase buttons for these coffee makers. Links to the makers' own sites are not ads.
+Links to the makers' own sites are not ads.
 
 ## BALMUDA The Brew: a precision pour-over you'll want on display
 
@@ -48,6 +48,8 @@ Launched in October 2021, The Brew drips water in 0.2ml steps into a dedicated c
 
 [BALMUDA official site](https://www.balmuda.com/jp/brew)
 
+<p class="affiliate-html"><a href="https://www.amazon.com/s?k=BALMUDA+The+Brew+K06A&tag=ouchidougub03-20">Search the BALMUDA The Brew on Amazon.com</a> (ad)</p>
+
 No grinder yet? See our [electric grinder buying guide](/en/articles/electric-coffee-grinder-guide/) or [how to choose your first hand grinder](/en/articles/how-to-choose-hand-coffee-mill/). The hand grinders I use are the Timemore Chestnut S3 and the [EPEIOS Essence Go](/en/articles/epeios-essence-go/). On the S3 I grind about 30g at a time, for 2–3 cups. I do not use the Chestnut S5 Pro. The side-by-side is [Timemore S5 Pro vs EPEIOS Essence Go](/en/articles/timemore-s5-pro-vs-essence-go/). To split 1Zpresso models by the job each one is built for, see the [1Zpresso hand grinder lineup](/en/articles/1zpresso-hand-grinder-lineup/). I have not used a 1Zpresso.
 
 ## TWINBIRD CM-D465B (6-cup): bean-to-cup, guided by a master roaster
@@ -56,6 +58,8 @@ TWINBIRD is based in Tsubame-Sanjo. Its fully automatic maker uses a slow flat b
 
 - **What owners like**: 4.53 on Kakaku.com (21 reviews) and 4.4 out of 5 on Amazon Japan (420 ratings). Taste is the most common praise.
 - **What to weigh**: at 42.5cm tall it needs clearance under cabinets.
+
+<p class="affiliate-html"><a href="https://www.amazon.com/s?k=TWINBIRD+CM-D465B&tag=ouchidougub03-20">Search the TWINBIRD CM-D465B on Amazon.com</a> (ad)</p>
 
 ## TWINBIRD CM-D457B (3-cup): the same approach, smaller
 
@@ -66,6 +70,8 @@ Same mill, temperatures, and grind settings as the CM-D465B, with a 450ml capaci
 
 [TWINBIRD official store (Japan)](https://store.twinbird.jp/products/cmd457)
 
+<p class="affiliate-html"><a href="https://www.amazon.com/s?k=TWINBIRD+CM-D457B&tag=ouchidougub03-20">Search the TWINBIRD CM-D457B on Amazon.com</a> (ad)</p>
+
 ## Which one?
 
 - You love the ritual and already grind your own beans: **BALMUDA The Brew**
@@ -74,4 +80,4 @@ Same mill, temperatures, and grind settings as the CM-D465B, with a 450ml capaci
 
 Curious how grind size changes flavor? Read our [coffee grind size guide](/en/articles/coffee-grind-size-guide/). A saved ratio needs a [coffee scale](/en/articles/coffee-scale-guide/). A first pour-over, if you would rather brew by hand, is the [beginner pour-over recipe](/en/articles/beginner-hand-drip-recipe/). Espresso with a built-in grinder is a different machine: [Breville vs De'Longhi](/en/articles/breville-vs-delonghi-all-in-one-espresso/) and [Best all-in-one espresso machines of 2026](/en/articles/best-all-in-one-espresso-machines-2026/).
 
-This English page does not show Amazon purchase buttons. Links to official maker sites are not ads. See our [disclosure](/en/disclosure/).
+Some links on this page are ads. Links to official maker sites are not ads. See our [disclosure](/en/disclosure/).

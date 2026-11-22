@@ -1,12 +1,12 @@
 import Link from "next/link";
 import { LocaleIndex, localeIndexMetadata } from "@/components/intl/LocaleIndex";
 import { BuyButtons } from "@/components/BuyButtons";
-import { amazonComProductUrl, usAmazonAssociateTag } from "@/config/us-amazon";
+import { amazonComProductUrl, amazonComSearchUrl, usAmazonAssociateTag } from "@/config/us-amazon";
 
 export const metadata = localeIndexMetadata("en");
 
 const s3Href = amazonComProductUrl(usAmazonAssociateTag, "B0CMZCK9PR");
-const c40Href = amazonComProductUrl(usAmazonAssociateTag, "B07JQ4P976");
+const c40Href = amazonComSearchUrl(usAmazonAssociateTag, "Comandante C40 MK4 Nitro Blade");
 
 const featured = (
   <section aria-label="Start here" className="mt-8 border border-[var(--line)] bg-[var(--soft)] px-5 py-4">
@@ -38,7 +38,7 @@ const featured = (
       <BuyButtons name="Timemore Chestnut S3" locale="en" links={[{ href: s3Href, label: "See the Chestnut S3 on Amazon.com" }]} />
     ) : null}
     {c40Href ? (
-      <BuyButtons name="Comandante C40 MK4" locale="en" links={[{ href: c40Href, label: "See the Comandante C40 MK4 on Amazon.com" }]} />
+      <BuyButtons name="Comandante C40 MK4" locale="en" links={[{ href: c40Href, label: "Search the Comandante C40 MK4 on Amazon.com" }]} />
     ) : null}
     <p className="mt-3 text-base leading-relaxed">
       New to pour-over? Start with the{" "}

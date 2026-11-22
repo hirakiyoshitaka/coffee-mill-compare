@@ -31,7 +31,13 @@ If you make pour-over every day, start with a flat or conical burr grinder for a
 - **Mid range**: where the go-to burr grinders sit. The realistic choice for daily pour-over.
 - **Premium**: models focused on grind uniformity and low fines.
 
-Always confirm the price and specs on the product page before buying. This English page does not show Amazon purchase buttons.
+<p class="affiliate-html"><a href="https://www.amazon.com/s?k=electric+coffee+grinder+flat+burr&tag=ouchidougub03-20">Search flat burr electric coffee grinders on Amazon.com</a> (ad)</p>
+
+<p class="affiliate-html"><a href="https://www.amazon.com/s?k=electric+coffee+grinder+conical+burr&tag=ouchidougub03-20">Search conical burr electric coffee grinders on Amazon.com</a> (ad)</p>
+
+<p class="affiliate-html"><a href="https://www.amazon.com/s?k=blade+coffee+grinder&tag=ouchidougub03-20">Search blade coffee grinders on Amazon.com</a> (ad)</p>
+
+Always confirm the price and specs on the product page before buying.
 
 ## Or consider a hand grinder
 
@@ -39,4 +45,4 @@ If you want silence, no power cord, and enjoy the grinding itself, a hand grinde
 
 Comparing espresso machines with a built-in grinder? See [Breville vs De'Longhi all-in-one espresso machines](/en/articles/breville-vs-delonghi-all-in-one-espresso/).
 
-This English page does not show Amazon purchase buttons. See our [disclosure](/en/disclosure/) for how other pages label ads.
+Some links on this page are ads. See our [disclosure](/en/disclosure/) for how this site earns money.

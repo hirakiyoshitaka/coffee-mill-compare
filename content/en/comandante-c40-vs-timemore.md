@@ -53,7 +53,7 @@ The FAQ warns against removing the three screws that hold the bottom burr. Doing
 
 The C40 MK4 is on Amazon.com as well, with the same Comandante name on the product page. Stock was not checked.
 
-<p class="affiliate-html"><a href="https://www.amazon.com/dp/B07JQ4P976?tag=ouchidougub03-20">See the Comandante C40 MK4 on Amazon.com</a> (ad)</p>
+<p class="affiliate-html"><a href="https://www.amazon.com/s?k=Comandante+C40+MK4+Nitro+Blade&tag=ouchidougub03-20">Search the Comandante C40 MK4 on Amazon.com</a> (ad)</p>
 
 ## Which one to buy
 

@@ -53,7 +53,7 @@ The hand grinder I usually use is the [Timemore Chestnut S3](/en/articles/timemo
 2. **A scale.** Guessing at 12g, 24g, and 48g will not get you back to the same cup the next morning. See [how to choose a coffee scale](/en/articles/coffee-scale-guide/).
 3. **A kettle that pours a thin stream.** This recipe assumes you can draw that spiral.
 
-<p class="affiliate-html"><a href="https://www.amazon.com/dp/B001HC9GIC?tag=ouchidougub03-20">See the Hario V60 dripper (size 01, clear plastic, VD-01T) on Amazon.com</a> (ad)</p>
+<p class="affiliate-html"><a href="https://www.amazon.com/s?k=Hario+V60+coffee+dripper+01+clear&tag=ouchidougub03-20">Search the Hario V60 dripper (size 01, clear plastic, VD-01T) on Amazon.com</a> (ad)</p>
 
 <p class="affiliate-html"><a href="https://www.amazon.com/s?k=gooseneck+kettle+for+coffee&tag=ouchidougub03-20">Search gooseneck kettles on Amazon.com</a> (ad)</p>
 
