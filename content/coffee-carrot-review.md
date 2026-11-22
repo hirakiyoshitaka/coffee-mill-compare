@@ -68,6 +68,12 @@ updated: "2026-11-09"
 
 [珈琲きゃろっとのお試しセットを見る（広告）](https://px.a8.net/svt/ejp?a8mat=4BEQHR+383LAA+2CG0+5YJRM)
 
+## ほかの定期便も見るなら
+
+LEO SPECIALTY COFFEE があります。国際的な資格を持つコーヒーグレーダーが豆を選び、欠点豆を手で除いてから、焙煎から1週間以内に発送する、と公式ページにあります。ドリップバッグ30包の定期便と特別定期便があります。運営者は使っていません。料金と条件は、申し込む前に公式ページで確認してください。
+
+[LEO SPECIALTY COFFEEの定期便を見る（広告）](https://px.a8.net/svt/ejp?a8mat=4BEPQ4+36WQ2Q+5XNE+5YJRM)
+
 ## 届いた豆を挽く
 
 豆のまま（オススメ）を選ぶなら、ミルが要ります。ふだん使っているのは[タイムモア栗子 S3](/articles/timemore-chestnut-s3/)です。もう一台持っている手挽きは、エペイオス Essence Go です。くるべさの豆を Essence Go で挽いた記録は、ここには書いていません。量を合わせるなら[コーヒースケールの選び方](/articles/coffee-scale-guide/)、ミルの並べ方は[手挽きコーヒーミルの選び方](/articles/how-to-choose-hand-coffee-mill/)です。
