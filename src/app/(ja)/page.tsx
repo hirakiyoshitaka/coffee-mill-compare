@@ -6,7 +6,8 @@ import { BuyButtons, grinderBuyProps } from "@/components/BuyButtons";
 import { GrinderCard } from "@/components/GrinderCard";
 import { StatusBadge } from "@/components/StatusBadge";
 import { beanShops } from "@/data/beans";
-import { categories, categoryHref } from "@/data/categories";
+import { SiphonIllustration } from "@/components/SiphonIllustration";
+import { categories, categoryHref, toolGuides } from "@/data/categories";
 import { getFeaturedModels } from "@/data/grinders";
 import { articleModified, getArticle } from "@/lib/articles";
 import { PrNotice } from "@/components/PrNotice";
@@ -378,7 +379,7 @@ export default function HomePage() {
             一覧
           </Link>
         </div>
-        <p className="section-lead">ミル、ドリッパー、ケトル、スケール、コーヒーメーカー、エスプレッソマシン、キャニスター、豆の8つを公開中です。</p>
+        <p className="section-lead">ミル、ドリッパー、ケトル、スケール、コーヒーメーカー、エスプレッソマシン、キャニスター、豆、サイフォンの9つを公開中です。</p>
         <ul className="category-grid">
           {categories.map((category) => (
             <li key={category.slug}>
@@ -386,6 +387,16 @@ export default function HomePage() {
                 <StatusBadge status={category.status} />
                 <strong>{category.shortName}</strong>
                 <span>{category.summary}</span>
+              </Link>
+            </li>
+          ))}
+          {toolGuides.map((guide) => (
+            <li key={guide.slug}>
+              <Link href={guide.href} className="category-card">
+                <StatusBadge status="live" />
+                <strong>{guide.shortName}</strong>
+                {guide.slug === "siphon" ? <SiphonIllustration compact /> : null}
+                <span>{guide.summary}</span>
               </Link>
             </li>
           ))}
