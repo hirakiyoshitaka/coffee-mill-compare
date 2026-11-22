@@ -33,7 +33,7 @@ US $1,999.95 list · UK about £1,699 (Sage)
 
 [Breville US](https://www.breville.com/en-us/product/bes985) · [Sage UK](https://www.sageappliances.com/en-gb)
 
-<p class="affiliate-html"><a href="https://www.amazon.com/dp/B0DYGDKQ85?tag=ouchidougub03-20">See the Oracle Jet on Amazon.com</a> (ad)</p>
+<p class="affiliate-html"><a href="https://www.amazon.com/s?k=Breville+Oracle+Jet&tag=ouchidougub03-20">Search the Oracle Jet on Amazon.com</a> (ad)</p>
 
 ## Breville Barista Touch Impress
 
@@ -50,7 +50,7 @@ US $1,499.95 list · UK £1,199.95 (Sage BES882)
 
 [Breville US](https://www.breville.com/en-us/product/bes881) · [Sage UK](https://www.sageappliances.com/en-gb/product/bes882)
 
-<p class="affiliate-html"><a href="https://www.amazon.com/dp/B0C1T4W797?tag=ouchidougub03-20">See the Barista Touch Impress on Amazon.com</a> (ad)</p>
+<p class="affiliate-html"><a href="https://www.amazon.com/s?k=Breville+Barista+Touch+Impress&tag=ouchidougub03-20">Search the Barista Touch Impress on Amazon.com</a> (ad)</p>
 
 ## Breville Barista Express Impress
 
@@ -66,7 +66,7 @@ US $799.95 list (seen at $649.95 on sale at Macy's) · UK £599.95
 
 [Breville US](https://www.breville.com/en-us/product/bes876) · [Sage UK](https://www.sageappliances.com/en-gb)
 
-<p class="affiliate-html"><a href="https://www.amazon.com/dp/B0BBYNPV33?tag=ouchidougub03-20">See the Barista Express Impress on Amazon.com</a> (ad)</p>
+<p class="affiliate-html"><a href="https://www.amazon.com/s?k=Breville+Barista+Express+Impress&tag=ouchidougub03-20">Search the Barista Express Impress on Amazon.com</a> (ad)</p>
 
 ## De'Longhi Eletta Explore
 
@@ -82,7 +82,7 @@ UK £899.99–£999.99 · US prices vary by retailer
 
 [De'Longhi US](https://www.delonghi.com/en-us) · [De'Longhi UK](https://www.delonghi.com/en-gb)
 
-<p class="affiliate-html"><a href="https://www.amazon.com/dp/B0CGL7878G?tag=ouchidougub03-20">See the Eletta Explore on Amazon.com</a> (ad)</p>
+<p class="affiliate-html"><a href="https://www.amazon.com/s?k=DeLonghi+Eletta+Explore&tag=ouchidougub03-20">Search the Eletta Explore on Amazon.com</a> (ad)</p>
 
 ## De'Longhi Rivelia
 
@@ -98,7 +98,7 @@ UK £649.99–£749.99 · US prices vary by retailer
 
 [De'Longhi US](https://www.delonghi.com/en-us) · [De'Longhi UK](https://www.delonghi.com/en-gb)
 
-<p class="affiliate-html"><a href="https://www.amazon.com/dp/B0F1GMCQPB?tag=ouchidougub03-20">See the Rivelia on Amazon.com</a> (ad)</p>
+<p class="affiliate-html"><a href="https://www.amazon.com/s?k=DeLonghi+Rivelia&tag=ouchidougub03-20">Search the Rivelia on Amazon.com</a> (ad)</p>
 
 ## De'Longhi La Specialista Touch
 
@@ -114,7 +114,7 @@ UK £699.99
 
 [De'Longhi UK](https://www.delonghi.com/en-gb) · [De'Longhi US](https://www.delonghi.com/en-us)
 
-<p class="affiliate-html"><a href="https://www.amazon.com/dp/B0F6DY1DGR?tag=ouchidougub03-20">See the La Specialista Touch on Amazon.com</a> (ad)</p>
+<p class="affiliate-html"><a href="https://www.amazon.com/s?k=DeLonghi+La+Specialista+Touch&tag=ouchidougub03-20">Search the La Specialista Touch on Amazon.com</a> (ad)</p>
 
 ## The grinder is part of the machine
 

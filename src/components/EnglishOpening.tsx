@@ -23,16 +23,17 @@ const openings: Record<string, Pick | undefined> = {
   "1zpresso-hand-grinder-lineup": { kind: "kultra", audience: "Comparing the 1Zpresso lineup?" },
 };
 
-const K_ULTRA_ASIN = "B0CC4LXF1Z"; // 記事内の既存リンク（タグは既存の ouchidougub03-20）
+const K_ULTRA_QUERY = "1Zpresso K-Ultra"; // 記事内の既存リンク（タグは既存の ouchidougub03-20）。商品ページは未確認のため検索リンク
 
 // 読まれている3記事の先頭に出す「3つの枠」。役割の印（Best overall／Budget pick／Upgrade pick）＋
-// 商品名＋一言。Amazon.com の ASIN は、型番一致を Amazon 以外の出典で確かめた物だけ。
-// ASIN が無い商品は、このサイトの記事へのリンクに留める。S5 Pro は入れない。
+// 商品名＋一言。Amazon.com の商品ページは、型番一致を Amazon 以外の出典で確かめた S3 だけ。
+// 確かめていない物は検索リンクにする（asin ではなく query を入れる）。S5 Pro は入れない。
 type TrioPick = {
   role: string;
   name: string;
   line: string;
   asin?: string;
+  query?: string;
   buyLabel?: string;
   articleHref?: string;
   articleLabel?: string;
@@ -41,18 +42,18 @@ type TrioPick = {
 const trios: Record<string, TrioPick[] | undefined> = {
   "beginner-hand-drip-recipe": [
     { role: "Best overall", name: "Timemore Chestnut S3", line: "The grinder I use — about 30g at a time, for 2–3 cups.", asin: "B0CMZCK9PR", buyLabel: "See the Chestnut S3 on Amazon.com" },
-    { role: "Budget pick", name: "Hario V60 dripper 01 (VD-01T)", line: "The brewer this recipe is written for, and the lowest-cost piece of the kit.", asin: "B001HC9GIC", buyLabel: "See the V60 dripper on Amazon.com" },
-    { role: "Upgrade pick", name: "Comandante C40 MK4", line: "The German Nitro Blade grinder from our comparison. We have not used it.", asin: "B07JQ4P976", buyLabel: "See the Comandante C40 MK4 on Amazon.com" },
+    { role: "Budget pick", name: "Hario V60 dripper 01 (VD-01T)", line: "The brewer this recipe is written for, and the lowest-cost piece of the kit.", query: "Hario V60 coffee dripper 01 clear", buyLabel: "Search the V60 dripper on Amazon.com" },
+    { role: "Upgrade pick", name: "Comandante C40 MK4", line: "The German Nitro Blade grinder from our comparison. We have not used it.", query: "Comandante C40 MK4 Nitro Blade", buyLabel: "Search the Comandante C40 MK4 on Amazon.com" },
   ],
   "comandante-c40-vs-timemore": [
     { role: "Best overall", name: "Timemore Chestnut S3", line: "The grinder I use — about 30g at a time, for 2–3 cups.", asin: "B0CMZCK9PR", buyLabel: "See the Chestnut S3 on Amazon.com" },
     { role: "Budget pick", name: "1Zpresso Q2", line: "The entry model in the 1Zpresso lineup we cover.", articleHref: "/en/articles/1zpresso-hand-grinder-lineup/", articleLabel: "See the 1Zpresso lineup" },
-    { role: "Upgrade pick", name: "Comandante C40 MK4", line: "The German Nitro Blade grinder this article compares. We have not used it.", asin: "B07JQ4P976", buyLabel: "See the Comandante C40 MK4 on Amazon.com" },
+    { role: "Upgrade pick", name: "Comandante C40 MK4", line: "The German Nitro Blade grinder this article compares. We have not used it.", query: "Comandante C40 MK4 Nitro Blade", buyLabel: "Search the Comandante C40 MK4 on Amazon.com" },
   ],
   "coffee-grind-size-guide": [
     { role: "Best overall", name: "Timemore Chestnut S3", line: "The grinder I use, with an external dial I can set and return to.", asin: "B0CMZCK9PR", buyLabel: "See the Chestnut S3 on Amazon.com" },
     { role: "Budget pick", name: "1Zpresso Q2", line: "The entry model in the 1Zpresso lineup we cover.", articleHref: "/en/articles/1zpresso-hand-grinder-lineup/", articleLabel: "See the 1Zpresso lineup" },
-    { role: "Upgrade pick", name: "Comandante C40 MK4", line: "The German Nitro Blade grinder from our comparison. We have not used it.", asin: "B07JQ4P976", buyLabel: "See the Comandante C40 MK4 on Amazon.com" },
+    { role: "Upgrade pick", name: "Comandante C40 MK4", line: "The German Nitro Blade grinder from our comparison. We have not used it.", query: "Comandante C40 MK4 Nitro Blade", buyLabel: "Search the Comandante C40 MK4 on Amazon.com" },
   ],
 };
 
@@ -127,7 +128,7 @@ export function EnglishOpening({ slug }: { slug: string }) {
     );
   }
 
-  const href = amazonComProductUrl(usAmazonAssociateTag, K_ULTRA_ASIN);
+  const href = amazonComSearchUrl(usAmazonAssociateTag, K_ULTRA_QUERY);
   if (!href) return null;
   return (
     <>
@@ -137,7 +138,7 @@ export function EnglishOpening({ slug }: { slug: string }) {
       name="1Zpresso K-Ultra"
       evidence="I have not used this one. Specs in this article come from the manufacturer."
       buyName="1Zpresso K-Ultra"
-      links={[{ href, label: "See the K-Ultra on Amazon.com" }]}
+      links={[{ href, label: "Search the K-Ultra on Amazon.com" }]}
     />
     <StickyBuyBar name="1Zpresso K-Ultra" href={href} locale="en" />
     </>
@@ -150,7 +151,11 @@ function TrioFrame({ audience, picks }: { audience: string; picks: TrioPick[] })
       <p className={styles.audience}>{audience}</p>
       <h2 className={styles.label}>Three picks</h2>
       {picks.map((pick) => {
-        const href = pick.asin ? amazonComProductUrl(usAmazonAssociateTag, pick.asin) : undefined;
+        const href = pick.asin
+          ? amazonComProductUrl(usAmazonAssociateTag, pick.asin)
+          : pick.query
+            ? amazonComSearchUrl(usAmazonAssociateTag, pick.query)
+            : undefined;
         return (
           <div key={pick.role} style={{ marginTop: 12 }}>
             <p className={styles.audience}>{pick.role}</p>

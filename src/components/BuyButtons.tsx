@@ -62,7 +62,7 @@ export function BuyButtons({ name, links, html, note, locale = "ja", primaryHref
         <a key={link.label} className={`buy-link${primary && link !== primary ? " buy-link-secondary" : ""}`} href={link.href} target="_blank" rel={affiliateRel}>
           {primary ? <span>{link.label}</span> : link.label}
           <small>{primary ? `（${d.ad}）` : d.ad}</small>
-          <span className="sr-only">（{name}{`・${d.external}）`}</span>
+          <span className="sr-only">{locale === "en" ? `(${name} · ${d.external})` : `（${name}・${d.external}）`}</span>
         </a>
       ))}
       {primary ? <p className="fine buy-confirm">在庫・値段・配送予定は、各ショップで確認してください。</p> : null}

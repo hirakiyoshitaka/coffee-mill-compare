@@ -26,6 +26,10 @@ Even with the same beans and the same grind setting, small changes in the amount
 - **Mid range**: faster response, water resistance, auto-start timers.
 - **Premium**: flow-rate display, app connectivity, and more.
 
+<p class="affiliate-html"><a href="https://www.amazon.com/s?k=coffee+scale+with+timer&tag=ouchidougub03-20">Search coffee scales with a timer on Amazon.com</a> (ad)</p>
+
+<p class="affiliate-html"><a href="https://www.amazon.com/s?k=coffee+scale+0.1g&tag=ouchidougub03-20">Search 0.1g coffee scales on Amazon.com</a> (ad)</p>
+
 Check the price and specs on the product page before buying.
 
 ## Pair it with a good grinder
