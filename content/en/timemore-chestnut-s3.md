@@ -41,6 +41,7 @@ The second grinder on this site is the [EPEIOS Essence Go](/en/articles/epeios-e
 
 ## Read next
 
+- [Timemore Chestnut S3 vs EPEIOS Essence Go](/en/articles/timemore-chestnut-s3-vs-epeios-essence-go/)
 - [EPEIOS Essence Go review](/en/articles/epeios-essence-go/)
 - [Timemore S5 Pro vs EPEIOS Essence Go](/en/articles/timemore-s5-pro-vs-essence-go/)
 - [How to choose your first hand grinder](/en/articles/how-to-choose-hand-coffee-mill/)

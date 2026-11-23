@@ -71,7 +71,7 @@ The shared thread is the feel of turning it with little force, and the warning t
 
 ## Why it is No.2 here
 
-If the Chestnut S3 stays at home, the second grinder is an Essence Go that fits in its case, shows the scale from the outside, and is listed in the ¥20,000 range. The supervisor's name and the 10-blade burr are the maker's claims. This page does not say the cup tastes better than the S5 Pro. The two grinders do different jobs. The side-by-side is [Timemore S5 Pro vs EPEIOS Essence Go](/en/articles/timemore-s5-pro-vs-essence-go/).
+If the Chestnut S3 stays at home, the second grinder is an Essence Go that fits in its case, shows the scale from the outside, and is listed in the ¥20,000 range. The supervisor's name and the 10-blade burr are the maker's claims. This page does not say the cup tastes better than the S5 Pro. The two grinders do different jobs. The side-by-side is [Timemore S5 Pro vs EPEIOS Essence Go](/en/articles/timemore-s5-pro-vs-essence-go/). The side-by-side with the Chestnut S3 is [Timemore Chestnut S3 vs EPEIOS Essence Go](/en/articles/timemore-chestnut-s3-vs-epeios-essence-go/).
 
 Buy buttons appear on the product card when an affiliate URL is set. Our policy is on the [disclosure](/en/disclosure/) page.
 
