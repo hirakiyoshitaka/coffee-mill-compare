@@ -1,6 +1,6 @@
 ---
 title: "Burr Grinders Under $200: 5 Picks for Pour-Over, Drip, and Espresso"
-description: "Five burr grinders under $200 in the US: the Timemore Chestnut S3 I usually use, the Baratza Encore, the Fellow Opus, the 1Zpresso J-Ultra, and the OXO Brew. A review summary for the four I have not used. Links go to Amazon.com search results; no prices listed."
+description: "Five burr grinders under $200 in the US: the Timemore Chestnut S3 I usually use, the Baratza Encore, the Fellow Opus, the 1Zpresso J-Ultra, and the OXO Brew. A review summary for the four I have not used. Most links go to Amazon.com search results; the S3 link goes to its product page. No prices listed."
 category: "mill"
 date: "2026-11-23"
 ---
@@ -9,7 +9,7 @@ A burr grinder crushes beans between two burrs instead of chopping them, so the 
 
 **Quick pick:** for pour-over by hand, the [Timemore Chestnut S3](/en/articles/timemore-chestnut-s3/) — the one I usually use. For drip and pour-over with a motor, the Baratza Encore. For espresso ground by hand, the 1Zpresso J-Ultra.
 
-This is a review summary. The S3 is the grinder I usually use; the other four I have not used. Each section below follows the maker's pages and published reviews, and links go to Amazon.com search results, so compare sellers and check the price and stock on the day you buy.
+This is a review summary. The S3 is the grinder I usually use; the other four I have not used. Each section below follows the maker's pages and published reviews, and most links go to Amazon.com search results (the S3 link goes to its product page), so compare sellers and check the price and stock on the day you buy.
 
 ## The five at a glance
 
@@ -27,7 +27,7 @@ The hand grinder I usually use is the Timemore Chestnut S3. I grind about 30g at
 
 The burrs are S2C890 steel, 42 mm, cut on a 6-axis CNC. The adjustment is an external dial at 0.015 mm per click, 90 clicks per turn. The maker's starting ranges are espresso 1–15 clicks, pour-over 50–80, and French press 80–90. The handle folds down, the body is metal, and the base is silicone. The full specs, from the maker's US and Japanese pages, are in the [Chestnut S3 review](/en/articles/timemore-chestnut-s3/).
 
-<p class="affiliate-html"><a href="https://www.amazon.com/s?k=TIMEMORE+Chestnut+S3&tag=ouchidougub03-20">Search the Timemore Chestnut S3 on Amazon.com</a> (ad)</p>
+<p class="affiliate-html"><a href="https://www.amazon.com/dp/B0CMZCK9PR?tag=ouchidougub03-20">See the Timemore Chestnut S3 on Amazon.com</a> (ad)</p>
 
 ## 2. Baratza Encore — the electric default for filter coffee
 
