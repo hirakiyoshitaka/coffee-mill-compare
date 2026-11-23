@@ -57,7 +57,11 @@ const featured = (
       <Link href="/en/articles/cold-brew-makers-guide/" className="text-[var(--accent)] underline-offset-4 hover:underline">
         cold brew makers guide
       </Link>{" "}
-      covers immersion pitchers, capacity, and filters.
+      covers immersion pitchers, capacity, and filters. Choosing a grinder first? The{" "}
+      <Link href="/en/articles/burr-grinders-under-200/" className="text-[var(--accent)] underline-offset-4 hover:underline">
+        burr grinders under $200
+      </Link>{" "}
+      list covers five grinders, from hand grinders to electric ones.
     </p>
   </section>
 );
