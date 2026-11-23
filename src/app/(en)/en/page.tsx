@@ -61,7 +61,11 @@ const featured = (
       <Link href="/en/articles/burr-grinders-under-200/" className="text-[var(--accent)] underline-offset-4 hover:underline">
         burr grinders under $200
       </Link>{" "}
-      list covers five grinders, from hand grinders to electric ones.
+      list covers five grinders, from hand grinders to electric ones. For immersion brewing, the{" "}
+      <Link href="/en/articles/french-press-vs-aeropress/" className="text-[var(--accent)] underline-offset-4 hover:underline">
+        French press vs AeroPress
+      </Link>{" "}
+      guide compares the two brewers, from body to cleanup.
     </p>
   </section>
 );
