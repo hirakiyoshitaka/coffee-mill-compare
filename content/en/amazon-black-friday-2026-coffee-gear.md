@@ -71,6 +71,13 @@ Whether a given item is discounted, and whether it is in stock, can only be chec
 
 Black Friday lands in gift season. Picks grouped by budget band — under $50, under $150, and splurge — are in [Gifts for home coffee lovers 2026](/en/articles/gifts-for-home-coffee-lovers-2026/).
 
+## How to tell a real deal
+
+- **Compare with what it actually sold for, not the list price.** A discount off a price the item never sold at is not a discount. Check the price it was selling for before the sale started.
+- **Around 20% off the usual selling price is a rough guide.** Smaller cuts are common; a much larger cut is worth a second look at the seller and the listing.
+- **Watch for a price raised just before the sale.** If the price went up in the weeks before Black Friday and then "fell" back to where it was, that is not a deal.
+- **Stock first, discount second.** A real deal on a sold-out listing is not a deal. Check the product page on the day, including whether it is still in stock.
+
 ## Check during the sale
 
 - **Price:** sale prices can change by the day. Read the figure on the product page before ordering

@@ -9,6 +9,12 @@ date: "2026-11-22"
 
 A coffee gift works when it matches what the person already brews with — this guide picks seven things, each listed at $50 or under on the maker's US site on 2026-11-22. We have not used any of the seven picks: each one is a review summary from the maker's page and published reviews, and links go to Amazon.com search results, so compare sellers and check the price and stock on the day you buy.
 
+## Quick picks by budget
+
+- **Under $25:** five smaller pieces — paper, a dripper, and a scale among them — are in [Coffee gifts under $25](/en/articles/coffee-gifts-under-25/).
+- **Under $50:** the seven picks on this page.
+- **Above $50:** picks grouped by budget band — under $150 and splurge — are in [Gifts for home coffee lovers 2026](/en/articles/gifts-for-home-coffee-lovers-2026/).
+
 ## Brewers: for someone starting, or adding a second way to brew
 
 ### AeroPress Original
@@ -54,6 +60,11 @@ A consumable is an easy gift for someone who already brews with a Chemex: it alw
 For someone whose beans sit in the bag they came in: the Airscape Classic is a canister for keeping coffee beans. We have not used it.
 
 <p class="affiliate-html"><a href="https://www.amazon.com/s?k=Airscape+Classic+coffee+canister&tag=ouchidougub03-20">Search the Airscape Classic coffee canister on Amazon.com</a> (ad)</p>
+
+## What not to buy
+
+- **A blade grinder.** It chops the beans instead of grinding them to an even size, so the cup comes out uneven. The picks on this page are brewers, paper, and storage — none of them needs a blade grinder to work.
+- **A second copy of gear they already own.** A dripper they already brew with is not a gift, even in a nicer color. Match the gift to what they do not have yet — the table below starts from that.
 
 ## Choosing by what they already own
 
