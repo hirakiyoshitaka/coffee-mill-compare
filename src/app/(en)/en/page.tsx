@@ -65,7 +65,11 @@ const featured = (
       <Link href="/en/articles/french-press-vs-aeropress/" className="text-[var(--accent)] underline-offset-4 hover:underline">
         French press vs AeroPress
       </Link>{" "}
-      guide compares the two brewers, from body to cleanup.
+      guide compares the two brewers, from body to cleanup. For stovetop espresso-style coffee, the{" "}
+      <Link href="/en/articles/moka-pot-guide/" className="text-[var(--accent)] underline-offset-4 hover:underline">
+        moka pot guide
+      </Link>{" "}
+      covers size, heat source, and the three Bialetti lines.
     </p>
   </section>
 );
