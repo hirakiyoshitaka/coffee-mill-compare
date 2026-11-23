@@ -49,7 +49,11 @@ const featured = (
       <Link href="/en/articles/hario-v60-pour-over-starter/" className="text-[var(--accent)] underline-offset-4 hover:underline">
         Hario V60 pour-over starter
       </Link>
-      .
+      . Choosing a kettle first? The{" "}
+      <Link href="/en/articles/gooseneck-kettle-guide/" className="text-[var(--accent)] underline-offset-4 hover:underline">
+        gooseneck kettle guide
+      </Link>{" "}
+      covers spout, temperature control, and size.
     </p>
   </section>
 );

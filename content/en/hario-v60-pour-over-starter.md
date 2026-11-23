@@ -33,7 +33,7 @@ The scale weighs the beans and the poured water, and its timer watches the bloom
 
 The Buono is the gooseneck kettle the V60 was designed around: its slim spout controls where the water lands and how fast it falls. The practical capacity is 800 mL, with 1.2 L to the brim — heat up to the practical line, not to the brim. The body and lid are stainless steel; the handle and lid knob are phenol resin. It is made in Japan, and measures W274 × D144 × H147mm.
 
-Hario USA's page for this kettle lists size, capacity, materials, and origin, but no heat source — check your stove type with Hario before buying. There is no temperature control on the kettle itself, so check the water with a thermometer if you want a target number.
+Hario USA's page for this kettle lists size, capacity, materials, and origin, but no heat source — check your stove type with Hario before buying. There is no temperature control on the kettle itself, so check the water with a thermometer if you want a target number. How to choose a kettle in general — spout, temperature control, capacity, heat source — is in the [gooseneck kettle guide](/en/articles/gooseneck-kettle-guide/).
 
 <p class="affiliate-html"><a href="https://www.amazon.com/s?k=HARIO+VKB-120HSV&tag=ouchidougub03-20">Search the Hario VKB-120HSV on Amazon.com</a> (ad)</p>
 
