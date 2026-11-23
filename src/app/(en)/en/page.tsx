@@ -45,6 +45,10 @@ const featured = (
       <Link href="/en/articles/beginner-hand-drip-recipe/" className="text-[var(--accent)] underline-offset-4 hover:underline">
         beginner pour-over recipe (Hario V60)
       </Link>
+      . The three Hario pieces to start with — paper, scale, and kettle — are in the{" "}
+      <Link href="/en/articles/hario-v60-pour-over-starter/" className="text-[var(--accent)] underline-offset-4 hover:underline">
+        Hario V60 pour-over starter
+      </Link>
       .
     </p>
   </section>

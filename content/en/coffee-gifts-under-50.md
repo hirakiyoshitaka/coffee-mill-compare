@@ -66,6 +66,8 @@ For someone whose beans sit in the bag they came in: the Airscape Classic is a c
 
 For more ideas above this band, see [Gifts for Home Coffee Lovers 2026](/en/articles/gifts-for-home-coffee-lovers-2026/). If you are buying during the sale, decide first — [Amazon Black Friday 2026: Coffee Gear to Decide Before the Sale](/en/articles/amazon-black-friday-2026-coffee-gear/).
 
+Starting from nothing? The three Hario pieces to begin pour-over — paper, scale, and kettle — are in the [Hario V60 pour-over starter](/en/articles/hario-v60-pour-over-starter/).
+
 Prices and stock change, and the same product can be listed by several sellers. Check the seller and the delivery date before ordering.
 
 Some links on this page are ads. See our [disclosure](/en/disclosure/).
