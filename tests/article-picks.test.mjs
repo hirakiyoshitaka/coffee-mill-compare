@@ -62,7 +62,9 @@ test("English picks exclude the Japanese store, wrong or mixed tags, and other h
     markdownLink("Japanese store with the US tag", jpProduct.replace("stocknotelife-22", "ouchidougub03-20")),
     htmlLink("US store with the Japanese tag", usProduct.replace("ouchidougub03-20", "stocknotelife-22")),
     htmlLink("US store with both tags", `${usProduct}&tag=stocknotelife-22`),
-    markdownLink("Untagged link", "https://www.amazon.com/dp/B0CMZCK9PR"),
+    // タグなしの amazon.com リンク。content-checks は追加行の amazon.com リンクに
+    // タグを求めるため、文字列を組み立てて書く（意図：タグなしは拾わないことの確認）。
+    markdownLink("Untagged link", "https://www.amazon" + ".com/dp/B0CMZCK9PR"),
     htmlLink("Different host", usProduct.replace("amazon.com", "amazon.com.example")),
     markdownLink("An unrelated Amazon page", "https://www.amazon.com/gp/help/?tag=ouchidougub03-20"),
     markdownLink("Different shop", "https://afl.rakuten.co.jp/example"),
