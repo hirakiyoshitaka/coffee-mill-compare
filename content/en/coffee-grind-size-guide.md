@@ -86,6 +86,7 @@ This site does not list French press or moka pot models. Check capacity and heat
 - [Timemore S5 Pro vs EPEIOS Essence Go](/en/articles/timemore-s5-pro-vs-essence-go/)
 - [Hand vs electric coffee grinders](/en/articles/hand-vs-electric-coffee-mill/)
 - [How to choose a coffee scale](/en/articles/coffee-scale-guide/)
+- [Cold brew makers: how to choose one](/en/articles/cold-brew-makers-guide/)
 - [Beginner pour-over recipe](/en/articles/beginner-hand-drip-recipe/)
 - [1Zpresso hand grinder lineup](/en/articles/1zpresso-hand-grinder-lineup/)
 - [Comandante C40 vs Timemore Chestnut S5 Pro](/en/articles/comandante-c40-vs-timemore/)

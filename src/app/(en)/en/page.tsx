@@ -53,7 +53,11 @@ const featured = (
       <Link href="/en/articles/gooseneck-kettle-guide/" className="text-[var(--accent)] underline-offset-4 hover:underline">
         gooseneck kettle guide
       </Link>{" "}
-      covers spout, temperature control, and size.
+      covers spout, temperature control, and size. For cold coffee, the{" "}
+      <Link href="/en/articles/cold-brew-makers-guide/" className="text-[var(--accent)] underline-offset-4 hover:underline">
+        cold brew makers guide
+      </Link>{" "}
+      covers immersion pitchers, capacity, and filters.
     </p>
   </section>
 );
