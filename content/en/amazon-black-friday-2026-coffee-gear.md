@@ -63,6 +63,7 @@ This shelf is review summaries of gear this site has not used. Read the linked a
 - **1Zpresso K-Ultra.** The 1Zpresso model positioned to cross brew methods ([the lineup](/en/articles/1zpresso-hand-grinder-lineup/)). <a href="https://www.amazon.com/s?k=1Zpresso+K-Ultra&tag=ouchidougub03-20">Search the K-Ultra on Amazon.com</a> (ad)
 - **Hario V60 dripper, size 01.** The cone in our pour-over recipe ([the recipe](/en/articles/beginner-hand-drip-recipe/)). <a href="https://www.amazon.com/s?k=Hario+V60+coffee+dripper+01+clear&tag=ouchidougub03-20">Search the V60 dripper on Amazon.com</a> (ad)
 - **Hario V60 starter three.** The 02 paper, the drip scale, and the Buono kettle to start pour-over ([the starter three](/en/articles/hario-v60-pour-over-starter/)).
+- **Coffee siphon.** Flame and glass, for someone who likes watching the brew ([how to choose a coffee siphon](/en/articles/how-to-choose-coffee-siphon/)). We have not used one; the article is a review summary.
 
 Whether a given item is discounted, and whether it is in stock, can only be checked on the product page on the day.
 

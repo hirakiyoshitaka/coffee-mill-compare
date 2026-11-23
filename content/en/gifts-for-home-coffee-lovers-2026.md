@@ -77,6 +77,7 @@ Beans are the gift that disappears, which is part of the point. One note from th
 | A dripper, no grinder | The Chestnut S3 (under $150) |
 | A grinder and a dripper | A scale or a gooseneck kettle (under $150) |
 | A full setup, and they grind by hand | The C40 MK4 or the K-Ultra (splurge) |
+| A full setup, and they love watching the brew | The siphon brewer ([how to choose a coffee siphon](/en/articles/how-to-choose-coffee-siphon/)) |
 | They brew away from home | The Essence Go (splurge) |
 
 Prices and stock change, and the same product can be listed by several sellers. Check the seller and the delivery date before ordering.
