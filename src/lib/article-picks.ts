@@ -1,5 +1,6 @@
 import { shopBuyProps } from "@/components/BeanViews";
 import { grinderBuyProps, type BuyLink } from "@/components/BuyButtons";
+import { usAmazonAssociateTag } from "@/config/us-amazon";
 import { getBeanShop } from "@/data/beans";
 import { getModel } from "@/data/grinders";
 import { localizeModel } from "@/data/grinders-i18n";
@@ -44,15 +45,34 @@ function asinOf(href: string | undefined): string | undefined {
   return match?.[1]?.toUpperCase();
 }
 
-function isAffiliateHref(href: string): boolean {
+function isUsAmazonAffiliateHref(href: string): boolean {
+  try {
+    const url = new URL(href);
+    if (url.protocol !== "https:" && url.protocol !== "http:") return false;
+    if (url.hostname !== "amazon.com" && url.hostname !== "www.amazon.com") return false;
+    const tags = url.searchParams.getAll("tag");
+    if (tags.length !== 1 || tags[0] !== usAmazonAssociateTag) return false;
+    return /^\/dp\/[A-Z0-9]{10}(?:\/|$)/i.test(url.pathname)
+      || (url.pathname === "/s" && Boolean(url.searchParams.get("k")?.trim()));
+  } catch {
+    return false;
+  }
+}
+
+function isAffiliateHref(href: string, locale: SiteLocale): boolean {
+  if (locale === "en") return isUsAmazonAffiliateHref(href);
+  if (/^https?:\/\/(?:www\.)?amazon\.com(?:[:/?#]|$)/i.test(href)) return false;
   return /(?:^https?:\/\/)(?:www\.)?(?:amazon\.co\.jp|amzn\.to|amzn\.asia)\b|afl\.rakuten\.co\.jp|px\.a8\.net|invl\.me|moshimo\.com|valuecommerce\.com/i.test(href);
 }
 
-function affiliateKey(href: string): string {
-  const asin = asinOf(href);
+function affiliateKey(href: string, locale: SiteLocale): string {
+  const asin = locale === "en" ? undefined : asinOf(href);
   if (asin) return `dp:${asin}`;
   try {
     const url = new URL(href);
+    if (locale === "en") {
+      return url.pathname === "/s" ? `s:${url.searchParams.get("k")}` : `dp:${asinOf(url.pathname)}`;
+    }
     if (/amazon\.co\.jp$/i.test(url.hostname) && url.pathname.startsWith("/s")) {
       return `s:${url.searchParams.get("k") || url.search}`;
     }
@@ -104,8 +124,10 @@ export function cleanPickName(label: string): string {
   return text.trim();
 }
 
-function displayName(h3: string, h2: string, label: string): string {
-  const cleaned = cleanPickName(label);
+function displayName(h3: string, h2: string, label: string, locale: SiteLocale): string {
+  const cleaned = cleanPickName(locale === "en"
+    ? label.replace(/\s*\(ad\)\s*$/i, "").replace(/\s+on Amazon\.com\s*$/i, "").replace(/^(?:See|Search)(?: for)?(?: the)?\s+/i, "")
+    : label);
   const fromH3 = productHeading(h3);
   const fromH2 = productHeading(h2);
   if (isGenericLabel(label)) return fromH3 || fromH2 || cleaned || label;
@@ -116,7 +138,7 @@ function displayName(h3: string, h2: string, label: string): string {
 }
 
 function searchAction(locale: SiteLocale): string {
-  if (locale === "en") return "Browse on Amazon.co.jp";
+  if (locale === "en") return "Browse on Amazon.com";
   if (locale === "ko") return "Amazon.co.jp에서 찾기";
   if (locale === "vi") return "Tìm trên Amazon.co.jp";
   if (locale === "zh-cn") return "在 Amazon.co.jp 搜索";
@@ -136,6 +158,9 @@ function shopAction(locale: SiteLocale): string {
 }
 
 function actionLabel(href: string, label: string, locale: SiteLocale): string {
+  if (locale === "en") {
+    return new URL(href).pathname === "/s" ? searchAction(locale) : cardDict.en.amazonCom ?? "Check price on Amazon.com";
+  }
   if (/未照合/.test(label)) return "Amazonで商品名を検索";
   if (/料金|利用条件/.test(label)) return "Amazonで料金・利用条件を確認";
   if (/px\.a8\.net/i.test(href)) {
@@ -148,10 +173,11 @@ function actionLabel(href: string, label: string, locale: SiteLocale): string {
   return cardDict[locale].amazon;
 }
 
-function httpLinks(links: BuyLink[]): BuyLink[] {
+function httpLinks(links: BuyLink[], locale: SiteLocale): BuyLink[] {
   return links.flatMap((link) => {
     const href = link.href?.trim();
     if (!isHttpUrl(href)) return [];
+    if (locale === "en" && !isUsAmazonAffiliateHref(href)) return [];
     return [{ href, label: link.label }];
   });
 }
@@ -194,14 +220,14 @@ function embedPick(id: string, line: number, locale: SiteLocale): ArticlePick | 
   if (model) {
     const localized = localizeModel(model, locale);
     const props = grinderBuyProps(localized, locale, localized.localized);
-    const links = httpLinks(props.links);
-    if (links.length === 0 && !props.html?.trim()) return undefined;
+    const links = httpLinks(props.links, locale);
+    if (links.length === 0 && (locale === "en" || !props.html?.trim())) return undefined;
     return { key: `embed:${id}`, name: localized.name, line, source: "embed", links, note: props.note };
   }
   const shop = getBeanShop(id);
   if (!shop) return undefined;
   const props = shopBuyProps(shop, locale);
-  const links = httpLinks(props.links);
+  const links = httpLinks(props.links, locale);
   if (links.length === 0) return undefined;
   return { key: `embed:${id}`, name: shop.name, line, source: "embed", links };
 }
@@ -209,13 +235,29 @@ function embedPick(id: string, line: number, locale: SiteLocale): ArticlePick | 
 export function isHighIntentTitle(title: string): boolean {
   return /選び方|おすすめ|比較|どっち|ランキング|そろえ方|一段上げ|予算別|ギフト|定期便|通販|頼みたい|How to Choose|Which|\bvs\b|推薦|推荐|比较|对比|怎么选|추천|비교|升級|選ぶ|比べ|挑|so sánh|So sánh|cách chọn|Cách chọn/.test(title);  return /選び方|おすすめ|比較|どっち|ランキング|そろえ方|一段上げ|予算別|ギフト|定期便|通販|頼みたい|How to Choose|Which|\bvs\b|推薦|推荐|比较|对比|怎么选|추천|비교|升級|選ぶ|比べ|挑|วิธีเลือก|เปรียบเทียบ|เทียบ/.test(title);}
 
-function collect(markdown: string): { links: RawLink[]; embeds: { id: string; line: number }[] } {
+function htmlLinksByLine(markdown: string): Map<number, RegExpMatchArray[]> {
+  const byLine = new Map<number, RegExpMatchArray[]>();
+  const anchors = /<a\s+([^>]+)>([\s\S]*?)<\/a\s*>/gi;
+  let line = 0;
+  let offset = 0;
+  for (const match of markdown.matchAll(anchors)) {
+    line += markdown.slice(offset, match.index).split("\n").length - 1;
+    offset = match.index;
+    const onLine = byLine.get(line) ?? [];
+    onLine.push(match);
+    byLine.set(line, onLine);
+  }
+  return byLine;
+}
+
+function collect(markdown: string, locale: SiteLocale): { links: RawLink[]; embeds: { id: string; line: number }[] } {
   const links: RawLink[] = [];
   const embeds: { id: string; line: number }[] = [];
   let h2 = "";
   let h3 = "";
   let section = "";
   const lines = markdown.split("\n");
+  const htmlLinks = locale === "en" ? htmlLinksByLine(markdown) : undefined;
 
   lines.forEach((line, index) => {
     const lineNo = index + 1;
@@ -237,39 +279,35 @@ function collect(markdown: string): { links: RawLink[]; embeds: { id: string; li
     const embed = /\{\{(?:grinder|bean):([a-z0-9-]+)\}\}/.exec(line);
     if (embed?.[1]) embeds.push({ id: embed[1], line: lineNo });
 
-    const wrapped = /\[!\[([^\]]*)\]\([^)]+\)\]\((https?:\/\/[^)\s]+)\)/g;
-    for (const match of line.matchAll(wrapped)) {
-      const href = match[2];
-      if (!href || !isAffiliateHref(href)) continue;
-      const label = match[1] || "";
-      if (isCitationLabel(label)) continue;
+    function addLink(href: string, label: string, image: boolean) {
+      if (!isAffiliateHref(href, locale) || isCitationLabel(label)) return;
       links.push({
         line: lineNo,
-        key: affiliateKey(href),
+        key: affiliateKey(href, locale),
         href,
         label,
         h2,
         h3,
-        image: true,
+        image,
       });
+    }
+
+    const wrapped = /\[!\[([^\]]*)\]\([^)]+\)\]\((https?:\/\/[^)\s]+)\)/g;
+    for (const match of line.matchAll(wrapped)) {
+      addLink(match[2], match[1], true);
     }
 
     const plain = /(?<!!)\[([^\]]+)\]\((https?:\/\/[^)\s]+)\)/g;
     for (const match of line.matchAll(plain)) {
-      const href = match[2];
-      if (!href || !isAffiliateHref(href)) continue;
-      const label = match[1];
-      if (label.startsWith("!")) continue;
-      if (isCitationLabel(label)) continue;
-      links.push({
-        line: lineNo,
-        key: affiliateKey(href),
-        href,
-        label,
-        h2,
-        h3,
-        image: false,
-      });
+      if (!match[1].startsWith("!")) addLink(match[2], match[1], false);
+    }
+
+    for (const match of htmlLinks?.get(index) ?? []) {
+      const attribute = /(?:^|\s)href\s*=\s*(?:"([^"]*)"|'([^']*)'|([^\s"'=<>`]+))/i.exec(match[1]);
+      if (!attribute) continue;
+      const href = (attribute[1] ?? attribute[2] ?? attribute[3]).replace(/&(?:amp|#0*38|#x0*26);/gi, "&");
+      const label = match[2].replace(/<[^>]+>/g, "").replace(/\s+/g, " ").trim();
+      addLink(href, label || "Amazon.com", /^\s*<img\b/i.test(match[2]));
     }
   });
 
@@ -287,13 +325,13 @@ function preferTextLinks(links: RawLink[]): RawLink[] {
 
 export function buildArticlePicks(markdown: string, title: string, locale: SiteLocale = "ja"): ArticlePick[] {
   const highIntent = isHighIntentTitle(title);
-  const { links, embeds } = collect(markdown);
+  const { links, embeds } = collect(markdown, locale);
   const embedIds = embeds.map((embed) => embed.id);
   const hasMillEmbed = embedIds.some(
     (id) => id === "timemore-chestnut-s5-pro" || id === "timemore-chestnut-s3" || id === "epeios-essence-go",
   );
   const deduped = preferTextLinks(links).filter((link) => !(hasMillEmbed && isRedundantMillBrowse(link.label)));
-  const kept = deduped.filter((link) => !((locale === "en" || locale === "zh-tw") && isJpTaggedAmazonUrl(link.href)))
+  const kept = deduped.filter((link) => !(locale === "zh-tw" && isJpTaggedAmazonUrl(link.href)))
     .filter((link) => locale === "ja" || !/px\.a8\.net/i.test(link.href));
   const embedLine = new Map(embeds.map((embed) => [embed.id, embed.line]));
   const used = new Set<string>();
@@ -301,7 +339,7 @@ export function buildArticlePicks(markdown: string, title: string, locale: SiteL
 
   for (const link of kept) {
     const embedId = resolveEmbed(link.label, link.href, embedIds, locale);
-    if (embedId) {
+    if (embedId && locale !== "en") {
       if (used.has(embedId)) continue;
       used.add(embedId);
       const line = Math.min(embedLine.get(embedId) ?? link.line, link.line);
@@ -309,15 +347,16 @@ export function buildArticlePicks(markdown: string, title: string, locale: SiteL
       if (pick) picks.push(pick);
       continue;
     }
-    const linksForPick = httpLinks([{ href: link.href, label: actionLabel(link.href, link.label, locale) }]);
+    if (embedId) used.add(embedId);
+    const linksForPick = httpLinks([{ href: link.href, label: actionLabel(link.href, link.label, locale) }], locale);
     if (linksForPick.length === 0) continue;
     picks.push({
       key: link.key,
-      name: displayName(link.h3, link.h2, link.label),
+      name: displayName(link.h3, link.h2, link.label, locale),
       line: link.line,
       source: "link",
       links: linksForPick,
-      note: /未照合/.test(link.label) ? "販売単位は未照合です。ページの表示を確認してください。" : undefined,
+      note: locale !== "en" && /未照合/.test(link.label) ? "販売単位は未照合です。ページの表示を確認してください。" : undefined,
     });
   }
 
@@ -345,8 +384,11 @@ function isCategorySearchPick(pick: ArticlePick): boolean {
 }
 
 /** 先頭付近に、購入リンク付きの結論ボックス見出しが既にある */
-export function articleHasQuickPick(markdown: string): boolean {
+export function articleHasQuickPick(markdown: string, locale: SiteLocale = "ja"): boolean {
   const head = markdown.split("\n").slice(0, 40).join("\n");
+  if (locale === "en") {
+    return /<strong\b[^>]*>\s*Quick pick\s*:\s*<\/strong>|(?:\*\*|__)\s*Quick pick\s*:|^#{1,6}\s+Quick picks?\b/im.test(head);
+  }
   return /おすすめ結論|Quick pick/i.test(head);
 }
 
@@ -356,7 +398,7 @@ export function selectQuickPicks(picks: ArticlePick[]): ArticlePick[] {
 }
 
 export function buildQuickPicks(markdown: string, title: string, locale: SiteLocale = "ja"): ArticlePick[] {
-  if (articleHasQuickPick(markdown)) return [];
+  if (articleHasQuickPick(markdown, locale)) return [];
   return selectQuickPicks(buildArticlePicks(markdown, title, locale));
 }
 
