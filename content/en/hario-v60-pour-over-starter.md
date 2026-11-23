@@ -39,7 +39,7 @@ Hario USA's page for this kettle lists size, capacity, materials, and origin, bu
 
 ## How the three fit together
 
-Weigh the beans on the scale, set the paper in the dripper, and heat the water in the kettle. The [beginner pour-over recipe](/en/articles/beginner-hand-drip-recipe/) follows the same shape, and the [coffee grind size guide](/en/articles/coffee-grind-size-guide/) covers where to set the grinder. If this is a gift, the [gifts under $50](/en/articles/coffee-gifts-under-50/) list has the V60 dripper and set, and the [Black Friday short list](/en/articles/amazon-black-friday-2026-coffee-gear/) has the grinders to pair with them.
+Weigh the beans on the scale, set the paper in the dripper, and heat the water in the kettle. The [beginner pour-over recipe](/en/articles/beginner-hand-drip-recipe/) follows the same shape, and the [coffee grind size guide](/en/articles/coffee-grind-size-guide/) covers where to set the grinder. If this is a gift, the [gifts under $50](/en/articles/coffee-gifts-under-50/) list has the V60 dripper and set, and the [gifts under $25](/en/articles/coffee-gifts-under-25/) list has five smaller pieces. The [Black Friday short list](/en/articles/amazon-black-friday-2026-coffee-gear/) has the grinders to pair with them.
 
 Prices and stock change, and the same product can be listed by several sellers. Check the seller and the delivery date before ordering.
 
