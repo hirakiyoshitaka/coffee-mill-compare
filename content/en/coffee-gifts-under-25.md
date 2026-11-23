@@ -13,19 +13,19 @@ This is a review summary. We have not used any of these five picks: each section
 
 ## 1. Hario V60 plastic dripper 01 (VD-01T)
 
-The cone to start pour-over with one cup. The 01 size brews 1–2 cups, and the clear plastic body is light and hard to break. It takes the 01-size V60 paper, sold separately. Hario USA lists the 01 plastic dripper in the low teens. We have not used it; the size and fit follow Hario's own pages, and our [beginner pour-over recipe](/en/articles/beginner-hand-drip-recipe/) follows the same pour-over shape.
+The cone to start pour-over with one cup. The 01 size brews 1–2 cups, and the clear plastic body is light and hard to break. It takes the 01-size V60 paper, sold separately. We have not used it; the size and fit follow Hario's own pages, and our [beginner pour-over recipe](/en/articles/beginner-hand-drip-recipe/) follows the same pour-over shape.
 
 <p class="affiliate-html"><a href="https://www.amazon.com/s?k=HARIO+V60+plastic+dripper+01+clear&tag=ouchidougub03-20">Search the Hario V60 plastic dripper 01 on Amazon.com</a> (ad)</p>
 
 ## 2. Hario V60 plastic dripper 02 (VD-02T)
 
-The same cone in the larger size: the 02 brews 1–4 cups, so it covers one big mug or coffee for two. Pick the 01 above for a single cup every time, and the 02 when the cup is bigger or shared. It takes the 02-size V60 paper, sold separately. Hario USA lists the 02 plastic dripper about a dollar above the 01. We have not used it.
+The same cone in the larger size: the 02 brews 1–4 cups, so it covers one big mug or coffee for two. Pick the 01 above for a single cup every time, and the 02 when the cup is bigger or shared. It takes the 02-size V60 paper, sold separately. We have not used it.
 
 <p class="affiliate-html"><a href="https://www.amazon.com/s?k=HARIO+V60+plastic+dripper+02+clear&tag=ouchidougub03-20">Search the Hario V60 plastic dripper 02 on Amazon.com</a> (ad)</p>
 
 ## 3. Hario V60 paper filters 02, 100 (VCF-02-100W)
 
-A consumable is the easiest gift for someone who already brews V60: it always runs out. One pack holds 100 sheets, and the 02 size fits the 02 dripper and brews 1–4 cups. White paper is the bleached version; Hario also sells the same size in natural brown (VCF-02-100M) at the same US price. Match the paper to the dripper size first: 02 paper fits a 02 dripper, not a 01. The three Hario pieces to start with — paper, scale, and kettle — are in the [Hario V60 pour-over starter](/en/articles/hario-v60-pour-over-starter/).
+A consumable is the easiest gift for someone who already brews V60: it always runs out. One pack holds 100 sheets, and the 02 size fits the 02 dripper and brews 1–4 cups. White paper is the bleached version; Hario also sells the same size in natural brown (VCF-02-100M). Match the paper to the dripper size first: 02 paper fits a 02 dripper, not a 01. The three Hario pieces to start with — paper, scale, and kettle — are in the [Hario V60 pour-over starter](/en/articles/hario-v60-pour-over-starter/).
 
 <p class="affiliate-html"><a href="https://www.amazon.com/s?k=HARIO+VCF-02-100W&tag=ouchidougub03-20">Search the Hario VCF-02-100W on Amazon.com</a> (ad)</p>
 
