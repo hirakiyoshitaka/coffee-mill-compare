@@ -84,6 +84,7 @@ This site does not list French press or moka pot models. Check capacity and heat
 - [Burr grinders under $200](/en/articles/burr-grinders-under-200/)
 - [French press vs AeroPress](/en/articles/french-press-vs-aeropress/)
 - [Moka pot: how to choose one](/en/articles/moka-pot-guide/)
+- [Pour-over dripper: how to choose one](/en/articles/pour-over-dripper-guide/)
 - [Timemore Chestnut S5 Pro review](/en/articles/timemore-chestnut-s5-pro/)
 - [EPEIOS Essence Go review](/en/articles/epeios-essence-go/)
 - [Timemore S5 Pro vs EPEIOS Essence Go](/en/articles/timemore-s5-pro-vs-essence-go/)
