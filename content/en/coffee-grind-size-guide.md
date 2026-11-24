@@ -96,5 +96,6 @@ For the brewers, see the [French press vs AeroPress](/en/articles/french-press-v
 - [1Zpresso hand grinder lineup](/en/articles/1zpresso-hand-grinder-lineup/)
 - [Comandante C40 vs Timemore Chestnut S5 Pro](/en/articles/comandante-c40-vs-timemore/)
 - [Japanese craft coffee makers: BALMUDA The Brew vs TWINBIRD](/en/articles/japanese-premium-coffee-makers/)
+- [Travel coffee gear: 5 picks that pack small and brew well](/en/articles/travel-coffee-gear/)
 
 Purchase links that remain on the grinder cards, the Coffee Carrot button, and the Chestnut S3 Amazon.com link are ads. See our [disclosure](/en/disclosure/) for details.
