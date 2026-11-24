@@ -79,6 +79,21 @@ const featured = (
       </Link>{" "}
       covers cone, trapezoid, and flat-bottom shapes.
     </p>
+    <p className="mt-3 text-base leading-relaxed">
+      Weighing your dose? The{" "}
+      <Link href="/en/articles/coffee-scale-guide/" className="text-[var(--accent)] underline-offset-4 hover:underline">
+        coffee scale guide
+      </Link>{" "}
+      covers timer, 0.1g accuracy, and water resistance. Hand grinder or electric? The{" "}
+      <Link href="/en/articles/hand-vs-electric-coffee-mill/" className="text-[var(--accent)] underline-offset-4 hover:underline">
+        hand vs electric guide
+      </Link>{" "}
+      compares effort, noise, grind consistency, price, and portability. Shopping for a coffee lover?{" "}
+      <Link href="/en/articles/coffee-gifts-under-100/" className="text-[var(--accent)] underline-offset-4 hover:underline">
+        Coffee gifts under $100
+      </Link>{" "}
+      picks five things, each under $100.
+    </p>
   </section>
 );
 
