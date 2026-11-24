@@ -59,7 +59,7 @@ A consumable is an easy gift for someone who already brews with a Chemex: it alw
 
 ### Airscape Classic Coffee Canister
 
-For someone whose beans sit in the bag they came in: the Airscape Classic is a canister for keeping coffee beans. We have not used it.
+For someone whose beans sit in the bag they came in: the Airscape Classic is a canister for keeping coffee beans. We have not used it. For three more canisters in the same band, see [Coffee storage canisters under $50](/en/articles/coffee-storage-canisters/).
 
 <p class="affiliate-html"><a href="https://www.amazon.com/s?k=Airscape+Classic+coffee+canister&tag=ouchidougub03-20">Search the Airscape Classic coffee canister on Amazon.com</a> (ad)</p>
 
