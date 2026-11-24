@@ -79,6 +79,46 @@ const featured = (
       </Link>{" "}
       covers cone, trapezoid, and flat-bottom shapes.
     </p>
+    <p className="mt-3 text-base leading-relaxed">
+      Still deciding? The{" "}
+      <Link href="/en/articles/coffee-grind-size-guide/" className="text-[var(--accent)] underline-offset-4 hover:underline">
+        grind size guide
+      </Link>{" "}
+      gives a starting chart for espresso, moka pot, pour-over, French press, and cold brew.
+      Choosing between the two hand grinders I use? The{" "}
+      <Link href="/en/articles/timemore-chestnut-s3-vs-epeios-essence-go/" className="text-[var(--accent)] underline-offset-4 hover:underline">
+        S3 vs Essence Go
+      </Link>{" "}
+      comparison puts them side by side. Buying your first hand grinder?{" "}
+      <Link href="/en/articles/how-to-choose-hand-coffee-mill/" className="text-[var(--accent)] underline-offset-4 hover:underline">
+        How to choose your first hand coffee grinder
+      </Link>{" "}
+      narrows it to four things that matter, and{" "}
+      <Link href="/en/articles/hand-vs-electric-coffee-mill/" className="text-[var(--accent)] underline-offset-4 hover:underline">
+        hand vs electric
+      </Link>{" "}
+      compares effort, noise, and portability. A scale keeps the dose steady — the{" "}
+      <Link href="/en/articles/coffee-scale-guide/" className="text-[var(--accent)] underline-offset-4 hover:underline">
+        coffee scale guide
+      </Link>{" "}
+      covers timer, 0.1g accuracy, and water resistance — and the{" "}
+      <Link href="/en/articles/electric-coffee-grinder-guide/" className="text-[var(--accent)] underline-offset-4 hover:underline">
+        electric grinder guide
+      </Link>{" "}
+      covers flat burr, conical burr, and blade. Looking for a gift?{" "}
+      <Link href="/en/articles/coffee-gifts-under-50/" className="text-[var(--accent)] underline-offset-4 hover:underline">
+        Coffee gifts under $50
+      </Link>{" "}
+      lists seven picks,{" "}
+      <Link href="/en/articles/coffee-gifts-under-25/" className="text-[var(--accent)] underline-offset-4 hover:underline">
+        coffee gifts under $25
+      </Link>{" "}
+      lists five small pieces, and{" "}
+      <Link href="/en/articles/coffee-gifts-under-100/" className="text-[var(--accent)] underline-offset-4 hover:underline">
+        coffee gifts under $100
+      </Link>{" "}
+      picks five things, each under $100.
+    </p>
   </section>
 );
 
