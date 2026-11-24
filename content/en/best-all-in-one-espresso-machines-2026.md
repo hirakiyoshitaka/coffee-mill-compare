@@ -129,6 +129,8 @@ Every machine here grinds with its own built-in grinder, and the number of setti
 
 For the full side-by-side table, read [Breville vs De'Longhi: all-in-one espresso machines compared](/en/articles/breville-vs-delonghi-all-in-one-espresso/). Curious why grinding is the core of espresso? See [hand vs electric grinders](/en/articles/hand-vs-electric-coffee-mill/).
 
+If your machine has no automatic milk, a standalone frother covers it — see [milk frother guide](/en/articles/milk-frother-guide/).
+
 Availability on Amazon.com can change, so check the listing and the seller before ordering.
 
 Some links on this page are ads. See our [disclosure](/en/disclosure/).

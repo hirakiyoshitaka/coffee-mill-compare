@@ -69,7 +69,11 @@ const featured = (
       <Link href="/en/articles/moka-pot-guide/" className="text-[var(--accent)] underline-offset-4 hover:underline">
         moka pot guide
       </Link>{" "}
-      covers size, heat source, and the three Bialetti lines. For pour-over, the{" "}
+      covers size, heat source, and the three Bialetti lines. For milk drinks, the{" "}
+      <Link href="/en/articles/milk-frother-guide/" className="text-[var(--accent)] underline-offset-4 hover:underline">
+        milk frother guide
+      </Link>{" "}
+      covers jug and handheld frothers. For pour-over, the{" "}
       <Link href="/en/articles/pour-over-dripper-guide/" className="text-[var(--accent)] underline-offset-4 hover:underline">
         pour-over dripper guide
       </Link>{" "}
