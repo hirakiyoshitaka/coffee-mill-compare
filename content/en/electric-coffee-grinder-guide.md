@@ -15,21 +15,41 @@ A quick note up front: the hand grinders I use are the Timemore Chestnut S3 and 
 - **Flat burr grinders**: two flat burrs grind the beans. They give a more even grind and are common at pour-over-friendly price points.
 - **Conical burr grinders**: cone-shaped burrs that turn more slowly and are said to generate less heat.
 
+| Type | Evenness | Character |
+|---|---|---|
+| Blade | Uneven | Cheap and compact; coarseness by run time |
+| Flat burr | More even | The pour-over standard |
+| Conical burr | More even | Turns more slowly, said to generate less heat |
+
 If you make pour-over every day, start with a flat or conical burr grinder for a more consistent grind.
 
-## Five things to check
+## Grind settings: how much adjustment do you need?
 
-1. **Grind settings**: for pour-over only, you just need a stable medium-fine to medium grind. If you want espresso too, you'll need fine-grained adjustment.
-2. **Fines**: lots of fine dust can make coffee taste muddy. Check whether the maker addresses fines and what reviews say.
-3. **Cleaning**: can you remove the burrs, and does it come with a brush?
-4. **Noise and size**: noise matters if you grind early. Measure where it will sit.
-5. **Capacity**: if you grind for the whole household, check hopper size.
+For pour-over only, you just need a stable medium-fine to medium grind. The dial does not need many steps — it needs to hold the setting you pick. If you want espresso too, that changes the requirement: espresso needs a fine grind, and you will need fine-grained adjustment to dial it in. Our [coffee grind size guide](/en/articles/coffee-grind-size-guide/) explains why grinding espresso-fine by hand is the hardest case — with an electric grinder, the same question becomes whether the adjustment steps are fine enough, not whether your arm can do it. If you brew two methods, check that the grinder covers both ends of the range you need, not just one.
+
+## Fines: the dust that muddies the cup
+
+Even a burr grinder makes some fine dust, and lots of it can make coffee taste muddy. That is the main thing to check beyond the burr type: does the maker address fines at all, and what do reviews say about the grind coming out? A grinder that looks good on the burr type but leaves a muddy cup has not solved the problem. Read reviews with this in mind rather than counting settings.
+
+## Cleaning: check before you buy
+
+Grounds build up inside any grinder, so check cleaning before you buy, not after. Two questions settle it: can you remove the burrs, and does it come with a brush? If the burrs do not come out, cleaning means working around them, and you will do it less often. A brush in the box is a small sign the maker expects you to clean it. This matters more the longer you keep the grinder — a model that is easy to clean is one you will actually keep clean.
+
+## Noise and size: where it will sit
+
+An electric grinder makes motor noise, and that matters most if you grind early in the morning, while others are asleep, or in a thin-walled room. A hand grinder is quiet by comparison, which is one reason it suits early mornings and late nights. If you grind after everyone is up, noise drops out of the decision. Size is the other half of the same question: measure where it will sit before you buy, and check the height under your cabinets if it lives on the counter.
+
+## Capacity: how much at once
+
+If you grind for the whole household, check the hopper size — you do not want to refill it for every cup. If you brew one or two cups at a time, a small hopper is fine; I usually grind about 30g at a time, for 2–3 cups, on my hand grinder, and the same scale applies here. Capacity only matters when the amount you grind at once is larger than what the grinder holds comfortably.
 
 ## Thinking about budget
 
 - **Entry level**: mostly blade grinders. Good for trying freshly ground coffee for the first time.
 - **Mid range**: where the go-to burr grinders sit. The realistic choice for daily pour-over.
 - **Premium**: models focused on grind uniformity and low fines.
+
+For burr models in a set budget, see our [burr grinders under $200](/en/articles/burr-grinders-under-200/) guide. Prices change, so always confirm the price and specs on the product page before buying.
 
 <p class="affiliate-html"><a href="https://www.amazon.com/s?k=electric+coffee+grinder+flat+burr&tag=ouchidougub03-20">Search flat burr electric coffee grinders on Amazon.com</a> (ad)</p>
 
@@ -38,6 +58,10 @@ If you make pour-over every day, start with a flat or conical burr grinder for a
 <p class="affiliate-html"><a href="https://www.amazon.com/s?k=blade+coffee+grinder&tag=ouchidougub03-20">Search blade coffee grinders on Amazon.com</a> (ad)</p>
 
 Always confirm the price and specs on the product page before buying.
+
+## When a built-in grinder makes sense
+
+If you would rather have one machine do the grinding and the brewing, an all-in-one espresso machine is the other route. Our [Breville vs De'Longhi all-in-one comparison](/en/articles/breville-vs-delonghi-all-in-one-espresso/) covers six current models. That path trades the separate grinder's flexibility for counter space and one-button mornings — worth it if espresso is your main brew and you do not want two machines to maintain.
 
 ## Or consider a hand grinder
 
