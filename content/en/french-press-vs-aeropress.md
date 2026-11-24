@@ -66,5 +66,6 @@ We have not used any AeroPress. The recipe, times, and models above are from the
 - [Gooseneck kettle guide](/en/articles/gooseneck-kettle-guide/) — the kettle to pair with a pour-over grinder
 - [Burr grinders under $200](/en/articles/burr-grinders-under-200/) — five grinders, from hand grinders to electric ones
 - [Hand vs electric coffee grinders](/en/articles/hand-vs-electric-coffee-mill/) — which shape fits how you brew
+- [Milk frother guide](/en/articles/milk-frother-guide/) — jug or handheld, for lattes and cappuccinos at home
 
 Some links on this page are ads. See our [disclosure](/en/disclosure/).

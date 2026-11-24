@@ -91,6 +91,7 @@ For the brewers, see the [French press vs AeroPress](/en/articles/french-press-v
 - [Hand vs electric coffee grinders](/en/articles/hand-vs-electric-coffee-mill/)
 - [How to choose a coffee scale](/en/articles/coffee-scale-guide/)
 - [Cold brew makers: how to choose one](/en/articles/cold-brew-makers-guide/)
+- [Milk frother guide](/en/articles/milk-frother-guide/) — jug or handheld frothers for lattes and cappuccinos
 - [Beginner pour-over recipe](/en/articles/beginner-hand-drip-recipe/)
 - [1Zpresso hand grinder lineup](/en/articles/1zpresso-hand-grinder-lineup/)
 - [Comandante C40 vs Timemore Chestnut S5 Pro](/en/articles/comandante-c40-vs-timemore/)
