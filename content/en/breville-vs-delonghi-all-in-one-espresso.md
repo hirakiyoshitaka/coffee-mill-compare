@@ -116,4 +116,6 @@ A semi-automatic with a built-in 15-setting grinder, touchscreen guidance and an
 
 Want the per-model buying guide with pros and cons in one place? Read [the best all-in-one espresso machines of 2026](/en/articles/best-all-in-one-espresso-machines-2026/).
 
+Choosing between Ninja and Breville for a first machine? See [Ninja or Breville? Picking a first espresso machine](/en/articles/ninja-or-breville-first-espresso-machine/).
+
 Some links on this page are ads; links to the makers' official stores are not. See our [disclosure](/en/disclosure/) for how this site earns money.
