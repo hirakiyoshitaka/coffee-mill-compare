@@ -7,7 +7,7 @@ date: "2026-11-23"
 
 A milk frother turns milk into foam for lattes and cappuccinos — no espresso machine needed. A jug frother heats the milk and froths it in one step; a handheld wand froths milk you have already warmed. This guide covers both types, with four named picks.
 
-**Quick pick:** want one button and no thinking — a jug frother, the Nespresso Aeroccino 4. Want to froth for three cups at once and set the temperature — the Breville Milk Cafe. Want the cheapest way in — a handheld wand, the Zulay Frothmate, with milk warmed separately.
+**Quick pick:** want one button and no thinking — a jug frother, the Nespresso Aeroccino 4. Want to froth for three cups at once and set the temperature — the Breville Milk Cafe. Want the simplest way in — a handheld wand, the Zulay Frothmate, with milk warmed separately.
 
 This is a review summary. We have not used any of these frothers. The facts below are from the makers' pages and published guides, as recorded in this site's Japanese milk frother guide (October 30, 2026), and links go to Amazon.com search results, so compare sellers and check the price and stock on the day you buy.
 
@@ -21,13 +21,13 @@ This is a review summary. We have not used any of these frothers. The facts belo
 | Cleaning | Jug rinses or goes in the dishwasher | Rinse the whisk in soapy water |
 | Counter space | Lives on the counter | Fits in a drawer |
 
-A jug suits a drinker who wants a latte with one button press. A wand suits a drinker who already warms milk on the stove or in the microwave and wants the cheapest, smallest way to add foam.
+A jug suits a drinker who wants a latte with one button press. A wand suits a drinker who already warms milk on the stove or in the microwave and wants the smallest way to add foam.
 
 ## 1. Breville Milk Cafe BMF600XL — the jug for several cups
 
 The Milk Cafe is the largest jug here: it froths up to 3 cups of milk in one batch, heated by induction, which warms the milk evenly. A temperature dial on the front sets the heat, and two magnetic discs swap in for different foam — a latte disc for smoother foam, a cappuccino disc for thicker foam. A measuring cap on the lid is marked for cocoa and chai, so the same jug makes hot chocolate. The jug is stainless steel and dishwasher safe. The maker lists a one-year warranty.
 
-It is the pick for a household that makes milk drinks for more than one person at a time, or for someone who wants to set the temperature rather than take the default. The trade-off is size: at about 10 inches tall it is close to the size of a small coffee maker, and it is the most expensive pick in this guide.
+It is the pick for a household that makes milk drinks for more than one person at a time, or for someone who wants to set the temperature rather than take the default. The trade-off is size: at about 10 inches tall it is close to the size of a small coffee maker.
 
 We have not used the Milk Cafe. The capacity, dial, discs, and cleaning above are from Breville's published specifications.
 
@@ -57,7 +57,7 @@ We have not used the froth PRO. The capacities, settings, and cleaning above are
 
 The Frothmate is a battery-powered wand: a stainless steel whisk on a handle, spun by a 13,000 RPM motor, running on 2 AA batteries. It froths a cup of milk in seconds, and the same wand mixes matcha, protein shakes, and hot chocolate. It does not heat milk — warm the milk on the stove or in the microwave first, then froth it. To clean it, run the whisk in a cup of warm soapy water and rinse it, keeping the battery compartment dry. A closely related Zulay model, the Milk Boss, was named America's Test Kitchen's handheld frother winner.
 
-It is the pick for the cheapest, smallest way into foam, and the only pick that travels: it fits in a drawer or a bag. The trade-off is that it is one cup at a time, it needs batteries, and it never heats anything itself.
+It is the pick for the smallest way into foam, and the only pick that travels: it fits in a drawer or a bag. The trade-off is that it is one cup at a time, it needs batteries, and it never heats anything itself.
 
 We have not used the Frothmate. The motor speed, batteries, and cleaning above are from the maker's published specifications and manual.
 
@@ -65,7 +65,7 @@ We have not used the Frothmate. The motor speed, batteries, and cleaning above a
 
 ## How to pick one
 
-**Do you want the frother to heat the milk?** If yes, a jug is the answer — the Breville, the Aeroccino, or the Capresso. If you already warm milk another way, a wand is enough and costs far less.
+**Do you want the frother to heat the milk?** If yes, a jug is the answer — the Breville, the Aeroccino, or the Capresso. If you already warm milk another way, a wand is enough.
 
 **How many cups at once?** A jug that froths 120 ml makes one drink; the Breville's 3-cup jug makes several. Foam grows as it forms, so check the frothing capacity, not the heating capacity — the frothing number is always the smaller one.
 
