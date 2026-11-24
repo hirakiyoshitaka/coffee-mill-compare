@@ -53,7 +53,9 @@ date: "2026-10-27"
 
 ## 購買管道
 
-本頁不放 Amazon 購買按鈕。若從日本商店透過 AmazonGlobal 寄到台灣，運費與關稅於結帳時顯示，收件人需完成 EZ WAY 實名認證。是否可寄送依商品而定。
+本頁的 Amazon.com 連結使用海外用的聯盟標籤 tag=ouchidougub03-20。若從日本商店透過 AmazonGlobal 寄到台灣，運費與關稅於結帳時顯示，收件人需完成 EZ WAY 實名認證。是否可寄送依商品而定。
+
+<p class="affiliate-html"><a href="https://www.amazon.com/s?k=Epeios+Essence+Go&tag=ouchidougub03-20">在 Amazon.com 搜尋 Epeios Essence Go</a>（廣告）</p>
 
 ## 廣告揭露
 

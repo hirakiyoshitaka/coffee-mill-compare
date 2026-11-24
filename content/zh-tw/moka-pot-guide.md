@@ -34,6 +34,12 @@ date: "2026-11-01"
 
 表上三個系列的搜尋頁如下。結果會混進其他系列和替換墊圈，請對鋁或不鏽鋼，以及幾杯。
 
+<p class="affiliate-html"><a href="https://www.amazon.com/s?k=Bialetti+Moka+Express&tag=ouchidougub03-20">在 Amazon.com 搜尋 Bialetti Moka Express</a>（廣告）</p>
+
+<p class="affiliate-html"><a href="https://www.amazon.com/s?k=Bialetti+Venus+moka+pot&tag=ouchidougub03-20">在 Amazon.com 搜尋 Bialetti Venus</a>（廣告）</p>
+
+<p class="affiliate-html"><a href="https://www.amazon.com/s?k=Bialetti+Brikka&tag=ouchidougub03-20">在 Amazon.com 搜尋 Bialetti Brikka</a>（廣告）</p>
+
 ## 萃取步驟只轉載官方的注意
 
 義大利文 Moka Express 頁面上的步驟是：常溫水加到安全閥的高度。頁面寫，超過閥門會變得水水的。咖啡粉用摩卡研磨，不要過細。粉槽裝滿，但不要壓粉。火開小。開始咕嚕咕嚕就把壺離火。清洗只用清水，不用清潔劑，也不用洗碗機。本站沒有照這個步驟沖煮的紀錄。
@@ -80,4 +86,4 @@ Brikka Induction 的美國頁面說明了做出克麗瑪，以及鋁和鋼的雙
 - [Brikka Induction](https://www.bialetti.com/us_en/brikka-4-cup-induction-moka-pot-rich-espresso-with-crema.html)
 - S5 Pro 的摩卡 1.0–3.0，是[評測](/zh-tw/articles/timemore-chestnut-s5-pro/)從官方轉載的範圍
 
-本頁不放 Amazon 購買按鈕。磨豆機卡片與珈琲きゃろっと的連結，已設定的才是廣告。說明見[廣告揭露](/zh-tw/disclosure/)。
+本頁的 Amazon.com 連結使用海外用的聯盟標籤 tag=ouchidougub03-20。磨豆機卡片與珈琲きゃろっと的連結，已設定的才是廣告。說明見[廣告揭露](/zh-tw/disclosure/)。

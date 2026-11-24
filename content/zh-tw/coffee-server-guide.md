@@ -37,6 +37,12 @@ Range Server 頁面上的價格是製造商建議零售價。Kalita 的金額是
 
 表上三條的搜尋頁如下。結果會混進濾杯和馬克杯，請對它是分享壺，以及型號。價格和庫存以商店頁為準。
 
+<p class="affiliate-html"><a href="https://www.amazon.com/s?k=HARIO+V60+Range+Server&tag=ouchidougub03-20">在 Amazon.com 搜尋 HARIO V60 Range Server</a>（廣告）</p>
+
+<p class="affiliate-html"><a href="https://www.amazon.com/s?k=Kalita+Coffee+Server&tag=ouchidougub03-20">在 Amazon.com 搜尋 Kalita Coffee Server</a>（廣告）</p>
+
+<p class="affiliate-html"><a href="https://www.amazon.com/s?k=HARIO+V60+Metal+Coffee+Server&tag=ouchidougub03-20">在 Amazon.com 搜尋 HARIO V60 Metal Coffee Server</a>（廣告）</p>
+
 ## 壺口要和濾杯對上
 
 ### HARIO V60 Range Server
@@ -89,4 +95,4 @@ Kalita 的常見問題裡，針對該公司耐熱玻璃的一般說明是：耐�
 - [Kalita 500 Server N](https://www.kalita.co.jp/products/copper/1948)
 - [Kalita 耐熱玻璃的問答](https://www.kalita.co.jp/support/)
 
-本頁不放 Amazon 購買按鈕。磨豆機卡片與珈琲きゃろっと的連結，已設定的才是廣告。說明見[廣告揭露](/zh-tw/disclosure/)。
+本頁的 Amazon.com 連結使用海外用的聯盟標籤 tag=ouchidougub03-20。磨豆機卡片與珈琲きゃろっと的連結，已設定的才是廣告。說明見[廣告揭露](/zh-tw/disclosure/)。

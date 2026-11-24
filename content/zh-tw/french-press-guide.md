@@ -36,6 +36,12 @@ HARIO 兩款的重量都是「含外盒」，不是壺身本身的克數。建�
 
 表上三個系列的搜尋頁如下。結果會混進其他容量，請對型號。價格和庫存以商店頁為準。
 
+<p class="affiliate-html"><a href="https://www.amazon.com/s?k=HARIO+Cafe+Press+U&tag=ouchidougub03-20">在 Amazon.com 搜尋 HARIO Cafe Press U</a>（廣告）</p>
+
+<p class="affiliate-html"><a href="https://www.amazon.com/s?k=HARIO+Harior+7&tag=ouchidougub03-20">在 Amazon.com 搜尋 HARIO Harior 7</a>（廣告）</p>
+
+<p class="affiliate-html"><a href="https://www.amazon.com/s?k=BODUM+Chambord&tag=ouchidougub03-20">在 Amazon.com 搜尋 BODUM Chambord</a>（廣告）</p>
+
 ## 哪一款先看
 
 ### HARIO Cafe Press U
@@ -89,4 +95,4 @@ Chambord 是 BODUM 放在法式濾壓玻璃壺系列的產品。2026 年 11 月 
 - [BODUM Chambord（型號 1928-16US4）](https://www.bodum.com/us/en/1928-16us4-chambord)
 - S5 Pro 的法壓 8.0–9.0，是[評測](/zh-tw/articles/timemore-chestnut-s5-pro/)從官方轉載的範圍
 
-本頁不放 Amazon 購買按鈕。磨豆機卡片與珈琲きゃろっと的連結，已設定的才是廣告。說明見[廣告揭露](/zh-tw/disclosure/)。
+本頁的 Amazon.com 連結使用海外用的聯盟標籤 tag=ouchidougub03-20。磨豆機卡片與珈琲きゃろっと的連結，已設定的才是廣告。說明見[廣告揭露](/zh-tw/disclosure/)。
