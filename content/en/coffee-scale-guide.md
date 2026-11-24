@@ -5,7 +5,7 @@ category: "scale"
 date: "2026-10-30"
 ---
 
-The fastest way to make your pour-over taste the same every morning is to weigh your coffee and water. This guide covers the features to look for in a coffee scale, and three scales to compare. It is a review summary. We have not used any of these scales. The facts below are from the makers' published specifications and this site's Japanese scale guides, checked November 23, 2026. Links go to Amazon.com search results, so compare sellers and check the price and stock on the day you buy.
+The fastest way to make your pour-over taste the same every time is to weigh your coffee and water. This guide covers the features to look for in a coffee scale, and three scales to compare. It is a review summary. We have not used any of these scales. The facts below are from the makers' published specifications and this site's Japanese scale guides, checked November 23, 2026. Links go to Amazon.com search results, so compare sellers and check the price and stock on the day you buy.
 
 ## How to weigh
 
