@@ -13,6 +13,8 @@ Links in this guide go to Amazon.com search results for the named product, so yo
 
 Between $50 and $100, five picks — scales, brewers, and storage — are in [Coffee gifts under $100](/en/articles/coffee-gifts-under-100/).
 
+Ten picks split for him and for her — five each — are in [Coffee gift ideas for him and for her](/en/articles/coffee-gifts-for-him-and-her/).
+
 ## Under $50: the brewer and its paper
 
 ### Hario V60 coffee dripper, size 01 (clear plastic, VD-01T)
