@@ -15,6 +15,7 @@ A coffee gift works when it matches what the person already brews with — this 
 - **Under $50:** the seven picks on this page.
 - **Under $100:** five picks — scales, brewers, and storage — are in [Coffee gifts under $100](/en/articles/coffee-gifts-under-100/).
 - **Above $50:** picks grouped by budget band — under $150 and splurge — are in [Gifts for home coffee lovers 2026](/en/articles/gifts-for-home-coffee-lovers-2026/).
+- **For him / for her:** ten picks, five each, are in [Coffee gift ideas for him and for her](/en/articles/coffee-gifts-for-him-and-her/).
 
 ## Brewers: for someone starting, or adding a second way to brew
 
