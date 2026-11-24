@@ -24,11 +24,11 @@ date: "2026-11-01"
 | 留著做一杯，填壓也交給機器 | Breville Oracle Jet | 研磨、計量、填壓都自動的沖煮把手。有冷飲 |
 | 畫面帶著做，也要冷飲 | Barista Touch Impress | 導引式沖煮把手。自動奶泡 |
 | 奶泡想自己打 | Barista Express Impress | 半自動、輔助填壓。手動蒸氣。沒有冷飲 |
-| 熱的、冰的、冷萃在同一台，少動手 | De'Longhi Eletta Explore | 全自動。這篇有 Amazon.co.jp 的搜尋頁 |
-| 家裡菜單不同，豆倉要能換 | De'Longhi Rivelia | 全自動，兩個可更換的豆倉。這篇有 Amazon.co.jp 的商品頁 |
+| 熱的、冰的、冷萃在同一台，少動手 | De'Longhi Eletta Explore | 全自動 |
+| 家裡菜單不同，豆倉要能換 | De'Longhi Rivelia | 全自動，兩個可更換的豆倉 |
 | 導引式沖煮把手，又是 De'Longhi | La Specialista Touch | 和 Barista Touch Impress 最接近。撰文時沒有確認到日本正規銷售 |
 
-Breville／Sage 的官方頁在後文，不是廣告。本頁不放 Amazon 購買按鈕。
+Breville／Sage 的官方頁在後文，不是廣告。
 ## 下一步
 
 六台都是評測整理。同一語系裡，接著可以看這些。
@@ -54,7 +54,7 @@ Breville／Sage 的官方頁在後文，不是廣告。本頁不放 Amazon 購�
 
 出處：Breville 美國官方、美國販售頁（Macy's、Sur La Table）、[Crema Karma 的規格比較](https://cremakarma.com/breville-barista-express-impress-vs-oracle-jet/)、[Sage 英國官方](https://www.sageappliances.com/en-gb/product/bes882)、[The Guardian](https://www.theguardian.com/thefilter/2026/apr/05/best-bean-cup-coffee-machines-tested-uk)、[BBC Good Food](https://www.bbcgoodfood.com/review/best-delonghi-coffee-machine)、[價格.com（Eletta Explore）](https://kakaku.com/item/K0001646793/)、De'Longhi 官方樂天市場店。英文版另記了部分美國通路看到的 De'Longhi 標價（Eletta Explore 約 1,865 美元、Rivelia 約 1,300 美元），那是看到的售價，不是定價，購買前請再查。
 
-Eletta Explore 與 Rivelia 的規格在表裡。本頁不放 Amazon 購買按鈕。請在官方或商店頁對型號、價格和庫存。
+Eletta Explore 與 Rivelia 的規格在表裡。請在官方或商店頁對型號、價格和庫存。
 
 ## 哪一邊比較近
 
@@ -128,6 +128,20 @@ Bean Switch 是兩個 250g 豆倉，幾秒就能換，低因和一般豆、或�
 - **Barista Touch Impress 對 La Specialista Touch**：最接近的一對。都是導引式沖煮把手、自動奶泡、有冷飲。Breville 是 Baratza 刀盤與更多段數；De'Longhi 在英國的標價較低，隨附的吧台工具較多
 - **Barista Express Impress 對 Rivelia**：英國標價接近，做法相反。一邊留著手打奶泡，一邊是按鈕和可換的豆子
 
+## 購買前先看
+
+<p class="affiliate-html"><a href="https://www.amazon.com/s?k=Breville+Oracle+Jet&tag=ouchidougub03-20">在 Amazon.com 搜尋 Breville Oracle Jet</a>（廣告）</p>
+
+<p class="affiliate-html"><a href="https://www.amazon.com/s?k=Breville+Barista+Touch+Impress&tag=ouchidougub03-20">在 Amazon.com 搜尋 Breville Barista Touch Impress</a>（廣告）</p>
+
+<p class="affiliate-html"><a href="https://www.amazon.com/s?k=Breville+Barista+Express+Impress&tag=ouchidougub03-20">在 Amazon.com 搜尋 Breville Barista Express Impress</a>（廣告）</p>
+
+<p class="affiliate-html"><a href="https://www.amazon.com/s?k=DeLonghi+Eletta+Explore&tag=ouchidougub03-20">在 Amazon.com 搜尋 De'Longhi Eletta Explore</a>（廣告）</p>
+
+<p class="affiliate-html"><a href="https://www.amazon.com/s?k=DeLonghi+Rivelia&tag=ouchidougub03-20">在 Amazon.com 搜尋 De'Longhi Rivelia</a>（廣告）</p>
+
+<p class="affiliate-html"><a href="https://www.amazon.com/s?k=DeLonghi+La+Specialista+Touch&tag=ouchidougub03-20">在 Amazon.com 搜尋 De'Longhi La Specialista Touch</a>（廣告）</p>
+
 ## 磨豆若要另外準備
 
 這六台都內建磨豆。若改成手搖再填粉，本站對過官方義式範圍的手搖只有[栗子 S5 Pro](/zh-tw/articles/timemore-chestnut-s5-pro/)，建議刻度 0–2.0，只是起點。站長平常用的是 TIMEMORE 栗子 S3。一次大約磨 30g，做 2–3 杯。沒有在用栗子 S5 Pro。沒有用它打這六台的義式。想轉起來輕、或拆開來帶出門，見 [Epeios Essence Go](/zh-tw/articles/epeios-essence-go/)。1Zpresso 把義式刻度分最細的是 J-Ultra，見[1Zpresso 手搖磨豆機怎麼挑](/zh-tw/articles/1zpresso-hand-grinder-lineup/)。那一篇沒有抄建議刻度，這篇也不抄。
@@ -136,4 +150,4 @@ Bean Switch 是兩個 250g 豆倉，幾秒就能換，低因和一般豆、或�
 
 英文另有一篇依飲用方式整理優缺的選購說明：[Best all-in-one espresso machines of 2026](/en/articles/best-all-in-one-espresso-machines-2026/)。那一頁是英文，沒有繁體中文版。
 
-本頁不放 Amazon 購買按鈕。Breville、Sage、De'Longhi 官方網站不是廣告。說明見[廣告揭露](/zh-tw/disclosure/)。
+本頁的 Amazon.com 連結使用海外用的聯盟標籤 tag=ouchidougub03-20。Breville、Sage、De'Longhi 官方網站不是廣告。說明見[廣告揭露](/zh-tw/disclosure/)。

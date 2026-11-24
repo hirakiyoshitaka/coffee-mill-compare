@@ -32,10 +32,14 @@ date: "2026-10-28"
 - **Amazon 日本**：4.2 顆星（106 則）（2026 年 10 月）。
 - 適合想比較「淺焙用高溫、深焙用低溫」風味差異的人。價格偏高。
 
+<p class="affiliate-html"><a href="https://www.amazon.com/s?k=Fellow+Stagg+EKG+Pro&tag=ouchidougub03-20">在 Amazon.com 搜尋 Fellow Stagg EKG Pro</a>（廣告）</p>
+
 ### BALMUDA The Pot：想擺在廚房的電熱壺
 
 - **官方與外部資訊**：細長壺嘴，容易定點注水。現行型號為 KPT03JP。舊款在 Amazon 日本為 4.5 顆星（484 則）（2026 年 10 月）。
 - 沒有溫度設定，是一台以單純煮水與外型取勝的電熱壺。
+
+<p class="affiliate-html"><a href="https://www.amazon.com/s?k=BALMUDA+The+Pot&tag=ouchidougub03-20">在 Amazon.com 搜尋 BALMUDA The Pot</a>（廣告）</p>
 
 ### HARIO V60 雲朵細口壺 800ml：平價的經典款
 
@@ -43,10 +47,14 @@ date: "2026-10-28"
 - **官方資訊**：日本製，明火與 IH 皆可使用。
 - 也可以用電熱壺煮好水再倒進來使用，在海外不必擔心電壓，是一大優點。
 
+<p class="affiliate-html"><a href="https://www.amazon.com/s?k=HARIO+V60+Drip+Kettle+800ml&tag=ouchidougub03-20">在 Amazon.com 搜尋 HARIO V60 Drip Kettle 800ml</a>（廣告）</p>
+
 ## 電子秤：HARIO V60 電子秤 VSTN-2
 
 - 附計時器的經典電子秤，價格親民（約 3,000 日圓，2026 年 10 月）。
 - 記錄豆量、水量與時間，是把手沖變成「可重現配方」的工具。
+
+<p class="affiliate-html"><a href="https://www.amazon.com/s?k=HARIO+V60+Drip+Scale&tag=ouchidougub03-20">在 Amazon.com 搜尋 HARIO V60 Drip Scale</a>（廣告）</p>
 
 ## 濾杯：替風味與外觀增添變化
 
@@ -55,10 +63,14 @@ date: "2026-10-28"
 - **官方與外部資訊**：岐阜縣美濃燒。因在咖啡師世界大賽中被使用而廣為人知。
 - 顏色選擇多，挑外觀也是一種樂趣。
 
+<p class="affiliate-html"><a href="https://www.amazon.com/s?k=ORIGAMI+Dripper+S&tag=ouchidougub03-20">在 Amazon.com 搜尋 ORIGAMI Dripper S</a>（廣告）</p>
+
 ### Chemex 6 杯 經典款 CM-6A
 
 - **外部資訊**：設計被紐約現代藝術博物館（MoMA）列為永久館藏，WIRED（英文版）評測也推薦。
 - 濾杯與下壺一體成形，可以直接端上桌。專用濾紙需另購。玻璃材質，使用時請小心。
+
+<p class="affiliate-html"><a href="https://www.amazon.com/s?k=Chemex+6+Cup&tag=ouchidougub03-20">在 Amazon.com 搜尋 Chemex 6 Cup</a>（廣告）</p>
 
 ### KINTO SCS 咖啡壺組 2cups
 
@@ -66,10 +78,14 @@ date: "2026-10-28"
 - **官方資訊**：不鏽鋼濾網，不需濾紙，可用微波爐與洗碗機。
 - 一般認為比起濾紙更容易保留咖啡油脂，風味較醇厚。
 
+<p class="affiliate-html"><a href="https://www.amazon.com/s?k=KINTO+SCS+Coffee+Carafe+Set&tag=ouchidougub03-20">在 Amazon.com 搜尋 KINTO SCS Coffee Carafe Set</a>（廣告）</p>
+
 ## 保存：Fellow Atmos 真空保鮮罐
 
 - **官方資訊**：轉動蓋子就能抽真空，有 0.4L・0.7L・1.2L 三種尺寸。
 - 適合想把香氣保留到研磨前一刻的人。價格為 6,490〜7,370 日圓（2026 年 10 月）。
+
+<p class="affiliate-html"><a href="https://www.amazon.com/s?k=Fellow+Atmos&tag=ouchidougub03-20">在 Amazon.com 搜尋 Fellow Atmos</a>（廣告）</p>
 
 ## 從哪裡開始升級？
 
@@ -83,7 +99,7 @@ date: "2026-10-28"
 
 ## 購買管道
 
-本頁不放 Amazon 購買按鈕。若從日本商店透過 AmazonGlobal 寄到台灣，運費與關稅於結帳時顯示，收件人需完成 EZ WAY 實名認證。是否可寄送依商品而定。
+本頁的 Amazon.com 連結使用海外用的聯盟標籤 tag=ouchidougub03-20。若從日本商店透過 AmazonGlobal 寄到台灣，運費與關稅於結帳時顯示，收件人需完成 EZ WAY 實名認證。是否可寄送依商品而定。
 
 ## 廣告揭露
 

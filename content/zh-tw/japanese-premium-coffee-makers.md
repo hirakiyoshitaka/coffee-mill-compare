@@ -23,7 +23,7 @@ date: "2026-11-01"
 | 放進豆子，人數多 | TWINBIRD CM-D465B | 研磨、悶蒸、注水都在機器裡。6 杯（900mL）。高 42.5cm |
 | 放進豆子，一兩人、機身矮一些 | TWINBIRD CM-D457B | 磨豆、水溫、粗細檔位和上一台同一套。3 杯（450mL）。高 36cm |
 
-想看著它沖的人，先看 The Brew。參考價格在下面這張表。本頁不放 Amazon 購買按鈕。
+想看著它沖的人，先看 The Brew。參考價格在下面這張表。
 
 ## 三台對照
 
@@ -35,7 +35,7 @@ date: "2026-11-01"
 
 出處：[價格.com（The Brew）](https://kakaku.com/item/K0001382816/)、[價格.com（CM-D465B）](https://kakaku.com/item/K0001203222/)、[價格.com（CM-D457B）](https://kakaku.com/item/K0001097505/)、[TWINBIRD 官方商店](https://store.twinbird.jp/products/cmd457)，以及 Amazon.co.jp 的商品頁。官方商店與「實售」不是同一種標價，請分開看。官方商店不是廣告。
 
-本頁不放 Amazon 購買按鈕。官方商店不是廣告。
+官方商店不是廣告。
 ## 下一步
 
 粉若要另外磨，或想改另一種萃取，同一語系可以接著看這些。
@@ -58,6 +58,8 @@ date: "2026-11-01"
 
 [BALMUDA 官方網站](https://www.balmuda.com/jp/brew)
 
+<p class="affiliate-html"><a href="https://www.amazon.com/s?k=BALMUDA+The+Brew+K06A&tag=ouchidougub03-20">在 Amazon.com 搜尋 BALMUDA The Brew</a>（廣告）</p>
+
 官方網站不是廣告。The Brew 不磨豆。站長平常用的手搖是栗子 S3，一次大約磨 30g，做 2–3 杯。沒有在用栗子 S5 Pro。想轉起來輕、或拆開來帶出門，見 [Epeios Essence Go](/zh-tw/articles/epeios-essence-go/)。若要按旅行、手沖、義式把 1Zpresso 分開看，見[1Zpresso 手搖磨豆機怎麼挑](/zh-tw/articles/1zpresso-hand-grinder-lineup/)。刻度不能從 S5 Pro 抄過去。
 
 ## TWINBIRD CM-D465B（6 杯）：從豆子到杯子
@@ -67,6 +69,8 @@ TWINBIRD 在新潟燕三條。這台用低速平刀，減少摩擦熱；蓮蓬�
 - **購買者常稱讚的**：價格.com 平均 4.53（21 則），Amazon 日本 5 分制 4.4（420 則）。提到味道的比例比較高
 - **要先量的**：高度 42.5cm，廚櫃下方不一定放得進去
 
+<p class="affiliate-html"><a href="https://www.amazon.com/s?k=TWINBIRD+CM-D465B&tag=ouchidougub03-20">在 Amazon.com 搜尋 TWINBIRD CM-D465B</a>（廣告）</p>
+
 ## TWINBIRD CM-D457B（3 杯）：同一套做法，機身矮一截
 
 磨豆、水溫、粗細檔位和 CM-D465B 相同，容量改成 3 杯（450mL），高度 36cm。2018 年上市後一直有人買。2026 年 11 月 1 日，價格.com 咖啡機暢銷排行是 1,105 項裡的第 7 名。這是當天的排名，不是長期名次。
@@ -75,6 +79,8 @@ TWINBIRD 在新潟燕三條。這台用低速平刀，減少摩擦熱；蓮蓬�
 - **被指出的地方**：咖啡店 YouTube 頻道 Nif Coffee 的[評測影片](https://www.youtube.com/watch?v=TxNSjOgK1K8)裡，磨 3 杯大約花了 4 分 16 秒，水和豆每次都要自己量。價格.com 上也有人覺得磨豆機不好清
 
 [TWINBIRD 官方商店](https://store.twinbird.jp/products/cmd457)
+
+<p class="affiliate-html"><a href="https://www.amazon.com/s?k=TWINBIRD+CM-D457B&tag=ouchidougub03-20">在 Amazon.com 搜尋 TWINBIRD CM-D457B</a>（廣告）</p>
 
 官方商店不是廣告。
 
@@ -86,4 +92,4 @@ TWINBIRD 在新潟燕三條。這台用低速平刀，減少摩擦熱；蓮蓬�
 
 想自己手沖、再挑濾杯底下的壺，見[讓手沖再升級的器具](/zh-tw/articles/hand-drip-upgrade-gear/)和[手沖分享壺怎麼挑](/zh-tw/articles/coffee-server-guide/)。拿鐵和內建磨豆的義式咖啡機是另一類，見[在家做拿鐵・義式濃縮](/zh-tw/articles/home-latte-espresso-machines/)與[Breville 與 De'Longhi 怎麼挑](/zh-tw/articles/breville-vs-delonghi-all-in-one-espresso/)。
 
-本頁不放 Amazon 購買按鈕。廠商官方網站不是廣告。說明見[廣告揭露](/zh-tw/disclosure/)。
+本頁的 Amazon.com 連結使用海外用的聯盟標籤 tag=ouchidougub03-20。廠商官方網站不是廣告。說明見[廣告揭露](/zh-tw/disclosure/)。

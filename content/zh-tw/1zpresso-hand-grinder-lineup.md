@@ -30,7 +30,7 @@ date: "2026-10-31"
 
 若磨豆機固定放在家裡手沖，本站先指栗子 S3。站長平常用的是 TIMEMORE 栗子 S3。一次大約磨 30g，做 2–3 杯。沒有在用栗子 S5 Pro。行李要輕、先看 Q 系列時，從 Q2 的搜尋頁對型號。
 
-本頁不放 Amazon 購買按鈕。家裡手沖仍先看栗子 S5 Pro 的評測。磨豆機卡片上已設定的樂天或 Shopee 連結才是廣告。
+家裡手沖仍先看栗子 S5 Pro 的評測。磨豆機卡片上已設定的樂天或 Shopee 連結才是廣告。
 ## 下一步
 
 角色對上了，接著看同一語系裡接得上的文章。
@@ -59,6 +59,16 @@ date: "2026-10-31"
 出處在文末。Q 系列的旅行文案寫「465g」。同一頁的表把 465g 放在 Q2 S、Q 是 480g、Q Air 是 365g。請用表。官方也寫 Q 和 Q Air 用的是較新、比較好轉的七角刀，和 Q2 S 不是同一支。
 
 表上各型的搜尋頁。結果會混進其他型號，請對商品名稱。價格和庫存以商店頁為準。
+
+<p class="affiliate-html"><a href="https://www.amazon.com/s?k=1Zpresso+Q2&tag=ouchidougub03-20">在 Amazon.com 搜尋 1Zpresso Q2</a>（廣告）</p>
+
+<p class="affiliate-html"><a href="https://www.amazon.com/s?k=1Zpresso+X-Ultra&tag=ouchidougub03-20">在 Amazon.com 搜尋 1Zpresso X-Ultra</a>（廣告）</p>
+
+<p class="affiliate-html"><a href="https://www.amazon.com/s?k=1Zpresso+ZP6+Special&tag=ouchidougub03-20">在 Amazon.com 搜尋 1Zpresso ZP6 Special</a>（廣告）</p>
+
+<p class="affiliate-html"><a href="https://www.amazon.com/s?k=1Zpresso+K-Ultra&tag=ouchidougub03-20">在 Amazon.com 搜尋 1Zpresso K-Ultra</a>（廣告）</p>
+
+<p class="affiliate-html"><a href="https://www.amazon.com/s?k=1Zpresso+J-Ultra&tag=ouchidougub03-20">在 Amazon.com 搜尋 1Zpresso J-Ultra</a>（廣告）</p>
 
 ## 誰先看哪一台
 
@@ -120,4 +130,4 @@ J-Ultra 是官方稱為「1Zpresso 最細」的 8 微米一格。刀盤是有塗
 - [K-Ultra](https://1zpresso.coffee/product/kultra/)
 - [J-Ultra](https://1zpresso.coffee/j-ultra/)
 
-本頁不放 Amazon 購買按鈕。磨豆機卡片與珈琲きゃろっと的連結，已設定的才是廣告。說明見[廣告揭露](/zh-tw/disclosure/)。
+本頁的 Amazon.com 連結使用海外用的聯盟標籤 tag=ouchidougub03-20。磨豆機卡片與珈琲きゃろっと的連結，已設定的才是廣告。說明見[廣告揭露](/zh-tw/disclosure/)。
