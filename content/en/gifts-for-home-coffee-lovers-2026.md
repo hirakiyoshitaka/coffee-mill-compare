@@ -13,6 +13,8 @@ Links in this guide go to Amazon.com search results for the named product, so yo
 
 Between $50 and $100, five picks — scales, brewers, and storage — are in [Coffee gifts under $100](/en/articles/coffee-gifts-under-100/).
 
+For storage alone, four canisters under $50 are in [Coffee storage canisters under $50](/en/articles/coffee-storage-canisters/).
+
 Ten picks split for him and for her — five each — are in [Coffee gift ideas for him and for her](/en/articles/coffee-gifts-for-him-and-her/).
 
 ## Under $50: the brewer and its paper
