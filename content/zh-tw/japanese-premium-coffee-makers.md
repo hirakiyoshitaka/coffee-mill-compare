@@ -35,7 +35,7 @@ date: "2026-11-01"
 
 出處：[價格.com（The Brew）](https://kakaku.com/item/K0001382816/)、[價格.com（CM-D465B）](https://kakaku.com/item/K0001203222/)、[價格.com（CM-D457B）](https://kakaku.com/item/K0001097505/)、[TWINBIRD 官方商店](https://store.twinbird.jp/products/cmd457)，以及 Amazon.co.jp 的商品頁。官方商店與「實售」不是同一種標價，請分開看。官方商店不是廣告。
 
-本頁不放 Amazon 購買按鈕。已登錄的 Amazon 聯盟標籤只有日本的，海外用的標籤沒有收錄。官方商店不是廣告。
+本頁不放 Amazon 購買按鈕。官方商店不是廣告。
 ## 下一步
 
 粉若要另外磨，或想改另一種萃取，同一語系可以接著看這些。
