@@ -11,6 +11,8 @@ The only products on this page with a record of use on this site are the Timemor
 
 Links in this guide go to Amazon.com search results for the named product, so you can compare sellers and check stock yourself.
 
+Between $50 and $100, five picks — scales, brewers, and storage — are in [Coffee gifts under $100](/en/articles/coffee-gifts-under-100/).
+
 ## Under $50: the brewer and its paper
 
 ### Hario V60 coffee dripper, size 01 (clear plastic, VD-01T)
