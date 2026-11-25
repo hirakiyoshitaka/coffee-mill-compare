@@ -70,7 +70,7 @@ Price band: under $1,000
 
 ## De'Longhi Eletta Explore
 
-Price band: $1,000–$1,500 · US prices vary by retailer
+Price band: $1,500–$2,000
 
 | Pros | Cons |
 |---|---|
@@ -86,7 +86,7 @@ Price band: $1,000–$1,500 · US prices vary by retailer
 
 ## De'Longhi Rivelia
 
-Price band: under $1,000 · US prices vary by retailer
+Price band: $1,000–$1,500
 
 | Pros | Cons |
 |---|---|
