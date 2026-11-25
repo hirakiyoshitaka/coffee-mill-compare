@@ -55,6 +55,13 @@ export function amazonComSearchUrl(tag: string, query: string): string | undefin
   return `https://www.amazon.com/s?k=${encoded}&tag=${cleanTag}`;
 }
 
+/** 商品カードの amazon.com リンク。S5 Pro は社長判断（PR #73）で日本語記事に購入リンクを付けないため、英語以外では出さない（英語記事のカードリンクは既にある）。 */
+export function cardUsAmazonUrl(model: { id: string; type: GrinderType }, locale: SiteLocale): string | undefined {
+  if (!localesWithUsAmazon.has(locale)) return undefined;
+  if (locale !== "en" && model.id === "timemore-chestnut-s5-pro") return undefined;
+  return englishHandGrinderAmazonUrl(model);
+}
+
 /** 英語ページの手挽きミルだけ。タグか ASIN が空なら undefined。 */
 export function englishHandGrinderAmazonUrl(model: { id: string; type: GrinderType }): string | undefined {
   if (model.type !== "manual") return undefined;

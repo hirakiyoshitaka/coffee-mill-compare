@@ -1,6 +1,6 @@
 import type { GrinderModel } from "@/data/grinders";
 import { shopeeTwAffiliateUrl } from "@/config/shopee-tw";
-import { englishHandGrinderAmazonUrl, localesWithUsAmazon } from "@/config/us-amazon";
+import { cardUsAmazonUrl } from "@/config/us-amazon";
 import { cardDict, type SiteLocale } from "@/lib/i18n";
 import { affiliateRel, isHttpUrl, prepareAffiliateHtml } from "@/lib/affiliate";
 
@@ -23,7 +23,7 @@ type Props = {
 
 export function grinderBuyProps(model: Pick<GrinderModel, "id" | "type" | "name" | "rakutenUrl" | "amazonUrl" | "yahooUrl" | "shopeeMyUrl" | "moshimoHtml" | "purchaseNote" | "ownerUse">, locale: SiteLocale = "ja", noteLocalized = false): Props {
   const d = cardDict[locale];
-  const amazonCom = localesWithUsAmazon.has(locale) ? englishHandGrinderAmazonUrl(model) : undefined;
+  const amazonCom = cardUsAmazonUrl(model, locale);
   return {
     name: model.name,
     html: model.moshimoHtml,
