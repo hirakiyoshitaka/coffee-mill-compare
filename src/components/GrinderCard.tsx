@@ -68,11 +68,16 @@ export function GrinderCard({ model: baseModel, variant = "tile", locale = "ja",
       ) : (
         <>
           {variant === "embed" ? specList : <p>{model.cuppingNotes[0]}</p>}
-          <p className="price-row">
-            <span>{d.price}</span>
-            <strong>{model.priceJpyHint}</strong>
-          </p>
-          {d.priceNote ? <p className="fine">{d.priceNote}</p> : null}
+          {/* 日本の価格の目安（円）は日本語ページだけ。ほかの言語の読者には円は役に立たず、サイトの決まり（値段を書かない）にも反する（2026-11-25 本番の見回り） */}
+          {ja ? (
+            <>
+              <p className="price-row">
+                <span>{d.price}</span>
+                <strong>{model.priceJpyHint}</strong>
+              </p>
+              {d.priceNote ? <p className="fine">{d.priceNote}</p> : null}
+            </>
+          ) : null}
           <BuyButtons {...grinderBuyProps(model, locale, model.localized)} />
         </>
       )}
