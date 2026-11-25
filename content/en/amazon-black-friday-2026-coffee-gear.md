@@ -95,5 +95,8 @@ Black Friday lands in gift season. Picks grouped by budget band — under $50, u
 - [EPEIOS Essence Go review](/en/articles/epeios-essence-go/)
 - [Gifts for home coffee lovers 2026](/en/articles/gifts-for-home-coffee-lovers-2026/)
 - [Coffee grind size guide](/en/articles/coffee-grind-size-guide/)
+- [Coffee Gifts Under $100: 5 Picks for Someone Who Brews at Home](/en/articles/coffee-gifts-under-100/)
+- [Travel Coffee Gear: 5 Picks That Pack Small and Brew Well](/en/articles/travel-coffee-gear/)
+- [Coffee Storage Canisters Under $50: 4 Picks That Keep Beans Fresh](/en/articles/coffee-storage-canisters/)
 
 Some links on this page are ads. See our [disclosure](/en/disclosure/).
