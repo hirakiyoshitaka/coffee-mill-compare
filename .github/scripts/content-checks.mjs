@@ -3,17 +3,17 @@
 // 失敗させるもの：
 // 1. Amazonリンクのタグ違い（amazon.co.jp は tag=stocknotelife-22、
 // amazon.com は tag=ouchidougub03-20 だけ。逆の組み合わせ・ほかのタグは失敗）
-// 2. 煽り表現（最安／今すぐ／残りわずか）の追加。値段（円・$）と一緒ならなお失敗
+// 2. 煽り表現（日本語・英語）の追加。日本語の煽りは値段と一緒ならなお失敗
 // 3. 体験の語（使ってみた／買った／買ってみた／試してみた／使った感想）の追加
 // → 「Claude 待ち」の印を付けて止める（＝このチェックを失敗させる）
-// 値段だけの追加は失敗させず警告（::warning::）にとどめる。
-// 運営者の見積もり価格など、正当な値段の追加がありうるため。
+// 日本語記事の値段だけの追加は警告。日本語以外の記事はドルの価格帯だけを許可する。
 import { execFileSync} from "node:child_process";
 import { readFileSync} from "node:fs";
 
 const JP_TAG = "stocknotelife-22";
 const US_TAG = "ouchidougub03-20";
 const HYPE_WORDS = ["最安", "今すぐ", "残りわずか"];
+const ENGLISH_HYPE_RE = /\b(?:every morning|cheapest|buy now|best price|lowest price)\b/i;
 const EXPERIENCE_WORDS = ["使ってみた", "買った", "買ってみた", "試してみた", "使った感想"];
 // 条件形（買ったら／使ってみたら）や「買ったあと」は一人称の体験ではないので対象外
 const EXPERIENCE_EXCLUDE_AFTER = { 買った: ["ら", "あと"], 使ってみた: ["ら"], 買ってみた: ["ら"], 試してみた: ["ら"], 使った感想: [] };
@@ -31,6 +31,16 @@ function containsExperienceWord(text, word) {
 // 否定の文脈（「架空の最安値は書きません」など）は煽りとみなさない
 const HYPE_NEGATIONS = ["書きません", "架空の", "ではありません"];
 const PRICE_RE = /(?:¥\s?\d[\d,]*|\d[\d,]*\s?円|\$\s?\d[\d,.]*)/;
+const YEN_PRICE_RE = /(?:[¥￥]\s*\d|\d\s*円)/;
+const DOLLAR_AMOUNT = String.raw`\$\s*\d+(?:,\d{3})*(?:\.\d+)?(?!\d|[,.]\d)`;
+const DOLLAR_BAND_RE = new RegExp([
+  String.raw`\bbetween\s+${DOLLAR_AMOUNT}\s+and\s+${DOLLAR_AMOUNT}`,
+  String.raw`${DOLLAR_AMOUNT}\s*(?:–|-|\bto\b)\s*${DOLLAR_AMOUNT}`,
+  String.raw`\b(?:under|below|over|above|up\s+to)\s+${DOLLAR_AMOUNT}`,
+  String.raw`${DOLLAR_AMOUNT}\s+or\s+(?:under|less|more)\b`,
+  String.raw`${DOLLAR_AMOUNT}\+`,
+].join("|"), "gi");
+const DOLLAR_PRICE_RE = /\$\s*\d/;
 // Amazonの商品・検索リンクだけを対象にする（画像URL amazon.com/images/ や
 // テンプレート ${} は対象外）。ドメイン直後のパスが必須。
 const AMAZON_URL_RE = /amazon\.(co\.jp|com)\/([^\s"'`)\]]+)/g;
@@ -91,6 +101,16 @@ function isTextTarget(file) {
 return file.startsWith("content/") && file.endsWith(".md");
 }
 
+function isNonJapaneseArticle(file) {
+  // content/<locale>/ 以下。content 直下と content/ja/ は日本語として扱う。
+  return /^content\/(?!ja\/)[^/]+\//.test(file);
+}
+
+function hasDisallowedPrice(text) {
+  if (YEN_PRICE_RE.test(text)) return true;
+  return DOLLAR_PRICE_RE.test(text.replace(DOLLAR_BAND_RE, " "));
+}
+
 function main() {
 const args = parseArgs(process.argv.slice(2));
 const diff = loadDiff(args);
@@ -126,7 +146,15 @@ if (text.includes(w) &&!HYPE_NEGATIONS.some((n) => text.includes(n))) {
 hypeFound = hypeFound || `${where}: 煽り表現「${w}」が追加されました：${text.trim()}`;
 }
 }
-if (PRICE_RE.test(text)) {
+const englishHype = text.match(ENGLISH_HYPE_RE);
+if (englishHype) {
+  errors.push(`${where}: 煽り表現「${englishHype[0]}」が追加されました：${text.trim()}`);
+}
+if (isNonJapaneseArticle(file)) {
+  if (hasDisallowedPrice(text)) {
+    errors.push(`${where}: 日本語以外の記事に値段が追加されました：${text.trim()}`);
+  }
+} else if (PRICE_RE.test(text)) {
 priceFound = priceFound || `${where}: 値段が追加されました：${text.trim()}`;
 }
 for (const w of EXPERIENCE_WORDS) {
