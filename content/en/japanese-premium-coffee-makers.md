@@ -1,13 +1,13 @@
 ---
 title: "Japanese Craft Coffee Makers: BALMUDA The Brew vs TWINBIRD Bean-to-Cup (2026)"
-description: "A neutral comparison of three Japanese premium drip coffee makers: BALMUDA The Brew (K06A) and the TWINBIRD fully automatic CM-D465B and CM-D457B with a Tsubame-Sanjo burr mill. Specs, Nov 2026 prices, real owner feedback, and what US/UK/EU buyers need to know about 100V power. I have not used these machines."
+description: "A neutral comparison of three Japanese premium drip coffee makers: BALMUDA The Brew (K06A) and the TWINBIRD fully automatic CM-D465B and CM-D457B with a Tsubame-Sanjo burr mill. Specs, price bands, real owner feedback, and what US/UK/EU buyers need to know about 100V power. I have not used these machines."
 category: "coffee-maker"
 date: "2026-11-01"
 ---
 
 Japan has a long pour-over tradition, and a few Japanese makers have tried to put that craft into a machine. This guide compares three of the most talked-about: the design-led **BALMUDA The Brew**, and the **TWINBIRD fully automatic coffee makers** (6-cup CM-D465B and 3-cup CM-D457B), developed with Mamoru Taguchi of Tokyo's Café Bach and fitted with a mill using blades made in Tsubame-Sanjo, Niigata's famous metalworking town.
 
-To be upfront: **I have not used any of these three machines.** This is based on official specs, retailer listings, owner reviews on Kakaku.com and Amazon Japan, and a hands-on video review. Prices are as of November 1, 2026 and change often.
+To be upfront: **I have not used any of these three machines.** This is based on official specs, retailer listings, owner reviews on Kakaku.com and Amazon Japan, and a hands-on video review. Prices change often, so check the store page before you buy.
 
 ## Read this first if you live outside Japan
 
@@ -29,11 +29,11 @@ I have not used these machines. The lines above summarize owner reviews that the
 
 ## At a glance
 
-| Model | Type | Grinder | Capacity | Brew temp | Price (Japan) |
+| Model | Type | Grinder | Capacity | Brew temp | Price band (Japan) |
 |---|---|---|---|---|---|
-| BALMUDA The Brew K06A | Open pour-over drip (ground coffee) | None | 3 cups (~490ml) | Auto-controlled per stage | List ¥68,200; street from about ¥48,800 |
-| TWINBIRD CM-D465B | Bean-to-cup drip | Low-speed flat burr (Tsubame-Sanjo blades) | 6 cups (900ml) | 83°C / 90°C | Official store ¥48,800; Amazon JP about ¥33,300 |
-| TWINBIRD CM-D457B | Bean-to-cup drip | Low-speed flat burr (Tsubame-Sanjo blades) | 3 cups (450ml) | 83°C / 90°C | Official store ¥41,800; Amazon JP about ¥25,300 |
+| BALMUDA The Brew K06A | Open pour-over drip (ground coffee) | None | 3 cups (~490ml) | Auto-controlled per stage | Around $300–$450 |
+| TWINBIRD CM-D465B | Bean-to-cup drip | Low-speed flat burr (Tsubame-Sanjo blades) | 6 cups (900ml) | 83°C / 90°C | Around $200–$350 |
+| TWINBIRD CM-D457B | Bean-to-cup drip | Low-speed flat burr (Tsubame-Sanjo blades) | 3 cups (450ml) | 83°C / 90°C | Around $150–$300 |
 
 Sources: [Kakaku.com (The Brew)](https://kakaku.com/item/K0001382816/), [Kakaku.com (CM-D465B)](https://kakaku.com/item/K0001203222/), [Kakaku.com (CM-D457B)](https://kakaku.com/item/K0001097505/), [TWINBIRD official store](https://store.twinbird.jp/products/cmd457), and Amazon Japan listings.
 
