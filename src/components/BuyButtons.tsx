@@ -4,8 +4,10 @@ import { englishHandGrinderAmazonUrl } from "@/config/us-amazon";
 import { cardDict, type SiteLocale } from "@/lib/i18n";
 import { affiliateRel, isHttpUrl, prepareAffiliateHtml } from "@/lib/affiliate";
 
-/** 海外向けの Amazon タグがリポジトリに無い言語。日本タグのボタンは出さない。 */
-const localesWithoutOverseasAmazon = new Set<SiteLocale>(["en", "zh-tw"]);
+/** amazon.com の米国タグ（ouchidougub03-20）で商品カードを出す言語。記事本文のリンクは #288〜#292 で同タグの型番検索に切替済み。zh-tw は Shopee TW が経路のため対象外。 */
+const localesWithUsAmazonCard = new Set<SiteLocale>(["en", "ko", "zh-hk", "zh-cn", "th", "vi"]);
+/** 海外向けの Amazon タグがリポジトリに無い言語。日本タグのボタンは出さない。zh-tw は amazon.com のボタンも出さない。 */
+const localesWithoutOverseasAmazon = new Set<SiteLocale>(["en", "zh-tw", "ko", "zh-hk", "zh-cn", "th", "vi"]);
 
 export type BuyLink = {
   href?: string;
@@ -23,7 +25,7 @@ type Props = {
 
 export function grinderBuyProps(model: Pick<GrinderModel, "id" | "type" | "name" | "rakutenUrl" | "amazonUrl" | "yahooUrl" | "shopeeMyUrl" | "moshimoHtml" | "purchaseNote" | "ownerUse">, locale: SiteLocale = "ja", noteLocalized = false): Props {
   const d = cardDict[locale];
-  const amazonCom = locale === "en" ? englishHandGrinderAmazonUrl(model) : undefined;
+  const amazonCom = localesWithUsAmazonCard.has(locale) ? englishHandGrinderAmazonUrl(model) : undefined;
   return {
     name: model.name,
     html: model.moshimoHtml,
