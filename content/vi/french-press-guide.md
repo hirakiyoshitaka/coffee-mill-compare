@@ -46,7 +46,7 @@ Cafe Press U là thủy tinh chịu nhiệt, miệng 90 mm. Hãng viết: chiế
 
 Lò vi sóng và lửa trực tiếp đều không có đánh dấu. Coi nó là bình thủy tinh không đặt lên bếp.
 
-[Tìm HARIO Cafe Press U trên Amazon.co.jp](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=HARIO+%E3%82%AB%E3%83%95%E3%82%A7%E3%83%97%E3%83%AC%E3%82%B9)
+[Tìm HARIO Cafe Press U trên Amazon.com](https://www.amazon.com/s?k=HARIO+Cafe+Press+U&tag=ouchidougub03-20)
 
 ### HARIO Harior 7
 
@@ -54,7 +54,7 @@ Phần mô tả của Harior 7 viết 「toàn inox」 và 「lưới hai lớp�
 
 Bản 2 tách, kể cả hộp, khoảng 500 g. Giá bán lẻ đề xuất đã gồm thuế là ¥6,600. Bản 4 tách khoảng 600 g, đã gồm thuế ¥7,150. Miệng 90 mm, xuất xứ Nhật Bản. Đánh dấu nguồn nhiệt giống Cafe Press U: chỉ nước nóng và máy rửa chén.
 
-[Tìm HARIO Harior 7 trên Amazon.co.jp](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=%E3%83%8F%E3%83%AA%E3%82%AA%E3%83%BC%E3%83%AB)
+[Tìm HARIO Harior 7 trên Amazon.com](https://www.amazon.com/s?k=HARIO+Harior+7&tag=ouchidougub03-20)
 
 ### BODUM Chambord
 
@@ -64,7 +64,7 @@ Cùng trang đó, 「một tách」 được định nghĩa khoảng 4 ounce. 34
 
 Các bước trên trang: xay thô, mỗi tách (khoảng 4 ounce) một thìa cà phê gạt ngang, hoặc một muỗng BODUM. Nước 92–96°C, chừa phía trên ít nhất 2,5 cm. Khuấy bằng thìa nhựa hoặc gỗ, đậy miệng vòi, chờ 4 phút, rồi ấn cần xuống từ từ. Đây là hướng dẫn của BODUM, không phải nhật ký chiết do trang này canh giờ. Hai mẫu HARIO không ghi thời gian và nhiệt độ nước này.
 
-[Tìm BODUM Chambord trên Amazon.co.jp](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=BODUM+CHAMBORD)
+[Tìm BODUM Chambord trên Amazon.com](https://www.amazon.com/s?k=BODUM+Chambord&tag=ouchidougub03-20)
 
 Kết quả tìm sẽ lẫn ấm trà và dung tích khác. Đối chiếu mã hàng và dung tích trên tên sản phẩm.
 

@@ -86,7 +86,7 @@ Nối tiếp Barista Express, mẫu bán lâu. Lưỡi nón thép 25 nấc, nhi�
 - **Điểm bị nhắc lại:** thân to và sâu (BBC Good Food). Balance Journal cho 7.5/10, và viết giá chỉ đứng được nếu nhà uống cả nóng lẫn lạnh như việc hằng ngày.
 - **Hợp với ai:** mùa lạnh uống latte, mùa nóng uống đá, muốn một máy lo cả hai.
 
-[Tìm Eletta Explore trên Amazon.co.jp](https://www.amazon.co.jp/s?k=デロンギ+エレッタ+エクスプロア&tag=stocknotelife-22)
+[Tìm Eletta Explore trên Amazon.com](https://www.amazon.com/s?k=DeLonghi+Eletta+Explore&tag=ouchidougub03-20)
 
 Từ khóa tìm là tên hàng tiếng Nhật. Kết quả có thể lẫn mẫu khác. Đối chiếu tên máy trên tiêu đề sản phẩm trước khi đặt. [De'Longhi Mỹ](https://www.delonghi.com/en-us) · [De'Longhi Anh](https://www.delonghi.com/en-gb)
 
@@ -98,7 +98,7 @@ Từ khóa tìm là tên hàng tiếng Nhật. Kết quả có thể lẫn mẫu
 - **Điểm bị nhắc lại:** The Guardian thấy máy xay ồn, chất bọt sữa còn chỗ để chê. Máy không làm cold brew (Balance Journal).
 - **Hợp với ai:** muốn bấm một nút, và nhà hay đổi hạt.
 
-[Xem Rivelia trên Amazon.co.jp](https://www.amazon.co.jp/dp/B0F1FBXFBL?tag=stocknotelife-22) · [De'Longhi Mỹ](https://www.delonghi.com/en-us) · [De'Longhi Anh](https://www.delonghi.com/en-gb)
+[Xem Rivelia trên Amazon.com](https://www.amazon.com/s?k=DeLonghi+Rivelia&tag=ouchidougub03-20) · [De'Longhi Mỹ](https://www.delonghi.com/en-us) · [De'Longhi Anh](https://www.delonghi.com/en-gb)
 
 Amazon.co.jp có gửi tới địa chỉ của bạn hay không, phí vận chuyển và thuế, lấy theo trang thanh toán. Số yên ở trên là giá thị trường Nhật.
 

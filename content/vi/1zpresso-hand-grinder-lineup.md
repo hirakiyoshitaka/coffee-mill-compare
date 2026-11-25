@@ -84,15 +84,15 @@ Giá trên cửa hàng trực tuyến của hãng ghi bằng đô la Mỹ, chưa
 
 Kết quả tìm trên Amazon Nhật sẽ lẫn mẫu khác. Trước khi đặt, đối chiếu tên mẫu trên tiêu đề sản phẩm, và xem có gửi tới địa chỉ của bạn hay không.
 
-[Tìm 1Zpresso Q2 trên Amazon.co.jp](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=1Zpresso+Q2)
+[Tìm 1Zpresso Q2 trên Amazon.com](https://www.amazon.com/s?k=1Zpresso+Q2&tag=ouchidougub03-20)
 
-[Tìm 1Zpresso X-Ultra trên Amazon.co.jp](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=1Zpresso+X-Ultra)
+[Tìm 1Zpresso X-Ultra trên Amazon.com](https://www.amazon.com/s?k=1Zpresso+X-Ultra&tag=ouchidougub03-20)
 
-[Tìm 1Zpresso ZP6 trên Amazon.co.jp](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=1Zpresso+ZP6)
+[Tìm 1Zpresso ZP6 trên Amazon.com](https://www.amazon.com/s?k=1Zpresso+ZP6+Special&tag=ouchidougub03-20)
 
-[Tìm 1Zpresso K-Ultra trên Amazon.co.jp](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=1Zpresso+K-Ultra)
+[Tìm 1Zpresso K-Ultra trên Amazon.com](https://www.amazon.com/s?k=1Zpresso+K-Ultra&tag=ouchidougub03-20)
 
-[Tìm 1Zpresso J-Ultra trên Amazon.co.jp](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=1Zpresso+J-Ultra)
+[Tìm 1Zpresso J-Ultra trên Amazon.com](https://www.amazon.com/s?k=1Zpresso+J-Ultra&tag=ouchidougub03-20)
 
 ## Nguồn
 

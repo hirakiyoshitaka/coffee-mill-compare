@@ -27,7 +27,7 @@ Nếu muốn bắt đầu buổi sáng thong thả bằng khoảng thời gian �
 
 {{grinder:timemore-chestnut-s3}}
 
-[Xem TIMEMORE Chestnut S3 trên Amazon.co.jp](https://www.amazon.co.jp/dp/B0CMZCK9PR?tag=stocknotelife-22)
+[Xem TIMEMORE Chestnut S3 trên Amazon.com](https://www.amazon.com/s?k=TIMEMORE+Chestnut+S3&tag=ouchidougub03-20)
 
 ## 2. EPEIOS Essence Go
 
@@ -39,7 +39,7 @@ Tháo ra rồi cho vào hộp riêng là lời của hãng.
 
 {{grinder:epeios-essence-go}}
 
-[Xem EPEIOS Essence Go trên Amazon.co.jp](https://www.amazon.co.jp/dp/B0D3PZHGBX?tag=stocknotelife-22)
+[Xem EPEIOS Essence Go trên Amazon.com](https://www.amazon.com/s?k=Epeios+Essence+Go&tag=ouchidougub03-20)
 
 ## 3. Comandante C40 MK4 — tóm tắt đánh giá
 
@@ -51,7 +51,7 @@ Chưa dùng Comandante C40. Không viết cảm giác khi quay, cũng không vi�
 - Trang sản phẩm chính thức mở hôm đó không có số gram, cũng không có giá yên
 - Không viết vị ngon hơn hay kém hơn Timemore
 
-[Tìm Comandante C40 trên Amazon.co.jp](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=%E3%82%B3%E3%83%9E%E3%83%B3%E3%83%80%E3%83%B3%E3%83%86+C40)
+[Tìm Comandante C40 trên Amazon.com](https://www.amazon.com/s?k=Comandante+C40+MK4+Nitro+Blade&tag=ouchidougub03-20)
 
 Kết quả tìm trộn mẫu khác. Kiểm tra tên hàng là MK4 Nitro Blade.
 
@@ -65,7 +65,7 @@ Kết quả tìm trộn mẫu khác. Kiểm tra tên hàng là MK4 Nitro Blade.
 
 1Zpresso K-Ultra không nằm trong ba máy này. Chưa dùng. Chỗ hãng đặt nó, một máy đi qua nhiều cách pha, nằm ở [cách chọn máy xay tay 1Zpresso](/vi/articles/1zpresso-hand-grinder-lineup/).
 
-[Tìm 1Zpresso K-Ultra trên Amazon.co.jp](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=1Zpresso+K-Ultra)
+[Tìm 1Zpresso K-Ultra trên Amazon.com](https://www.amazon.com/s?k=1Zpresso+K-Ultra&tag=ouchidougub03-20)
 
 ## Hạt sau khi xay
 
