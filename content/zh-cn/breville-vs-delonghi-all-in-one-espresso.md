@@ -84,7 +84,7 @@ date: "2026-11-01"
 - **评测里反复被提到的问题：** 机身又大又深（BBC Good Food）。Balance Journal 打了 7.5/10，认为只有冷热都经常喝，这个价格才站得住。
 - **适合谁：** 冬天拿铁、夏天冰咖啡，希望一台搞定的家庭。
 
-[在 Amazon.co.jp 搜索 德龙 Eletta Explore](https://www.amazon.co.jp/s?k=デロンギ+エレッタ+エクスプロア&tag=stocknotelife-22)
+[在 Amazon.com 搜索 德龙 Eletta Explore](https://www.amazon.com/s?k=DeLonghi+Eletta+Explore&tag=ouchidougub03-20)
 
 搜索词是日文商品名，结果里会混进其他型号，下单前对一下商品标题。[德龙美国官网](https://www.delonghi.com/en-us) · [德龙英国官网](https://www.delonghi.com/en-gb)
 
@@ -96,7 +96,7 @@ date: "2026-11-01"
 - **评测里反复被提到的问题：** 卫报觉得磨豆机吵，奶泡质地还有空间。它做不了冷萃（Balance Journal）。
 - **适合谁：** 想一键出杯，又喜欢换豆子的大多数家庭。
 
-[在 Amazon.co.jp 查看 Rivelia](https://www.amazon.co.jp/dp/B0F1FBXFBL?tag=stocknotelife-22) · [德龙美国官网](https://www.delonghi.com/en-us) · [德龙英国官网](https://www.delonghi.com/en-gb)
+[在 Amazon.com 搜索 Rivelia](https://www.amazon.com/s?k=DeLonghi+Rivelia&tag=ouchidougub03-20) · [德龙美国官网](https://www.delonghi.com/en-us) · [德龙英国官网](https://www.delonghi.com/en-gb)
 
 Amazon.co.jp 是否寄到你的地址、运费和关税，以结算页为准。上面的日元是日本市场价。
 

@@ -45,7 +45,7 @@ Range Server 页面上的价格是制造商建议零售价。Kalita 的金额是
 
 热水、微波炉、洗碗机有标示，烤箱、电磁炉、明火没有。把它当成不能把玻璃放上火。HARIO 手冲配方里的一杯 120mL，是另一份使用说明 PDF 上的数字，和这一页的「1–3 杯」不是同一页。不要只靠这把壶的页面，去换算一杯有几毫升。
 
-[在 Amazon.co.jp 搜索 HARIO V60 Range Server](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=HARIO+V60+%E3%83%AC%E3%83%B3%E3%82%B8%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC)
+[在 Amazon.com 搜索 HARIO V60 Range Server](https://www.amazon.com/s?k=HARIO+V60+Range+Server&tag=ouchidougub03-20)
 
 ### Kalita 300 Server N 与 500 Server N
 
@@ -55,7 +55,7 @@ Range Server 页面上的价格是制造商建议零售价。Kalita 的金额是
 
 Kalita 的常见问题里，针对该公司耐热玻璃的一般说明是：耐热温差 120℃ 不是「只能用到 120℃」，而是骤热骤冷的温差。这不是本站把 300 Server N 和 500 Server N 的个别试验结果转载过来。不要放明火、不要放烤箱、不要空烧，也是那一页对玻璃的一般文句。
 
-[在 Amazon.co.jp 搜索 Kalita 咖啡分享壶](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=%E3%82%AB%E3%83%AA%E3%82%BF+%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC)
+[在 Amazon.com 搜索 Kalita 咖啡分享壶](https://www.amazon.com/s?k=Kalita+Coffee+Server&tag=ouchidougub03-20)
 
 ### HARIO V60 金属咖啡分享壶
 
@@ -63,7 +63,7 @@ Kalita 的常见问题里，针对该公司耐热玻璃的一般说明是：耐�
 
 有标示的是热水、洗碗机、明火。微波炉没有标示。不要把它当成可以进微波炉的金属容器。和玻璃的 Range Server 比，再加热的地方不一样。
 
-[在 Amazon.co.jp 搜索 HARIO V60 金属咖啡分享壶](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=HARIO+%E3%83%A1%E3%82%BF%E3%83%AB%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC)
+[在 Amazon.com 搜索 HARIO V60 金属咖啡分享壶](https://www.amazon.com/s?k=HARIO+V60+Metal+Coffee+Server&tag=ouchidougub03-20)
 
 搜索结果会混进滤杯和马克杯。在商品名称里对一下它是分享壶，以及型号。
 

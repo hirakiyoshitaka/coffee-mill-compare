@@ -33,7 +33,7 @@ date: "2026-11-02"
 
 {{grinder:timemore-chestnut-s3}}
 
-[在 Amazon.co.jp 查看 TIMEMORE 栗子 S3](https://www.amazon.co.jp/dp/B0CMZCK9PR?tag=stocknotelife-22)
+[在 Amazon.com 搜索 TIMEMORE 栗子 S3](https://www.amazon.com/s?k=TIMEMORE+Chestnut+S3&tag=ouchidougub03-20)
 
 ## 2. Epeios Essence Go
 
@@ -45,7 +45,7 @@ date: "2026-11-02"
 
 {{grinder:epeios-essence-go}}
 
-[在 Amazon.co.jp 查看 Epeios Essence Go](https://www.amazon.co.jp/dp/B0D3PZHGBX?tag=stocknotelife-22)
+[在 Amazon.com 搜索 Epeios Essence Go](https://www.amazon.com/s?k=Epeios+Essence+Go&tag=ouchidougub03-20)
 
 ## 3. Comandante C40 MK4｜评测整理
 
@@ -57,7 +57,7 @@ date: "2026-11-02"
 - 当天打开的官方商品页，没有克数，也没有日元价格
 - 没有写味道比泰摩好或差
 
-[在 Amazon.co.jp 搜索 Comandante C40](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=%E3%82%B3%E3%83%9E%E3%83%B3%E3%83%80%E3%83%B3%E3%83%86+C40)
+[在 Amazon.com 搜索 Comandante C40](https://www.amazon.com/s?k=Comandante+C40+MK4+Nitro+Blade&tag=ouchidougub03-20)
 
 搜索结果会混进其他型号。请确认商品名称是 MK4 的 Nitro Blade。
 
@@ -67,7 +67,7 @@ date: "2026-11-02"
 
 如果连手摇都不想做，按键式的滴滤机是另一类，见[巴慕达 The Brew 和双鸟全自动](/zh-cn/articles/japanese-premium-coffee-makers/)。那三台本站也没有用过。
 
-[在 Amazon.co.jp 搜索 1Zpresso K-Ultra](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=1Zpresso+K-Ultra)
+[在 Amazon.com 搜索 1Zpresso K-Ultra](https://www.amazon.com/s?k=1Zpresso+K-Ultra&tag=ouchidougub03-20)
 
 ## 磨完之后的豆子
 

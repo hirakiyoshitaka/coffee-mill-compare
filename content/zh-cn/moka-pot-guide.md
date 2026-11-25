@@ -44,19 +44,19 @@ Amazon.co.jp 能否寄到你的地址、运费和关税，以结算页为准。
 
 官方有从 1933 年延续的八角形说明。页面也写了设计沿革；这篇采用的是材质、安全阀、热源、洗法，以及杯数对应的盎司。厨房如果是电磁炉，没有转接板就不在那一页的对应表里。转接板对应到几杯，这篇没有打开，所以不写。
 
-[在 Amazon.co.jp 搜索 Bialetti Moka Express](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=%E3%83%93%E3%82%A2%E3%83%AC%E3%83%83%E3%83%86%E3%82%A3+%E3%83%A2%E3%82%AB%E3%82%A8%E3%82%AD%E3%82%B9%E3%83%97%E3%83%AC%E3%82%B9)
+[在 Amazon.com 搜索 Bialetti Moka Express](https://www.amazon.com/s?k=Bialetti+Moka+Express&tag=ouchidougub03-20)
 
 ### Bialetti Venus
 
 Venus 是美国页写成 18/10 不锈钢、燃气灶、电热炉、电磁炉都不必加转接板的系列。页面上的尺寸是 4 杯、6 杯、10 杯。不是 Moka Express 那种从 1 杯到 18 杯的表。
 
-[在 Amazon.co.jp 搜索 Bialetti Venus](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=%E3%83%93%E3%82%A2%E3%83%AC%E3%83%83%E3%83%86%E3%82%A3+%E3%83%B4%E3%82%A3%E3%83%BC%E3%83%8A%E3%82%B9)
+[在 Amazon.com 搜索 Bialetti Venus](https://www.amazon.com/s?k=Bialetti+Venus+moka+pot&tag=ouchidougub03-20)
 
 ### Bialetti Brikka
 
 Brikka Induction 的美国页面说明了做出 crema，以及铝和钢的双层锅炉。「电磁炉上唯一能做出真正意式浓缩的炉上器具」这一类最高级说法，是页面的宣传文，这篇的结论不采用。打开的页面容量是 4 杯、约 5.4 盎司（咖啡和 crema）。其他杯数看该型号的页面。
 
-[在 Amazon.co.jp 搜索 Bialetti Brikka](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=%E3%83%93%E3%82%A2%E3%83%AC%E3%83%83%E3%83%86%E3%82%A3+%E3%83%96%E3%83%AA%E3%83%83%E3%82%AB)
+[在 Amazon.com 搜索 Bialetti Brikka](https://www.amazon.com/s?k=Bialetti+Brikka&tag=ouchidougub03-20)
 
 搜索结果会混进其他系列和替换垫圈。在商品名称里对一下是铝还是不锈钢，以及几杯。
 
