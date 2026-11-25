@@ -34,7 +34,7 @@ date: "2026-11-01"
 - **买家反复提到的：** 亚马逊日本 5 分里的 4.3（166 条）。设计、看着它冲的乐趣、干净的味道，出现得最多。
 - **要放在一起看的：** Kakaku.com 买家评价平均 3.45（24 条），看法并不一致。没有磨豆机，最多 3 杯，也没有保温板。
 
-[在 Amazon.co.jp 查看 巴慕达 The Brew](https://www.amazon.co.jp/dp/B09DY6CDHZ?tag=stocknotelife-22) · [巴慕达官网](https://www.balmuda.com/jp/brew)
+[在 Amazon.com 搜索 巴慕达 The Brew](https://www.amazon.com/s?k=BALMUDA+The+Brew+K06A&tag=ouchidougub03-20) · [巴慕达官网](https://www.balmuda.com/jp/brew)
 
 它不带磨豆。如果要按用途看手摇磨豆机，读 [1Zpresso 手摇磨豆机怎么选](/zh-cn/articles/1zpresso-hand-grinder-lineup/)。本站没有用过 1Zpresso。
 
@@ -45,7 +45,7 @@ date: "2026-11-01"
 - **买家反复提到的：** Kakaku.com 4.53（21 条），亚马逊日本 5 分里的 4.4（420 条）。被夸得最多的是味道。
 - **要放在一起看的：** 高 42.5 厘米，吊柜下面要先量。
 
-[在 Amazon.co.jp 查看 双鸟 CM-D465B](https://www.amazon.co.jp/dp/B081SWNSGW?tag=stocknotelife-22)
+[在 Amazon.com 搜索 双鸟 CM-D465B](https://www.amazon.com/s?k=TWINBIRD+CM-D465B&tag=ouchidougub03-20)
 
 ## 双鸟 CM-D457B（3 杯）：同一套做法，机身更小
 
@@ -54,7 +54,7 @@ date: "2026-11-01"
 - **买家反复提到的：** Kakaku.com 4.46（40 条），亚马逊日本 5 分里的 4.4（822 条）。有从松下换过来的买家写，要紧的是味道，并给了比旧机器更高的评价。
 - **要放在一起看的：** 日本烘焙店频道 Nif Coffee 的[视频评测](https://www.youtube.com/watch?v=TxNSjOgK1K8)里，磨 3 杯大约用了 4 分 16 秒，水和豆子每次都要自己量。Kakaku.com 上也有人觉得磨豆机不好清理。
 
-[在 Amazon.co.jp 查看 双鸟 CM-D457B](https://www.amazon.co.jp/dp/B07HFP6H3L?tag=stocknotelife-22) · [双鸟官方店（日本）](https://store.twinbird.jp/products/cmd457)
+[在 Amazon.com 搜索 双鸟 CM-D457B](https://www.amazon.com/s?k=TWINBIRD+CM-D457B&tag=ouchidougub03-20) · [双鸟官方店（日本）](https://store.twinbird.jp/products/cmd457)
 
 ## 选哪一台
 

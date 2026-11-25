@@ -44,7 +44,7 @@ Cafe Press U 是口径 90mm 的耐热玻璃。官方写：可以萃出咖啡油�
 
 微波炉和明火都没有标示。把它当成不能放上火的玻璃。
 
-[在 Amazon.co.jp 搜索 HARIO Cafe Press U](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=HARIO+%E3%82%AB%E3%83%95%E3%82%A7%E3%83%97%E3%83%AC%E3%82%B9)
+[在 Amazon.com 搜索 HARIO Cafe Press U](https://www.amazon.com/s?k=HARIO+Cafe+Press+U&tag=ouchidougub03-20)
 
 ### HARIO Harior 7
 
@@ -52,7 +52,7 @@ Harior 7 的说明文字是「全不锈钢」「滤网双层」。同一页的�
 
 2 杯含包装盒约 500g，建议零售价含税 6,600 日元。4 杯约 600g，含税 7,150 日元。口径 90mm，原产国日本。热源标示和 Cafe Press U 一样，只有热水和洗碗机。
 
-[在 Amazon.co.jp 搜索 HARIO Harior 7](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=%E3%83%8F%E3%83%AA%E3%82%AA%E3%83%BC%E3%83%AB)
+[在 Amazon.com 搜索 HARIO Harior 7](https://www.amazon.com/s?k=HARIO+Harior+7&tag=ouchidougub03-20)
 
 ### BODUM Chambord
 
@@ -62,7 +62,7 @@ Chambord 是 BODUM 放在法压玻璃壶系列里的产品。2026 年 11 月 1 �
 
 页面上的步骤是：粗研磨，每杯（约 4 盎司）一平茶匙，或 BODUM 勺一勺。水温 92–96℃，上方至少留 2.5cm。用塑料或木匙搅拌，盖上壶嘴，等 4 分钟，再把压杆慢慢压下。这是 BODUM 的说明，不是本站计时的萃取记录。HARIO 那两款的页面没有写这个时间和水温。
 
-[在 Amazon.co.jp 搜索 BODUM Chambord](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=BODUM+CHAMBORD)
+[在 Amazon.com 搜索 BODUM Chambord](https://www.amazon.com/s?k=BODUM+Chambord&tag=ouchidougub03-20)
 
 搜索结果会混进茶壶和其他容量。用型号和容量对一下商品名称。
 

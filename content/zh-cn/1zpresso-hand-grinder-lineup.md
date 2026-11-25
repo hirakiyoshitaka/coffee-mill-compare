@@ -82,15 +82,15 @@ J-Ultra 是 8 微米一格，1Zpresso 称它是全系列最细的。刀盘是带
 
 亚马逊日本的搜索结果会混入其他型号。下单前请用商品标题核对型号，并确认是否寄到你的地址。
 
-[在 Amazon.co.jp 搜索 1Zpresso Q2](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=1Zpresso+Q2)
+[在 Amazon.com 搜索 1Zpresso Q2](https://www.amazon.com/s?k=1Zpresso+Q2&tag=ouchidougub03-20)
 
-[在 Amazon.co.jp 搜索 1Zpresso X-Ultra](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=1Zpresso+X-Ultra)
+[在 Amazon.com 搜索 1Zpresso X-Ultra](https://www.amazon.com/s?k=1Zpresso+X-Ultra&tag=ouchidougub03-20)
 
-[在 Amazon.co.jp 搜索 1Zpresso ZP6](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=1Zpresso+ZP6)
+[在 Amazon.com 搜索 1Zpresso ZP6](https://www.amazon.com/s?k=1Zpresso+ZP6+Special&tag=ouchidougub03-20)
 
-[在 Amazon.co.jp 搜索 1Zpresso K-Ultra](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=1Zpresso+K-Ultra)
+[在 Amazon.com 搜索 1Zpresso K-Ultra](https://www.amazon.com/s?k=1Zpresso+K-Ultra&tag=ouchidougub03-20)
 
-[在 Amazon.co.jp 搜索 1Zpresso J-Ultra](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=1Zpresso+J-Ultra)
+[在 Amazon.com 搜索 1Zpresso J-Ultra](https://www.amazon.com/s?k=1Zpresso+J-Ultra&tag=ouchidougub03-20)
 
 ## 来源
 
