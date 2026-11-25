@@ -32,14 +32,14 @@ date: "2026-10-28"
 - **Amazon 日本**：4.2 顆星（106 則）（2026 年 10 月）。
 - 適合想比較「淺焙用高溫、深焙用低溫」風味差異的人。價格偏高。
 
-[在 Amazon.co.jp 查看 Stagg EKG Pro](https://www.amazon.co.jp/dp/B0BF7NKK81?tag=stocknotelife-22)
+[在 Amazon.com 搜尋 Stagg EKG Pro](https://www.amazon.com/s?k=Fellow+Stagg+EKG+Pro&tag=ouchidougub03-20)
 
 ### BALMUDA The Pot：想擺在廚房的電熱水壺
 
 - **官方與外部資訊**：細長壺嘴，容易定點注水。現行型號為 KPT03JP。舊款在 Amazon 日本為 4.5 顆星（484 則）（2026 年 10 月）。
 - 沒有溫度設定，是一台以單純煮水與外型取勝的電熱水壺。
 
-[在 Amazon.co.jp 查看 BALMUDA The Pot](https://www.amazon.co.jp/dp/B0GZZKM8GQ?tag=stocknotelife-22)
+[在 Amazon.com 搜尋 BALMUDA The Pot](https://www.amazon.com/s?k=BALMUDA+The+Pot&tag=ouchidougub03-20)
 
 ### HARIO V60 雲朵細口壺 800ml：價錢相宜的經典款
 
@@ -47,14 +47,14 @@ date: "2026-10-28"
 - **官方資訊**：日本製，明火與 IH 皆可使用。
 - 也可以用電熱水壺煮好水再倒進來使用，在海外不必擔心電壓，是一大優點。
 
-[在 Amazon.co.jp 查看雲朵細口壺](https://www.amazon.co.jp/dp/B0BWHJ2D79?tag=stocknotelife-22)
+[在 Amazon.com 搜尋雲朵細口壺](https://www.amazon.com/s?k=HARIO+V60+Drip+Kettle+800ml&tag=ouchidougub03-20)
 
 ## 電子秤：HARIO V60 電子秤 VSTN-2
 
 - 附計時器的經典電子秤，價錢相宜（約 3,000 日圓，2026 年 10 月）。
 - 記錄豆量、水量與時間，是把手沖變成「可重現配方」的工具。
 
-[在 Amazon.co.jp 查看 V60 電子秤](https://www.amazon.co.jp/dp/B08VRSZVN4?tag=stocknotelife-22)
+[在 Amazon.com 搜尋 V60 電子秤](https://www.amazon.com/s?k=HARIO+V60+Drip+Scale&tag=ouchidougub03-20)
 
 ## 濾杯：替風味與外觀增添變化
 
@@ -63,14 +63,14 @@ date: "2026-10-28"
 - **官方與外部資訊**：岐阜縣美濃燒。因在咖啡師世界大賽中被使用而廣為人知。
 - 顏色選擇多，挑外觀也是一種樂趣。
 
-[在 Amazon.co.jp 查看 ORIGAMI 濾杯 S](https://www.amazon.co.jp/dp/B0GCDB6LNK?tag=stocknotelife-22)
+[在 Amazon.com 搜尋 ORIGAMI 濾杯 S](https://www.amazon.com/s?k=ORIGAMI+Dripper+S&tag=ouchidougub03-20)
 
 ### Chemex 6 杯 經典款 CM-6A
 
 - **外部資訊**：設計被紐約現代藝術博物館（MoMA）列為永久館藏，WIRED（英文版）評測也推薦。
 - 濾杯與下壺一體成形，可以直接端上桌。專用濾紙需另購。玻璃材質，使用時請小心。
 
-[在 Amazon.co.jp 查看 Chemex 6 杯](https://www.amazon.co.jp/dp/B0000YWF5E?tag=stocknotelife-22)
+[在 Amazon.com 搜尋 Chemex 6 杯](https://www.amazon.com/s?k=Chemex+6+Cup&tag=ouchidougub03-20)
 
 ### KINTO SCS 咖啡壺組 2cups
 
@@ -78,14 +78,14 @@ date: "2026-10-28"
 - **官方資訊**：不鏽鋼濾網，不需濾紙，可用微波爐與洗碗機。
 - 一般認為比起濾紙更容易保留咖啡油脂，風味較醇厚。
 
-[在 Amazon.co.jp 查看 KINTO SCS](https://www.amazon.co.jp/dp/B00NFBMA7W?tag=stocknotelife-22)
+[在 Amazon.com 搜尋 KINTO SCS](https://www.amazon.com/s?k=KINTO+SCS+Coffee+Carafe+Set&tag=ouchidougub03-20)
 
 ## 保存：Fellow Atmos 真空保鮮罐
 
 - **官方資訊**：轉動蓋子就能抽真空，有 0.4L・0.7L・1.2L 三種尺寸。
 - 適合想把香氣保留到研磨前一刻的人。價格為 6,490〜7,370 日圓（2026 年 10 月）。
 
-[在 Amazon.co.jp 搜尋 Fellow Atmos](https://www.amazon.co.jp/s?k=fellow+atmos+真空キャニスター&tag=stocknotelife-22)
+[在 Amazon.com 搜尋 Fellow Atmos](https://www.amazon.com/s?k=Fellow+Atmos&tag=ouchidougub03-20)
 
 ## 從哪裡開始升級？
 

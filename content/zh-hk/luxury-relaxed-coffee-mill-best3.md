@@ -33,7 +33,7 @@ date: "2026-11-02"
 
 {{grinder:timemore-chestnut-s3}}
 
-[在 Amazon.co.jp 查看 TIMEMORE 栗子 S3](https://www.amazon.co.jp/dp/B0CMZCK9PR?tag=stocknotelife-22)
+[在 Amazon.com 搜尋 TIMEMORE 栗子 S3](https://www.amazon.com/s?k=TIMEMORE+Chestnut+S3&tag=ouchidougub03-20)
 
 ## 2. Epeios Essence Go
 
@@ -45,7 +45,7 @@ date: "2026-11-02"
 
 {{grinder:epeios-essence-go}}
 
-[在 Amazon.co.jp 查看 Epeios Essence Go](https://www.amazon.co.jp/dp/B0D3PZHGBX?tag=stocknotelife-22)
+[在 Amazon.com 搜尋 Epeios Essence Go](https://www.amazon.com/s?k=Epeios+Essence+Go&tag=ouchidougub03-20)
 
 ## 3. Comandante C40 MK4｜評測整理
 
@@ -59,7 +59,7 @@ date: "2026-11-02"
 
 這篇不另寫使用感受。
 
-[在 Amazon.co.jp 搜尋 Comandante C40](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=%E3%82%B3%E3%83%9E%E3%83%B3%E3%83%80%E3%83%B3%E3%83%86+C40)
+[在 Amazon.com 搜尋 Comandante C40](https://www.amazon.com/s?k=Comandante+C40+MK4+Nitro+Blade&tag=ouchidougub03-20)
 
 搜尋結果會混進其他型號。請確認商品名稱是 MK4 的 Nitro Blade。
 
@@ -67,7 +67,7 @@ date: "2026-11-02"
 
 1Zpresso K-Ultra 不在這三台裡。沒用過。官方把它放在一台涵蓋多種萃取的位置。
 
-[在 Amazon.co.jp 搜尋 1Zpresso K-Ultra](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=1Zpresso+K-Ultra)
+[在 Amazon.com 搜尋 1Zpresso K-Ultra](https://www.amazon.com/s?k=1Zpresso+K-Ultra&tag=ouchidougub03-20)
 
 ## 磨完之後的豆子
 

@@ -24,7 +24,7 @@ date: "2026-10-28"
 - **官方資訊**：日本製。
 - 在裝好咖啡粉的濾網中注水，放進冰箱就完成。不需要手沖技巧，是最大的優點。
 
-[在 Amazon.co.jp 查看 HARIO 冷泡咖啡壺](https://www.amazon.co.jp/dp/B0BWGZ97R2?tag=stocknotelife-22)
+[在 Amazon.com 搜尋 HARIO 冷泡咖啡壺](https://www.amazon.com/s?k=HARIO+Cold+Brew+Coffee+Pot&tag=ouchidougub03-20)
 
 ## 約 3,000 日圓：KINTO SCS 咖啡壺組
 
@@ -32,14 +32,14 @@ date: "2026-10-28"
 - **官方資訊**：不鏽鋼濾網，不需濾紙，可用微波爐與洗碗機。
 - 不用擔心濾紙用完，在家或旅行都方便。
 
-[在 Amazon.co.jp 查看 KINTO SCS](https://www.amazon.co.jp/dp/B00NFBMA7W?tag=stocknotelife-22)
+[在 Amazon.com 搜尋 KINTO SCS](https://www.amazon.com/s?k=KINTO+SCS+Coffee+Carafe+Set&tag=ouchidougub03-20)
 
 ## 約 3,300 日圓：KINTO 隨行杯 350ml
 
 - **官方資訊**：保溫 65℃ 以上、保冷 8℃ 以下（皆為 6 小時），共 9 色。
 - 適合裝冷泡咖啡帶出門，或讓戶外沖的咖啡保持溫熱。
 
-[在 Amazon.co.jp 查看 KINTO 隨行杯](https://www.amazon.co.jp/dp/B0756S3D7J?tag=stocknotelife-22)
+[在 Amazon.com 搜尋 KINTO 隨行杯](https://www.amazon.com/s?k=KINTO+Travel+Tumbler+350ml&tag=ouchidougub03-20)
 
 ## 約 9,000 日圓：AeroPress 經典款
 
@@ -47,7 +47,7 @@ date: "2026-10-28"
 - **Amazon 日本**：4.4〜4.5 顆星（2026 年 10 月）。
 - 輕巧又不易摔破，方便帶去露營或旅行。
 
-[在 Amazon.co.jp 查看 AeroPress 經典款](https://www.amazon.co.jp/dp/B0C13M12JY?tag=stocknotelife-22)
+[在 Amazon.com 搜尋 AeroPress 經典款](https://www.amazon.com/s?k=AeroPress+Original&tag=ouchidougub03-20)
 
 ## 怎麼選？
 

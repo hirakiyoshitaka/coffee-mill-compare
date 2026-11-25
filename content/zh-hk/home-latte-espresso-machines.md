@@ -27,7 +27,7 @@ date: "2026-10-28"
 - **官方與外部資訊**：1.1L 水箱，可萃取 4 種杯量，機身深度精巧（依價格.com 產品資訊）。
 - **注意事項**：必須使用專用膠囊，每杯成本取決於膠囊價格。沒有打奶泡功能，想做拿鐵要搭配下方的 Aeroccino。
 
-[在 Amazon.co.jp 查看 Vertuo Pop+](https://www.amazon.co.jp/dp/B0DL5M3WLK?tag=stocknotelife-22)
+[在 Amazon.com 搜尋 Vertuo Pop+](https://www.amazon.com/s?k=Nespresso+Vertuo+Pop&tag=ouchidougub03-20)
 
 ## 約 4 萬日圓：De'Longhi Dedica Arte EC885J
 
@@ -36,7 +36,7 @@ date: "2026-10-28"
 - **官方資訊**：寬約 15cm 的纖薄設計，配備適合拉花的蒸氣管。
 - **注意事項**：要煮得好喝，需要義式濃縮用的細粉，以及練習填壓。用手搖磨豆機磨到義式細度相當吃力，比較實際的做法是買現成咖啡粉，或另外準備電動磨豆機。
 
-[在 Amazon.co.jp 查看 Dedica Arte](https://www.amazon.co.jp/dp/B0BYHB9YYW?tag=stocknotelife-22)
+[在 Amazon.com 搜尋 Dedica Arte](https://www.amazon.com/s?k=DeLonghi+Dedica+Arte&tag=ouchidougub03-20)
 
 ## 約 7 萬日圓：De'Longhi Magnifica S ECAM22112B
 
@@ -46,7 +46,7 @@ date: "2026-10-28"
 - **官方與外部評測**：具備煮出類似美式滴濾風味的「Caffè Japone」功能，保養 3 年（依 coffee-machine-lab.jp、價格.com 資訊）。
 - **評論中**：「研磨時聲音很大」是常被提到的缺點。清晨使用或住在多層住宅的人要留意。
 
-[在 Amazon.co.jp 查看 Magnifica S](https://www.amazon.co.jp/dp/B088HJCVDX?tag=stocknotelife-22)
+[在 Amazon.com 搜尋 Magnifica S](https://www.amazon.com/s?k=DeLonghi+Magnifica+S&tag=ouchidougub03-20)
 
 ## 想做拿鐵：Nespresso Aeroccino 4 Refresh
 
@@ -56,7 +56,7 @@ date: "2026-10-28"
 - **官方資訊**：Nespresso 發表為 Aeroccino 4（4192）的後繼機型（nespresso.com）。
 - 同樣是 100V 家電，在海外使用時請一併留意。
 
-[在 Amazon.co.jp 搜尋 Aeroccino 4 Refresh](https://www.amazon.co.jp/s?k=エアロチーノ4+リフレッシュ&tag=stocknotelife-22)
+[在 Amazon.com 搜尋 Aeroccino 4 Refresh](https://www.amazon.com/s?k=Nespresso+Aeroccino+4&tag=ouchidougub03-20)
 
 ## 該選哪一台？
 
