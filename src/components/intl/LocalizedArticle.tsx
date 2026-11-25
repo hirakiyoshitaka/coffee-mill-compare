@@ -83,7 +83,7 @@ const ui: Record<TranslationLocale, { og: string; home: string; pr: string; disc
     home: "Japanese edition",
     pr: "Advertising disclosure",
     disclosure:
-      "This article contains ads and affiliate links. As an Amazon Associate (Amazon.com and Amazon.co.jp), we earn from qualifying purchases, and we may earn a commission when you buy through some links at no extra cost to you. Rankings are not based on commission rates, and prices are for reference only.",
+      "This page has affiliate links. As an Amazon Associate, we earn from qualifying purchases. Picks are not ranked by commission.",
     next: "Read next",
     nextNote: "If you are still choosing, these pages are the next stop.",
     others: "More articles",
@@ -162,11 +162,13 @@ export function LocalizedArticle({ locale, slug }: { locale: TranslationLocale; 
         </>
       ) : null}
       {showSearchBar ? <EnglishSearchBar slug={slug} /> : null}
-      <aside className="border border-[var(--line)] bg-[var(--soft)] px-5 py-4 text-[16px] leading-[1.9]">
-        <p className="font-bold text-[var(--accent)]">{t.pr}</p>
-        <p className="mt-1">{t.disclosure}</p>
+      {/* 広告の表記は購入リンクより前に残したまま、1段にまとめて低くする。スマホで最初の購入リンクが最初の画面に入るように（2026-11-25：箱が 342px あり、英語の入口2記事で最初のリンクが 819px＝画面の外だった） */}
+      <aside className="border border-[var(--line)] bg-[var(--soft)] px-4 py-3 text-[14px] leading-[1.6]">
+        <p>
+          <span className="font-bold text-[var(--accent)]">{t.pr}</span> {t.disclosure}
+        </p>
       </aside>
-      <div className="mt-8">
+      <div className="mt-5">
         {locale === "en" && !showOpening ? <QuickPick title={article.title} markdown={article.content} locale="en" /> : null}
         <ArticlePicks title={article.title} markdown={article.content} locale={locale} quickPick={locale === "en" && !showOpening} />
         <div id={locale === "en" ? "article-reading-body" : undefined} className="flow-root">
