@@ -7,6 +7,8 @@ date: "2026-10-27"
 
 The second hand grinder this site recommends is the EPEIOS Essence Go. If the No.1 Timemore Chestnut S3 is the grinder that stays on the counter, this one uses a 10-blade burr to lighten the start of the grind, and it comes apart into a carry case. It holds that place because the job is different. It is not second place in a points contest.
 
+<p class="affiliate-html"><strong>Quick pick:</strong> <a href="https://www.amazon.com/s?k=Epeios+Essence+Go&tag=ouchidougub03-20">EPEIOS Essence Go</a> — it just spins so easily, and it comes apart into its carry case. (ad)</p>
+
 The price guide we keep on the site is under $200, taken from the official listing and updated by hand when that listing changes. The [June 2024 announcement](https://prtimes.jp/main/html/rd/p/000000097.000059893.html) also gives an expected market price including tax, and describes the suggested retail price as open. Check the current store page before you buy. Prices move.
 
 ## The short answer

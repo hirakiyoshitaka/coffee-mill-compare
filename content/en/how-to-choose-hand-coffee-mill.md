@@ -7,6 +7,8 @@ date: "2026-10-30"
 
 The easiest way to choose your first hand grinder is to look at fewer things. This guide covers just four: burr size, grind adjustment, weight, and whether it stays at home or travels. The numbers come from manufacturer specs; we didn't measure them ourselves.
 
+<p class="affiliate-html"><strong>Quick pick:</strong> <a href="https://www.amazon.com/dp/B0CMZCK9PR?tag=ouchidougub03-20">Timemore Chestnut S3</a> — the grinder I use, about 30g at a time for 2–3 cups. (ad)</p>
+
 Here's the bottom line first. If it is going to sit at home, we recommend the Timemore Chestnut S3. I usually use it and grind about 30g at a time, for 2–3 cups. If you want light turning or something that packs away, we recommend the **EPEIOS Essence Go**. I do not use the Chestnut S5 Pro.
 
 ## 1. Burr size
