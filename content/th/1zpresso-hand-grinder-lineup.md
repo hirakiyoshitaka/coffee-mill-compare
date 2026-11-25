@@ -80,15 +80,15 @@ J-Ultra คือขั้นละ 8 ไมครอน ที่ 1Zpresso เ�
 
 ผลการค้นหาบน Amazon ญี่ปุ่นอาจปนรุ่นอื่น ก่อนสั่งให้เทียบชื่อรุ่นในชื่อสินค้า และตรวจจากหน้านั้นว่าส่งถึงที่อยู่ของคุณได้หรือไม่
 
-[ค้นหา 1Zpresso Q2 บน Amazon.co.jp](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=1Zpresso+Q2)
+[ค้นหา 1Zpresso Q2 บน Amazon.com](https://www.amazon.com/s?k=1Zpresso+Q2&tag=ouchidougub03-20)
 
-[ค้นหา 1Zpresso X-Ultra บน Amazon.co.jp](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=1Zpresso+X-Ultra)
+[ค้นหา 1Zpresso X-Ultra บน Amazon.com](https://www.amazon.com/s?k=1Zpresso+X-Ultra&tag=ouchidougub03-20)
 
-[ค้นหา 1Zpresso ZP6 บน Amazon.co.jp](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=1Zpresso+ZP6)
+[ค้นหา 1Zpresso ZP6 บน Amazon.com](https://www.amazon.com/s?k=1Zpresso+ZP6+Special&tag=ouchidougub03-20)
 
-[ค้นหา 1Zpresso K-Ultra บน Amazon.co.jp](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=1Zpresso+K-Ultra)
+[ค้นหา 1Zpresso K-Ultra บน Amazon.com](https://www.amazon.com/s?k=1Zpresso+K-Ultra&tag=ouchidougub03-20)
 
-[ค้นหา 1Zpresso J-Ultra บน Amazon.co.jp](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=1Zpresso+J-Ultra)
+[ค้นหา 1Zpresso J-Ultra บน Amazon.com](https://www.amazon.com/s?k=1Zpresso+J-Ultra&tag=ouchidougub03-20)
 
 ## แหล่งที่มา
 

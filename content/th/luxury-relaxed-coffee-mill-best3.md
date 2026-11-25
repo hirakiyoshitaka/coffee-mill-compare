@@ -27,7 +27,7 @@ date: "2026-11-02"
 
 {{grinder:timemore-chestnut-s3}}
 
-[ดู TIMEMORE Chestnut S3 บน Amazon.co.jp](https://www.amazon.co.jp/dp/B0CMZCK9PR?tag=stocknotelife-22)
+[ดู TIMEMORE Chestnut S3 บน Amazon.com](https://www.amazon.com/s?k=TIMEMORE+Chestnut+S3&tag=ouchidougub03-20)
 
 ## 2. EPEIOS Essence Go
 
@@ -39,7 +39,7 @@ date: "2026-11-02"
 
 {{grinder:epeios-essence-go}}
 
-[ดู EPEIOS Essence Go บน Amazon.co.jp](https://www.amazon.co.jp/dp/B0D3PZHGBX?tag=stocknotelife-22)
+[ดู EPEIOS Essence Go บน Amazon.com](https://www.amazon.com/s?k=Epeios+Essence+Go&tag=ouchidougub03-20)
 
 ## 3. Comandante C40 MK4 — สรุปรีวิว
 
@@ -51,7 +51,7 @@ date: "2026-11-02"
 - หน้าสินค้าทางการที่เปิดวันนั้นไม่มีน้ำหนักเป็นกรัม และไม่มีราคาเยน
 - ไม่ได้เขียนว่ารสชาติดีกว่าหรือด้อยกว่า Timemore
 
-[ค้นหา Comandante C40 บน Amazon.co.jp](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=%E3%82%B3%E3%83%9E%E3%83%B3%E3%83%80%E3%83%B3%E3%83%86+C40)
+[ค้นหา Comandante C40 บน Amazon.com](https://www.amazon.com/s?k=Comandante+C40+MK4+Nitro+Blade&tag=ouchidougub03-20)
 
 ผลการค้นหาปนรุ่นอื่น ตรวจว่าชื่อสินค้าเป็น MK4 Nitro Blade
 
@@ -65,7 +65,7 @@ date: "2026-11-02"
 
 1Zpresso K-Ultra ไม่อยู่ในสามรุ่นนี้ ไม่ได้ใช้ ตำแหน่งที่ทางการวางไว้ ในฐานะเครื่องเดียวที่ข้ามวิธีชง อยู่ใน [วิธีเลือกเครื่องบดมือ 1Zpresso](/th/articles/1zpresso-hand-grinder-lineup/)
 
-[ค้นหา 1Zpresso K-Ultra บน Amazon.co.jp](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=1Zpresso+K-Ultra)
+[ค้นหา 1Zpresso K-Ultra บน Amazon.com](https://www.amazon.com/s?k=1Zpresso+K-Ultra&tag=ouchidougub03-20)
 
 ## เมล็ดหลังจากบด
 

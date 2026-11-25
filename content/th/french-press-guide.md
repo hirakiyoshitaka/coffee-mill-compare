@@ -46,7 +46,7 @@ Cafe Press U เป็นแก้วทนความร้อน ปากก
 
 คำค้นด้านล่างเป็นชื่อสินค้าภาษาญี่ปุ่น
 
-[ค้นหา HARIO Cafe Press U บน Amazon.co.jp](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=HARIO+%E3%82%AB%E3%83%95%E3%82%A7%E3%83%97%E3%83%AC%E3%82%B9)
+[ค้นหา HARIO Cafe Press U บน Amazon.com](https://www.amazon.com/s?k=HARIO+Cafe+Press+U&tag=ouchidougub03-20)
 
 ### HARIO Harior 7
 
@@ -56,7 +56,7 @@ Cafe Press U เป็นแก้วทนความร้อน ปากก
 
 คำค้นด้านล่างเป็นชื่อสินค้าภาษาญี่ปุ่น
 
-[ค้นหา HARIO Harior 7 บน Amazon.co.jp](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=%E3%83%8F%E3%83%AA%E3%82%AA%E3%83%BC%E3%83%AB)
+[ค้นหา HARIO Harior 7 บน Amazon.com](https://www.amazon.com/s?k=HARIO+Harior+7&tag=ouchidougub03-20)
 
 ### BODUM Chambord
 
@@ -66,7 +66,7 @@ Chambord เป็นซีรีส์ที่ BODUM วางไว้เป�
 
 ขั้นตอนที่หน้าเพจเขียนไว้มีดังนี้ ผงบดหยาบ หนึ่งช้อนชาปาดเรียบต่อถ้วย (ประมาณ 4 ออนซ์) หรือสคูปของ BODUM หนึ่งสคูป น้ำ 92–96℃ เว้นด้านบนอย่างน้อย 2.5cm คนด้วยช้อนพลาสติกหรือไม้ ปิดปากเท รอ 4 นาที แล้วกดก้านลงช้า ๆ นี่เป็นคำอธิบายของ BODUM ไม่ใช่บันทึกเวลาที่เว็บนี้จับเอง หน้าของ HARIO ทั้งสองรุ่นไม่มีเวลาและอุณหภูมินี้
 
-[ค้นหา BODUM Chambord บน Amazon.co.jp](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=BODUM+CHAMBORD)
+[ค้นหา BODUM Chambord บน Amazon.com](https://www.amazon.com/s?k=BODUM+Chambord&tag=ouchidougub03-20)
 
 ผลการค้นหาจะปนกาน้ำชาและความจุอื่น ให้เทียบรหัสและความจุจากชื่อสินค้า
 

@@ -84,7 +84,7 @@ Oracle รุ่นล่าสุดบด ตวง และแทมป์�
 - **ที่ถูกทักซ้ำ ๆ:** ตัวเครื่องลึก (BBC Good Food) Balance Journal ให้ 7.5/10 และเขียนว่าราคาลงตัวเมื่อดื่มทั้งร้อนและเย็นเป็นประจำ
 - **เหมาะกับใคร:** บ้านที่อยากให้เครื่องเดียวรับลาเต้ในหน้าหนาวและน้ำแข็งในหน้าร้อน
 
-[ค้นหา Eletta Explore บน Amazon.co.jp](https://www.amazon.co.jp/s?k=デロンギ+エレッタ+エクスプロア&tag=stocknotelife-22)
+[ค้นหา Eletta Explore บน Amazon.com](https://www.amazon.com/s?k=DeLonghi+Eletta+Explore&tag=ouchidougub03-20)
 
 คำค้นเป็นชื่อสินค้าภาษาญี่ปุ่น ผลลัพธ์อาจปนรุ่นอื่น ให้เทียบรุ่นจากชื่อสินค้า [เว็บทางการ De'Longhi สหรัฐ](https://www.delonghi.com/en-us) · [เว็บทางการ De'Longhi อังกฤษ](https://www.delonghi.com/en-gb)
 
@@ -96,7 +96,7 @@ Oracle รุ่นล่าสุดบด ตวง และแทมป์�
 - **ที่ถูกทักซ้ำ ๆ:** The Guardian มองว่าเสียงเครื่องบดดัง และเนื้อนมยังมีที่ให้ดีขึ้น ทำโคลด์บรูไม่ได้ (Balance Journal)
 - **เหมาะกับใคร:** บ้านที่อยากกดแล้วได้แก้ว และชอบสลับเมล็ด
 
-[ดู Rivelia บน Amazon.co.jp](https://www.amazon.co.jp/dp/B0F1FBXFBL?tag=stocknotelife-22) · [เว็บทางการ De'Longhi สหรัฐ](https://www.delonghi.com/en-us) · [เว็บทางการ De'Longhi อังกฤษ](https://www.delonghi.com/en-gb)
+[ดู Rivelia บน Amazon.com](https://www.amazon.com/s?k=DeLonghi+Rivelia&tag=ouchidougub03-20) · [เว็บทางการ De'Longhi สหรัฐ](https://www.delonghi.com/en-us) · [เว็บทางการ De'Longhi อังกฤษ](https://www.delonghi.com/en-gb)
 
 สินค้าบางรายการบน Amazon.co.jp เปิดการจัดส่งระหว่างประเทศ ว่าส่งถึงที่อยู่ของคุณได้หรือไม่ ค่าส่ง และภาษี แสดงที่หน้าชำระเงิน จำนวนเงินด้านบนเป็นราคาตลาดญี่ปุ่น (เยน) หรือราคาหน้าร้านต่างประเทศ
 
