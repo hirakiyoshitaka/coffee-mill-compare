@@ -1,5 +1,6 @@
 import Image from "next/image";
 import { affiliateRel, isHttpUrl } from "@/lib/affiliate";
+import { englishHandGrinderAmazonUrl, localesWithUsAmazon } from "@/config/us-amazon";
 import type { GrinderModel } from "@/data/grinders";
 import type { SiteLocale } from "@/lib/i18n";
 
@@ -36,14 +37,16 @@ export function ProductVisual({ model, variant = "card", locale = "ja" }: { mode
         ? "(min-width: 640px) 14rem, 100vw"
         : "(min-width: 1100px) 30vw, (min-width: 720px) 45vw, 100vw";
   const rakutenHosted = /^https:\/\/(?:[\w.-]+\.)?(?:rakuten\.co\.jp|r10s\.jp)\//i.test(model.imageUrl ?? "");
-  const allowJpAmazon = locale !== "en" && locale !== "zh-tw";
+  // 日本タグの画像リンクは日本語ページだけ。英語・ko・zh-hk・zh-cn・th・vi は
+  // 米国タグの商品ページへ（ASIN 確認済みの手挽きミルのみ。なければ楽天へ）。
+  // 繁體中文（台灣）は Shopee TW が経路のため Amazon の画像リンクは出さない。
+  const usAmazonUrl = localesWithUsAmazon.has(locale) ? englishHandGrinderAmazonUrl(model) : undefined;
+  const allowJpAmazon = locale === "ja";
   // 楽天の商品画像は楽天の購入リンクへ。それ以外の写真は、Amazon の購入リンクがあればそちらを優先する。
-  // 英語と繁體中文（台灣）は、海外の Amazon タグが無いので日本タグの画像リンクを出さない。
   const imageLinkUrl = rakutenHosted
     ? model.rakutenUrl
-    : allowJpAmazon && isHttpUrl(model.amazonUrl)
-      ? model.amazonUrl
-      : model.rakutenUrl;
+    : usAmazonUrl ??
+      (allowJpAmazon && isHttpUrl(model.amazonUrl) ? model.amazonUrl : model.rakutenUrl);
   const linked = isHttpUrl(imageLinkUrl);
   const inner = (
     <>

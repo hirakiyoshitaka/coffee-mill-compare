@@ -1,5 +1,13 @@
 import { jpAmazonAssociateTag } from "@/lib/affiliate";
 import type { GrinderType } from "@/data/grinders";
+import type { SiteLocale } from "@/lib/i18n";
+
+/**
+ * amazon.com の米国タグ（ouchidougub03-20）で購入リンクを出す言語。
+ * 記事本文のリンクは #288〜#292 で同タグの型番検索に切替済み。
+ * zh-tw は Shopee TW が経路のため対象外。日本語は日本タグのまま。
+ */
+export const localesWithUsAmazon = new Set<SiteLocale>(["en", "ko", "zh-hk", "zh-cn", "th", "vi"]);
 
 /**
  * 英語ページの手挽きミル向け、amazon.com のアソシエイトタグ。
