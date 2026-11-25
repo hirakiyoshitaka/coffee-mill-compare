@@ -1,6 +1,6 @@
 ---
 title: "Breville (Sage) vs De'Longhi: The Latest All-in-One Espresso Machines Compared (2026)"
-description: "Six current espresso machines with a built-in grinder — Breville Oracle Jet, Barista Touch Impress and Barista Express Impress vs De'Longhi Eletta Explore, Rivelia and La Specialista Touch. Specs, US/UK prices checked late October 2026, and what published reviews say. We have not used these machines."
+description: "Six current espresso machines with a built-in grinder — Breville Oracle Jet, Barista Touch Impress and Barista Express Impress vs De'Longhi Eletta Explore, Rivelia and La Specialista Touch. Specs, price bands, and what published reviews say. We have not used these machines."
 category: "espresso-machine"
 date: "2026-11-01"
 ---
@@ -9,18 +9,18 @@ Fresh beans in, café drink out — that is the promise of an all-in-one espress
 
 The two brands start from different ideas. **Breville keeps you at the portafilter**: you still lock in a basket and watch the shot, but the machine grinds, doses, tamps (fully or partly) and textures the milk for you. **De'Longhi's flagships are mostly true bean-to-cup**: press a picture on the screen and the drink comes out, no portafilter at all — with La Specialista Touch as its answer to Breville's guided style.
 
-To be upfront: **we have not used any of these six machines.** Everything below comes from the makers' published specs, retailer listings, and reviews from outlets that tested them (linked inline). Prices move constantly, especially around Black Friday, so treat every number as a snapshot from late October 2026 and check the retailer before buying.
+To be upfront: **we have not used any of these six machines.** Everything below comes from the makers' published specs, retailer listings, and reviews from outlets that tested them (linked inline). Prices move constantly, especially around Black Friday, so check the retailer before buying. Prices below are bands, not list prices.
 
 ## The six machines at a glance
 
-| Machine | Style | Grinder | Milk | Cold drinks | US list price | UK price seen |
-|---|---|---|---|---|---|---|
-| Breville **Oracle Jet** (BES985) | Automatic grind, dose & tamp, 58 mm portafilter | Baratza burrs, 45 settings | Hands-free auto wand | Yes, cold brew / cold espresso presets | $1,999.95 | £1,699 (Sage, via John Lewis) |
-| Breville **Barista Touch Impress** (BES881 / Sage BES882) | Guided, assisted lever tamp | Baratza burrs | Auto MilQ wand | Yes (cold extraction) | $1,499.95 | £1,199.95 |
-| Breville **Barista Express Impress** (BES876) | Semi-auto, assisted tamp, 54 mm | Steel conical burrs, 25 settings | Manual steam wand | No | $799.95 | £599.95 |
-| De'Longhi **Eletta Explore** | Fully automatic bean-to-cup | Built-in, Bean Adapt via app | LatteCrema Hot & Cool, automatic | Yes, Cold Extraction cold brew (~5 min) | about $1,865 seen | £899.99–£999.99 |
-| De'Longhi **Rivelia** | Fully automatic bean-to-cup | Built-in, two swappable 250 g hoppers (Bean Switch) | LatteCrema, automatic | Cold-milk menu with optional accessory | about $1,300 seen | £649.99–£749.99 |
-| De'Longhi **La Specialista Touch** | Semi-automatic, guided | Built-in, 15 settings | Auto LatteArt wand, 5 foam levels | Yes, hot and cold drinks | check retailer | £699.99 |
+| Machine | Style | Grinder | Milk | Cold drinks | Price band |
+|---|---|---|---|---|---|
+| Breville **Oracle Jet** (BES985) | Automatic grind, dose & tamp, 58 mm portafilter | Baratza burrs, 45 settings | Hands-free auto wand | Yes, cold brew / cold espresso presets | $1,500–$2,000 |
+| Breville **Barista Touch Impress** (BES881 / Sage BES882) | Guided, assisted lever tamp | Baratza burrs | Auto MilQ wand | Yes (cold extraction) | $1,000–$1,500 |
+| Breville **Barista Express Impress** (BES876) | Semi-auto, assisted tamp, 54 mm | Steel conical burrs, 25 settings | Manual steam wand | No | under $1,000 |
+| De'Longhi **Eletta Explore** | Fully automatic bean-to-cup | Built-in, Bean Adapt via app | LatteCrema Hot & Cool, automatic | Yes, Cold Extraction cold brew (~5 min) | $1,500–$2,000 |
+| De'Longhi **Rivelia** | Fully automatic bean-to-cup | Built-in, two swappable 250 g hoppers (Bean Switch) | LatteCrema, automatic | Cold-milk menu with optional accessory | $1,000–$1,500 |
+| De'Longhi **La Specialista Touch** | Semi-automatic, guided | Built-in, 15 settings | Auto LatteArt wand, 5 foam levels | Yes, hot and cold drinks | under $1,000 |
 
 Sources: Breville US product pages and US retailers (Macy's, Bloomingdale's, Sur La Table); [Crema Karma's spec table](https://cremakarma.com/breville-barista-express-impress-vs-oracle-jet/); [Sage UK](https://www.sageappliances.com/en-gb/product/bes882) and John Lewis; [The Guardian](https://www.theguardian.com/thefilter/2026/apr/05/best-bean-cup-coffee-machines-tested-uk), [BBC Good Food](https://www.bbcgoodfood.com/review/best-delonghi-coffee-machine) and [Balance Journal](https://balancejournal.co/food-drink/delonghi-eletta-explore-review) for UK De'Longhi prices. De'Longhi US figures are retailer prices we saw quoted, not list prices — verify before buying.
 
