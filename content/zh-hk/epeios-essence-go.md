@@ -35,7 +35,7 @@ date: "2026-10-27"
 
 星等為投稿者或 Amazon 顯示，非本站評分。
 
-2026 年 10 月 26 日查看 Amazon.co.jp 商品頁（[ASIN B0D3PZHGBX](https://www.amazon.co.jp/dp/B0D3PZHGBX?tag=stocknotelife-22)），評價為 4.3 / 5 顆星，共 125 則全球評分。Amazon 註明這不是單純平均值。
+2026 年 10 月 26 日查看 Amazon.co.jp 商品頁（ASIN B0D3PZHGBX），評價為 4.3 / 5 顆星，共 125 則全球評分。Amazon 註明這不是單純平均值。
 
 同頁日本買家評論（摘要翻譯）：
 
@@ -55,7 +55,7 @@ date: "2026-10-27"
 
 日本 Amazon（Amazon.co.jp）可透過 AmazonGlobal 寄送到香港，但並非所有商品都可寄送，運費亦因商品而異，請在結帳頁確認。文中價格均為日本市場價格（日圓），並非香港售價。
 
-- [在 Amazon.co.jp 查看 Epeios Essence Go](https://www.amazon.co.jp/dp/B0D3PZHGBX?tag=stocknotelife-22)
+- [在 Amazon.com 搜尋 Epeios Essence Go](https://www.amazon.com/s?k=Epeios+Essence+Go&tag=ouchidougub03-20)
 
 ## 廣告揭露
 
