@@ -84,7 +84,7 @@ date: "2026-11-01"
 - **반복되는 지적:** 본체가 깊습니다(BBC Good Food). Balance Journal은 7.5/10을 주고, 핫과 콜드를 둘 다 일상으로 마실 때 가격이 맞는다고 적었습니다.
 - **이런 분에게:** 겨울에는 라테, 여름에는 아이스를 한 대로 해결하고 싶은 집.
 
-[Amazon.co.jp에서 엘레타 익스플로어 보기](https://www.amazon.co.jp/s?k=デロンギ+エレッタ+エクスプロア&tag=stocknotelife-22)
+[Amazon.com에서 엘레타 익스플로어 보기](https://www.amazon.com/s?k=DeLonghi+Eletta+Explore&tag=ouchidougub03-20)
 
 검색어는 일본어 상품명입니다. 결과에 다른 모델이 섞일 수 있으니, 상품명에서 기종을 맞추세요. [드롱기 미국 공식](https://www.delonghi.com/en-us) · [드롱기 영국 공식](https://www.delonghi.com/en-gb)
 
@@ -96,7 +96,7 @@ date: "2026-11-01"
 - **반복되는 지적:** The Guardian은 그라인더 소음과 우유 질감에 아직 여지가 있다고 했습니다. 콜드브루는 되지 않습니다(Balance Journal).
 - **이런 분에게:** 원터치로 마시고, 원두를 바꿔 가며 쓰는 집.
 
-[Amazon.co.jp에서 리벨리아 보기](https://www.amazon.co.jp/dp/B0F1FBXFBL?tag=stocknotelife-22) · [드롱기 미국 공식](https://www.delonghi.com/en-us) · [드롱기 영국 공식](https://www.delonghi.com/en-gb)
+[Amazon.com에서 리벨리아 보기](https://www.amazon.com/s?k=DeLonghi+Rivelia&tag=ouchidougub03-20) · [드롱기 미국 공식](https://www.delonghi.com/en-us) · [드롱기 영국 공식](https://www.delonghi.com/en-gb)
 
 일본 아마존(Amazon.co.jp)은 AmazonGlobal로 한국 배송을 여는 상품이 있습니다. 배송 가능 여부, 배송비, 관세·부가세는 상품마다 다르고 결제 화면에 나옵니다. 위 금액은 일본 시장(엔) 또는 해외 매장 가격입니다.
 
@@ -122,4 +122,4 @@ date: "2026-11-01"
 - **깊이.** 여러 대가 앞뒤로 깊습니다. 상부장 아래를 자로 재 보세요.
 - **버튼보다 원두와 분쇄.** 좋은 그라인더도 원두가 가진 것 이상은 보여 주지 못합니다. 손밀로 에스프레소 클릭을 보려면 [1Zpresso 핸드밀 라인업](/ko/articles/1zpresso-hand-grinder-lineup/)의 J-Ultra 항목을, 손밀과 전동의 차이는 [핸드밀 vs 전동 그라인더](/ko/articles/hand-vs-electric-coffee-mill/)를 보세요. 이 사이트가 공식 에스프레소 범위까지 확인한 손밀은 [타임모어 S5 프로](/ko/articles/timemore-chestnut-s5-pro/)입니다. 드립 기계 쪽이 궁금하면 [발뮤다 더 브루와 트윈버드](/ko/articles/japanese-premium-coffee-makers/)로 가면 됩니다. 머신을 두지 않고 불 위에서 올리려면 [모카포트 고르는 법](/ko/articles/moka-pot-guide/)입니다. 모카포트는 이 글의 압력이 아닙니다. 담가 두고 누르는 프렌치프레스는 [프렌치프레스 고르는 법](/ko/articles/french-press-guide/)입니다.
 
-이 페이지의 Amazon.co.jp 링크는 제휴 링크입니다. 브레빌·Sage·드롱기 공식 사이트로 가는 링크는 광고가 아닙니다. 자세한 내용은 [광고 고지](/ko/disclosure/)에 있습니다.
+이 페이지의 Amazon.com 링크는 제휴 링크입니다. 브레빌·Sage·드롱기 공식 사이트로 가는 링크는 광고가 아닙니다. 자세한 내용은 [광고 고지](/ko/disclosure/)에 있습니다.

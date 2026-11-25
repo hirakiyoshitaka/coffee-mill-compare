@@ -82,15 +82,15 @@ J-Ultra는 1Zpresso가 라인업에서 가장 촘촘하다고 부르는 8마이�
 
 일본 아마존 검색에는 다른 형번이 섞입니다. 주문 전에 상품명의 모델명을 맞추세요. 한국 배송 가능 여부도 상품 페이지 기준입니다.
 
-[Amazon.co.jp에서 1Zpresso Q2 보기](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=1Zpresso+Q2)
+[Amazon.com에서 1Zpresso Q2 보기](https://www.amazon.com/s?k=1Zpresso+Q2&tag=ouchidougub03-20)
 
-[Amazon.co.jp에서 1Zpresso X-Ultra 보기](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=1Zpresso+X-Ultra)
+[Amazon.com에서 1Zpresso X-Ultra 보기](https://www.amazon.com/s?k=1Zpresso+X-Ultra&tag=ouchidougub03-20)
 
-[Amazon.co.jp에서 1Zpresso ZP6 보기](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=1Zpresso+ZP6)
+[Amazon.com에서 1Zpresso ZP6 보기](https://www.amazon.com/s?k=1Zpresso+ZP6+Special&tag=ouchidougub03-20)
 
-[Amazon.co.jp에서 1Zpresso K-Ultra 보기](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=1Zpresso+K-Ultra)
+[Amazon.com에서 1Zpresso K-Ultra 보기](https://www.amazon.com/s?k=1Zpresso+K-Ultra&tag=ouchidougub03-20)
 
-[Amazon.co.jp에서 1Zpresso J-Ultra 보기](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=1Zpresso+J-Ultra)
+[Amazon.com에서 1Zpresso J-Ultra 보기](https://www.amazon.com/s?k=1Zpresso+J-Ultra&tag=ouchidougub03-20)
 
 ## 출처
 

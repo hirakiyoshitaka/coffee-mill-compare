@@ -34,7 +34,7 @@ date: "2026-11-01"
 - **구매자가 자주 말하는 점:** 아마존 재팬 5점 만점에 4.3 (166건). 디자인, 추출을 구경하는 재미, 깔끔한 맛이 반복됩니다.
 - **같이 볼 점:** 가격.com 구매자 리뷰 평균은 3.45 (24건)라, 평가가 갈립니다. 그라인더가 없고, 최대 3잔이며, 보온판이 없습니다.
 
-[Amazon.co.jp에서 발뮤다 더 브루 보기](https://www.amazon.co.jp/dp/B09DY6CDHZ?tag=stocknotelife-22) · [발뮤다 공식](https://www.balmuda.com/jp/brew)
+[Amazon.com에서 발뮤다 더 브루 보기](https://www.amazon.com/s?k=BALMUDA+The+Brew+K06A&tag=ouchidougub03-20) · [발뮤다 공식](https://www.balmuda.com/jp/brew)
 
 그라인더가 없습니다. 집에 둘 첫 손밀의 기준은 [처음 사는 핸드 그라인더](/ko/articles/how-to-choose-hand-coffee-mill/)에, 역할을 나눠 1Zpresso를 보려면 [1Zpresso 핸드밀 라인업](/ko/articles/1zpresso-hand-grinder-lineup/)에 있습니다. 운영자는 1Zpresso를 쓰지 않았고, 타임모어 밤 S3와 에페이오스 에센스 고는 실제로 씁니다. S3는 한 번에 약 30g, 2–3잔분입니다. S5 프로는 쓰지 않습니다.
 
@@ -45,7 +45,7 @@ date: "2026-11-01"
 - **구매자가 자주 말하는 점:** 가격.com 4.53 (21건), 아마존 재팬 5점 만점에 4.4 (420건). 맛을 꼽는 글이 많습니다.
 - **같이 볼 점:** 높이 42.5cm라, 상부장 아래 공간을 봐야 합니다.
 
-[Amazon.co.jp에서 트윈버드 CM-D465B 보기](https://www.amazon.co.jp/dp/B081SWNSGW?tag=stocknotelife-22)
+[Amazon.com에서 트윈버드 CM-D465B 보기](https://www.amazon.com/s?k=TWINBIRD+CM-D465B&tag=ouchidougub03-20)
 
 ## 트윈버드 CM-D457B (3잔): 같은 방식, 작은 본체
 
@@ -54,7 +54,7 @@ date: "2026-11-01"
 - **구매자가 자주 말하는 점:** 가격.com 4.46 (40건), 아마존 재팬 5점 만점에 4.4 (822건). 파나소닉에서 갈아탄 구매자가, 중요한 건 맛이라며 이전 기기보다 높게 적은 리뷰가 있습니다.
 - **같이 볼 점:** 일본 로스터 채널 Nif Coffee의 [영상 리뷰](https://www.youtube.com/watch?v=TxNSjOgK1K8)에서는 3잔을 가는 데 약 4분 16초가 걸렸고, 물과 원두는 매번 직접 재야 합니다. 가격.com에도 밀 청소가 번거롭다는 글이 있습니다.
 
-[Amazon.co.jp에서 트윈버드 CM-D457B 보기](https://www.amazon.co.jp/dp/B07HFP6H3L?tag=stocknotelife-22) · [트윈버드 공식 스토어 (일본)](https://store.twinbird.jp/products/cmd457)
+[Amazon.com에서 트윈버드 CM-D457B 보기](https://www.amazon.com/s?k=TWINBIRD+CM-D457B&tag=ouchidougub03-20) · [트윈버드 공식 스토어 (일본)](https://store.twinbird.jp/products/cmd457)
 
 ## 어떤 한 대인가
 

@@ -45,7 +45,7 @@ date: "2026-11-01"
 
 열탕·전자레인지·식기세척기에 표시가 있고, 오븐·인덕션·직화에는 없습니다. 유리를 불에 올리지 않는다는 전제입니다. HARIO 드립 레시피에서 쓰는 1잔 120mL는 취급 설명 PDF의 숫자이고, 이 서버 페이지의 「1–3잔」과는 다른 문서입니다. 이 서버 페이지만 보고 한 잔의 mL을 계산하지 마세요.
 
-[Amazon.co.jp에서 HARIO V60 레인지 서버 보기](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=HARIO+V60+%E3%83%AC%E3%83%B3%E3%82%B8%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC)
+[Amazon.com에서 HARIO V60 레인지 서버 보기](https://www.amazon.com/s?k=HARIO+V60+Range+Server&tag=ouchidougub03-20)
 
 ### 칼리타 300 서버 N과 500 서버 N
 
@@ -55,7 +55,7 @@ date: "2026-11-01"
 
 칼리타의 자주 묻는 질문에는, 그 회사의 내열 유리 일반에 대해, 내열 온도차 120℃는 「120℃까지만 쓸 수 있다」가 아니라 급열 급냉의 차이라는 설명이 있습니다. 300 서버 N과 500 서버 N의 개별 시험 결과로 이 글이 옮긴 것은 아닙니다. 직화·오븐·빈 가열을 하지 말라는 주의도, 그 질문 페이지의 유리 일반 문장입니다.
 
-[Amazon.co.jp에서 Kalita 커피 서버 보기](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=%E3%82%AB%E3%83%AA%E3%82%BF+%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC)
+[Amazon.com에서 Kalita 커피 서버 보기](https://www.amazon.com/s?k=Kalita+Coffee+Server&tag=ouchidougub03-20)
 
 ### HARIO V60 메탈 커피 서버
 
@@ -63,7 +63,7 @@ date: "2026-11-01"
 
 표시가 있던 것은 열탕, 식기세척기, 직화입니다. 전자레인지에는 표시가 없습니다. 금속 용기를 전자레인지에 넣는 전제로 보지 마세요. 유리 레인지 서버와는, 다시 데우는 곳이 다릅니다.
 
-[Amazon.co.jp에서 HARIO 메탈 커피 서버 보기](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=HARIO+%E3%83%A1%E3%82%BF%E3%83%AB%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC)
+[Amazon.com에서 HARIO 메탈 커피 서버 보기](https://www.amazon.com/s?k=HARIO+V60+Metal+Coffee+Server&tag=ouchidougub03-20)
 
 검색 결과에는 드리퍼와 머그가 섞입니다. 서버인지, 품번인지를 상품명에서 맞추세요.
 
