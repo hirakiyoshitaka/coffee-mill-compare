@@ -30,17 +30,17 @@ date: "2026-11-01"
 
 아래는 광고 링크입니다. 가격과 재고는 상점 페이지에서 확인하세요. 검색 결과에는 다른 용량과 티포트가 섞입니다. 품번과 용량을 상품명에서 맞추세요.
 
-<!-- Same Amazon.co.jp URLs as the buttons below, kept as Markdown so the pick list still names them. -->
+<!-- Same Amazon.com URLs as the buttons below, kept as Markdown so the pick list still names them. -->
 <!--
-[Amazon.co.jp에서 HARIO 카페프레스 U 보기](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=HARIO+%E3%82%AB%E3%83%95%E3%82%A7%E3%83%97%E3%83%AC%E3%82%B9)
-[Amazon.co.jp에서 HARIO 하리오르 7 보기](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=%E3%83%8F%E3%83%AA%E3%82%AA%E3%83%BC%E3%83%AB)
-[Amazon.co.jp에서 BODUM 샹보르 보기](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=BODUM+CHAMBORD)
+[Amazon.com에서 HARIO 카페프레스 U 보기](https://www.amazon.com/s?k=HARIO+Cafe+Press+U&tag=ouchidougub03-20)
+[Amazon.com에서 HARIO 하리오르 7 보기](https://www.amazon.com/s?k=HARIO+Harior+7&tag=ouchidougub03-20)
+[Amazon.com에서 BODUM 샹보르 보기](https://www.amazon.com/s?k=BODUM+Chambord&tag=ouchidougub03-20)
 -->
 
 <div class="cta-after-table">
-<a href="https://www.amazon.co.jp/s?tag=stocknotelife-22&amp;k=HARIO+%E3%82%AB%E3%83%95%E3%82%A7%E3%83%97%E3%83%AC%E3%82%B9" class="buy-link">Amazon.co.jp에서 HARIO 카페프레스 U 보기</a>
-<a href="https://www.amazon.co.jp/s?tag=stocknotelife-22&amp;k=%E3%83%8F%E3%83%AA%E3%82%AA%E3%83%BC%E3%83%AB" class="buy-link">Amazon.co.jp에서 HARIO 하리오르 7 보기</a>
-<a href="https://www.amazon.co.jp/s?tag=stocknotelife-22&amp;k=BODUM+CHAMBORD" class="buy-link">Amazon.co.jp에서 BODUM 샹보르 보기</a>
+<a href="https://www.amazon.com/s?k=HARIO+Cafe+Press+U&amp;tag=ouchidougub03-20" class="buy-link">Amazon.com에서 HARIO 카페프레스 U 보기</a>
+<a href="https://www.amazon.com/s?k=HARIO+Harior+7&amp;tag=ouchidougub03-20" class="buy-link">Amazon.com에서 HARIO 하리오르 7 보기</a>
+<a href="https://www.amazon.com/s?k=BODUM+Chambord&amp;tag=ouchidougub03-20" class="buy-link">Amazon.com에서 BODUM 샹보르 보기</a>
 </div>
 
 ## 다음에 볼 글
@@ -81,7 +81,7 @@ date: "2026-11-01"
 
 전자레인지와 직화에는 표시가 없습니다. 유리를 불에 올리지 않는다는 전제로 보세요.
 
-[Amazon.co.jp에서 HARIO 카페프레스 U 보기](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=HARIO+%E3%82%AB%E3%83%95%E3%82%A7%E3%83%97%E3%83%AC%E3%82%B9)
+[Amazon.com에서 HARIO 카페프레스 U 보기](https://www.amazon.com/s?k=HARIO+Cafe+Press+U&tag=ouchidougub03-20)
 
 ### HARIO 하리오르 7
 
@@ -89,7 +89,7 @@ date: "2026-11-01"
 
 2잔용 상자 포함 무게는 약 500g, 희망소매가격은 세금 포함 6,600엔입니다. 4잔용은 약 600g, 세금 포함 7,150엔입니다. 구경은 90mm, 원산지는 일본입니다. 열원 표시는 카페프레스 U와 같고, 열탕과 식기세척기에만 붙어 있었습니다.
 
-[Amazon.co.jp에서 HARIO 하리오르 7 보기](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=%E3%83%8F%E3%83%AA%E3%82%AA%E3%83%BC%E3%83%AB)
+[Amazon.com에서 HARIO 하리오르 7 보기](https://www.amazon.com/s?k=HARIO+Harior+7&tag=ouchidougub03-20)
 
 ### BODUM 샹보르
 
@@ -99,7 +99,7 @@ date: "2026-11-01"
 
 페이지에 절차로 적힌 내용은 다음과 같습니다. 굵게 간 가루를, 컵(약 4온스)당 깎아서 티스푼 1, 또는 BODUM 스쿱 1. 물은 92–96℃이고, 위쪽에 최소 2.5cm를 비웁니다. 플라스틱이나 나무 스푼으로 젓고, 주둥이를 닫고 4분을 기다린 뒤, 플런저를 천천히 내립니다. 이것은 BODUM의 설명이고, 이 사이트가 잰 추출 기록이 아닙니다. 하리오 두 모델의 페이지에는 이 시간과 물 온도가 없었습니다.
 
-[Amazon.co.jp에서 BODUM 샹보르 보기](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=BODUM+CHAMBORD)
+[Amazon.com에서 BODUM 샹보르 보기](https://www.amazon.com/s?k=BODUM+Chambord&tag=ouchidougub03-20)
 
 검색 결과에는 티포트와 다른 용량이 섞입니다. 품번과 용량을 상품명에서 맞추세요.
 

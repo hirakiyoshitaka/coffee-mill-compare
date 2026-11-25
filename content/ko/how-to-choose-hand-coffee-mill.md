@@ -64,7 +64,7 @@ date: "2026-10-30"
 
 일본 아마존(Amazon.co.jp)은 AmazonGlobal을 통해 한국으로 배송합니다. 다만 배송비와 배송 가능 여부는 상품마다 다르며, 관세·부가세 예상액과 함께 결제 화면에서 확인하세요. 카드에 나오는 금액은 일본 시장(엔) 기준의 참고 가격이고, 한국 판매가가 아닙니다.
 
-- [Amazon.co.jp에서 코니컬 버 핸드 그라인더 보기](https://www.amazon.co.jp/s?k=manual+coffee+grinder+conical+burr&tag=stocknotelife-22)
+- [Amazon.com에서 코니컬 버 핸드 그라인더 보기](https://www.amazon.com/s?k=manual+coffee+grinder+conical+burr&tag=ouchidougub03-20)
 
 ## 광고 고지
 

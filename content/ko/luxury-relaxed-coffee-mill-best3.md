@@ -33,7 +33,7 @@ date: "2026-11-02"
 
 {{grinder:timemore-chestnut-s3}}
 
-[Amazon.co.jp에서 타임모어 S3 보기](https://www.amazon.co.jp/dp/B0CMZCK9PR?tag=stocknotelife-22)
+[Amazon.com에서 타임모어 S3 보기](https://www.amazon.com/s?k=TIMEMORE+Chestnut+S3&tag=ouchidougub03-20)
 
 ## 2. 에페이오스 에센스 고
 
@@ -45,7 +45,7 @@ date: "2026-11-02"
 
 {{grinder:epeios-essence-go}}
 
-[Amazon.co.jp에서 에페이오스 에센스 고 보기](https://www.amazon.co.jp/dp/B0D3PZHGBX?tag=stocknotelife-22)
+[Amazon.com에서 에페이오스 에센스 고 보기](https://www.amazon.com/s?k=Epeios+Essence+Go&tag=ouchidougub03-20)
 
 ## 3. 코만단테 C40 MK4｜리뷰 정리
 
@@ -57,7 +57,7 @@ date: "2026-11-02"
 - 그날 연 공식 상품 페이지에는 그램도, 엔화 가격도 없었습니다
 - 맛이 타임모어보다 위인지 아래인지는 쓰지 않습니다
 
-[Amazon.co.jp에서 코만단테 C40 찾기](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=%E3%82%B3%E3%83%9E%E3%83%B3%E3%83%80%E3%83%B3%E3%83%86+C40)
+[Amazon.com에서 코만단테 C40 찾기](https://www.amazon.com/s?k=Comandante+C40+MK4+Nitro+Blade&tag=ouchidougub03-20)
 
 검색 결과에는 다른 형번이 섞입니다. 상품명이 MK4 Nitro Blade인지 확인하세요.
 
@@ -65,7 +65,7 @@ date: "2026-11-02"
 
 1Zpresso K-Ultra는 이 세 대에 넣지 않았습니다. 쓰지 않았습니다. 추출 방법을 한 대로 넘나들 때의 공식 위치는 [1Zpresso 핸드밀 라인업](/ko/articles/1zpresso-hand-grinder-lineup/)에 있습니다.
 
-[Amazon.co.jp에서 1Zpresso K-Ultra 찾기](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=1Zpresso+K-Ultra)
+[Amazon.com에서 1Zpresso K-Ultra 찾기](https://www.amazon.com/s?k=1Zpresso+K-Ultra&tag=ouchidougub03-20)
 
 ## 간 다음의 원두
 
