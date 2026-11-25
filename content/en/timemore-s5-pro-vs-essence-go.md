@@ -36,7 +36,7 @@ These figures come from the official pages we checked. Specs can change, so chec
 
 ## Difference 1: burr size and adjustment
 
-The S5 Pro pairs 48mm burrs with a 90-click external dial, so you can make very fine adjustments. It suits the "dial it in once, brew the same cup every morning" approach.
+The S5 Pro pairs 48mm burrs with a 90-click external dial, so you can make very fine adjustments. It suits the "dial it in once, brew the same cup the same way each time" approach.
 
 The Essence Go uses 38mm burrs with 10 blades. EPEIOS says the blade count reduces friction to make the first turns lighter, which matches my experience exactly.
 

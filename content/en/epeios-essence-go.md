@@ -7,7 +7,7 @@ date: "2026-10-27"
 
 The second hand grinder this site recommends is the EPEIOS Essence Go. If the No.1 Timemore Chestnut S3 is the grinder that stays on the counter, this one uses a 10-blade burr to lighten the start of the grind, and it comes apart into a carry case. It holds that place because the job is different. It is not second place in a points contest.
 
-The price guide we keep on the site is ¥23,100 including tax, taken from the official listing and updated by hand when that listing changes. The [June 2024 announcement](https://prtimes.jp/main/html/rd/p/000000097.000059893.html) also gives an expected market price of 23,100 yen including tax, and describes the suggested retail price as open. Check the current store page before you buy. Prices move.
+The price guide we keep on the site is under $200, taken from the official listing and updated by hand when that listing changes. The [June 2024 announcement](https://prtimes.jp/main/html/rd/p/000000097.000059893.html) also gives an expected market price including tax, and describes the suggested retail price as open. Check the current store page before you buy. Prices move.
 
 ## The short answer
 
@@ -65,13 +65,13 @@ On the Amazon.co.jp product page opened on October 26, 2026 (ASIN B0D3PZHGBX), t
 - February 1, 2026, 4 stars, "it grinds with a little force." The body of the review says "it is a bit heavy, but it grinds very lightly"
 - December 14, 2025, 5 stars, "a light grind feel, fine adjustment, and a hand grinder that is easy at home or away." The review mentions the 80 steps, how little the handle catches, a bit of weight, and that it comes apart to carry. It also warns that you cannot wash it with water and need a brush
 
-[every coffee](https://every-coffee.com/article/epeiosessence-go.html) (November 1, 2024) says at the top of the article that EPEIOS provided the unit. With that in mind, the review lands on a clear aroma and a clean cup at this price, and on a light grind even with hard light-roast beans, with an official price of ¥23,100 including tax. It is a review of a provided unit.
+[every coffee](https://every-coffee.com/article/epeiosessence-go.html) (November 1, 2024) says at the top of the article that EPEIOS provided the unit. With that in mind, the review lands on a clear aroma and a clean cup at this price, and on a light grind even with hard light-roast beans. It is a review of a provided unit.
 
 The shared thread is the feel of turning it with little force, and the warning that a finer grind takes longer. The official weight of about 870g is a lighter number than the Chestnut S5 Pro's about 910g. The reviews stop short of calling it a dedicated travel grinder.
 
 ## Why it is No.2 here
 
-If the Chestnut S3 stays at home, the second grinder is an Essence Go that fits in its case, shows the scale from the outside, and is listed in the ¥20,000 range. The supervisor's name and the 10-blade burr are the maker's claims. This page does not say the cup tastes better than the S5 Pro. The two grinders do different jobs. The side-by-side is [Timemore S5 Pro vs EPEIOS Essence Go](/en/articles/timemore-s5-pro-vs-essence-go/). The side-by-side with the Chestnut S3 is [Timemore Chestnut S3 vs EPEIOS Essence Go](/en/articles/timemore-chestnut-s3-vs-epeios-essence-go/).
+If the Chestnut S3 stays at home, the second grinder is an Essence Go that fits in its case, shows the scale from the outside, and is listed in the under-$200 range. The supervisor's name and the 10-blade burr are the maker's claims. This page does not say the cup tastes better than the S5 Pro. The two grinders do different jobs. The side-by-side is [Timemore S5 Pro vs EPEIOS Essence Go](/en/articles/timemore-s5-pro-vs-essence-go/). The side-by-side with the Chestnut S3 is [Timemore Chestnut S3 vs EPEIOS Essence Go](/en/articles/timemore-chestnut-s3-vs-epeios-essence-go/).
 
 Buy buttons appear on the product card when an affiliate URL is set. Our policy is on the [disclosure](/en/disclosure/) page.
 
