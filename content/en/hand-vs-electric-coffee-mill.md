@@ -15,10 +15,10 @@ The first question when buying a coffee grinder is usually "hand or electric?" T
 | Noise | Quiet | Motor noise |
 | Power | None needed | Needs an outlet |
 | Portability | Many models travel well | Mostly stays put |
-| Price (models with even grinds) | Roughly ¥10,000–¥30,000+ in Japan | From around ¥10,000 in Japan |
+| Price (models with even grinds) | Roughly $60–$200+ | From around $60 |
 | Best for | 1–2 cups | Whole household, batch grinding |
 
-The table's hand-grinder prices are for models with an even grind, roughly ¥10,000–¥30,000+ in Japan. The models listed on this site cost over about ¥10,000 as a guide. Prices change.
+The table's hand-grinder prices are for models with an even grind, roughly $60–$200+. The models listed on this site cost over about $60 as a guide. Prices change.
 
 ## Grind quality: burrs on both sides
 

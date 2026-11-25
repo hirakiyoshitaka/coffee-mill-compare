@@ -55,7 +55,7 @@ Grounds left in the burrs mix into the next setting. Brush the old grounds out b
 
 Keep the Chestnut S5 Pro at home if you want a pour-over setting you can leave in place. Choose the Essence Go if you want the lightest turning feel, or a grinder you can take apart and carry. The side-by-side is [Timemore S5 Pro vs EPEIOS Essence Go](/en/articles/timemore-s5-pro-vs-essence-go/). How the four buying criteria line up is in [how to choose your first hand grinder](/en/articles/how-to-choose-hand-coffee-mill/).
 
-The price guides published for both sit above about ¥10,000. Prices change, so confirm them on the store page.
+The price guides published for both sit above about $60. Prices change, so confirm them on the store page.
 
 {{grinder:timemore-chestnut-s5-pro}}
 

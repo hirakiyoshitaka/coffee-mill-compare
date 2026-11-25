@@ -37,7 +37,7 @@ The hand grinder I usually use is the Timemore Chestnut S3. I grind about 30g at
 
 The S5 Pro figures, with the date they were copied, are kept in the [review](/en/articles/timemore-chestnut-s5-pro/). Microns per click for the C40 were not on the product page or the FAQ we opened. This page does not adopt micron numbers from review sites. It also does not check whether a separate part exists to make the clicks finer. For that, use Comandante's accessories page.
 
-## The adjustment is what you feel every morning
+## The adjustment is what you feel in the cup
 
 On the C40 you count clicks from the point where the burrs close. Clockwise is finer. Counterclockwise is coarser. There is no scale on the outside, so the setting is hard to repeat the next morning unless you write it down. That description is the manual's procedure. It is not a count we made ourselves.
 

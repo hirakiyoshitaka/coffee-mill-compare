@@ -11,7 +11,7 @@ I do not use this grinder. It is a review summary of official specs and publishe
 
 <p class="affiliate-html"><a href="https://www.amazon.com/dp/B0CMZCK9PR?tag=ouchidougub03-20">See the Chestnut S3 on Amazon.com</a> (ad)</p>
 
-Treat the price as a rough guide. On October 26, 2026 the [official Japanese product page](https://timemore.jp/products/timemore-manual-coffee-grinderchestnut-s5) showed ¥25,800. That page also called the figure a pre-sale price, and said stock was being replenished with shipping expected around the end of January. Check the same page for tax and whether a unit will actually ship before you buy.
+Treat the price as a rough guide. On October 26, 2026 the [official Japanese product page](https://timemore.jp/products/timemore-manual-coffee-grinderchestnut-s5) showed a pre-sale price, and said stock was being replenished with shipping expected around the end of January. Check the same page for tax and whether a unit will actually ship before you buy.
 
 {{grinder:timemore-chestnut-s5-pro}}
 

@@ -20,7 +20,7 @@ This is a review summary. We have not used any dripper. The facts below are from
 | Drain | Fast; the pour sets the pace | Slower; the taste stays steady | Water pools on a flat bed; the pour matters less |
 | Cup | Bright and adjustable by how you pour | Even and repeatable | Even, with less variation between brews |
 
-A cone suits a drinker who wants to chase a brighter cup by changing the pour. A trapezoid or a wave suits a drinker who wants the same cup every morning with a steadier hand.
+A cone suits a drinker who wants to chase a brighter cup by changing the pour. A trapezoid or a wave suits a drinker who wants the same cup every time with a steadier hand.
 
 ## 1. Cone — the Hario V60
 
