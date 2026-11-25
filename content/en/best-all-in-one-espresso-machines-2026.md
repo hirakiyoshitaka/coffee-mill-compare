@@ -1,13 +1,13 @@
 ---
 title: "Best All-in-One Espresso Machines with a Grinder (2026): Breville and De'Longhi Buying Guide"
-description: "A buying guide to six current espresso machines with built-in grinders from Breville/Sage and De'Longhi, matched to how you like your coffee. Pros, cons and review summaries from published tests; we have not used these machines. Prices checked late October 2026."
+description: "A buying guide to six current espresso machines with built-in grinders from Breville/Sage and De'Longhi, matched to how you like your coffee. Pros, cons and review summaries from published tests; we have not used these machines. Prices shown as bands; check the store page for the current figure."
 category: "espresso-machine"
 date: "2026-11-01"
 ---
 
 The right all-in-one machine depends less on the spec sheet and more on one question: **do you want to make espresso, or just drink it?** This guide matches six current models to that answer.
 
-We have not used these machines. Summaries come from makers' specs and published reviews, linked below. Prices are late-October-2026 snapshots.
+We have not used these machines. Summaries come from makers' specs and published reviews, linked below. Prices below are bands, not list prices. Check the store page for the current figure.
 
 ## Quick picks
 
@@ -20,7 +20,7 @@ We have not used these machines. Summaries come from makers' specs and published
 
 ## Breville Oracle Jet
 
-US $1,999.95 list · UK about £1,699 (Sage)
+Price band: $1,500–$2,000
 
 | Pros | Cons |
 |---|---|
@@ -37,7 +37,7 @@ US $1,999.95 list · UK about £1,699 (Sage)
 
 ## Breville Barista Touch Impress
 
-US $1,499.95 list · UK £1,199.95 (Sage BES882)
+Price band: $1,000–$1,500
 
 | Pros | Cons |
 |---|---|
@@ -54,7 +54,7 @@ US $1,499.95 list · UK £1,199.95 (Sage BES882)
 
 ## Breville Barista Express Impress
 
-US $799.95 list (seen at $649.95 on sale at Macy's) · UK £599.95
+Price band: under $1,000
 
 | Pros | Cons |
 |---|---|
@@ -70,7 +70,7 @@ US $799.95 list (seen at $649.95 on sale at Macy's) · UK £599.95
 
 ## De'Longhi Eletta Explore
 
-UK £899.99–£999.99 · US prices vary by retailer
+Price band: $1,000–$1,500 · US prices vary by retailer
 
 | Pros | Cons |
 |---|---|
@@ -86,7 +86,7 @@ UK £899.99–£999.99 · US prices vary by retailer
 
 ## De'Longhi Rivelia
 
-UK £649.99–£749.99 · US prices vary by retailer
+Price band: under $1,000 · US prices vary by retailer
 
 | Pros | Cons |
 |---|---|
@@ -102,7 +102,7 @@ UK £649.99–£749.99 · US prices vary by retailer
 
 ## De'Longhi La Specialista Touch
 
-UK £699.99
+Price band: under $1,000
 
 | Pros | Cons |
 |---|---|
