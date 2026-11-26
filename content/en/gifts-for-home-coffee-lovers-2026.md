@@ -90,4 +90,10 @@ Beans are the gift that disappears, which is part of the point. One note from th
 
 Prices and stock change, and the same product can be listed by several sellers. Check the seller and the delivery date before ordering.
 
+## Read next
+
+- [Travel Coffee Gear: 5 Picks That Pack Small and Brew Well](/en/articles/travel-coffee-gear/)
+- [Milk Frother Guide: How to Choose One — Jug or Handheld](/en/articles/milk-frother-guide/)
+- [Hand vs Electric Coffee Grinder: Which Is Right for You?](/en/articles/hand-vs-electric-coffee-mill/)
+
 Some links on this page are ads. See our [disclosure](/en/disclosure/).
