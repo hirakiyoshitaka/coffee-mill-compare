@@ -38,17 +38,17 @@ Most manual machines have no boiler and no milk system. You heat the water separ
 
 **Flair 58 Plus 2** — Price band: $500–$1,000
 
-A direct-lever machine with a 58 mm commercial portafilter, a pressure gauge, and an electric preheat controller in the base. The maker lists it at $699. It is the only Flair 58 variant the maker currently sells; older Flair 58 and Flair 58 Plus configurations have been folded into this one.
+A direct-lever machine with a 58 mm commercial portafilter, a pressure gauge, and an electric preheat controller in the base. It is the only Flair 58 variant the maker currently sells; older Flair 58 and Flair 58 Plus configurations have been folded into this one.
 
 <p class="affiliate-html"><a href="https://www.amazon.com/s?k=Flair+58+Plus+2&tag=ouchidougub03-20">Search the Flair 58 Plus 2 on Amazon.com</a> (ad)</p>
 
 **Flair 49 PRO** — Price band: under $500
 
-A smaller direct-lever machine with a built-in pressure gauge, listed around $349 in published roundups.
+A smaller direct-lever machine with a built-in pressure gauge.
 
 **Flair Classic Signature** — Price band: under $200
 
-The entry-level Flair, listed at $119, with a smaller basket than the 58. The cheapest way to try lever espresso.
+The entry-level Flair, with a smaller basket than the 58. A low-cost way to try lever espresso.
 
 **La Pavoni Europiccola** — no price band listed here
 
@@ -68,23 +68,23 @@ Milk is usually a steam wand you work by hand, although compact models automate 
 
 **Breville Bambino (BES450)** — Price band: under $500
 
-Breville's smallest semi-automatic, listed at $299.95. A 54 mm portafilter, a 15-bar pump and a ThermoJet heater the maker rates at about a 3-second heat-up. No built-in grinder and no built-in milk automation beyond the steam wand — bring your own grinder, or pair it with a separate burr grinder.
+Breville's smallest semi-automatic. A 54 mm portafilter, a 15-bar pump and a ThermoJet heater the maker rates at about a 3-second heat-up. No built-in grinder and no built-in milk automation beyond the steam wand — bring your own grinder, or pair it with a separate burr grinder.
 
 <p class="affiliate-html"><a href="https://www.amazon.com/s?k=Breville+Bambino&tag=ouchidougub03-20">Search the Breville Bambino on Amazon.com</a> (ad)</p>
 
 **Breville Bambino Plus (BES500)** — Price band: under $500
 
-The same brew group as the Bambino, listed at $499.95, with automatic milk texturing added. The pick if you drink mostly milk drinks and want the frothing done for you.
+The same brew group as the Bambino, with automatic milk texturing added. The pick if you drink mostly milk drinks and want the frothing done for you.
 
 **Gaggia Classic Pro** — Price band: under $500
 
-A single-boiler semi-automatic with a commercial 58 mm portafilter, listed at $499. The enthusiast pick in this band: simple, repairable, and easy to grow into — but you steam milk yourself and you need a separate grinder.
+A single-boiler semi-automatic with a commercial 58 mm portafilter. The enthusiast pick in this band: simple, repairable, and easy to grow into — but you steam milk yourself and you need a separate grinder.
 
 <p class="affiliate-html"><a href="https://www.amazon.com/s?k=Gaggia+Classic+Pro&tag=ouchidougub03-20">Search the Gaggia Classic Pro on Amazon.com</a> (ad)</p>
 
 **Breville Barista Express Impress (BES876)** — Price band: under $1,000
 
-A built-in steel conical burr grinder and an assisted tamp that tells you whether the dose is off, listed around $800. The step up when you want the grinder in the same box and the tamping guesswork removed. See our [Breville vs De'Longhi comparison](/en/articles/breville-vs-delonghi-all-in-one-espresso/) for the review summary.
+A built-in steel conical burr grinder and an assisted tamp that tells you whether the dose is off. The step up when you want the grinder in the same box and the tamping guesswork removed. See our [Breville vs De'Longhi comparison](/en/articles/breville-vs-delonghi-all-in-one-espresso/) for the review summary.
 
 **Breville Barista Touch Impress** — Price band: $1,000–$1,500
 
@@ -106,13 +106,13 @@ Milk comes from a carafe or an automatic frother, and the milk parts need rinsin
 
 **Philips 3200 LatteGo (EP3241/54)** — Price band: under $1,000
 
-Five drinks, a ceramic grinder and the two-part LatteGo milk system. Street prices around $530 were recorded in November 2026. Note that Philips no longer lists the 3200 on its US store; the 3300 LatteGo has taken its place at a similar price, so check which series the listing actually is before you buy.
+Five drinks, a ceramic grinder and the two-part LatteGo milk system. Note that Philips no longer lists the 3200 on its US store; the 3300 LatteGo has taken its place at a similar price, so check which series the listing actually is before you buy.
 
 <p class="affiliate-html"><a href="https://www.amazon.com/s?k=Philips+3200+LatteGo&tag=ouchidougub03-20">Search the Philips 3200 LatteGo on Amazon.com</a> (ad)</p>
 
 **De'Longhi Magnifica Evo with LatteCrema (ECAM29084)** — Price band: under $1,000
 
-Seven one-touch drinks and a LatteCrema milk carafe, listed at $549.95 in November 2026. Check the model code before ordering: the wand-equipped Magnifica Evo (ECAM29043SB) is cheaper but you steam the milk yourself, so it is not a one-touch cappuccino machine.
+Seven one-touch drinks and a LatteCrema milk carafe. Check the model code before ordering: the wand-equipped Magnifica Evo (ECAM29043SB) is cheaper but you steam the milk yourself, so it is not a one-touch cappuccino machine.
 
 <p class="affiliate-html"><a href="https://www.amazon.com/s?k=De%27Longhi+Magnifica+Evo+LatteCrema&tag=ouchidougub03-20">Search the De'Longhi Magnifica Evo LatteCrema on Amazon.com</a> (ad)</p>
 
@@ -135,7 +135,7 @@ Ask these four questions in order:
 1. **Who makes the coffee?** One person who enjoys the ritual points to manual or semi-automatic. Several people, or a household that wants the same drink with no practice, points to fully automatic.
 2. **Do you enjoy the process, or just the drink?** If the making is part of the pleasure, a lever or a portafilter keeps it. If the making is a chore, a bean-to-cup removes it.
 3. **How much milk?** Daily lattes and cappuccinos favour automatic milk — a fully automatic carafe, a Bambino Plus, or an assisted semi-automatic. Mostly black coffee makes the milk system a minor question.
-4. **What does the whole setup cost?** A manual or a grinder-less semi-automatic needs a separate grinder, a tamper and a milk pitcher. One published example: a Bambino at $299.95 plus a Baratza Encore ESP at $199.95 comes to $499.90 as a complete setup. A fully automatic needs nothing extra to brew, but descaler and cleaning tablets are part of owning it.
+4. **What does the whole setup cost?** A manual or a grinder-less semi-automatic needs a separate grinder, a tamper and a milk pitcher. One published example puts a Bambino plus a Baratza Encore ESP inside a complete setup for under $500. A fully automatic needs nothing extra to brew, but descaler and cleaning tablets are part of owning it.
 
 Grind size is the other half of espresso, whatever type you pick. Our [grind size guide](/en/articles/coffee-grind-size-guide/) explains which grind each brew method needs, and our [hand vs electric mill guide](/en/articles/hand-vs-electric-coffee-mill/) compares grinder types. If you are choosing between two specific first machines rather than two types, see [Ninja or Breville? Picking a first espresso machine](/en/articles/ninja-or-breville-first-espresso-machine/).
 
@@ -147,17 +147,17 @@ Checked November 26, 2026. Prices are bands; figures below are the sources the b
 - Type overview and comparison table: [Meraki — Types of Espresso Machines: Manual, Semi & Automatic](https://www.merakitech.com/blogs/machine-guides/espresso-machine-types-explained)
 - Workflow by step (grind, dose, pressure, milk): [CoffeeGearHub — Manual vs Automatic Espresso Machines](https://www.coffeegearhub.com/manual-vs-automatic-espresso-machines/)
 - Typical price ranges by type (manual $100–$800, semi-automatic $200–$2,000, super-automatic $800–$5,000): [TimsCoffee — Espresso Machines: Semi-Automatic Vs. Super-Automatic Vs. More](https://timscoffee.com/blog/espresso-machine-differences/)
-- Flair 58 Plus 2, $699 at the maker, direct lever, 58 mm portafilter, preheat controller: [Flair Espresso — Flair 58 Plus 2](https://flairespresso.com/products/flair-58-plus-2?attribute_configuration=Flair%2058%20Plus%202)
-- Flair 58 Plus 2 current model; Flair 49 PRO around $349: [EspressoVerdict — Flair 58 Plus 2 Review (2026)](https://espressoverdict.com/guides/flair-58-review/)
-- Flair Classic Signature, $119: [BaristaPath — Flair coffee equipment](https://BaristaPath.com/brands/flair/)
+- Flair 58 Plus 2 price and specs at the maker (direct lever, 58 mm portafilter, preheat controller): [Flair Espresso — Flair 58 Plus 2](https://flairespresso.com/products/flair-58-plus-2?attribute_configuration=Flair%2058%20Plus%202)
+- Flair 58 Plus 2 current model; Flair 49 PRO: [EspressoVerdict — Flair 58 Plus 2 Review (2026)](https://espressoverdict.com/guides/flair-58-review/)
+- Flair Classic Signature: [BaristaPath — Flair coffee equipment](https://BaristaPath.com/brands/flair/)
 - La Pavoni Europiccola in current manual-lever roundups: [ExpertCafe — Best Manual Lever Espresso Machines 2026](https://www.expertcafe.be/en/guides/best-manual-lever-espresso-machines-2026/)
-- Breville Bambino BES450, $299.95, 54 mm portafilter, ThermoJet heat-up: [RoastRig — Breville Bambino Review 2026](https://roastrig.com/breville-bambino-review/)
-- Breville Bambino Plus, $499.95, automatic milk texturing: [Pull & Grind — Best Semi Automatic Espresso Machine (2026)](https://pullandgrind.com/best-semi-automatic-espresso-machine/)
-- Gaggia Classic Pro, $499, semi-automatic single boiler: [GrindPair — Gaggia Classic Pro vs Flair 58](https://www.grindpair.com/compare/M09-vs-M16)
-- Breville Barista Express Impress BES876, around $800, MSRP $900: [GrindPair — Flair 58 vs Breville Barista Express Impress BES876](https://www.grindpair.com/compare/M09-vs-M12)
-- Philips 3200 LatteGo, around $530; Magnifica Evo LatteCrema, $549.95; Philips 3300 LatteGo, $549.99: [ProductBible — De'Longhi Magnifica Evo vs. Philips 3200](https://productbible.com/blog/delonghi-magnifica-evo-vs-philips-3200)
-- Jura E8, around $2,400–$2,800; Philips 3200 LatteGo street price around $530: [MacMyths — Best Super-Automatic Espresso Machines 2026](https://macmyths.com/super-automatic-coffee-makers-how-to-choose-the-right-one/)
-- Bambino plus Encore ESP complete-setup example ($299.95 + $199.95 = $499.90): [Pull & Grind — Best Espresso Machine Under $500](https://pullandgrind.com/best-espresso-machine-under-500/)
+- Breville Bambino BES450 specs (54 mm portafilter, ThermoJet heat-up): [RoastRig — Breville Bambino Review 2026](https://roastrig.com/breville-bambino-review/)
+- Breville Bambino Plus specs (automatic milk texturing): [Pull & Grind — Best Semi Automatic Espresso Machine (2026)](https://pullandgrind.com/best-semi-automatic-espresso-machine/)
+- Gaggia Classic Pro specs (semi-automatic single boiler): [GrindPair — Gaggia Classic Pro vs Flair 58](https://www.grindpair.com/compare/M09-vs-M16)
+- Breville Barista Express Impress BES876 price and specs: [GrindPair — Flair 58 vs Breville Barista Express Impress BES876](https://www.grindpair.com/compare/M09-vs-M12)
+- Philips 3200 LatteGo and Magnifica Evo LatteCrema prices: [ProductBible — De'Longhi Magnifica Evo vs. Philips 3200](https://productbible.com/blog/delonghi-magnifica-evo-vs-philips-3200)
+- Jura E8 price; Philips 3200 LatteGo street price: [MacMyths — Best Super-Automatic Espresso Machines 2026](https://macmyths.com/super-automatic-coffee-makers-how-to-choose-the-right-one/)
+- Bambino plus Encore ESP complete-setup example: [Pull & Grind — Best Espresso Machine Under $500](https://pullandgrind.com/best-espresso-machine-under-500/)
 - Price bands for Barista Touch Impress, La Specialista Touch, Rivelia and Eletta Explore: our [best all-in-one espresso machines of 2026](/en/articles/best-all-in-one-espresso-machines-2026/) and [Breville vs De'Longhi comparison](/en/articles/breville-vs-delonghi-all-in-one-espresso/).
 
 Some links on this page are ads. See our [disclosure](/en/disclosure/) for how this site earns money.
