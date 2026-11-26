@@ -7,6 +7,8 @@ date: "2026-10-31"
 
 Pour-over gets repeatable when the coffee, the water, the grind, the temperature, and the time all stay put. This page takes the V60 basic recipe Hario publishes and turns it into numbers for a single cup. It is not a brew we timed. We have not used the dripper, the kettle, or the scale linked below.
 
+<p class="affiliate-html"><strong>Quick pick:</strong> <a href="https://www.amazon.com/dp/B0CMZCK9PR?tag=ouchidougub03-20">Timemore Chestnut S3</a> — the grinder I use, about 30g at a time for 2–3 cups. (ad)</p>
+
 The pours are for a cone with one large hole. A flat-bottom dripper or a wave dripper uses different paper and a different number of holes, so do not copy this sequence onto those brewers.
 
 ## One cup, at 12g
