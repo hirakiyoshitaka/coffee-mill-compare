@@ -52,7 +52,7 @@ Also check the voltage and region: buy the model for your country. The US models
 
 ## 6. Buy during the sale, but check the price
 
-The sale season is the reason to buy now rather than in January. Black Friday falls on Friday, November 27, 2026, and Cyber Monday on Monday, November 30, 2026; Amazon's Black Friday Week and Cyber Monday events run November 19–30, 2026. Our [Black Friday guide](/en/articles/amazon-black-friday-2026-coffee-gear/) has the full timing.
+The sale season is the reason to decide now rather than in January. Black Friday falls on Friday, November 27, 2026, and Cyber Monday on Monday, November 30, 2026; Amazon's Black Friday Week and Cyber Monday events run November 19–30, 2026. Our [Black Friday guide](/en/articles/amazon-black-friday-2026-coffee-gear/) has the full timing.
 
 Two checks before you press buy:
 
