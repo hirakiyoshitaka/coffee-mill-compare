@@ -5,9 +5,11 @@ category: "dripper"
 date: "2026-11-23"
 ---
 
+<p class="affiliate-html"><strong>Quick pick:</strong> <a href="https://www.amazon.com/dp/B0CMZCK9PR?tag=ouchidougub03-20">Timemore Chestnut S3</a> — the grinder I use, about 30g at a time for 2–3 cups. (ad)</p>
+
 Pour-over starts with three pieces besides the dripper itself: paper that fits the cone, a scale that weighs and times, and a kettle that pours thin. These are the three Hario V60 pieces for that job — the 02 paper filters, the V60 drip scale, and the Buono kettle.
 
-This is a review summary. We have not used any of the three pieces: each section below follows the maker's page and published reviews, and links go to Amazon.com search results, so compare sellers and check the price and stock on the day you buy.
+This is a review summary. We have not used any of the three pieces: each section below follows the maker's page and published reviews, and most links go to Amazon.com search results, so compare sellers and check the price and stock on the day you buy.
 
 ## The three at a glance
 

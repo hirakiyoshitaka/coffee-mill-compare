@@ -5,6 +5,8 @@ category: "espresso-machine"
 date: "2026-11-24"
 ---
 
+<p class="affiliate-html"><strong>Quick pick:</strong> <a href="https://www.amazon.com/dp/B0CMZCK9PR?tag=ouchidougub03-20">Timemore Chestnut S3</a> — the grinder I use, about 30g at a time for 2–3 cups. (ad)</p>
+
 If your first espresso machine comes down to two names, Ninja and Breville are the pair most people land on. Ninja's Luxe Café Premier (ES601) is the newcomer that does espresso, drip coffee and cold brew from one box. Breville's Barista Express Impress is the current version of the machine that has defined the first-espresso-machine category for years.
 
 To be upfront: **we have not used either machine.** Everything below comes from the makers' published specs and from reviews by outlets that tested them (linked inline). The question is not which machine is "better" in general, but which one fits the way you will actually make coffee.
