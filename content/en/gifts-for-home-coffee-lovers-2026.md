@@ -7,9 +7,11 @@ date: "2026-11-21"
 
 A coffee gift lands better when it matches what the person already owns. This guide groups ideas by budget band. The bands are a rough guide based on usual US pricing — we do not list individual prices, because prices move. Check the search results on the day you buy.
 
+<p class="affiliate-html"><strong>Our pick:</strong> <a href="https://www.amazon.com/dp/B0CMZCK9PR?tag=ouchidougub03-20">Timemore Chestnut S3</a> — the grinder I use, about 30g at a time for 2–3 cups. (ad)</p>
+
 The only products on this page with a record of use on this site are the Timemore Chestnut S3 and the EPEIOS Essence Go hand grinders, and a Coffee Carrot bean subscription. Everything else is a review summary from makers' pages and published reviews. We state that under each pick.
 
-Links in this guide go to Amazon.com search results for the named product, so you can compare sellers and check stock yourself.
+Most links in this guide go to Amazon.com search results for the named product, so you can compare sellers and check stock yourself.
 
 Between $50 and $100, five picks — scales, brewers, and storage — are in [Coffee gifts under $100](/en/articles/coffee-gifts-under-100/).
 
