@@ -7,6 +7,8 @@ date: "2026-10-30"
 
 The first question when buying a coffee grinder is usually "hand or electric?" The hand grinder I usually use is the Timemore Chestnut S3. I grind about 30g at a time, for 2–3 cups. I do not use the Chestnut S5 Pro. I don't own an electric grinder, so I'll describe that side in general terms only.
 
+<p class="affiliate-html"><strong>Quick pick:</strong> <a href="https://www.amazon.com/dp/B0CMZCK9PR?tag=ouchidougub03-20">Timemore Chestnut S3</a> — the grinder I use, about 30g at a time for 2–3 cups. (ad)</p>
+
 ## The differences at a glance
 
 | | Hand grinder | Electric grinder |

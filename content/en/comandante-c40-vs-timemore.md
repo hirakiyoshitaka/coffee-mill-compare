@@ -7,6 +7,8 @@ date: "2026-10-31"
 
 Comandante and Timemore show up side by side as soon as you start reading about hand grinders. The Timemore in this comparison is the [Chestnut S5 Pro](/en/articles/timemore-chestnut-s5-pro/), a review summary. The grinder I usually use is the Chestnut S3. I do not use the S5 Pro. The Comandante is the C40 MK4 with the Nitro Blade.
 
+<p class="affiliate-html"><strong>Quick pick:</strong> <a href="https://www.amazon.com/dp/B0CMZCK9PR?tag=ouchidougub03-20">Timemore Chestnut S3</a> — the grinder I use, about 30g at a time for 2–3 cups. (ad)</p>
+
 We have not used a C40. What follows is the product page, FAQ, and manual we opened on October 31, 2026, plus the S5 Pro specs this site already copied from Timemore's own pages. There is no verdict on which one tastes better.
 
 ## The short answer
