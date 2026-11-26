@@ -7,6 +7,8 @@ date: "2026-11-21"
 
 When the usual beans taste bitter, the first thing to check is the grind size. The hand grinder I usually use is the Timemore Chestnut S3. I grind about 30g at a time, for 2–3 cups. It is a hand grinder, so it is not for someone who wants to grind a large amount at once with a motor. How fine or coarse to grind is in the [coffee grind size guide](/en/articles/coffee-grind-size-guide/).
 
+<p class="affiliate-html"><strong>Quick pick:</strong> <a href="https://www.amazon.com/dp/B0CMZCK9PR?tag=ouchidougub03-20">Timemore Chestnut S3</a> — the grinder I use, about 30g at a time for 2–3 cups. (ad)</p>
+
 {{grinder:timemore-chestnut-s3}}
 
 ![The Timemore Chestnut S3 (green) I usually use, on a desk next to a bag of beans](/images/timemore-s3-green-owner.webp)
