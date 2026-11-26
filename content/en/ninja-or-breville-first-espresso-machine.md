@@ -99,4 +99,6 @@ For the full per-model buying guide, read [the best all-in-one espresso machines
 - **Counter space:** both machines are deep and heavy — the Ninja is the bulkier of the two at about 11.7 kg. Measure under your cabinets before ordering.
 - **Beans matter more than buttons:** a good grinder can only show what the beans have. Fresh, even grinding is the heart of espresso, whichever machine you choose.
 
+Buying one for Christmas? Read [Before you buy an espresso machine for Christmas](/en/articles/before-you-buy-an-espresso-machine-for-christmas/) for the checklist — who it is for, the budget band, the sale timing, and the return window.
+
 Some links on this page are ads. See our [disclosure](/en/disclosure/) for details.
