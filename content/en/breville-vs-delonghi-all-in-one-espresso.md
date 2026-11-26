@@ -7,6 +7,8 @@ date: "2026-11-01"
 
 Fresh beans in, café drink out — that is the promise of an all-in-one espresso machine. Breville (sold as **Sage** in the UK and Europe) and De'Longhi are the two names most shoppers end up choosing between, and both have refreshed their grinder-equipped lineups recently.
 
+<p class="affiliate-html"><strong>Quick pick:</strong> <a href="https://www.amazon.com/dp/B0CMZCK9PR?tag=ouchidougub03-20">Timemore Chestnut S3</a> — the grinder I use, about 30g at a time for 2–3 cups. (ad)</p>
+
 The two brands start from different ideas. **Breville keeps you at the portafilter**: you still lock in a basket and watch the shot, but the machine grinds, doses, tamps (fully or partly) and textures the milk for you. **De'Longhi's flagships are mostly true bean-to-cup**: press a picture on the screen and the drink comes out, no portafilter at all — with La Specialista Touch as its answer to Breville's guided style.
 
 To be upfront: **we have not used any of these six machines.** Everything below comes from the makers' published specs, retailer listings, and reviews from outlets that tested them (linked inline). Prices move constantly, especially around Black Friday, so check the retailer before buying. Prices below are bands, not list prices.

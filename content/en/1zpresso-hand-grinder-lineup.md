@@ -7,6 +7,8 @@ date: "2026-10-31"
 
 1Zpresso model names sit close together, which is why people stall on which hand grinder to buy. This page stays with five lines the maker already separates by job: a travel Q, the smaller-burr X-Ultra, the pour-over ZP6, the all-method K-Ultra, and the espresso-focused J-Ultra.
 
+<p class="affiliate-html"><strong>Quick pick:</strong> <a href="https://www.amazon.com/dp/B0CMZCK9PR?tag=ouchidougub03-20">Timemore Chestnut S3</a> — the grinder I use, about 30g at a time for 2–3 cups. (ad)</p>
+
 We have not used a 1Zpresso. There are no tasting notes on this page. Every number is what the official page showed when we opened it on October 31, 2026. Those pages get revised, so open the same page again before you order.
 
 If the grinder is going to live at home for pour-over, the one this site points to first is the Timemore Chestnut S3. I usually use it and grind about 30g at a time, for 2–3 cups. I do not use the Chestnut S5 Pro. Use the 1Zpresso list when you already know which job the grinder has to do.
