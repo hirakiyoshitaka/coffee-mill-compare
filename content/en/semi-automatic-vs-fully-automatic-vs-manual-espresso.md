@@ -124,7 +124,7 @@ Two swappable bean hoppers and a cold-milk menu. See our [best all-in-one espres
 
 **Jura E8** — Price band: over $2,000
 
-The premium step up, with prices around $2,400–$2,800 recorded in November 2026. App support, ten strength levels and a fine foam frother — the pick when extraction features and build matter more than the purchase price.
+The premium step up, priced over $2,000. App support, ten strength levels and a fine foam frother — the pick when extraction features and build matter more than the purchase price.
 
 A fully automatic suits you if several people in your household make drinks, you want consistency above all, or you simply want good coffee without learning barista skills.
 
