@@ -9,6 +9,10 @@ A coffee gift lands better when it matches what the person already owns. This gu
 
 <p class="affiliate-html"><strong>Our pick:</strong> <a href="https://www.amazon.com/dp/B0CMZCK9PR?tag=ouchidougub03-20">Timemore Chestnut S3</a> — the grinder I use, about 30g at a time for 2–3 cups. (ad)</p>
 
+![The Timemore Chestnut S3 (green) I usually use, on a desk next to a bag of beans](/images/timemore-s3-green-owner.webp)
+
+The photo shows the Timemore Chestnut S3 I usually use, in green.
+
 The only products on this page with a record of use on this site are the Timemore Chestnut S3 and the EPEIOS Essence Go hand grinders, and a Coffee Carrot bean subscription. Everything else is a review summary from makers' pages and published reviews. We state that under each pick.
 
 Most links in this guide go to Amazon.com search results for the named product, so you can compare sellers and check stock yourself.
