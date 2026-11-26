@@ -118,4 +118,6 @@ Want the per-model buying guide with pros and cons in one place? Read [the best 
 
 Choosing between Ninja and Breville for a first machine? See [Ninja or Breville? Picking a first espresso machine](/en/articles/ninja-or-breville-first-espresso-machine/).
 
+Not sure which type of machine fits you yet? See [Semi-Automatic vs Fully Automatic vs Manual Espresso Machines](/en/articles/semi-automatic-vs-fully-automatic-vs-manual-espresso/).
+
 Some links on this page are ads; links to the makers' official stores are not. See our [disclosure](/en/disclosure/) for how this site earns money.
