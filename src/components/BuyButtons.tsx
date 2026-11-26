@@ -1,11 +1,11 @@
 import type { GrinderModel } from "@/data/grinders";
 import { shopeeTwAffiliateUrl } from "@/config/shopee-tw";
-import { englishHandGrinderAmazonUrl } from "@/config/us-amazon";
+import { cardUsAmazonUrl } from "@/config/us-amazon";
 import { cardDict, type SiteLocale } from "@/lib/i18n";
 import { affiliateRel, isHttpUrl, prepareAffiliateHtml } from "@/lib/affiliate";
 
-/** 海外向けの Amazon タグがリポジトリに無い言語。日本タグのボタンは出さない。 */
-const localesWithoutOverseasAmazon = new Set<SiteLocale>(["en", "zh-tw"]);
+/** 海外向けの Amazon タグがリポジトリに無い言語。日本タグのボタンは出さない。zh-tw は amazon.com のボタンも出さない。 */
+const localesWithoutOverseasAmazon = new Set<SiteLocale>(["en", "zh-tw", "ko", "zh-hk", "zh-cn", "th", "vi"]);
 
 export type BuyLink = {
   href?: string;
@@ -23,7 +23,7 @@ type Props = {
 
 export function grinderBuyProps(model: Pick<GrinderModel, "id" | "type" | "name" | "rakutenUrl" | "amazonUrl" | "yahooUrl" | "shopeeMyUrl" | "moshimoHtml" | "purchaseNote" | "ownerUse">, locale: SiteLocale = "ja", noteLocalized = false): Props {
   const d = cardDict[locale];
-  const amazonCom = locale === "en" ? englishHandGrinderAmazonUrl(model) : undefined;
+  const amazonCom = cardUsAmazonUrl(model, locale);
   return {
     name: model.name,
     html: model.moshimoHtml,

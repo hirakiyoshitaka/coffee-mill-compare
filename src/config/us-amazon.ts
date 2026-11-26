@@ -1,5 +1,13 @@
 import { jpAmazonAssociateTag } from "@/lib/affiliate";
 import type { GrinderType } from "@/data/grinders";
+import type { SiteLocale } from "@/lib/i18n";
+
+/**
+ * amazon.com の米国タグ（ouchidougub03-20）で購入リンクを出す言語。
+ * 記事本文のリンクは #288〜#292 で同タグの型番検索に切替済み。
+ * zh-tw は Shopee TW が経路のため対象外。日本語は日本タグのまま。
+ */
+export const localesWithUsAmazon = new Set<SiteLocale>(["en", "ko", "zh-hk", "zh-cn", "th", "vi"]);
 
 /**
  * 英語ページの手挽きミル向け、amazon.com のアソシエイトタグ。
@@ -45,6 +53,13 @@ export function amazonComSearchUrl(tag: string, query: string): string | undefin
   if (!/^[A-Za-z0-9][A-Za-z0-9-]{0,49}$/.test(cleanTag)) return undefined;
   const encoded = encodeURIComponent(cleanQuery).replace(/%20/g, "+");
   return `https://www.amazon.com/s?k=${encoded}&tag=${cleanTag}`;
+}
+
+/** 商品カードの amazon.com リンク。S5 Pro は社長判断（PR #73）で日本語記事に購入リンクを付けないため、英語以外では出さない（英語記事のカードリンクは既にある）。 */
+export function cardUsAmazonUrl(model: { id: string; type: GrinderType }, locale: SiteLocale): string | undefined {
+  if (!localesWithUsAmazon.has(locale)) return undefined;
+  if (locale !== "en" && model.id === "timemore-chestnut-s5-pro") return undefined;
+  return englishHandGrinderAmazonUrl(model);
 }
 
 /** 英語ページの手挽きミルだけ。タグか ASIN が空なら undefined。 */
