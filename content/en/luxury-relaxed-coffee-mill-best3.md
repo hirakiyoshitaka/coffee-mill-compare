@@ -7,6 +7,8 @@ date: "2026-11-02"
 
 These three are for a morning you do not want to rush, with a hand grinder that feels a little more special. I look at design and a premium feel. I use the first two. Only the third is a short summary of what the maker publishes, not a note from my hands.
 
+<p class="affiliate-html"><strong>Quick pick:</strong> <a href="https://www.amazon.com/dp/B0CMZCK9PR?tag=ouchidougub03-20">Timemore Chestnut S3</a> — the grinder I use, about 30g at a time for 2–3 cups. (ad)</p>
+
 1. Timemore Chestnut S3. The one I usually use, about 30g at a time, for 2–3 cups
 2. EPEIOS Essence Go. The other one I own. The one line I can write is that it just spins so easily
 3. Comandante C40 MK4. A review summary. I have not used it

@@ -7,6 +7,8 @@ date: "2026-11-23"
 
 The two hand grinders this site uses are the Timemore Chestnut S3 and the EPEIOS Essence Go. This is the only comparison on the site where both machines are ones the operator actually has: the S3 is the grinder I usually use, and the Essence Go is the one that just spins so easily. I do not use the Chestnut S5 Pro; that comparison is a review summary.
 
+<p class="affiliate-html"><strong>Quick pick:</strong> <a href="https://www.amazon.com/dp/B0CMZCK9PR?tag=ouchidougub03-20">Timemore Chestnut S3</a> — the grinder I use, about 30g at a time for 2–3 cups. (ad)</p>
+
 ## The short answer
 
 - **Stays on the counter for home brewing** → Timemore Chestnut S3. I usually use it, about 30g at a time, for 2–3 cups.
