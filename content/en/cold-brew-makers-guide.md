@@ -5,9 +5,11 @@ category: "coffee-maker"
 date: "2026-11-23"
 ---
 
+<p class="affiliate-html"><strong>Quick pick:</strong> <a href="https://www.amazon.com/dp/B0CMZCK9PR?tag=ouchidougub03-20">Timemore Chestnut S3</a> — the grinder I use, about 30g at a time for 2–3 cups. (ad)</p>
+
 Cold brew is coffee steeped in cold water instead of brewed with hot water. Put coarse grounds and cold water in the maker, leave it in the fridge overnight, and take the filter out in the morning. There is no pouring technique to learn, and cold brew is often described as smooth and mellow.
 
-This is a review summary. We have not used any cold brew maker in this guide: each section below follows the maker's pages and published reviews, and links go to Amazon.com search results, so compare sellers and check the price and stock on the day you buy.
+This is a review summary. We have not used any cold brew maker in this guide: each section below follows the maker's pages and published reviews, and most links go to Amazon.com search results, so compare sellers and check the price and stock on the day you buy.
 
 ## Two ways to make cold brew
 

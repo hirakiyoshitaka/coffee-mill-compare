@@ -5,6 +5,8 @@ category: "mill"
 date: "2026-10-30"
 ---
 
+<p class="affiliate-html"><strong>Quick pick:</strong> <a href="https://www.amazon.com/dp/B0CMZCK9PR?tag=ouchidougub03-20">Timemore Chestnut S3</a> — the grinder I use, about 30g at a time for 2–3 cups. (ad)</p>
+
 Search for "best electric coffee grinder" and you'll drown in options. This guide gives you the criteria to narrow them down.
 
 A quick note up front: the hand grinders I use are the Timemore Chestnut S3 and the [EPEIOS Essence Go](/en/articles/epeios-essence-go/). On the S3 I usually grind about 30g at a time, for 2–3 cups. I do not use the Chestnut S5 Pro, and I don't use an electric grinder. So there are no hands-on impressions of an electric grinder here, just what to look for.

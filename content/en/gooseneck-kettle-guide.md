@@ -5,9 +5,11 @@ category: "kettle"
 date: "2026-11-23"
 ---
 
+<p class="affiliate-html"><strong>Quick pick:</strong> <a href="https://www.amazon.com/dp/B0CMZCK9PR?tag=ouchidougub03-20">Timemore Chestnut S3</a> — the grinder I use, about 30g at a time for 2–3 cups. (ad)</p>
+
 Pour-over needs water poured thin, in the exact spot you aim at. A gooseneck kettle does that job: its spout is thin and long, so you control how much water comes out and where it lands. The water spreads evenly over the grounds, and the taste varies less from cup to cup.
 
-This is a review summary. We have not used any kettle in this guide: each section below follows the maker's pages and published reviews, and links go to Amazon.com search results, so compare sellers and check the price and stock on the day you buy.
+This is a review summary. We have not used any kettle in this guide: each section below follows the maker's pages and published reviews, and most links go to Amazon.com search results, so compare sellers and check the price and stock on the day you buy.
 
 ## Gooseneck vs a regular kettle
 
