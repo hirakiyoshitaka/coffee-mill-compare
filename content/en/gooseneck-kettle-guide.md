@@ -1,6 +1,6 @@
 ---
 title: "Gooseneck Kettles: How to Choose One for Pour-Over"
-description: "How to choose a gooseneck kettle for pour-over: spout shape, temperature control, capacity, heat source, and safety. A review summary — we have not used any kettle. Links go to Amazon.com search results; no prices listed."
+description: "How to choose a gooseneck kettle for pour-over: spout shape, temperature control, capacity, heat source, and safety. A review summary — we have not used any kettle. Most links go to Amazon.com search results; no prices listed."
 category: "kettle"
 date: "2026-11-23"
 ---

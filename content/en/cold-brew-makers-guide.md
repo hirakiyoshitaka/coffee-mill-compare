@@ -1,6 +1,6 @@
 ---
 title: "Cold Brew Makers: How to Choose One for Smooth Iced Coffee"
-description: "How to choose a cold brew maker: immersion or slow drip, capacity, filter, material, and cleaning. A review summary — we have not used any cold brew maker. Links go to Amazon.com search results; no prices listed."
+description: "How to choose a cold brew maker: immersion or slow drip, capacity, filter, material, and cleaning. A review summary — we have not used any cold brew maker. Most links go to Amazon.com search results; no prices listed."
 category: "coffee-maker"
 date: "2026-11-23"
 ---
