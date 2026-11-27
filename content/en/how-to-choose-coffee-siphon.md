@@ -1,6 +1,6 @@
 ---
 title: "How to Choose a Coffee Siphon: Flame and Glass for a Slow Morning"
-description: "A siphon brews coffee with flame and glass, and only a handful of makers still build one. A review summary — we have not used any siphon here — covering Cona, KONO, and Hario, the brewing steps, and the care they ask for. Links go to Amazon.com search results; no prices listed."
+description: "A siphon brews coffee with flame and glass, and only a handful of makers still build one. A review summary — we have not used any siphon here — covering Cona, KONO, and Hario, the brewing steps, and the care they ask for. Most links go to Amazon.com search results; no prices listed."
 category: "coffee-maker"
 date: "2026-11-23"
 ---
@@ -20,6 +20,8 @@ AI-generated image video, not footage of a real brewer.
 This guide picks only the fine ones worth wanting, to help you picture one on a slow morning at home.
 
 First, a plain statement: we have not used any siphon introduced here, so this page does not say "we tried it." It lines up published reviews from people who have used one and the makers' own descriptions, with sources.
+
+<p class="affiliate-html"><strong>Quick pick:</strong> <a href="https://www.amazon.com/dp/B0CMZCK9PR?tag=ouchidougub03-20">Timemore Chestnut S3</a> — the grinder I use, about 30g at a time for 2–3 cups. (ad)</p>
 
 ## How a siphon works
 
