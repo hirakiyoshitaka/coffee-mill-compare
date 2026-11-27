@@ -1,6 +1,6 @@
 ---
 title: "Gifts for Home Coffee Lovers 2026: Under $50, Under $150, and Splurge Picks"
-description: "Coffee gifts grouped by budget band — under $50, under $150, and splurge. The Hario V60 dripper from our pour-over recipe, the Timemore Chestnut S3 the operator uses, and review summaries for the rest. Bands are a rough guide; we do not list individual prices."
+description: "Coffee gifts by budget — under $50, under $150, and splurge — led by the hand grinder we use."
 category: "beans"
 date: "2026-11-21"
 ---
