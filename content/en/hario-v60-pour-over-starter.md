@@ -1,6 +1,6 @@
 ---
 title: "Hario V60 Pour-Over Starter: Three Pieces to Begin With"
-description: "Three Hario V60 pieces to start pour-over: the 02 paper filters, the drip scale, and the Buono kettle. A review summary — we have not used any of the three. Links go to Amazon.com search results; no prices listed."
+description: "Three Hario V60 pieces to start pour-over: the 02 paper filters, the drip scale, and the Buono kettle. A review summary — we have not used any of the three. Most links go to Amazon.com search results; no prices listed."
 category: "dripper"
 date: "2026-11-23"
 ---

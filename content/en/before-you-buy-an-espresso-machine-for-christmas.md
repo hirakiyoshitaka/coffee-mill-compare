@@ -5,8 +5,6 @@ category: "espresso-machine"
 date: "2026-11-26"
 ---
 
-<p class="affiliate-html"><strong>Quick pick:</strong> <a href="https://www.amazon.com/dp/B0CMZCK9PR?tag=ouchidougub03-20">Timemore Chestnut S3</a> — the grinder I use, about 30g at a time for 2–3 cups. (ad)</p>
-
 Christmas is when many people buy their first espresso machine — for themselves, or as the gift for the coffee lover in the house. A machine bought in a hurry, in the middle of the sale season, is easy to get wrong: the wrong type for the way they actually drink coffee, a grinder question left unanswered, or a machine that does not fit the counter.
 
 To be upfront: **we have not used the machines below.** Everything here comes from the makers' published specs and from reviews by outlets that tested them, and from our own comparison articles linked inline. This is a checklist, not a review — run through it before you order.
