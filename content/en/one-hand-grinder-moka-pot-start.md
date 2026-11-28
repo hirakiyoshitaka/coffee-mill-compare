@@ -45,7 +45,7 @@ The rest of the set can come later, one piece at a time, when a specific annoyan
 
 ## The one honest warning
 
-Grinding fine by hand, every time, is heavy work. If moka is the pot you brew every morning, an electric grinder is worth a look too — the [electric grinder guide](/en/articles/electric-coffee-grinder-guide/) covers when a machine should do the grinding. A hand grinder is the right first step when the problem is the shared setting and stale grounds; it is not the only answer when fine grinding is the whole daily routine.
+Grinding fine by hand, every time, is heavy work. If moka is the pot you brew every day, an electric grinder is worth a look too — the [electric grinder guide](/en/articles/electric-coffee-grinder-guide/) covers when a machine should do the grinding. A hand grinder is the right first step when the problem is the shared setting and stale grounds; it is not the only answer when fine grinding is the whole daily routine.
 
 ## The question, answered
 
