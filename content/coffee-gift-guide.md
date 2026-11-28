@@ -9,7 +9,7 @@ updated: "2026-11-09"
 <aside class="article-picks" aria-label="おすすめ結論">
 <h2>おすすめ結論</h2>
 <p>相手の道具が分からなければ<strong>箱入りのドリップバッグ</strong>。ミルを持っている人には<strong>豆</strong>。これから自分で淹れたい人には、運営者がふだん使っている<strong>タイムモア栗子 S3</strong>。</p>
-<p class="fine">お歳暮は12月上旬、クリスマスは12月中旬までに届く手配が目安です。値段と在庫、のし・包装の有無は、ボタンの先のページで確認してください。</p>
+<p class="fine">お歳暮は12月上旬、クリスマスは12月中旬までに届く手配が目安です。届く日は、Amazon のページで届く日を確かめてください。値段と在庫、のし・包装の有無は、ボタンの先のページで確認してください。</p>
 <ul>
 <li><strong>総合のおすすめ</strong>：タイムモア栗子 S3。これから自分で淹れ始めたい人へ。運営者がふだん使っている1台です</li>
 <li><strong>価格を抑えた選択</strong>：丸山珈琲 ドリップバッグ 2種アソートギフト。道具を持っているか分からない相手にも贈れる、箱入りのドリップバッグです</li>
@@ -48,6 +48,8 @@ updated: "2026-11-09"
 箱なしの大袋を贈りたい場合は、同じ記事で紹介しているブレンド30袋もあります。段ボール配送になる、という指摘がそちらの要約にあります。
 
 [丸山珈琲のブレンド 30袋をAmazonで見る（広告）](https://www.amazon.co.jp/dp/B0GZK7C8R7?tag=stocknotelife-22)
+
+器具がなくても贈れる形として、毎月届くドリップバッグの定期便もあります。[ドリップバッグの定期便を比べる](/articles/drip-bag-subscription/)もどうぞ。
 
 [コーヒー ギフトのドリップバッグを Amazon で探す（広告）](https://www.amazon.co.jp/s?tag=stocknotelife-22&k=%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC+%E3%82%AE%E3%83%95%E3%83%88+%E3%83%89%E3%83%AA%E3%83%83%E3%83%97%E3%83%90%E3%83%83%E3%82%B0)
 
@@ -130,6 +132,7 @@ LEO SPECIALTY COFFEEのドリップバッグ30包の定期便を、2026年11月5
 - [コーヒー豆の定期便おすすめ比較](/articles/coffee-bean-subscription/)
 - [珈琲きゃろっとの評判｜定期便を約1年続けた口コミ](/articles/coffee-carrot-review/)
 - [ドリップバッグの定期便を比べる](/articles/drip-bag-subscription/)
+- [キャニスターの選び方](/articles/coffee-bean-canister-guide/)
 - [カフェインレス・デカフェコーヒー豆の選び方](/articles/decaf-coffee-beans/)
 
 リンクには広告が含まれます（Amazonのアソシエイト、A8.net、ミルのカードに設定済みの購入リンク）。方針は[広告表記](/disclosure/)をご覧ください。
