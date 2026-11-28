@@ -5,7 +5,7 @@ category: "mill"
 date: "2026-11-21"
 ---
 
-<p class="affiliate-html"><strong>Quick pick:</strong> <a href="https://www.amazon.com/dp/B0CMZCK9PR?tag=ouchidougub03-20">Timemore Chestnut S3</a> — the grinder I use, about 30g at a time for 2–3 cups. (ad)</p>
+<p class="affiliate-html"><strong>Quick pick:</strong> <a href="https://www.amazon.com/dp/B0CMZCK9PR?tag=ouchidougub03-20">Timemore Chestnut S3</a> — for everyday pour-over: the grinder I use, about 30g at a time for 2–3 cups. (ad)</p>
 
 Deciding during the sale means deciding by the size of a discount. This page is the short list to settle first, built around the two hand grinders this site actually uses: the **Timemore Chestnut S3** for everyday brewing, and the **EPEIOS Essence Go** if light turning and packing into a case matter more.
 

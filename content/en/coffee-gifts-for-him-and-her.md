@@ -5,7 +5,7 @@ category: "beans"
 date: "2026-11-24"
 ---
 
-<p class="affiliate-html"><strong>Quick pick:</strong> <a href="https://www.amazon.com/s?k=TIMEMORE+Chestnut+S3&tag=ouchidougub03-20">TIMEMORE Chestnut S3</a> — the hand grinder I usually use. (ad)</p>
+<p class="affiliate-html"><strong>Quick pick:</strong> <a href="https://www.amazon.com/s?k=TIMEMORE+Chestnut+S3&tag=ouchidougub03-20">TIMEMORE Chestnut S3</a> — for everyday pour-over: the hand grinder I usually use. (ad)</p>
 
 "coffee gifts for him" and "coffee gifts for her" are two of the most searched gift phrases — and the honest answer is that the same gear works for anyone. So this guide splits ten picks into two lists of five, but the split is a starting point, not a rule: pick by what they brew with, not by the label. I use the two grinders below. The other eight are a review summary from the makers' pages and published reviews, and links go to Amazon.com search results, so compare sellers and check the price and stock on the day you buy.
 
