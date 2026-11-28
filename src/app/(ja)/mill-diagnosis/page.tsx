@@ -35,6 +35,12 @@ export default function MillDiagnosisPage() {
         </Link>
         です。売り切れの栗子 S5 Pro は、候補から外しています。
       </p>
+      <p className="lede">
+        Amazon ブラックフライデー（12/7まで）で選ぶ方へ：
+        <Link href="/articles/amazon-black-friday-coffee-gear/" className="mx-1 text-link">
+          買う前に確かめる3つ
+        </Link>
+      </p>
       <PrNotice />
       <MillDiagnosis />
       <details className="diagnosis-rules">

@@ -7,6 +7,8 @@ date: "2026-10-27"
 
 これはタイムモア S5（栗子S5 Pro、timemore s5）のレビューまとめです。運営者は使っていません。ふだん使っている手挽きは[タイムモア栗子 S3](/articles/timemore-chestnut-s3/)です。S5 Pro は売り切れなので、購入ボタンは出していません。
 
+Amazon ブラックフライデー（12/7まで）で選ぶ方へ：[買う前に確かめる3つ](/articles/amazon-black-friday-coffee-gear/)
+
 このページは、栗子 S5 Pro の公式仕様と、公開されているレビューの要約です。体験談ではありません。
 
 価格は目安です。2026年10月26日に開いた[公式ページ](https://timemore.jp/products/timemore-manual-coffee-grinderchestnut-s5)では、¥25,800 と出ていました。プレセール価格、という記載と、在庫を補充中で発送は1月末見込み、という文もありました。いまは売り切れなので、このページに購入ボタンはありません。
