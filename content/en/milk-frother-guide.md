@@ -1,6 +1,6 @@
 ---
 title: "Milk Frother Guide: How to Choose One — Jug or Handheld"
-description: "A milk frother guide for lattes and cappuccinos at home: electric jug frothers that heat and froth, and handheld wands that froth warm milk. A review summary — we have not used any frother. Links go to Amazon.com search results; no prices listed."
+description: "A milk frother guide for lattes and cappuccinos at home: electric jug frothers that heat and froth, and handheld wands that froth warm milk. A review summary — we have not used any frother. Most links go to Amazon.com search results; a few go to the product page. No prices listed."
 category: "espresso-machine"
 date: "2026-11-23"
 ---
@@ -9,7 +9,7 @@ A milk frother turns milk into foam for lattes and cappuccinos — no espresso m
 
 **Quick pick:** want one button and no thinking — a jug frother, the Nespresso Aeroccino 4. Want to froth for three cups at once and set the temperature — the Breville Milk Cafe. Want the simplest way in — a handheld wand, the Zulay Frothmate, with milk warmed separately.
 
-This is a review summary. We have not used any of these frothers. The facts below are from the makers' pages and published guides, as recorded in this site's Japanese milk frother guide (October 30, 2026), and links go to Amazon.com search results, so compare sellers and check the price and stock on the day you buy.
+This is a review summary. We have not used any of these frothers. The facts below are from the makers' pages and published guides, as recorded in this site's Japanese milk frother guide (October 30, 2026), and most links go to Amazon.com search results; a few go to the product page, so compare sellers and check the price and stock on the day you buy.
 
 ## The two types at a glance
 
