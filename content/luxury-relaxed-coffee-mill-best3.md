@@ -71,6 +71,7 @@ ZP6 Special も使っていません。48mmの六角ステンレス刃で、公�
 
 ## あわせて読みたい
 
+- [Amazonブラックフライデー2026で買うコーヒー道具](/articles/amazon-black-friday-coffee-gear/)（セール前に決めておくこと）
 - [コーヒーミルおすすめランキング](/articles/coffee-mill-ranking/)（予算を問わず先に見る順番）
 - [タイムモア栗子 S3レビュー](/articles/timemore-chestnut-s3/)
 - [1Zpressoの手挽きミルの選び方](/articles/1zpresso-hand-grinder-lineup/)

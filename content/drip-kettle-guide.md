@@ -42,6 +42,7 @@ date: "2026-10-30"
 
 ## あわせて読みたい
 
+- [Amazonブラックフライデー2026で買うコーヒー道具](/articles/amazon-black-friday-coffee-gear/)（セール前に決めておくこと）
 - [ケトルの記事一覧](/categories/kettle/)
 - [コーヒースケールおすすめの選び方](/articles/coffee-scale-guide/)
 - [コーヒードリッパー比較](/articles/coffee-dripper-comparison/)

@@ -65,6 +65,7 @@ date: "2026-10-30"
 
 ## あわせて読みたい
 
+- [Amazonブラックフライデー2026で買うコーヒー道具](/articles/amazon-black-friday-coffee-gear/)（セール前に決めておくこと）
 - [豆の店の記事一覧](/beans/)
 - [コーヒーミルおすすめランキング](/articles/coffee-mill-ranking/)
 - [タイムモア栗子 S3レビュー](/articles/timemore-chestnut-s3/)

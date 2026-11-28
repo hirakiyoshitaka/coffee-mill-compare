@@ -55,6 +55,7 @@ LEO SPECIALTY COFFEE は、国際的な資格を持つコーヒーグレーダ�
 
 ## あわせて読みたい
 
+- [Amazonブラックフライデー2026で買うコーヒー道具](/articles/amazon-black-friday-coffee-gear/)（セール前に決めておくこと）
 - [豆の店の記事一覧](/beans/)
 - [珈琲きゃろっとの定期便を約1年続けた感想](/articles/coffee-carrot-review/)
 - [スペシャルティコーヒー豆の通販ショップ比較](/articles/specialty-coffee-beans-shops/)

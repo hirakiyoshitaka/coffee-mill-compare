@@ -277,6 +277,7 @@ Cona が1962年の設計であることは、販売店 teasmade.uk の解説（h
 
 ## あわせて読みたい
 
+- [Amazonブラックフライデー2026で買うコーヒー道具](/articles/amazon-black-friday-coffee-gear/)（セール前に決めておくこと）
 - [コーヒーメーカーの記事一覧](/categories/coffee-maker/)
 - [タイムモア栗子 S3レビュー](/articles/timemore-chestnut-s3/)
 - [コーヒーメーカーおすすめの選び方](/articles/coffee-maker-guide/)

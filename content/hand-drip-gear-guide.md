@@ -108,6 +108,7 @@ date: "2026-10-27"
 
 ## あわせて読みたい
 
+- [Amazonブラックフライデー2026で買うコーヒー道具](/articles/amazon-black-friday-coffee-gear/)（セール前に決めておくこと）
 - [ドリッパーの記事一覧](/categories/dripper/)
 - [タイムモア栗子 S3レビュー](/articles/timemore-chestnut-s3/)
 - [コーヒードリッパー比較](/articles/coffee-dripper-comparison/)

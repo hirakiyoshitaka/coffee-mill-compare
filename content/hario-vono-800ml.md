@@ -68,6 +68,7 @@ date: "2026-11-22"
 
 ## あわせて読みたい
 
+- [Amazonブラックフライデー2026で買うコーヒー道具](/articles/amazon-black-friday-coffee-gear/)（セール前に決めておくこと）
 - [ドリップケトルの選び方｜細口・温度調整・容量で注ぎ分ける](/articles/drip-kettle-guide/)
 - [ペーパーフィルターの選び方（V60・ウェーブ・アバカ）](/articles/paper-coffee-filter-comparison/)
 - [HARIO V60 ドリップスケール VSTN-2000B｜量る・計るが1台で](/articles/hario-v60-drip-scale/)

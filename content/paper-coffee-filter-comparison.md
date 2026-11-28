@@ -55,6 +55,7 @@ V60 の 02 サイズ用のペーパーフィルターです。1〜4杯用で、1
 
 ## あわせて読みたい
 
+- [Amazonブラックフライデー2026で買うコーヒー道具](/articles/amazon-black-friday-coffee-gear/)（セール前に決めておくこと）
 - [コーヒーフィルターの選び方｜ペーパー・金属・布（ネル）の違いと比較](/articles/coffee-filter-guide/)
 - [コーヒードリッパー比較](/articles/coffee-dripper-comparison/)
 - [ハンドドリップ道具のそろえ方](/articles/hand-drip-gear-guide/)
