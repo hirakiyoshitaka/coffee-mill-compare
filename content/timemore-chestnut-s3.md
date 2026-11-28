@@ -7,6 +7,8 @@ date: "2026-11-04"
 
 いつもの豆が苦いとき、まず見直すのは挽き目です。運営者がふだん使っている手挽き、タイムモア栗子 S3（Chestnut S3）は、1回に約30gを挽いて2〜3杯分。電動で一気に挽きたい人には向きません。豆の量をそろえるなら[コーヒースケールの選び方](/articles/coffee-scale-guide/)です。軽く回したいなら、[エペイオス Essence Go](/articles/epeios-essence-go/)も見てください。
 
+Amazon ブラックフライデー（12/7まで）で選ぶ方へ：[買う前に確かめる3つ](/articles/amazon-black-friday-coffee-gear/)
+
 {{grinder:timemore-chestnut-s3}}
 
 ![運営者がふだん使っているタイムモア栗子 S3（グリーン）。机の上で、豆の袋の横に置いている](/images/timemore-s3-green-owner.webp)
