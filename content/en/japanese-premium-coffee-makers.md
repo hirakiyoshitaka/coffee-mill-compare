@@ -9,6 +9,8 @@ Japan has a long pour-over tradition, and a few Japanese makers have tried to pu
 
 To be upfront: **I have not used any of these three machines.** This is based on official specs, retailer listings, owner reviews on Kakaku.com and Amazon Japan, and a hands-on video review. Prices change often, so check the store page before you buy.
 
+<p class="affiliate-html"><strong>Quick pick — for BALMUDA (no built-in grinder):</strong> <a href="https://www.amazon.com/dp/B0CMZCK9PR?tag=ouchidougub03-20">Timemore Chestnut S3</a> — the grinder I use, about 30g at a time for 2–3 cups. (ad)</p>
+
 ## Read this first if you live outside Japan
 
 All three are **Japan-market models rated AC 100V, 50/60Hz**.
