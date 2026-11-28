@@ -79,7 +79,7 @@ date: "2026-10-28"
 
 ## あわせて読みたい
 
-- [Amazonブラックフライデー2026で買うコーヒー道具](/articles/amazon-black-friday-coffee-gear/)（セール前に決めておくこと）
+- [Amazonブラックフライデー2026で買うコーヒー道具](/articles/amazon-black-friday-coffee-gear/)（買う前に確かめる3つ）
 - [コーヒーメーカーの記事一覧](/categories/coffee-maker/)
 - [エペイオス Essence Goレビュー](/articles/epeios-essence-go/)
 - [タイムモア栗子 S3レビュー](/articles/timemore-chestnut-s3/)

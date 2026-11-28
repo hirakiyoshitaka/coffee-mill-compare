@@ -59,7 +59,7 @@ date: "2026-10-30"
 
 ## あわせて読みたい
 
-- [Amazonブラックフライデー2026で買うコーヒー道具](/articles/amazon-black-friday-coffee-gear/)（セール前に決めておくこと）
+- [Amazonブラックフライデー2026で買うコーヒー道具](/articles/amazon-black-friday-coffee-gear/)（買う前に確かめる3つ）
 - [ドリッパーの記事一覧](/categories/dripper/)
 - [コーヒーの挽き目（粒度）の選び方](/articles/coffee-grind-size-guide/)
 - [コーヒーミルおすすめランキング](/articles/coffee-mill-ranking/)

@@ -77,7 +77,7 @@ date: "2026-10-27"
 
 ## あわせて読みたい
 
-- [Amazonブラックフライデー2026で買うコーヒー道具](/articles/amazon-black-friday-coffee-gear/)（セール前に決めておくこと）
+- [Amazonブラックフライデー2026で買うコーヒー道具](/articles/amazon-black-friday-coffee-gear/)（買う前に確かめる3つ）
 - [豆の店の記事一覧](/beans/)
 - [コーヒー豆の定期便おすすめ比較](/articles/coffee-bean-subscription/)
 - [珈琲きゃろっとの定期便を約1年続けた感想](/articles/coffee-carrot-review/)

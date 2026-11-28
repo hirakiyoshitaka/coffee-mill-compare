@@ -108,7 +108,7 @@ date: "2026-11-01"
 
 ## 関連記事
 
-- [Amazonブラックフライデー2026で買うコーヒー道具](/articles/amazon-black-friday-coffee-gear/)（セール前に決めておくこと）
+- [Amazonブラックフライデー2026で買うコーヒー道具](/articles/amazon-black-friday-coffee-gear/)（買う前に確かめる3つ）
 - [家でラテ・エスプレッソ｜予算別3台とミルクフォーマー](/articles/home-latte-espresso-machines/)
 - [エスプレッソ・モカポット向け手挽きミルの選び方](/articles/hand-mill-espresso-moka/)
 - [手挽きと電動ミルの違い](/articles/hand-vs-electric-coffee-mill/)

@@ -44,7 +44,7 @@ date: "2026-10-29"
 
 ## あわせて読みたい
 
-- [Amazonブラックフライデー2026で買うコーヒー道具](/articles/amazon-black-friday-coffee-gear/)（セール前に決めておくこと）
+- [Amazonブラックフライデー2026で買うコーヒー道具](/articles/amazon-black-friday-coffee-gear/)（買う前に確かめる3つ）
 - [スケールの記事一覧](/categories/scale/)
 - [タイムモア栗子 S3レビュー](/articles/timemore-chestnut-s3/)
 - [ドリップケトルおすすめの選び方](/articles/drip-kettle-guide/)

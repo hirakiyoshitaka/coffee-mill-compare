@@ -87,7 +87,7 @@ CM-D465Bと同じミル・湯温・挽き目で、容量を3杯（450ml）にし
 
 ## あわせて読みたい
 
-- [Amazonブラックフライデー2026で買うコーヒー道具](/articles/amazon-black-friday-coffee-gear/)（セール前に決めておくこと）
+- [Amazonブラックフライデー2026で買うコーヒー道具](/articles/amazon-black-friday-coffee-gear/)（買う前に確かめる3つ）
 
 ## 購入リンク
 
