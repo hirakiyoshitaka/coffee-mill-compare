@@ -31,7 +31,7 @@ It is the pick for a household that makes milk drinks for more than one person a
 
 We have not used the Milk Cafe. The capacity, dial, discs, and cleaning above are from Breville's published specifications.
 
-<p class="affiliate-html"><a href="https://www.amazon.com/s?k=Breville+Milk+Cafe+BMF600XL&tag=ouchidougub03-20">Search the Breville Milk Cafe BMF600XL on Amazon.com</a> (ad)</p>
+<p class="affiliate-html"><a href="https://www.amazon.com/dp/B004RCNJ9Q?tag=ouchidougub03-20">See the Breville Milk Cafe BMF600XL on Amazon.com</a> (ad)</p>
 
 ## 2. Nespresso Aeroccino 4 — the one-button jug
 

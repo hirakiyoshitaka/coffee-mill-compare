@@ -21,7 +21,7 @@ For someone who brews pour-over and still buys ground coffee: the S3 is the hand
 
 For someone who travels, camps, or brews at a desk: the AeroPress Go packs the press, the filters, and the scoop into its own 8 oz mug. The whole packed set weighs 11.4 oz (323 g), the travel filter holder holds 25 micro-filters, and the press is shatterproof and BPA free. How a press brews against a French press is in [French press vs AeroPress](/en/articles/french-press-vs-aeropress/). We have not used the AeroPress Go.
 
-<p class="affiliate-html"><a href="https://www.amazon.com/s?k=AeroPress+Go+travel+coffee+maker&tag=ouchidougub03-20">Search the AeroPress Go on Amazon.com</a> (ad)</p>
+<p class="affiliate-html"><a href="https://www.amazon.com/dp/B07YVL8SF3?tag=ouchidougub03-20">See the AeroPress Go on Amazon.com</a> (ad)</p>
 
 ### Fellow Clara French Press
 
@@ -33,7 +33,7 @@ For someone whose second cup from a glass press is always lukewarm: the Clara is
 
 For someone who brews pour-over and still eyeballs the pour: the V60 Drip Scale weighs and times in one unit. The timer is started by hand and runs to 99 minutes 59 seconds. The scale reads 2 to 2,000g; the 0.1g step applies only while the total load is 2 to 200g. How to choose a scale is in [how to choose a coffee scale](/en/articles/coffee-scale-guide/). We have not used this scale.
 
-<p class="affiliate-html"><a href="https://www.amazon.com/s?k=HARIO+V60+Drip+Scale+VSTN-2000B&tag=ouchidougub03-20">Search the Hario V60 Drip Scale VSTN-2000B on Amazon.com</a> (ad)</p>
+<p class="affiliate-html"><a href="https://www.amazon.com/dp/B08VRSZVN4?tag=ouchidougub03-20">See the Hario V60 Drip Scale VSTN-2000B on Amazon.com</a> (ad)</p>
 
 ### CHEMEX Eight Cup ChemAer
 
@@ -53,7 +53,7 @@ For someone who wants the handle to turn with almost no effort: the Essence GO j
 
 For someone who wants the timer to start itself: the Black Mirror Basic 2 reads 0.1g over 0.5 to 2,000g, and its auto timer starts when it detects water flowing. A flow-rate display runs separately from the timer, so the pour speed stays visible while the timer runs. Power is a built-in battery, charged over USB-C. The three scales side by side are in [how to choose a coffee scale](/en/articles/coffee-scale-guide/). We have not used this scale.
 
-<p class="affiliate-html"><a href="https://www.amazon.com/s?k=TIMEMORE+Black+Mirror+Basic+2+coffee+scale&tag=ouchidougub03-20">Search the TIMEMORE Black Mirror Basic 2 on Amazon.com</a> (ad)</p>
+<p class="affiliate-html"><a href="https://www.amazon.com/dp/B0CKZ6RG6Y?tag=ouchidougub03-20">See the TIMEMORE Black Mirror Basic 2 on Amazon.com</a> (ad)</p>
 
 ### Fellow Electric Atmos Vacuum Canister
 
