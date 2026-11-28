@@ -9,6 +9,10 @@ date: "2026-11-21"
 
 Deciding during the sale means deciding by the size of a discount. This page is the short list to settle first, built around the two hand grinders this site actually uses: the **Timemore Chestnut S3** for everyday brewing, and the **EPEIOS Essence Go** if light turning and packing into a case matter more.
 
+![The Timemore Chestnut S3 (green) I usually use, on a desk next to a bag of beans](/images/timemore-s3-green-owner.webp)
+
+The photo shows the Timemore Chestnut S3 I usually use, in green.
+
 <p class="affiliate-html"><a href="https://www.amazon.com/dp/B0CMZCK9PR?tag=ouchidougub03-20">See the Chestnut S3 on Amazon.com</a> (ad)</p>
 
 ## When the 2026 sales run

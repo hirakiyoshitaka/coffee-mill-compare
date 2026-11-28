@@ -9,6 +9,10 @@ date: "2026-11-24"
 
 "coffee gifts for him" and "coffee gifts for her" are two of the most searched gift phrases — and the honest answer is that the same gear works for anyone. So this guide splits ten picks into two lists of five, but the split is a starting point, not a rule: pick by what they brew with, not by the label. I use the two grinders below. The other eight are a review summary from the makers' pages and published reviews, and links go to Amazon.com search results, so compare sellers and check the price and stock on the day you buy.
 
+![The Timemore Chestnut S3 (green) I usually use, on a desk next to a bag of beans](/images/timemore-s3-green-owner.webp)
+
+The photo shows the Timemore Chestnut S3 I usually use, in green.
+
 ## For him: five picks
 
 ### TIMEMORE Chestnut S3
