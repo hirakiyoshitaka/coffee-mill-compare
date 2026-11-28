@@ -5,6 +5,8 @@ category: "beans"
 date: "2026-11-21"
 ---
 
+We use the Timemore Chestnut S3 and own the EPEIOS Essence Go; the rest is a summary of published reviews.
+
 A coffee gift lands better when it matches what the person already owns. This guide groups ideas by budget band. The bands are a rough guide based on usual US pricing — we do not list individual prices, because prices move. Check the search results on the day you buy.
 
 <p class="affiliate-html"><strong>Our pick:</strong> <a href="https://www.amazon.com/dp/B0CMZCK9PR?tag=ouchidougub03-20">Timemore Chestnut S3</a> — the grinder I use, about 30g at a time for 2–3 cups. (ad)</p>
