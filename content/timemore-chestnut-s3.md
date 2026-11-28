@@ -38,7 +38,7 @@ Amazon ブラックフライデー（12/7まで）で選ぶ方へ：[買う前�
 ## あわせて読みたい
 
 - [コーヒーミルおすすめランキング](/articles/coffee-mill-ranking/)（S3が1位）
-- [Amazonブラックフライデー2026で買うコーヒー道具](/articles/amazon-black-friday-coffee-gear/)（セール前に決めておくこと）
+- [Amazonブラックフライデー2026で買うコーヒー道具](/articles/amazon-black-friday-coffee-gear/)（買う前に確かめる3つ）
 - [エペイオス Essence Goレビュー](/articles/epeios-essence-go/)（もう一台の手挽き）
 - [タイムモア S5 Pro と エペイオス Essence Go 比較](/articles/timemore-s5-pro-vs-essence-go/)
 - [珈琲きゃろっとの定期便を約1年続けた感想](/articles/coffee-carrot-review/)（ふだん挽いている豆）

@@ -55,6 +55,7 @@ date: "2026-10-29"
 
 ## あわせて読みたい
 
+- [Amazonブラックフライデー2026で買うコーヒー道具](/articles/amazon-black-friday-coffee-gear/)（買う前に確かめる3つ）
 - [コーヒーミル（手挽き・電動）の記事一覧](/categories/mill/)
 - [コーヒーミルは手挽きと電動どっち？違い・メリット・向いている人を比較](/articles/hand-vs-electric-coffee-mill/)
 - [コーヒーミルおすすめランキング](/articles/coffee-mill-ranking/)

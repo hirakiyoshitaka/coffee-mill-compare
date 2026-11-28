@@ -180,6 +180,7 @@ PDFの「1袋220g」と、袋に印刷された「200g（定期便220g）」は�
 
 ## あわせて読みたい
 
+- [Amazonブラックフライデー2026で買うコーヒー道具](/articles/amazon-black-friday-coffee-gear/)（買う前に確かめる3つ）
 - [珈琲きゃろっとの定期便を約1年続けた感想](/articles/coffee-carrot-review/)
 - [タイムモア栗子 S3レビュー](/articles/timemore-chestnut-s3/)
 - [豆の店の記事一覧](/beans/)

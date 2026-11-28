@@ -91,6 +91,7 @@ date: "2026-11-01"
 
 ## あわせて読みたい
 
+- [Amazonブラックフライデー2026で買うコーヒー道具](/articles/amazon-black-friday-coffee-gear/)（買う前に確かめる3つ）
 - [ドリッパーの記事一覧](/categories/dripper/)
 - [はじめてのハンドドリップの淹れ方](/articles/beginner-hand-drip-recipe/)
 - [コーヒードリッパー比較](/articles/coffee-dripper-comparison/)

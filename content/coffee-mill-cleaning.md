@@ -76,6 +76,7 @@ S5 Pro と Essence Go の水洗い可否は、掲載データにありません�
 
 ## あわせて読みたい
 
+- [Amazonブラックフライデー2026で買うコーヒー道具](/articles/amazon-black-friday-coffee-gear/)（買う前に確かめる3つ）
 - [コーヒーミル（手挽き・電動）の記事一覧](/categories/mill/)
 - [コーヒーミルおすすめランキング](/articles/coffee-mill-ranking/)
 - [手挽きミルのスペック比較](/compare/)

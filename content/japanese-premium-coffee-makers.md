@@ -85,6 +85,10 @@ CM-D465Bと同じミル・湯温・挽き目で、容量を3杯（450ml）にし
 
 ほかの淹れ方も比べたい人は[コーヒーメーカーの選び方](/articles/coffee-maker-guide/)、ラテやエスプレッソ派は[家庭用ラテ・エスプレッソマシン](/articles/home-latte-espresso-machines/)へ。挽き目の違いは[コーヒーの挽き目の選び方](/articles/coffee-grind-size-guide/)で解説しています。
 
+## あわせて読みたい
+
+- [Amazonブラックフライデー2026で買うコーヒー道具](/articles/amazon-black-friday-coffee-gear/)（買う前に確かめる3つ）
+
 ## 購入リンク
 
 <div class="cta-after-table">

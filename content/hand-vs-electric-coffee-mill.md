@@ -51,6 +51,7 @@ date: "2026-10-29"
 
 ## あわせて読みたい
 
+- [Amazonブラックフライデー2026で買うコーヒー道具](/articles/amazon-black-friday-coffee-gear/)（買う前に確かめる3つ）
 - [タイムモア栗子 S3｜ふだん使っている手挽き](/articles/timemore-chestnut-s3/)（ふだん使っている手挽き）
 - [コーヒーミル（手挽き・電動）の記事一覧](/categories/mill/)
 - [電動コーヒーミルおすすめの選び方](/articles/electric-coffee-grinder-guide/)

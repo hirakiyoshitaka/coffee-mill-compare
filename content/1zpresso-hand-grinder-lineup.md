@@ -106,6 +106,7 @@ J-Ultra は、公式が「1Zpressoでいちばん細かい」とする8ミクロ
 
 ## あわせて読みたい
 
+- [Amazonブラックフライデー2026で買うコーヒー道具](/articles/amazon-black-friday-coffee-gear/)（買う前に確かめる3つ）
 - [コーヒーミル（手挽き・電動）の記事一覧](/categories/mill/)
 - [はじめての手挽きコーヒーミルの選び方](/articles/how-to-choose-hand-coffee-mill/)
 - [エスプレッソ・モカポット向け手挽きミルの選び方](/articles/hand-mill-espresso-moka/)

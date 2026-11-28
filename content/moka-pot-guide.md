@@ -86,6 +86,7 @@ date: "2026-11-01"
 
 ## あわせて読みたい
 
+- [Amazonブラックフライデー2026で買うコーヒー道具](/articles/amazon-black-friday-coffee-gear/)（買う前に確かめる3つ）
 - [コーヒーメーカーの記事一覧](/categories/coffee-maker/)
 - [エスプレッソ・モカポット向け手挽きミルの選び方](/articles/hand-mill-espresso-moka/)
 - [コーヒーの挽き目（粒度）の選び方](/articles/coffee-grind-size-guide/)

@@ -105,6 +105,7 @@ PostCoffeeの定期便の案内には、豆のまま、粉、ドリップバッ�
 
 ## あわせて読みたい
 
+- [Amazonブラックフライデー2026で買うコーヒー道具](/articles/amazon-black-friday-coffee-gear/)（買う前に確かめる3つ）
 - [コーヒー豆の定期便おすすめ比較](/articles/coffee-bean-subscription/)
 - [珈琲きゃろっとの定期便を約1年続けた感想](/articles/coffee-carrot-review/)
 - [LEO SPECIALTY COFFEEの店のページ](/beans/leo-specialty-coffee/)
